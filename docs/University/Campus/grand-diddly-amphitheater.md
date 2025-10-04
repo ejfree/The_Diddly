@@ -6,7 +6,7 @@ tags: []
 
 # Grand Diddly Amphitheater
 
-![2EBD92B4-7192-46C3-9DA8-A0F05AB6DEAC](/assets/images/2EBD92B4-7192-46C3-9DA8-A0F05AB6DEAC.png)
+![2EBD92B4-7192-46C3-9DA8-A0F05AB6DEAC](/assets/images/2EBD92B4-7192-46C3-9DA8-A0F05AB6DEAC.jpg)
     5 “levels” of seating which surrounds an central arena. While it is in the “round.” It always appears to you as the best angle. Divided by the 4 ley lines into into North, South, East & West.
     Floor Level - Assigned to Primus. Pit Of Primus. Reserved for Primus only.
     2nd Floor  - Assigned to Wyvern - Wyvern Mezz

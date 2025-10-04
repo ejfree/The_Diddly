@@ -36,7 +36,7 @@ In this imaginative setting, picture a young adult female emerald dragon named l
 lisa's dorm room is specially designed to accommodate her dragon features, with a large arched doorway and reinforced walls. Her presence is both awe-inspiring and comforting to the students. As an RA, she is incredibly responsible; she organizes activities that encourage camaraderie and supports students through their academic and personal challenges. Her ability to breathe fire comes in handy for barbecue nights on the dorm's rooftop terrace, a much-loved event among the students.
 
 Her role goes beyond just enforcing rules; she's a mentor and a protector, using her keen dragon senses to ensure the safety and well-being of all residents. Her magical abilities, such as her empathetic connection to nature, are also a unique asset in creating a nurturing environment in the dorm.
-![85BFBD72-F76F-4B73-A8DD-02660282EED7](/assets/images/85BFBD72-F76F-4B73-A8DD-02660282EED7.png)
+![85BFBD72-F76F-4B73-A8DD-02660282EED7](/assets/images/85BFBD72-F76F-4B73-A8DD-02660282EED7.jpg)
 
 ——
 Imagine a young adult female emerald dragon that is an RA in a university dorm.
