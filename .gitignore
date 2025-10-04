@@ -1,0 +1,14 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# temp & exports
+*.tmp
+*.bak
+.cache/
+dist/
+build/
+
+# design source (if not using LFS)
+*.psd
+*.xcf
