@@ -24,7 +24,7 @@ Professor of **Dragon Prophecy**
 **Gender**: Female
 
 **Age**: Ancient
-![F94B4654-B49D-44FC-80AC-879B3AB0344E](assets/images/F94B4654-B49D-44FC-80AC-879B3AB0344E.webp)
+![F94B4654-B49D-44FC-80AC-879B3AB0344E](/assets/images/F94B4654-B49D-44FC-80AC-879B3AB0344E.webp)
 
 ---
 

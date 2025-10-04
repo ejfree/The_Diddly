@@ -17,7 +17,7 @@ Professor of **Upper Planar Exploration**
 ...
 
 ### Description
-![C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1](assets/images/C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1.webp)
+![C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1](/assets/images/C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1.webp)
 Upper Planar Exploration - Planar Studies  110
       - An introductory survey of the various upper planes of existence, their characteristics, and the effects of their interactions with the material plane.
     - **Professor Stellarwind (Vortex Dragon):** Offers courses on interplanetary travel and the study of cosm

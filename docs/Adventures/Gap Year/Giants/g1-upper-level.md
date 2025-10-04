@@ -16,7 +16,7 @@ A DC22 check is required to open all doors because of their great size and weigh
 **Burning it Down: All** wood in the place is very damp. (Normal fire has only a *2* % chance per round of burning or setting the place afire, and even magical fires have only an 8% chance per round of the same.) If the party should manage to set the upper works of the Steading aflame, they will be forced to wait a week before trying to discover a way into the lower (dungeon) level, for hot embers will prevent entry before this period of time. **All** loot from the upper works is lost in such a fire, but all giants from location *11* of the upper level escape to safety in the lower level, going to location *26. 40K of treasure on the map, not counting the magical stuff being worn, if any*
 
 <u>**Map**</u>
-![65195C56-6D8F-41E6-A912-83F225B22086](assets/images/65195C56-6D8F-41E6-A912-83F225B22086.png)
+![65195C56-6D8F-41E6-A912-83F225B22086](/assets/images/65195C56-6D8F-41E6-A912-83F225B22086.png)
 
 ## **1. Entry and cloak room**
 

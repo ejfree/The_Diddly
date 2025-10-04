@@ -21,7 +21,7 @@ Dean of **Arcanomechanics**
 
 ### Description
 ### Arcanomechanics
-![67CA04CC-D4FF-47DB-B60E-3CE34D4535F5](assets/images/67CA04CC-D4FF-47DB-B60E-3CE34D4535F5.webp)
+![67CA04CC-D4FF-47DB-B60E-3CE34D4535F5](/assets/images/67CA04CC-D4FF-47DB-B60E-3CE34D4535F5.webp)
 1. **Dean Syltharion (Bronze Dragon)**
    - A master of combining traditional mechanics with arcane enhancements, Syltharion research includes golems and automated defense systems, offering a hands-on approach to learning.
 

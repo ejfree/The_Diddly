@@ -20,7 +20,7 @@ Dean of **Ancient Relics and Artifacts**
 ...
 
 ### Description
-# ![21CD179C-81B8-4A2F-AE90-908CEF2F5417](assets/images/21CD179C-81B8-4A2F-AE90-908CEF2F5417.webp)
+# ![21CD179C-81B8-4A2F-AE90-908CEF2F5417](/assets/images/21CD179C-81B8-4A2F-AE90-908CEF2F5417.webp)
 
 #### Ancient Relics and Artifacts
 

@@ -27,7 +27,7 @@ Argentius the Lorewarden is wise and patient, with a passion for teaching that i
 
 Argentius the Lorewarden is an imposing silver dragon with shimmering, reflective scales that catch the light of the sun and moon, giving off a gentle glow. In humanoid form, Argentius the Lorewarden prefers the guise of an elderly human with silver hair, piercing blue eyes, and an ever-present set of spectacles perched on the nose. The dean carries a staff topped with a miniature globe that rotates slowly, inscribed with ancient runes.
 
-![DEC6CF45-45CB-49BA-A375-570657D435E7](assets/images/DEC6CF45-45CB-49BA-A375-570657D435E7.webp)
+![DEC6CF45-45CB-49BA-A375-570657D435E7](/assets/images/DEC6CF45-45CB-49BA-A375-570657D435E7.webp)
 
 ### Background
 

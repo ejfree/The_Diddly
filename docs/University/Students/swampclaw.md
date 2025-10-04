@@ -20,7 +20,7 @@ Elder Hydra of the Lamannia Enthusiasts.
 
 Yoda
 
-![557327DF-1E91-40F2-B207-CE1EC9F97060](assets/images/557327DF-1E91-40F2-B207-CE1EC9F97060.webp)
+![557327DF-1E91-40F2-B207-CE1EC9F97060](/assets/images/557327DF-1E91-40F2-B207-CE1EC9F97060.webp)
 
 Here is the new student, Swampclaw, following the default template:
 

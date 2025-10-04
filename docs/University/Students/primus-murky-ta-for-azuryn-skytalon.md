@@ -22,7 +22,7 @@ Murky is a vibrant solar dragon, radiating a warm golden hue reminiscent of a ye
 
 He is a Primus and gives completely no shit on what happens
 
-![EC411623-9499-4312-85DF-135ACDCCCD73](assets/images/EC411623-9499-4312-85DF-135ACDCCCD73.webp)
+![EC411623-9499-4312-85DF-135ACDCCCD73](/assets/images/EC411623-9499-4312-85DF-135ACDCCCD73.webp)
 
 ### Room Details
 (Dorm vibe, decorations, magical features.)

@@ -27,7 +27,7 @@ Celestara is profoundly wise and patient, with a deep, resonant voice that carri
 
 Celestara possesses a shimmering, translucent body speckled with star-like points of light, reflecting the astral plane from which he originates. His eyes glow with a deep, cosmic blue, and his scales shimmer with celestial patterns.
 
-![A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9](assets/images/A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9.webp)
+![A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9](/assets/images/A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9.webp)
 
 ### Background
 

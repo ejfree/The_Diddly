@@ -264,7 +264,7 @@ https://blog.collegevine.com/your-complete-list-of-extracurricular-activities/
 * Youth Sports Coaching
 
 * YWCA
-![38754B90-67CE-4777-9467-DBB1F64AC584](assets/images/38754B90-67CE-4777-9467-DBB1F64AC584.png)
+![38754B90-67CE-4777-9467-DBB1F64AC584](/assets/images/38754B90-67CE-4777-9467-DBB1F64AC584.png)
 
 **Discover your chances at hundreds of schools**
 Our free chancing engine takes into account your history, background, test scores, and extracurricular activities to show you your real chances of admission—and how to improve them.

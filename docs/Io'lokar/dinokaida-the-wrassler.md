@@ -16,7 +16,7 @@ Dinokaida’s soul was
 
 Dinokaida DaggerToe Drop is his signature move.
 
-![0EEDB34C-B26B-49E2-8132-D5F86F5D75E9](assets/images/0EEDB34C-B26B-49E2-8132-D5F86F5D75E9.webp)
+![0EEDB34C-B26B-49E2-8132-D5F86F5D75E9](/assets/images/0EEDB34C-B26B-49E2-8132-D5F86F5D75E9.webp)
 ??
 This ancient copper dragon, as the owner and instructor of a wrestling gym, probably has a lot of charisma and toughness. His scales might have a deep, metallic copper sheen, and given his athleticism, he would have a very muscular build with powerful limbs—perfect for demonstrating wrestling techniques. His gym might be adorned with medieval-style training equipment, and his presence could be both inspiring and a bit intimidating to his trainees.
 ??\

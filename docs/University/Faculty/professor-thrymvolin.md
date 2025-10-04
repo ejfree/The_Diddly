@@ -20,7 +20,7 @@ Professor of **Advanced Techno-Magical Engineering**
 ...
 
 ### Description
-![7D195336-7768-4989-A090-A13877AF049C](assets/images/7D195336-7768-4989-A090-A13877AF049C.webp)
+![7D195336-7768-4989-A090-A13877AF049C](/assets/images/7D195336-7768-4989-A090-A13877AF049C.webp)
 Advanced Techno-Magical Engineering - Archanomechanics 101
     - An introduction to the fusion of magic and technology, examining the principles behind magical constructs and the advancements in arcanomechanical designs.
     - *Professor Thrymvolin (Amethyst Dragon):** An innovator in magical computing and information storage, Gearspark teaches students how to create and manipulate arcanomechanical computers and libraries, pushing the boundaries of knowledge management.

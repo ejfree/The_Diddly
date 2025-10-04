@@ -6,7 +6,7 @@ tags: []
 
 # Alyssa Siviridion the Tea Shop Owner
 
-![9B0B8238-5BE9-45CD-B431-E886D0F2B336](assets/images/9B0B8238-5BE9-45CD-B431-E886D0F2B336.webp)
+![9B0B8238-5BE9-45CD-B431-E886D0F2B336](/assets/images/9B0B8238-5BE9-45CD-B431-E886D0F2B336.webp)
 The “retired” matriarch of the Emerald Dragon Wyer. No longer directs any house activities or participates in elections. Owns a tea shop in IO’klar that is the equivalent of a 3 Michelin star. It is a very quaint shop with a large  selection of garden gnomes each approximately 1 meter tall. They are wear different hats
 
 She runs the main branch of the Sivi’s Libation Emporium, calledThe Viridian Salon. The salon is located in Io’lokar and is one of the best places to eat in the universe. In addition, there are cafes all around the campus. There are even 2 in the commons. Prices for eggies are included as snacks, Drakes and above are required to pay for it out of their meal allowances.

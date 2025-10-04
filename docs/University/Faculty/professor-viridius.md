@@ -20,7 +20,7 @@ Professor of **Lower Planer Exploration**
 ...
 
 ### Description
-![AB77B942-31F8-43ED-8F73-53B549B78CA5](assets/images/AB77B942-31F8-43ED-8F73-53B549B78CA5.webp)
+![AB77B942-31F8-43ED-8F73-53B549B78CA5](/assets/images/AB77B942-31F8-43ED-8F73-53B549B78CA5.webp)
 Lower Planer Exploration - Planar Studies 111
 
       - An introductory survey of the various lower planes of existence, their characteristics, and the effects of their interactions with the material plane.

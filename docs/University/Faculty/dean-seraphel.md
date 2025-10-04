@@ -20,7 +20,7 @@ Dean of **Political Intrigue and Diplomacy**
 ...
 
 ### Description
-![528169AB-A051-4ECE-9E56-DD64BE92B141](assets/images/528169AB-A051-4ECE-9E56-DD64BE92B141.webp)
+![528169AB-A051-4ECE-9E56-DD64BE92B141](/assets/images/528169AB-A051-4ECE-9E56-DD64BE92B141.webp)
 
 #### Political Intrigue and Diplomacy
 

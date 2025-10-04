@@ -27,7 +27,7 @@ Expected intimidating demeanor from an Infernal Dragon, however, they have a ver
 
 Towering and robust, with an aura that seems to ripple the air around them, Blackshard black scales aren't just reminiscent of molten lava that has solidified into rock —they appear as though actual flames course beneath them, giving off a soft, ominous glow that illuminates their surroundings in a dim, reddish light. This visual effect intensifies whenever they speak, especially when discussing matters of grave importance or dark prophecy.
 
-![CAD3177A-B0E7-4E3E-A960-A93E6CD2B8B6](assets/images/CAD3177A-B0E7-4E3E-A960-A93E6CD2B8B6.webp)
+![CAD3177A-B0E7-4E3E-A960-A93E6CD2B8B6](/assets/images/CAD3177A-B0E7-4E3E-A960-A93E6CD2B8B6.webp)
 
 ### Background
 

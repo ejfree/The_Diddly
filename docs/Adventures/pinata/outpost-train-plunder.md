@@ -137,5 +137,5 @@ These encounters provide a variety of tactical challenges and immersive lore-bas
 Just inside the border with Talendra, bordering on Lake Cyre is an secret outpost station of the Cyran nation, which no longer exists after the mourning event. The entire area is covered with a mist comprised of alternating positive & negative energy. This means that no living or undead creature can survive in this area. The only creatures that can thrive are war forged robots.
 
 This whole robot culture is lead by “Lobster” AKA the Lord of Blades, who is a CR20 monster. This small outpost is populated by these war forged robots. Create encounters for 5, 2nd level characters in the PF2e system. There should be 2 patrols, 4 standard room encounters, 1 room with multiple traps, and a final boss. Include appropriate treasure as well
-![DDECE5B7-8CE3-4AA9-9F66-B5EBF579C845](assets/images/DDECE5B7-8CE3-4AA9-9F66-B5EBF579C845.jpg)
-![D3580707-54B1-4229-8B6D-6FD18437FDC8](assets/images/D3580707-54B1-4229-8B6D-6FD18437FDC8.jpg)
+![DDECE5B7-8CE3-4AA9-9F66-B5EBF579C845](/assets/images/DDECE5B7-8CE3-4AA9-9F66-B5EBF579C845.jpg)
+![D3580707-54B1-4229-8B6D-6FD18437FDC8](/assets/images/D3580707-54B1-4229-8B6D-6FD18437FDC8.jpg)

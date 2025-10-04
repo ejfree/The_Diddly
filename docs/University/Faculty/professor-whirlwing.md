@@ -24,7 +24,7 @@ Professor of **Dragons > Giants**
 **Gender**: Non-Binary
 
 **Age**: Ancient
-![162B7A9E-D902-4154-908F-C2B1CE1D9AD7](assets/images/162B7A9E-D902-4154-908F-C2B1CE1D9AD7.webp)
+![162B7A9E-D902-4154-908F-C2B1CE1D9AD7](/assets/images/162B7A9E-D902-4154-908F-C2B1CE1D9AD7.webp)
 
 ---
 

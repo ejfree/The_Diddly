@@ -45,7 +45,7 @@ Solarius Sunflare remains a central figure in the academic and economic spheres 
 ——
 create an NPC solar dragon that is also a Dean of Economic Dominance and Resource Management in the School of Yield Surging  at the dragon university. Solar dragons see themselves as the source of all light in the vastness of the universe. Thus, all living beings, including dragons from other heritages, are ultimately their creations.
 
-![1F859F46-BC50-4D91-AA68-EAF8B55970FE](assets/images/1F859F46-BC50-4D91-AA68-EAF8B55970FE.webp)
+![1F859F46-BC50-4D91-AA68-EAF8B55970FE](/assets/images/1F859F46-BC50-4D91-AA68-EAF8B55970FE.webp)
 
 ### Classes Taught
 - Economic Dominance and Resource Management

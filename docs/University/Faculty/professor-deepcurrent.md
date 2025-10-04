@@ -23,7 +23,7 @@ Intro to Elemental Mechanics - Elementals 101
 
 ### Professor Deepcurrent
 
-![C8206548-26C6-48AE-AEB8-574534E255C3](assets/images/C8206548-26C6-48AE-AEB8-574534E255C3.webp)
+![C8206548-26C6-48AE-AEB8-574534E255C3](/assets/images/C8206548-26C6-48AE-AEB8-574534E255C3.webp)
 
 **Name**: Deepcurrent
 

@@ -27,7 +27,7 @@ Arcanix is a creature of enigma and intellect. He is known for his calm, compose
 
 Arcanix has matte grey & beige scales. His eyes are deep violet, reflecting a lifetime of studying arcane lore. His wings, large and majestic, are etched with silvery runes that glow faintly when he is channeling magical energies.
 
-![E6E7F6C8-B3A2-4738-B59D-096DFE88F121](assets/images/E6E7F6C8-B3A2-4738-B59D-096DFE88F121.webp)
+![E6E7F6C8-B3A2-4738-B59D-096DFE88F121](/assets/images/E6E7F6C8-B3A2-4738-B59D-096DFE88F121.webp)
 
 ### Background
 
