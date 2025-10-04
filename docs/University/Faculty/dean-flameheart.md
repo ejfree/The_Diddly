@@ -17,7 +17,7 @@ Dean of **Elemental Binding**
 ...
 
 ### Description
-![41F9EE4D-3EFB-437F-A369-B9D20C8B5913](images/41F9EE4D-3EFB-437F-A369-B9D20C8B5913.webp)
+![41F9EE4D-3EFB-437F-A369-B9D20C8B5913](assets/images/41F9EE4D-3EFB-437F-A369-B9D20C8B5913.webp)
 
 ### Elemental Binding
 

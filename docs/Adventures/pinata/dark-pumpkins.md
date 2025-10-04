@@ -7,7 +7,7 @@ tags: []
 # Dark Pumpkins
 
 Use the dark pumpkin battlemap. Here is the hook.
-![0964AB91-326C-4622-9A4F-56FE959B31EF](images/0964AB91-326C-4622-9A4F-56FE959B31EF.jpg)
+![0964AB91-326C-4622-9A4F-56FE959B31EF](assets/images/0964AB91-326C-4622-9A4F-56FE959B31EF.jpg)
 
 Swampclaw gets a message from Professor TombKeeper. Swampclaw retrieved The equipment for making clove cigarettes. Park of this place which makes pumpkin spice.
 

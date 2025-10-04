@@ -26,7 +26,7 @@ Name**: Veymorth the Waned
 
 **Age**: Ancient
 
-![D11BA87C-B0B3-44D0-8875-AD48F625817F](images/D11BA87C-B0B3-44D0-8875-AD48F625817F.jpg)
+![D11BA87C-B0B3-44D0-8875-AD48F625817F](assets/images/D11BA87C-B0B3-44D0-8875-AD48F625817F.jpg)
 
 **Role:**
 Professor of **Advanced Prophetic Theory and Cognitive Collapse**

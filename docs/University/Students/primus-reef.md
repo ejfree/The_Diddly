@@ -28,7 +28,7 @@ Sea dragon
 **Background:** Growing up in the vibrant underwater cities, Reef developed a strong affinity for community and cooperation. His upbringing in the diverse and interconnected aquatic world has made him adept at navigating complex social dynamics. As the student body president, he focuses on promoting unity and collaboration among the students of Dragon University.
 
 **Goals:** Reef aims to create an environment where all students, regardless of their background, can thrive and contribute to the university's legacy. He is particularly passionate about environmental sustainability and works on initiatives to protect and preserve the natural habitats both within and beyond the university grounds.
-![6B1CACED-7BBA-4418-9260-EEA80708BFBB](images/6B1CACED-7BBA-4418-9260-EEA80708BFBB.webp)
+![6B1CACED-7BBA-4418-9260-EEA80708BFBB](assets/images/6B1CACED-7BBA-4418-9260-EEA80708BFBB.webp)
 
 ### Room Details
 (Dorm vibe, decorations, magical features.)

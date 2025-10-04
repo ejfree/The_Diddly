@@ -20,7 +20,7 @@ Dean of **Eldritch Engineering**
 ...
 
 ### Description
-![3D5D11F6-4F4D-40B6-B227-C210718F8D09](images/3D5D11F6-4F4D-40B6-B227-C210718F8D09.webp)
+![3D5D11F6-4F4D-40B6-B227-C210718F8D09](assets/images/3D5D11F6-4F4D-40B6-B227-C210718F8D09.webp)
 
 ### Eldritch Engineering
 

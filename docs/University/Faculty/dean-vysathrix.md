@@ -17,7 +17,7 @@ Dean of **Mineral Extraction & Refinement**
 ...
 
 ### Description
-# ![21A2E04B-F99B-4BC7-8CB8-26786371DC9E](images/21A2E04B-F99B-4BC7-8CB8-26786371DC9E.webp)
+# ![21A2E04B-F99B-4BC7-8CB8-26786371DC9E](assets/images/21A2E04B-F99B-4BC7-8CB8-26786371DC9E.webp)
 
 #### Mineral Extraction & Refinement
 

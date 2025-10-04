@@ -6,7 +6,7 @@ tags: []
 
 # Jabbie the Chef
 
-![DC3B42C2-F3F8-4F9E-9459-B99A81C2E2BA](images/DC3B42C2-F3F8-4F9E-9459-B99A81C2E2BA.webp)
+![DC3B42C2-F3F8-4F9E-9459-B99A81C2E2BA](assets/images/DC3B42C2-F3F8-4F9E-9459-B99A81C2E2BA.webp)
 
 Vortex Dragon masquerading as a gnome. However he does have a lot of blue tattoos on his pale yellowy but not jaundiced.
 

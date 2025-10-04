@@ -20,7 +20,7 @@ Dean of **Planar Studies**
 ...
 
 ### Description
-![98099D3B-2691-44C2-A923-F876FE28873B](images/98099D3B-2691-44C2-A923-F876FE28873B.webp)
+![98099D3B-2691-44C2-A923-F876FE28873B](assets/images/98099D3B-2691-44C2-A923-F876FE28873B.webp)
 
 #### Planar Studies
 

@@ -17,7 +17,7 @@ Dean of **Dragon History**
 ...
 
 ### Description
-# ![DEC6CF45-45CB-49BA-A375-570657D435E7](images/DEC6CF45-45CB-49BA-A375-570657D435E7.webp)
+# ![DEC6CF45-45CB-49BA-A375-570657D435E7](assets/images/DEC6CF45-45CB-49BA-A375-570657D435E7.webp)
 
 #### Dragon History
 

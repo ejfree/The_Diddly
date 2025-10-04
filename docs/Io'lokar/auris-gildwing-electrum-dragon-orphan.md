@@ -7,7 +7,7 @@ tags: []
 # Auris Gildwing Electrum Dragon Orphan
 
 ### Expanded Details for Auris Gildwing
-![9531885E-3418-4CA5-9913-DB70D17E28FF](images/9531885E-3418-4CA5-9913-DB70D17E28FF.webp)
+![9531885E-3418-4CA5-9913-DB70D17E28FF](assets/images/9531885E-3418-4CA5-9913-DB70D17E28FF.webp)
 
 ---
 

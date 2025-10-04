@@ -20,7 +20,7 @@ Dean of **Arcane Artifice and Enchantment Studies**
 ...
 
 ### Description
-![A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9](images/A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9.webp)
+![A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9](assets/images/A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9.webp)
 
 #### Arcane Artifice and Enchantment Studies
 

@@ -23,7 +23,7 @@ Professor of **Subterranean Threats & Gemfield Harvesting**
 # Professor **Nyxar Veilcore**
 
 Here is your Pathfinder 2E NPC professor based on your instructions:
-![F88DD631-166B-4925-81D4-EC797CA85C2B](images/F88DD631-166B-4925-81D4-EC797CA85C2B.jpg)
+![F88DD631-166B-4925-81D4-EC797CA85C2B](assets/images/F88DD631-166B-4925-81D4-EC797CA85C2B.jpg)
 
 **Professor/Dean Nyxar Veilcore
 Name**: Nyxar Veilcore

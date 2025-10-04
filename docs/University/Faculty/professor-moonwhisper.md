@@ -22,7 +22,7 @@ Foundations of Arcane Practice - Magic 100
     - **Professor Moonwhisper (Lunar Dragon):** Specializes in lunar and night magics
 
 ### Professor Moonwhisper
-![8113F6E2-B9D3-4749-8ED1-56A8BE8F29C7](images/8113F6E2-B9D3-4749-8ED1-56A8BE8F29C7.webp)
+![8113F6E2-B9D3-4749-8ED1-56A8BE8F29C7](assets/images/8113F6E2-B9D3-4749-8ED1-56A8BE8F29C7.webp)
 
 **Name**: Moonwhisper
 

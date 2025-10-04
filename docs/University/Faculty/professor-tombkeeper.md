@@ -25,7 +25,7 @@ Deep Breathy voice: Vincent price
 Foundations of the Draconic Prophecy - Prophecy 150
     - An introduction to the complexities of the Draconic Prophecy, this course covers basic interpretations, historical impacts, and the role of dragons in shaping the future of the cosmos.
     - **Professor Tombkeeper (Crypt Dragon):** Offers insights into the death omens and life cycles within draconic prophecies.
-![D60D4A50-2CAD-4467-B57A-A59AB1DF0987](images/D60D4A50-2CAD-4467-B57A-A59AB1DF0987.webp)
+![D60D4A50-2CAD-4467-B57A-A59AB1DF0987](assets/images/D60D4A50-2CAD-4467-B57A-A59AB1DF0987.webp)
 —
 
 In a Pathfinder 2E (PF2E) environment, Professor Tombkeeper, the crypt dragon, would be a formidable and enigmatic figure. His presence is commanding yet subtly unnerving, with his milky white scales giving off an ethereal glow that contrasts starkly with the darkness of his domain. His large frame is sleek and sinewy, embodying a creature that is both powerful and agile, suited for navigating the shadowy realms of the afterlife and the planes.

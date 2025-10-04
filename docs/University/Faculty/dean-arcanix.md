@@ -46,7 +46,7 @@ Arcanix brings a deep, enriching presence to the Dragon University, inspiring bo
 
 ——
 create an NPC occult dragon that is also a Dean of Magical Theory and Application in the Quintessence Institute at the dragon university. Occult dragons are descended from a line of eclectic seekers who delve into the secrets of esoteric objects & hidden magics frequently delving into ancient and forgotten spells.
-![E6E7F6C8-B3A2-4738-B59D-096DFE88F121](images/E6E7F6C8-B3A2-4738-B59D-096DFE88F121.webp)
+![E6E7F6C8-B3A2-4738-B59D-096DFE88F121](assets/images/E6E7F6C8-B3A2-4738-B59D-096DFE88F121.webp)
 
 ### Classes Taught
 - Magical Theory and Application
