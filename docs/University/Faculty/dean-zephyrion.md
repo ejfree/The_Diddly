@@ -1,11 +1,21 @@
 ---
-title: Dean Zephyrion
+title: "Dean Zephyrion"
+type: npc/professor
+college: "Quintessence Institute"
+course: "Planar Studies"
+tags: ["professor", "dean", "college: Quintessence Institute", "course: Planar Studies"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Zephyrion
+### Role
+Dean of **Planar Studies**  
+**College**: Quintessence Institute
+**Course**: Planar Studies
 
+### Personality
+...
+
+### Description
 ![98099D3B-2691-44C2-A923-F876FE28873B](images/98099D3B-2691-44C2-A923-F876FE28873B.webp)
 
 #### Planar Studies
@@ -24,3 +34,22 @@ Under Zephyrion's guidance, the Quintessence Institute has become a beacon of ad
 
 ——
 create an NPC time dragon that is also a Dean of Planar Studies in the Quintessence Institute at the dragon university.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

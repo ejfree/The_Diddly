@@ -1,12 +1,21 @@
 ---
-title: Professor Joywing
+title: "Professor Joywing"
+type: npc/professor
+college: "College of Lore"
+course: "Dragon Prophecy"
+tags: ["professor", "college: College of Lore", "course: Dragon Prophecy"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Joywing
+### Role
+Professor of **Dragon Prophecy**  
+**College**: College of Lore
+**Course**: Dragon Prophecy
 
+### Personality
+...
 
+### Description
 **Name**: Professor Joywing
 
 **Dragon Type**: Bliss Dragon  
@@ -157,3 +166,22 @@ $quotes
 
 **Encounter Ideas**:
 $encounters
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

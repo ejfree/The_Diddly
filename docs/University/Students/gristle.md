@@ -1,12 +1,20 @@
 ---
-title: Gristle
+title: "Gristle"
+type: npc/student
+tags: ["year:5th Year (Primus)", "major:Arcanomechanics"]
 updated: 2025-10-04
-tags: []
-
 ---
 
-# Gristle
+**Name**: Gristle
+**Dragon Type**: Brass Dragon
+**Year**: 5th Year (Primus)
+**Major**: Arcanomechanics
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Here is the new student NPC using the default template:
 
@@ -34,3 +42,6 @@ Gristle’s dorm room is a mixture of a workshop and a kitchen. There are shelve
 Let me know if you'd like any changes or additional details!
 
 create a new student using the default template. It should be a 5th year, Primus male brass dragon named Gristle who majors in Arcanomechanics and is the Chairman of The Draconic Gastronomy Guild
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

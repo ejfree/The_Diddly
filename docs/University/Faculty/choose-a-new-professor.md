@@ -1,12 +1,20 @@
 ---
-title: Choose A New Professor
+title: "Choose A New Professor"
+type: npc/professor
+college: ""
+course: ""
+tags: ["professor", "college:", "course:"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Choose a new professor
+### Role
+Professor of **...**  
+**Course**: ...
 
+### Personality
+...
 
+### Description
 Here are 20 dragon professors, each with a name, dragon type, and personality:
 
 
@@ -107,3 +115,22 @@ Here are 20 dragon professors, each with a name, dragon type, and personality:
 **Personality**: Calculating and charismatic, she treats social maneuvering as the highest academic discipline. Most students don't realize they're being taught until it's too late.
 
 Would you like a visual roster or tie them into departments later?
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

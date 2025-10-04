@@ -8,7 +8,7 @@ updated: 2025-01-01
 ---
 
 ### Role
-Professor of **${course_name}**  
+Professor of **${course_name}**
 **Course**: ${course}
 
 ### Personality
@@ -31,7 +31,4 @@ Professor of **${course_name}**
 ...
 
 ### Quotes
-...
-
-**Encounter Ideas**
 ...

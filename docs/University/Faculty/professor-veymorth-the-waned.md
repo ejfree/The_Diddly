@@ -1,12 +1,21 @@
 ---
-title: Professor Veymorth The Waned
+title: "Professor Veymorth The Waned"
+type: npc/professor
+college: "College of Lore"
+course: "Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)"
+tags: ["professor", "college: College of Lore", "course: Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Veymorth the Waned
+### Role
+Professor of **Advanced Prophetic Theory and Cognitive Collapse**  
+**College**: College of Lore
+**Course**: Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)
 
+### Personality
+...
 
+### Description
 **Professor Veymorth the Waned
 Name**: Veymorth the Waned
 
@@ -135,3 +144,21 @@ $quotes
 **Encounter Ideas**:
 $encounters
 
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

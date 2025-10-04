@@ -1,12 +1,20 @@
 ---
-title: Lisa The Ra
+title: "Lisa The Ra"
+type: npc/student
+tags: ["year:", "major:"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Lisa the RA
+**Name**: Lisa the RA
+**Dragon Type**: 
+**Year**: 
+**Major**: 
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
 
+### Description
+(Physical details, unique traits.)
 
 # Lisa Siviridion
 
@@ -57,3 +65,6 @@ Lisa's dorm room at Dragon University now reflects her fascination with samurai 
    - The room predominantly features earthy tones, such as browns, greens, and blacks, with accents of red and gold to reflect the traditional samurai aesthetics.
 
 Overall, Lisa’s dorm room is a perfect blend of her love for samurai culture and her dedication to her studies, creating a space that is both inspiring and tranquil.
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

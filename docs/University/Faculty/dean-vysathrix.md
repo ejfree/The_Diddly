@@ -1,11 +1,21 @@
 ---
-title: Dean Vysathrix
+title: "Dean Vysathrix"
+type: npc/professor
+college: "School of Yield Surging"
+course: "Mineral Extraction & Refinement"
+tags: ["professor", "dean", "college: School of Yield Surging", "course: Mineral Extraction & Refinement"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Vysathrix
+### Role
+Dean of **Mineral Extraction & Refinement**  
+**College**: School of Yield Surging
+**Course**: Mineral Extraction & Refinement
 
+### Personality
+...
+
+### Description
 # ![21A2E04B-F99B-4BC7-8CB8-26786371DC9E](images/21A2E04B-F99B-4BC7-8CB8-26786371DC9E.webp)
 
 #### Mineral Extraction & Refinement
@@ -41,3 +51,22 @@ Ther extensive background should give you a rich and vivid character to incorpor
 
 ——
 create an NPC cerulean dragon that is also a Dean of Mineral Extraction & Refinement in the school of yield surging at the dragon university. They work expensively with aquatic mineral resources and their extraction methods.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

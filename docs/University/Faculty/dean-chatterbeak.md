@@ -1,11 +1,21 @@
 ---
-title: Dean Chatterbeak
+title: "Dean Chatterbeak"
+type: npc/professor
+college: "College of Lore"
+course: "Ancient Relics and Artifacts"
+tags: ["professor", "dean", "college: College of Lore", "course: Ancient Relics and Artifacts"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Chatterbeak
+### Role
+Dean of **Ancient Relics and Artifacts**  
+**College**: College of Lore
+**Course**: Ancient Relics and Artifacts
 
+### Personality
+...
+
+### Description
 # ![21CD179C-81B8-4A2F-AE90-908CEF2F5417](images/21CD179C-81B8-4A2F-AE90-908CEF2F5417.webp)
 
 #### Ancient Relics and Artifacts
@@ -25,3 +35,22 @@ Moreover, Chatterbeak is known for his mentoring spirit. Young dragons and other
 In the broader academic community, Tharivol is a Chatterbeak figure, often called upon to mediate disputes over artifact claims or to offer his expertise at international conferences. Despite his responsibilities, he remains deeply connected to the thrill of discovery, often taking sabbaticals to lead excavations or to explore new lands, always returning with new knowledge and relics that enrich the university's collections.
 ——
 create an NPC brass dragon that is also a Dean of Ancient Relics and Artifacts in the College of Lore at the dragon university.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

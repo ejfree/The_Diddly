@@ -1,12 +1,21 @@
 ---
-title: Professor Whirlwing
+title: "Professor Whirlwing"
+type: npc/professor
+college: "College of Lore"
+course: "Dragons > Giants (Dragon History 200)"
+tags: ["professor", "college: College of Lore", "course: Dragons > Giants (Dragon History 200)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Whirlwing
+### Role
+Professor of **Dragons > Giants**  
+**College**: College of Lore
+**Course**: Dragons > Giants (Dragon History 200)
 
+### Personality
+...
 
+### Description
 **Name**: Professor Whirlwing
 
 **Dragon Type**: Tumult Dragon  
@@ -156,3 +165,21 @@ $quotes
 **Encounter Ideas**:
 $encounters
 
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

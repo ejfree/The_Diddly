@@ -1,12 +1,20 @@
 ---
-title: Jibberwing
+title: "Jibberwing"
+type: npc/student
+tags: ["year:", "major:"]
 updated: 2025-10-04
-tags: []
-
 ---
 
-# Jibberwing
+**Name**: Jibberwing
+**Dragon Type**: Sea Dragon
+**Year**: 
+**Major**: 
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 **Jibberwing Frothscale**
 
@@ -17,3 +25,5 @@ tags: []
 
 Treasure Hunter Anonymous
 
+### Room Details
+(Dorm vibe, decorations, magical features.)

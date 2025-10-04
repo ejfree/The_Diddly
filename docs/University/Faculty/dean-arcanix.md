@@ -1,13 +1,21 @@
 ---
-title: Dean Arcanix
+title: "Dean Arcanix"
+type: npc/professor
+college: "Quintessence Institute"
+course: "Magical Theory and Application"
+tags: ["professor", "dean", "college: Quintessence Institute", "course: Magical Theory and Application"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Arcanix
+### Role
+Dean of **Magical Theory and Application**  
+**College**: Quintessence Institute
+**Course**: Magical Theory and Application
 
+### Personality
+...
 
-
+### Description
 #### Magical Theory and Application
 
 - **Dean Arcanix (Occult Dragon):** Explores the esoteric and hidden magics, delving into ancient and forgotten spells.
@@ -35,3 +43,22 @@ Arcanix brings a deep, enriching presence to the Dragon University, inspiring bo
 ——
 create an NPC occult dragon that is also a Dean of Magical Theory and Application in the Quintessence Institute at the dragon university. Occult dragons are descended from a line of eclectic seekers who delve into the secrets of esoteric objects & hidden magics frequently delving into ancient and forgotten spells.
 ![E6E7F6C8-B3A2-4738-B59D-096DFE88F121](images/E6E7F6C8-B3A2-4738-B59D-096DFE88F121.webp)
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

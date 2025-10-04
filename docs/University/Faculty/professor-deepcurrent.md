@@ -1,13 +1,21 @@
 ---
-title: Professor Deepcurrent
+title: "Professor Deepcurrent"
+type: npc/professor
+college: "Academy of Archano-elemental and Techno Mechanics"
+course: "Intro to Elemental Mechanics (Elementals 101)"
+tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "course: Intro to Elemental Mechanics (Elementals 101)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Deepcurrent
+### Role
+Professor of **Intro to Elemental Mechanics**  
+**College**: Academy of Archano-elemental and Techno Mechanics
+**Course**: Intro to Elemental Mechanics (Elementals 101)
 
+### Personality
+...
 
-
+### Description
 Intro to Elemental Mechanics - Elementals 101
 	- Students are introduced to the techniques of elemental binding, focusing on the basics of summoning, controlling, and applying elemental forces in various applications
 	- **Professor Deepcurrent (Sea Dragon):** With unmatched expertise in water elementals, Deepcurrent teaches students how to harness the power of water for energy, propulsion, and environmental restoration.
@@ -158,3 +166,22 @@ $quotes
 
 **Encounter Ideas**:
 $encounters
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

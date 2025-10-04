@@ -1,11 +1,21 @@
 ---
-title: Professor Nyxar Veilcore
+title: "Professor Nyxar Veilcore"
+type: npc/professor
+college: "School of Yield Surging"
+course: "Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)"
+tags: ["professor", "college: School of Yield Surging", "course: Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Nyxar Veilcore
+### Role
+Professor of **Subterranean Threats & Gemfield Harvesting**  
+**College**: School of Yield Surging
+**Course**: Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)
 
+### Personality
+...
+
+### Description
 # Professor **Nyxar Veilcore**
 
 Here is your Pathfinder 2E NPC professor based on your instructions:
@@ -71,3 +81,21 @@ Nyxar’s classroom is not so much a room as a descending shaft below the earth,
 * **Test of Darkness**: During finals, students must retrieve a gem from a maze of magical traps without light. Veilcore invites the party to “audit” by surviving the same course—with undead ex-students roaming inside.
 Let me know if you'd like his stat block, a portrait, or a trap from his field class!
 
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

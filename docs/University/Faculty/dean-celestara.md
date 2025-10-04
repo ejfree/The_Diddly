@@ -1,11 +1,21 @@
 ---
-title: Dean Celestara
+title: "Dean Celestara"
+type: npc/professor
+college: "School of Yield Surging"
+course: "Arcane Artifice and Enchantment Studies"
+tags: ["professor", "dean", "college: School of Yield Surging", "course: Arcane Artifice and Enchantment Studies"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Celestara
+### Role
+Dean of **Arcane Artifice and Enchantment Studies**  
+**College**: School of Yield Surging
+**Course**: Arcane Artifice and Enchantment Studies
 
+### Personality
+...
+
+### Description
 ![A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9](images/A17A8C53-D187-4A9F-8D6A-1F8F4A8DFAF9.webp)
 
 #### Arcane Artifice and Enchantment Studies
@@ -52,3 +62,22 @@ Celestara's presence at the university adds a layer of cosmic intrigue and advan
 
 ——
 create an NPC astral dragon that is also a Dean of the Arcane Artifice and Enchantment Studies in the School  of Yield Surging at the dragon university.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

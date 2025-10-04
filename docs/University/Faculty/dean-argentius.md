@@ -1,11 +1,21 @@
 ---
-title: Dean Argentius
+title: "Dean Argentius"
+type: npc/professor
+college: "College of Lore"
+course: "Dragon History"
+tags: ["professor", "dean", "college: College of Lore", "course: Dragon History"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean  Argentius
+### Role
+Dean of **Dragon History**  
+**College**: College of Lore
+**Course**: Dragon History
 
+### Personality
+...
+
+### Description
 # ![DEC6CF45-45CB-49BA-A375-570657D435E7](images/DEC6CF45-45CB-49BA-A375-570657D435E7.webp)
 
 #### Dragon History
@@ -54,3 +64,22 @@ Argentius the Lorewarden the Archivist is a versatile character who can enrich y
 
 ——
 create an NPC silver dragon that is also a Dean of the History in the College  of Lore at the dragon university.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

@@ -1,13 +1,21 @@
 ---
-title: Professor Moonwhisper
+title: "Professor Moonwhisper"
+type: npc/professor
+college: "Quintessence Institute"
+course: "Foundations of Arcane Practice (Magic 100)"
+tags: ["professor", "college: Quintessence Institute", "course: Foundations of Arcane Practice (Magic 100)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Moonwhisper
+### Role
+Professor of **Foundations of Arcane Practice**  
+**College**: Quintessence Institute
+**Course**: Foundations of Arcane Practice (Magic 100)
 
+### Personality
+...
 
-
+### Description
 Foundations of Arcane Practice - Magic 100
 	- A broad introduction to the theories of magic, including basic spellcasting, the schools of magic, and their practical applications in the modern world.
 	- **Professor Moonwhisper (Lunar Dragon):** Specializes in lunar and night magics
@@ -158,3 +166,21 @@ $quotes
 **Encounter Ideas**:
 $encounters
 
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

@@ -1,13 +1,21 @@
 ---
-title: Dean Syltharion
+title: "Dean Syltharion"
+type: npc/professor
+college: "Academy of Archano-elemental and Techno Mechanics"
+course: "Arcanomechanics"
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "course: Arcanomechanics"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Syltharion
+### Role
+Dean of **Arcanomechanics**  
+**College**: Academy of Archano-elemental and Techno Mechanics
+**Course**: Arcanomechanics
 
+### Personality
+...
 
-
+### Description
 ### Arcanomechanics
 ![67CA04CC-D4FF-47DB-B60E-3CE34D4535F5](images/67CA04CC-D4FF-47DB-B60E-3CE34D4535F5.webp)
 1. **Dean Syltharion (Bronze Dragon)**
@@ -63,3 +71,22 @@ This NPC could serve as a mentor, an ally, or a quest giver in your game, involv
 
 ——
 create an NPC bronze dragon that is also a Dean of the Arcanomechanics in the Academy of Archano-elemental and Techno Mechanics at the dragon university.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

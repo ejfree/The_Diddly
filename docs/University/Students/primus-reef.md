@@ -1,11 +1,20 @@
 ---
-title: Primus Reef
+title: "Primus Reef"
+type: npc/student
+tags: ["year:", "major:"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Primus Reef
+**Name**: Primus Reef
+**Dragon Type**: 
+**Year**: 
+**Major**: 
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 School President
 Sea dragon
@@ -20,3 +29,6 @@ Sea dragon
 
 **Goals:** Reef aims to create an environment where all students, regardless of their background, can thrive and contribute to the university's legacy. He is particularly passionate about environmental sustainability and works on initiatives to protect and preserve the natural habitats both within and beyond the university grounds.
 ![6B1CACED-7BBA-4418-9260-EEA80708BFBB](images/6B1CACED-7BBA-4418-9260-EEA80708BFBB.webp)
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

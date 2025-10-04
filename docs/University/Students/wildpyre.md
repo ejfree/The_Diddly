@@ -1,11 +1,20 @@
 ---
-title: Wildpyre
+title: "Wildpyre"
+type: npc/student
+tags: ["year:2nd Year", "major:Political Intrigue and Diplomacy"]
 updated: 2025-10-04
-tags: []
-
 ---
 
-# Wildpyre
+**Name**: Wildpyre
+**Dragon Type**: Red Dragon
+**Year**: 2nd Year
+**Major**: Political Intrigue and Diplomacy
+
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Here is the new student NPC based on the template:
 He is currently a prospect for the Lamannia Enthusiasts
@@ -28,3 +37,6 @@ Wildpyre is a medium-sized red dragon with gleaming crimson scales that shimmer 
 
 ### Room Details:
 Wildpyre's dorm room reflects his political ambitions and meticulous nature. The space is meticulously organized, with shelves lined with scrolls on draconic history, diplomacy, and strategy. A large map of Dragon University's major territories and influential drakes adorns one wall, complete with pins and threads marking important connections and events. His bed is made of dark stone, resembling volcanic rock, and he often keeps a faint fire burning in a brazier for ambiance and warmth. The room exudes a sense of power and order, reflecting Wildpyre's passion for control and mastery of his surroundings.
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

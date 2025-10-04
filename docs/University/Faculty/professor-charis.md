@@ -1,14 +1,22 @@
 ---
-title: Professor Charis
+title: "Professor Charis"
+type: npc/professor
+college: "Academy of Archano-elemental and Techno Mechanics"
+course: "Eldritch Fundamentals (Eldritch Engineering 199)"
+tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "course: Eldritch Fundamentals (Eldritch Engineering 199)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Charis
+### Role
+Professor of **Eldritch Fundamentals**  
+**College**: Academy of Archano-elemental and Techno Mechanics
+**Course**: Eldritch Fundamentals (Eldritch Engineering 199)
 
+### Personality
+...
 
-
- Elderich Fundamentals - Elderich Engineering 199
+### Description
+Elderich Fundamentals - Elderich Engineering 199
 	- An overview of the fundamentals of elderich magics and the basic integration of eldritch magic with engineering principles.
 	- **Professor Charis Emberfiend (Infernal Dragon):** Specializes in the integration of fire magic with engineering, focusing on energy efficiency and power generation. Chris’ lectures are fiery and filled with real-world applications.
 ——
@@ -43,3 +51,22 @@ Charris's interactions are often tinged with a sense of calculation, as she is a
 In her quieter moments, Charris is contemplative, often found studying ancient texts or refining her eldritch devices in solitude. Her love for knowledge and power is evident in all she does, and she is always on the lookout for ways to expand her understanding of the dark and arcane.
 
 Professor Charris is an infernal dragon, descended from a line of tyrannical deal brokers. She breathes fire. Infernal dragons have dull red scales and more devilish look to their face. She teaches Elderich Fundamentals - Elderich Engineering 199, which is located in the Cthonic Nexus.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

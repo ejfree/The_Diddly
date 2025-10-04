@@ -1,14 +1,21 @@
 ---
-title: Professor Tombkeeper
+title: "Professor Tombkeeper"
+type: npc/professor
+college: "College of Lore"
+course: "Foundations of the Draconic Prophecy (Prophecy 150)"
+tags: ["professor", "college: College of Lore", "course: Foundations of the Draconic Prophecy (Prophecy 150)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Tombkeeper
+### Role
+Professor of **Foundations of the Draconic Prophecy**  
+**College**: College of Lore
+**Course**: Foundations of the Draconic Prophecy (Prophecy 150)
 
+### Personality
+...
 
-
-
+### Description
 Deep Breathy voice: Vincent price
 
 Foundations of the Draconic Prophecy - Prophecy 150
@@ -64,3 +71,22 @@ Overall, Professor Tombkeeper would be a unique and intriguing character in any 
 
 
 Professor Tombkeeper is a male crypt dragon, they are solitary dragons who patrol the planes and purgatory searching for signs of incongruity with deaths & souls. You breathe negative damage. You are a milky white dragon and have an eyepatch.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

@@ -1,13 +1,21 @@
 ---
-title: Professor Stellarwind
+title: "Professor Stellarwind"
+type: npc/professor
+college: "Quintessence Institute"
+course: "Upper Planar Exploration (Planar Studies 110)"
+tags: ["professor", "college: Quintessence Institute", "course: Upper Planar Exploration (Planar Studies 110)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Stellarwind
+### Role
+Professor of **Upper Planar Exploration**  
+**College**: Quintessence Institute
+**Course**: Upper Planar Exploration (Planar Studies 110)
 
+### Personality
+...
 
-
+### Description
 ![C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1](images/C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1.webp)
 Upper Planar Exploration - Planar Studies  110
   	- An introductory survey of the various upper planes of existence, their characteristics, and the effects of their interactions with the material plane.
@@ -97,3 +105,22 @@ A massive circular platform at the center is enchanted to simulate planar condit
 
 
 Create a pf2e NPC Professor Stellarwind, a an ancient female vortex dragon at my dragon university. She teaches Upper Planar Exploration - Planar Studies  110 . Vortex dragons are descended from a line of interplanetary messengers, but she is determined to forge her own path as a scholar of exploring extreme planar environments.  She breathes fire damage. She has 2 different colors for stripes and whorls across her scales. For her class she is a paladin of bahumat.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

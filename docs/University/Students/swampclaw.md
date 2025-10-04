@@ -1,12 +1,20 @@
 ---
-title: Swampclaw
+title: "Swampclaw"
+type: npc/student
+tags: ["year:5th Year, Primus", "major:Prophecy"]
 updated: 2025-10-04
-tags: []
-
 ---
 
-# Swampclaw
+**Name**: Swampclaw
+**Dragon Type**: Green Dragon
+**Year**: 5th Year, Primus
+**Major**: Prophecy
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Elder Hydra of the Lamannia Enthusiasts.
 
@@ -41,3 +49,6 @@ Let me know if you'd like to adjust anything!
 
 —
 create a new student using the default template. It should be a 5th year, Primus female green dragon named Swampclaw who majors in Mineral Extraction & Refinement
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

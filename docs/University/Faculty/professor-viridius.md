@@ -1,12 +1,21 @@
 ---
-title: Professor Viridius
+title: "Professor Viridius"
+type: npc/professor
+college: "Quintessence Institute"
+course: "Lower Planer Exploration (Planar Studies 111)"
+tags: ["professor", "college: Quintessence Institute", "course: Lower Planer Exploration (Planar Studies 111)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Viridius
+### Role
+Professor of **Lower Planer Exploration**  
+**College**: Quintessence Institute
+**Course**: Lower Planer Exploration (Planar Studies 111)
 
+### Personality
+...
 
+### Description
 ![AB77B942-31F8-43ED-8F73-53B549B78CA5](images/AB77B942-31F8-43ED-8F73-53B549B78CA5.webp)
 Lower Planer Exploration - Planar Studies 111
 
@@ -49,3 +58,22 @@ This character can serve as an excellent guide or mentor for player characters w
 
 
 Create an npc green dragon for a pathfinder game. This green dragon is a professor of planar studies in the Quintessence Institute at the dragon university.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

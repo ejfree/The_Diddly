@@ -1,11 +1,20 @@
 ---
-title: Dark Marauders
+title: "Dark Marauders"
+type: npc/student
+tags: ["year:Wyvern", "major:"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dark Marauders
+**Name**: Dark Marauders
+**Dragon Type**: 
+**Year**: Wyvern
+**Major**: 
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Year - Wyvern
 Members:
@@ -15,3 +24,6 @@ Black - Mordred
 Underworld - **Ixion**
 Apocalypse - **Chernobog**
 Dream - Belindo
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

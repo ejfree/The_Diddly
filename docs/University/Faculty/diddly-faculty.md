@@ -1,14 +1,20 @@
 ---
-title: Diddly Faculty
+title: "Diddly Faculty"
+type: npc/professor
+college: ""
+course: ""
+tags: ["professor", "college:", "course:"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Diddly Faculty
+### Role
+Professor of **...**  
+**Course**: ...
 
+### Personality
+...
 
-
-
+### Description
 Building on the established deans for each major, here are four professors who specialize in their respective fields within the draconic university's curriculum. Each brings a unique perspective and expertise to their teaching, enriching the academic environment.
 
 ### College of Lore
@@ -157,3 +163,22 @@ Building on the established deans for each major, here are four professors who s
 
 4. **Professor Stoneheart (Earth Dragon)**
    - Specializes in earth elemental binding, focusing on applications in construction, mineral extraction, and land management. Stoneheart’s practical lessons involve large-scale terraforming projects.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

@@ -1,12 +1,20 @@
 ---
-title: Roarkfang
+title: "Roarkfang"
+type: npc/student
+tags: ["year:5th Year, Primus", "major:Political Intrigue"]
 updated: 2025-10-04
-tags: []
-
 ---
 
-# Roarkfang
+**Name**: Roarkfang
+**Dragon Type**: Infernal
+**Year**: 5th Year, Primus
+**Major**: Political Intrigue
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Elder Rhemoraz
 Event Planner of Lamannia Enthusiasts
@@ -38,3 +46,6 @@ Roarkfang’s dorm room is dimly lit, reflecting their preference for shadows an
 Let me know if you need any further adjustments!
 
 create a new student using the default template. It should be a nonbinary infernal dragon named Roarkfang who majors in Political Intrigue
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

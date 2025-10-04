@@ -1,12 +1,21 @@
 ---
-title: Dean Sunflare
+title: "Dean Sunflare"
+type: npc/professor
+college: "School of Yield Surging"
+course: "Economic Dominance and Resource Management"
+tags: ["professor", "dean", "college: School of Yield Surging", "course: Economic Dominance and Resource Management"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Sunflare
+### Role
+Dean of **Economic Dominance and Resource Management**  
+**College**: School of Yield Surging
+**Course**: Economic Dominance and Resource Management
 
+### Personality
+...
 
+### Description
 #### Economic Dominance and Resource Management
 
 - **Dean Sunflare (Solar Dragon):** Illustrates the power of renewable resources and sustainable wealth.
@@ -37,3 +46,22 @@ Solarius Sunflare remains a central figure in the academic and economic spheres 
 create an NPC solar dragon that is also a Dean of Economic Dominance and Resource Management in the School of Yield Surging  at the dragon university. Solar dragons see themselves as the source of all light in the vastness of the universe. Thus, all living beings, including dragons from other heritages, are ultimately their creations.
 
 ![1F859F46-BC50-4D91-AA68-EAF8B55970FE](images/1F859F46-BC50-4D91-AA68-EAF8B55970FE.webp)
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

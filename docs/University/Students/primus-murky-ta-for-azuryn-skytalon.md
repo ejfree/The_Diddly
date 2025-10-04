@@ -1,11 +1,20 @@
 ---
-title: Primus Murky Ta For Azuryn Skytalon
+title: "Primus Murky Ta For Azuryn Skytalon"
+type: npc/student
+tags: ["year:", "major:"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Primus “Murky” - TA for Azuryn Skytalon
+**Name**: Primus “Murky” - TA for Azuryn Skytalon
+**Dragon Type**: 
+**Year**: 
+**Major**: 
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Create murky. He is a solar drain who is also a weight lifter & lax bro. Kinda dumb, but quite lovable. He is a fraternity boy and loves to lay in the sun. Solar dragons can be any color of any sun, yellow, red, blue, or white.
 
@@ -17,3 +26,6 @@ He is a Primus and gives completely no shit on what happens
 
 
 ![EC411623-9499-4312-85DF-135ACDCCCD73](images/EC411623-9499-4312-85DF-135ACDCCCD73.webp)
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

@@ -1,11 +1,21 @@
 ---
-title: Professor Thrymvolin
+title: "Professor Thrymvolin"
+type: npc/professor
+college: "Academy of Archano-elemental and Techno Mechanics"
+course: "Advanced Techno-Magical Engineering (Arcanomechanics 101)"
+tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "course: Advanced Techno-Magical Engineering (Arcanomechanics 101)"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Professor Thrymvolin
+### Role
+Professor of **Advanced Techno-Magical Engineering**  
+**College**: Academy of Archano-elemental and Techno Mechanics
+**Course**: Advanced Techno-Magical Engineering (Arcanomechanics 101)
 
+### Personality
+...
+
+### Description
 ![7D195336-7768-4989-A090-A13877AF049C](images/7D195336-7768-4989-A090-A13877AF049C.webp)
 Advanced Techno-Magical Engineering - Archanomechanics 101
 	- An introduction to the fusion of magic and technology, examining the principles behind magical constructs and the advancements in arcanomechanical designs.
@@ -35,3 +45,22 @@ Draw this dragon which has gleaming amethyst scales and piercing crystalline eye
 Create a pathfinder npc, the race is amethyst dragon, and this is a professor of Arcanomechanics in the Academy of Archano-elemental and Techno Mechanics at the dragon university.
 
 https://wormhole.app/ZMOZ56#_v8pptjqG1Scgjg0-6go5A
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...

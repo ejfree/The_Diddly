@@ -1,12 +1,20 @@
 ---
-title: Wildbriar
+title: "Wildbriar"
+type: npc/student
+tags: ["year:2nd Year (Drake Year)", "major:Mineral Extraction & Refinement"]
 updated: 2025-10-04
-tags: []
-
 ---
 
-# Wildbriar
+**Name**: Wildbriar
+**Dragon Type**: Forest Dragon
+**Year**: 2nd Year (Drake Year)
+**Major**: Mineral Extraction & Refinement
 
+### Personality
+(Describe demeanor, quirks, interaction style.)
+
+### Description
+(Physical details, unique traits.)
 
 Here’s the new student profile for Wildbriar:
 He is currently a prospect for the Lamannia Enthusiasts
@@ -29,3 +37,6 @@ Wildbriar has deep green scales that shimmer with a subtle, almost bark-like tex
 
 ### Room Details:
 Wildbriar’s dorm is a blend of earthy tones, filled with potted plants that thrive even in the limited light. His bed is nestled in a nook made of intertwined roots, giving the impression of sleeping in the hollow of a great tree. There are shelves of minerals he has collected, each labeled and carefully stored. The room has a natural, woodsy scent, and the air is always slightly cooler and fresher than in the rest of the dorm. Magical lights resembling fireflies drift lazily above, illuminating the space in a soft, warm glow. His space is organized but cozy, reflecting his connection to nature and his major.
+
+### Room Details
+(Dorm vibe, decorations, magical features.)

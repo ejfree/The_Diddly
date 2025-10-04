@@ -1,12 +1,21 @@
 ---
-title: Dean Flameheart
+title: "Dean Flameheart"
+type: npc/professor
+college: "Academy of Archano-elemental and Techno Mechanics"
+course: "Elemental Binding"
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "course: Elemental Binding"]
 updated: 2025-10-04
-tags: []
 ---
 
-# Dean Flameheart
+### Role
+Dean of **Elemental Binding**  
+**College**: Academy of Archano-elemental and Techno Mechanics
+**Course**: Elemental Binding
 
+### Personality
+...
 
+### Description
 ![41F9EE4D-3EFB-437F-A369-B9D20C8B5913](images/41F9EE4D-3EFB-437F-A369-B9D20C8B5913.webp)
 
 ### Elemental Binding
@@ -50,3 +59,22 @@ This NPC profile of Pyraxis the Flameheart adds a dynamic character to your game
 ??
 ——
 Draw Pyraxis the Emberbound is a formidable red dragon whose scales shimmer like molten lava under the sunlight. With an imposing stature and wings that could eclipse the sun, Pyraxis exudes authority and ancient wisdom. His eyes, deep and fiery, seem to hold the secrets of elemental magic that few can fathom.
+
+### Academic Approach
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+...
+
+### Quotes
+...
+
+**Encounter Ideas**
+...
