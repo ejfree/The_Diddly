@@ -35,7 +35,9 @@ Their role at Dragon University isn't just academic; it's also deeply political.
 
 ### Classes Taught
 
-...
+- Prophecy Workshop: Threads of Doom
+- Ethics of Foretelling
+- Advanced Scrying Practicum
 
 ### Academic Approach
 
@@ -45,9 +47,9 @@ Their role at Dragon University isn't just academic; it's also deeply political.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+- **Faith Alignment**: High Seer of the Ember Tribunal, a prophetic conclave that chronicles calamities so they can be averted.
+- **Combat Style**: Blackshard weaponizes visions, layering wards of molten light while inflicting disorienting glimpses of possible futures on foes.
+- **Signature Move**: *Infernal Augury Surge*—he exhales a ribbon of fire that brands enemies with a rune; on Blackshard’s command the rune erupts, forcing the target to experience the doom they intended for others.
 
 ### Classroom & Teaching Environment
 
@@ -55,8 +57,12 @@ Their office is filled with scrolls and tomes that are centuries old, some of wh
 
 ### Quotes
 
-...
+- “Prophecy is a warning, not a script.”
+- “Every omen carries a price—pay it before it is demanded.”
+- “I do not predict your fate; I hand you the means to change it.”
 
 ### Encounter Ideas
 
-...
+- A cryptic omen names the party; Blackshard summons them to decipher whether they are salvation or disaster.
+- His vault of prophetic mirrors fractures, releasing reflections that act on their own—he needs outside help to contain them without destroying the visions.
+- A rival seer forges a false prophecy to discredit the College of Lore; Blackshard hires the heroes to expose the deception before the council acts on it.

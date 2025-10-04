@@ -35,28 +35,34 @@ Born during the Age of Wonder, when dragons openly mingled with other races, Syl
 
 ### Classes Taught
 
-...
+- Arcanomechanics 101 - Advanced Techno-Magical Engineering
+- Golem Architecture Practicum
+- Mana-Driven Systems Design Lab
 
 ### Academic Approach
 
-- **Course Focus**: ...
-- **Teaching Style**: ...
+- **Course Focus**: Syltharion zeroes in on integrating spell matrices with mechanical feedback loops, teaching students to balance efficiency with safety.
+- **Teaching Style**: He rotates between chalkboard derivations, live tinkering sessions, and surprise inspections of student workshops to reinforce meticulous craftsmanship.
 - **Philosophy**: Syltharion aims to guide his students not just to learn but to think innovatively, blending magic and technology to create solutions that could benefit all of dragonkind
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+- **Faith Alignment**: Devoted to the Cogwheel Synod, a coalition of dragons and gearsmiths who view invention as sacred service.
+- **Combat Style**: Fights alongside arcane automatons of his own design, chaining lightning through conductive arrays to disable foes non-lethally.
+- **Signature Move**: *Avalanche of Brass*—Syltharion activates portable constructs that unfold into a whirring shield wall, then launches them as electrified projectiles.
 
 ### Classroom & Teaching Environment
 
-...
+His laboratory, the Dynamo Vault, is a cavernous space filled with hovering platforms and self-writing schematics. Safety wards read vital signs while conveyor runes deliver components on command. Students must badge in with personalized sigils, reinforcing accountability.
 
 ### Quotes
 
-...
+- “Measure twice, enchant once.”
+- “A machine without empathy is just a weapon waiting to misfire.”
+- “Innovation thrives where curiosity meets discipline.”
 
 ### Encounter Ideas
 
-...
+- A prototype guardian goes missing—Syltharion hires the party to track it before the malfunctioning construct harms civilians.
+- Funding for the Vault is threatened by traditionalists; he requests the heroes gather proof that his inventions saved a frontier city.
+- A planar outage disrupts the academy’s power grid; Syltharion needs adventurers to enter the lightning plane and jump-start the conduit.

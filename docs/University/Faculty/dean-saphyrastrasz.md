@@ -7,7 +7,7 @@ tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Me
 updated: 2025-10-04
 ---
 
-### Saphyrastrasz
+### Dean Saphyrastrasz
 
 Ancient Sapphire Dragon
 
@@ -35,31 +35,37 @@ Saphyrastrasz has spent centuries studying the confluence of arcane magic and el
 
 ### Classes Taught
 
-...
+- Eldritch Engineering - Capstone Studio
+- Sustainable Megastructures Lab
+- Runic Symbiosis Colloquium
 
 ### Academic Approach
 
-- **Course Focus**: ...
+- **Course Focus**: Her curriculum marries structural engineering with geomancy, teaching dragons to weave ley lines into load-bearing matrices.
 - **Teaching Style**:
   - **Architectural Magic Mastery:** Saphyrastrasz is a foremost expert in magical architecture, capable of designing and conjuring buildings and structures that are not only aesthetically magnificent but also imbued with magical properties, such as self-repair or adaptive environments.
 
   - **Creation of Self-Sustaining Environments:** She specializes in creating environments that maintain their own climate, energy, and ecosystems through a blend of high magic and elemental engineering.
-- **Philosophy**: ...
+- **Philosophy**: “Design for the seventh generation.” She mandates environmental audits on every project to prove the structure gives back more than it consumes.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+- **Faith Alignment**: Architect of the Sapphire Covenant, a draconic fellowship dedicated to building sanctuaries for displaced peoples.
+- **Combat Style**: She shapes crystalline bulwarks mid-battle, redirecting spells through refracted ley currents to shield allies.
+- **Signature Move**: *Prismatic Citadel*—Saphyrastrasz raises a shifting lattice of sapphire light that traps foes in a restorative maze while channeling ambient magic into her team.
 
 ### Classroom & Teaching Environment
 
-...
+Lectures take place in the Harmonic Atelier, a laboratory built atop a humming ley nexus. Modular platforms reconfigure themselves to match each assignment, and grown crystal spires serve as whiteboards where equations appear as etched facets.
 
 ### Quotes
 
-...
+- “A building is a promise—make sure you intend to keep it.”
+- “Symmetry soothes, but asymmetry survives.”
+- “Sustainability is simply remembering that magic, too, has a habitat.”
 
 ### Encounter Ideas
 
-...
+- A self-repairing dormitory goes feral after a sabotage attempt; Saphyrastrasz asks the party to enter its shifting halls and reset the control core.
+- She sends the heroes to broker a supply treaty with earth elementals whose crystals are vital to the next campus expansion.
+- A rival architect challenges her designs with destructive weather rituals; Saphyrastrasz enlists the adventurers to defend the construction site while she stabilizes the storm.

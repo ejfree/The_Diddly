@@ -35,29 +35,36 @@ Born amidst the volcanic chains of the Draconic Highlands, Pyraxis was exposed t
 
 ### Classes Taught
 
-...
+- Elemental Binding - Fundamentals to Mastery
+- Firestorm Field Exercises
+- Containment Strategies for Rogue Elementals
 
 ### Academic Approach
 
-- **Course Focus**: ...
-- **Teaching Style**: ...
-- **Philosophy**: Pyraxis aims to elevate the Academy of Archano-elemental and Techno Mechanics as the foremost center of learning for elemental magic and mechanical integration. He is also searching for an ancient elemental artifact believed to contain the essence of a primordial fire spirit.
+- **Course Focus**: Pyraxis blends theoretical bindings with hands-on containment drills, ensuring every student can negotiate with—and if necessary subdue—elementals across all four primary planes.
+- **Teaching Style**: Lessons begin with intense sparring against conjured elementals, followed by debriefs where students diagram what went right and wrong while Pyraxis paces with a smoldering glare and incisive feedback.
+- **Philosophy**: Power must be earned daily. He demands his dragons leave class both scorched and wiser, convinced that mastery over fire teaches restraint as much as dominance.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
+- **Faith Alignment**: Pyraxis honors the Forge Crucible, a militant sect of brass and red dragons who see flame as the crucible of personal evolution.
 - **Combat Style**:
   - **Elemental Command**: Pyraxis can manipulate fire and other elements with ease, weaving them into complex spells and enchantments.
-- **Signature Move**: ...
+  - He layers chains of superheated air that constrict foes before detonating them in controlled bursts to power his own wards.
+- **Signature Move**: *Inferno Covenant*—Pyraxis brands an enemy with runes of binding fire; the mark siphons their elemental energy each time they attack, fueling his counterstrikes.
 
 ### Classroom & Teaching Environment
 
-...
+The Ember Crucible is a basalt arena ringed by ever-burning braziers. Magma sluices beneath glass panels, powering containment lattices that students adjust like organ stops. Safety wards flare in Pyraxis’s presence, but he expects pupils to set their own wards before every exercise.
 
 ### Quotes
 
-...
+- “If you leave a lesson un-singed, you learned nothing.”
+- “Elementals respect only those who command themselves first.”
+- “Heat tempers steel; adversity tempers dragons.”
 
 ### Encounter Ideas
 
-...
+- Pyraxis recruits the party to rescue a cohort trapped in the Plane of Fire after a field expedition meets a rogue efreeti warband.
+- Saboteurs tamper with the academy’s containment runes; Pyraxis needs the heroes to catch the culprit before the crucible erupts.
+- He tasks the adventurers with capturing a legendary ember elemental to power a new campus forge, promising rare binding sigils as payment.

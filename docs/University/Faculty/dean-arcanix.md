@@ -36,27 +36,33 @@ Descended from a venerable line of occult dragons, Arcanix’s ancestry has alwa
 ### Classes Taught
 
 - Magical Theory and Application
+- Esoteric Ritual Practicum
+- Ethics of Forbidden Magic
 
 ### Academic Approach
 
-- **Course Focus**: ...
-- **Teaching Style**: As an expert in magical theory and application, Arcanix possesses the ability to manipulate the very fabric of reality on a subtle level. His specialty lies in forgotten spells—those that many consider too dangerous or unpredictable. He can interact with and manipulate esoteric objects, drawing out their hidden powers or resealing them if necessary.
-- **Philosophy**: ...
+- **Course Focus**: Arcanix leads dragons through rigorous study of spell structure, planar correspondences, and the safe deconstruction of volatile rituals.
+- **Teaching Style**: He teaches by demonstration, sketching glowing runes in the air while inviting students to replicate each sigil under his patient guidance, then assigning meditative reflection to internalize the lesson.
+- **Philosophy**: “No secret is worth the cost of losing yourself”—he insists that true mastery comes from balancing curiosity with responsibility.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+- **Faith Alignment**: Keeper of the Veiled Library, a mystery cult devoted to safeguarding knowledge too dangerous for the unprepared.
+- **Combat Style**: Prefers counter-magic and redirective wards, unraveling enemy spells and turning raw arcana into binding threads.
+- **Signature Move**: *Null Sigil Mandala*—Arcanix weaves a spinning circle of sigils that absorbs a hostile spell, then detonates as a pulse of silencing energy.
 
 ### Classroom & Teaching Environment
 
-...
+His lecture hall, the Obscura Annex, is a windowless amphitheater carved from obsidian. Runes glow along the walls in response to spoken equations, and the ceiling mirrors whichever plane the class is studying. Students sit at tiered desks equipped with attunement crystals that record their personal resonance for later review.
 
 ### Quotes
 
-...
+- “Curiosity without discipline is how worlds unravel.”
+- “If you cannot explain a spell to a novice, you have no business casting it.”
+- “Erase fear, not caution—the former hinders discovery, the latter preserves it.”
 
 ### Encounter Ideas
 
-Arcanix is currently deciphering an ancient grimoire that was recently unearthed in the ruins beneath the university. This tome is believed to contain spells lost to time and the secret to a legendary power that could alter the understanding of magic itself.
+- Arcanix asks the party to escort him into the catacombs beneath the Annex to recover a stolen grimoire before its wards expire.
+- A miscast student ritual tears open a portal; Arcanix needs capable adventurers to stabilize the breach while he performs the sealing liturgy.
+- The Veiled Library demands proof of Arcanix’s stewardship—he tasks the heroes with retrieving a lost codex from the Plane of Shadows to satisfy the order.

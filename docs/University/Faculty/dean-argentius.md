@@ -36,30 +36,33 @@ Born amidst the snowy peaks of the Elder Mountains, Argentius the Lorewarden has
 ### Classes Taught
 
 - The Dawn of Dragonkind - History 104
+- Curating the Wyrm Archives - Independent Study
+- Historiography for Long-Lived Species
 
 ### Academic Approach
 
-- **Course Focus**: ...
-- **Teaching Style**: Argentius the Lorewarden possesses an encyclopedic knowledge of historical events, artifacts, and magics, often using this vast reservoir of information to aid in teaching and in the preservation of history.
-- **Philosophy**:
-  - **Preservation of History**: Argentius the Lorewarden is driven by the need to preserve and protect the knowledge of the past, believing that understanding history is crucial to the survival and advancement of all races.
-
-  - **Mentorship**: Guiding the next generation of scholars and adventurers, imparting wisdom and fostering a respect for history and learning.
+- **Course Focus**: Argentius guides students through comparative chronicles, showing how a single event ripples across cultures and epochs.
+- **Teaching Style**: He pairs lecture with primary source immersion—students handle safeguarded tablets while Argentius interprets them in real time, emphasizing evidence-based debate.
+- **Philosophy**: “Memory is a duty.” He believes history should inform present action, so every assignment ends with a reflection on how the past shapes tomorrow’s choices.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: Argentius the Lorewarden wields magic focusing on protection and preservation, capable of casting powerful wards and barriers to safeguard the archives and its denizens.
-- **Signature Move**: ...
+- **Faith Alignment**: Devotee of Aureon’s Concordance, a scholarly order that treats truthful record-keeping as sacred liturgy.
+- **Combat Style**: Argentius wields timeline wards and chronal shackles, intercepting hostile blows with layers of frozen moments.
+- **Signature Move**: *Chronicle Reversal*—he rewinds a single violent action, forcing aggressors to relive their mistake while allies reposition unscathed.
 
 ### Classroom & Teaching Environment
 
-...
+His primary lecture hall, the Argent Codex, is a circular chamber lined with floating book-rings. Each seat comes with an illusionary lectern that projects archival scenes as Argentius narrates. Scribing quills hover nearby, automatically compiling annotated timelines for every student.
 
 ### Quotes
 
-...
+- “If you cannot cite your source, you are telling a story—not history.”
+- “Empires fall, but the lesson they teach is immortal.”
+- “We do not guard relics for nostalgia—we guard them so we never repeat their tragedies.”
 
 ### Encounter Ideas
 
-Argentius the Lorewarden can serve as a quest giver, historian, or sage, offering players unique insights into the world’s lore and history. The dean might need help recovering lost artifacts, rescuing kidnapped scholars, or deciphering ancient texts that could alter the course of history. Alternatively, Argentius the Lorewarden could become an invaluable ally in battles against forces that threaten the fabric of time and history. Also good for Dues Ex Machina.
+- Argentius requests the party recover a stolen chronicle tablet before its prophecy falls into hostile claws.
+- He hires the heroes to escort a delegation of archivists through a war zone to record events without interference.
+- A temporal anomaly blooms in the archives; Argentius needs impartial agents to investigate without altering the timeline.

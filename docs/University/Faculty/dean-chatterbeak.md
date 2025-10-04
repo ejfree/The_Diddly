@@ -25,25 +25,27 @@ With a deep, resonant voice that commands attention, Chatterbeak is not only an 
 
 ### Description
 
-...
+Chatterbeak’s bronze feathers are streaked with verdigris, a patina earned from decades spent in forgotten vaults. His beak is engraved with tiny glyphs—field notes inscribed during long expeditions—and delicate spectacles perch at its tip. He wears a bandolier of quills and translation charms, ready to document discoveries the instant they surface.
 
 ![21CD179C-81B8-4A2F-AE90-908CEF2F5417](/assets/images/21CD179C-81B8-4A2F-AE90-908CEF2F5417.webp)
 
 ### Classes Taught
 
-...
+- Ancient Relics Survey - ARF 201
+- Provenance & Restoration Workshop
+- Oral Histories of the Draconic Diaspora
 
 ### Academic Approach
 
-- **Course Focus**: ...
-- **Teaching Style**: Chatterbeak is known for his mentoring spirit. Young dragons and other creatures from the university flock to him for guidance on their theses and research projects, knowing that his vast experience can illuminate paths they hadn't even considered.
-- **Philosophy**: ...
+- **Course Focus**: He emphasizes provenance, ensuring students learn to trace every artifact to its cultural context before attempting so much as a cleaning cantrip.
+- **Teaching Style**: Chatterbeak treats classes like guided museum tours—students rotate through curated stations, debating in lively squawks while he peppers them with questions that force critical observation.
+- **Philosophy**: “Every relic wants to be remembered, not owned.” He champions collaborative stewardship over hoarding, urging students to return items when appropriate.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+- **Faith Alignment**: Devout of the Archivist’s Chorus, a brass-dragon cantor order that sanctifies stories before they fade.
+- **Combat Style**: Uses resonant blasts and artifact-empowered illusions, turning opponents’ greed against them with bait-and-switch decoys.
+- **Signature Move**: *Echoing Inventory*—Chatterbeak animates spectral replicas of cataloged relics that bind thieves in chains of recorded memory.
 
 ### Classroom & Teaching Environment
 
@@ -51,8 +53,12 @@ Chatterbeak's lair, nestled deep within the College's grand library, is a treasu
 
 ### Quotes
 
-...
+- “A relic without context is just a shiny lie.”
+- “Ask the artifact a question; it will answer—if you’ve done your reading.”
+- “Preservation is conversation across centuries.”
 
 ### Encounter Ideas
 
-...
+- Chatterbeak hires the party to negotiate with kobold archivists who refuse to part with a tablet the university desperately needs for research.
+- A cursed idol mailed anonymously to his office begins whispering to students—he asks the heroes to trace its sender and break the enchantment.
+- During a gala exhibit, rival treasure hunters stage a heist; Chatterbeak recruits the adventurers as “guest docents” to thwart the theft without damaging priceless pieces.

@@ -35,31 +35,34 @@ Born in the vastness of the Astral Sea, Celestara was drawn to the material plan
 
 ### Classes Taught
 
-Principles of Draconic Economics  - Econ 102
+- Arcane Artifice and Enchantment Studies Seminar
+- Principles of Draconic Economics - Econ 102
+- Astral Forge Practicum
 
 ### Academic Approach
 
-- **Course Focus**: ...
-- **Teaching Style**:
-  - **Astral Projection:** Celestara can project his consciousness into the Astral Plane, allowing him to access ancient knowledge and communicate with entities beyond the material realm.
-
-  - **Enchantment Mastery:** He has an unparalleled ability to imbue objects with powerful magical properties, often enhancing or altering their functions in innovative ways.
-- **Philosophy**: Celestara seeks to expand the boundaries of magical knowledge and application, hoping to one day create a grand artifact that harnesses the power of the Astral Plane for the benefit of all dragonkind. He also aims to prepare his students not only to become masters of their craft but also to be wise custodians of the magical powers they wield.
+- **Course Focus**: Celestara frames enchantment as economics, teaching how resonance, rarity, and intent dictate the value of any item.
+- **Teaching Style**: He conducts forge-side demonstrations, letting students inscribe sigils while astral projections show microscopic energy flows, then assigns collaborative prototypes to test in the field.
+- **Philosophy**: Creation must benefit more than the creator; every project is graded on both innovation and the long-term balance it brings to campus and community.
 
 ### Faith and Combat Prowess
 
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+- **Faith Alignment**: Luminous adherent of the Radiant Ledger, a cosmic doctrine that tracks debts of power exchanged between planes.
+- **Combat Style**: Wields radiant-forged constructs and floating anvils, turning battlefield momentum into raw materials for impromptu wards.
+- **Signature Move**: *Stellar Forgemaster’s Verdict*—Celestara claps his wings, summoning a constellation of spectral hammers that dismantle enemy enchantments and reforge them as protective armor for allies.
 
 ### Classroom & Teaching Environment
 
-...
+The Astral Forge Studio glows with suspended sigil-rings, each attuned to a different plane. Workbenches float at adjustable heights, while a central starmap projects supply-chain flows of magical reagents. Students track their projects on ledgers of light that tally both costs and communal benefit.
 
 ### Quotes
 
-...
+- “An enchantment that serves only the caster is a debt waiting to be collected.”
+- “Innovation is a constellation—connect the stars others ignore.”
+- “Balance your ledgers, or the planes will balance them for you.”
 
 ### Encounter Ideas
 
-Celestara's presence at the university adds a layer of cosmic intrigue and advanced magical knowledge, making him a central figure in any academic or mystical adventures set within this fantastical academic institution.
+- An astral supply line collapses, and Celestara needs specialists to reopen a trade route before the forge cools.
+- One of his experimental constructs achieves sentience; he hires the party to negotiate its future rather than dismantle it.
+- A rival college tries to steal Celestara’s blueprints—he requests discreet operatives to stage a counter-heist and recover stolen star-metal.
