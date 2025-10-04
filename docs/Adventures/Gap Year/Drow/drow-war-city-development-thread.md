@@ -16,13 +16,13 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 - Small Underdark forward city supporting a two-decade buildup for war.
 
-- ****Population:**** ~12,000 drow + 5,000 thralls/slaves (total ~17,000).  
+- ****Population:**** ~12,000 drow + 5,000 thralls/slaves (total ~17,000).
 
-- ****Purpose:**** Primary forward base to attack the surface.  
+- ****Purpose:**** Primary forward base to attack the surface.
 
-- ****Tone:**** More FR-style Lolthite hierarchy than Eberron Umbragen.  
+- ****Tone:**** More FR-style Lolthite hierarchy than Eberron Umbragen.
 
-- ****Districts:**** Noble Plateau, Lower Warrens, Slave Pens, Great Market, Temple-Fortress of Lolth, War Tunnels, Academy of Shadowfire.  
+- ****Districts:**** Noble Plateau, Lower Warrens, Slave Pens, Great Market, Temple-Fortress of Lolth, War Tunnels, Academy of Shadowfire.
 
 ---
 
@@ -44,63 +44,63 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **### House Xilrath — “The Black Blades”**
 
-- ****Matron Mother Xilrath Vel’dryn (Lvl 16 Cleric/Warpriest)****  
+- ****Matron Mother Xilrath Vel’dryn (Lvl 16 Cleric/Warpriest)****
 
-- ****First Sword Captain Veynar (Lvl 12 Fighter/Champion)****  
+- ****First Sword Captain Veynar (Lvl 12 Fighter/Champion)****
 
-- ****Logistics Mistress Shynrae (Lvl 10 Cleric/Investigator)****  
+- ****Logistics Mistress Shynrae (Lvl 10 Cleric/Investigator)****
 
-- ****Company:**** **The Black Blades** — 200 elite soldiers, heavy infantry with poisoned weapons, supported by 20 priestesses.  
+- ****Company:**** **The Black Blades** — 200 elite soldiers, heavy infantry with poisoned weapons, supported by 20 priestesses.
 
 **### House Veythrae — “The Shadowfire Cadres”**
 
-- ****Matron Mother Thalara Veythrae (Lvl 17 Wizard/Cleric hybrid)****  
+- ****Matron Mother Thalara Veythrae (Lvl 17 Wizard/Cleric hybrid)****
 
-- ****Archmage Sybrynn Veythrae (Lvl 12 Wizard, Evocation focus)****  
+- ****Archmage Sybrynn Veythrae (Lvl 12 Wizard, Evocation focus)****
 
-- ****Demonmistress Elvrae Veythrae (Lvl 11 Summoner)****  
+- ****Demonmistress Elvrae Veythrae (Lvl 11 Summoner)****
 
-- ****Company:**** **The Shadowfire Cadres** — 150 battle-wizards, 50 arcane guards, plus 4–6 bound demons.  
+- ****Company:**** **The Shadowfire Cadres** — 150 battle-wizards, 50 arcane guards, plus 4–6 bound demons.
 
 **### House Dravun — “The Fang Legion”**
 
-- ****Matron Mother Yvra Dravun (Lvl 13 Cleric/Beastmaster)****  
+- ****Matron Mother Yvra Dravun (Lvl 13 Cleric/Beastmaster)****
 
-- ****Beastlord Krael Dravun (Lvl 9 Ranger/Beastmaster)****  
+- ****Beastlord Krael Dravun (Lvl 9 Ranger/Beastmaster)****
 
-- ****Mistress of Fangs Nelyth Dravun (Lvl 8 Rogue/Poisoner)****  
+- ****Mistress of Fangs Nelyth Dravun (Lvl 8 Rogue/Poisoner)****
 
-- ****Company:**** **The Fang Legion** — 100 handlers, 200 quaggoths, 80 spiders.  
+- ****Company:**** **The Fang Legion** — 100 handlers, 200 quaggoths, 80 spiders.
 
 **### House Thalmyr — “The Silent Blades”**
 
-- ****Matron Mother Lythrae Thalmyr (Lvl 12 Cleric/Rogue)****  
+- ****Matron Mother Lythrae Thalmyr (Lvl 12 Cleric/Rogue)****
 
-- ****Shadow Captain Drevan Thalmyr (Lvl 9 Rogue/Assassin)****  
+- ****Shadow Captain Drevan Thalmyr (Lvl 9 Rogue/Assassin)****
 
-- ****Whisper Adept Kyssil Thalmyr (Lvl 7 Rogue/Investigator)****  
+- ****Whisper Adept Kyssil Thalmyr (Lvl 7 Rogue/Investigator)****
 
-- ****Company:**** **The Silent Blades** — 50 assassins, 100 rogues, dozens of thrall scouts.  
+- ****Company:**** **The Silent Blades** — 50 assassins, 100 rogues, dozens of thrall scouts.
 
 **### House Velouryn — “The Venom Syndicate”**
 
-- ****Matron Mother Ulvrae Velouryn (Lvl 11 Cleric/Rogue)****  
+- ****Matron Mother Ulvrae Velouryn (Lvl 11 Cleric/Rogue)****
 
-- ****Trade Captain Malryk Velouryn (Lvl 8 Mastermind Rogue)****  
+- ****Trade Captain Malryk Velouryn (Lvl 8 Mastermind Rogue)****
 
-- ****Poisonmistress Thivra Velouryn (Lvl 7 Alchemist)****  
+- ****Poisonmistress Thivra Velouryn (Lvl 7 Alchemist)****
 
-- ****Company:**** **The Venom Syndicate** — 60 enforcers, 40 poison alchemists, 200 mercs/slaves.  
+- ****Company:**** **The Venom Syndicate** — 60 enforcers, 40 poison alchemists, 200 mercs/slaves.
 
 **### House Zhaelor — “The Lash of Lolth”**
 
-- ****Matron Mother Zarila Zhaelor (Lvl 14 Warpriest/Champion)****  
+- ****Matron Mother Zarila Zhaelor (Lvl 14 Warpriest/Champion)****
 
-- ****Zealot Commander Rhazek Zhaelor (Lvl 9 Champion/Warpriest)****  
+- ****Zealot Commander Rhazek Zhaelor (Lvl 9 Champion/Warpriest)****
 
-- ****Firebrand Cleric Syrris Zhaelor (Lvl 7 Cleric/Destruction)****  
+- ****Firebrand Cleric Syrris Zhaelor (Lvl 7 Cleric/Destruction)****
 
-- ****Company:**** **The Lash of Lolth** — 100 zealots, 30 clerics, 150 indoctrinated slaves.  
+- ****Company:**** **The Lash of Lolth** — 100 zealots, 30 clerics, 150 indoctrinated slaves.
 
 ---
 
@@ -108,23 +108,23 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 - ****Seats:**** 6 (2 votes each for majors, 1 each for minors).
 
-- ****Location:**** Obsidian chamber in the Temple-Fortress of Lolth.  
+- ****Location:**** Obsidian chamber in the Temple-Fortress of Lolth.
 
 **### Major Houses**
 
-- ****House Xilrath (2 votes):**** Militarists, allies with Dravun & Zhaelor.  
+- ****House Xilrath (2 votes):**** Militarists, allies with Dravun & Zhaelor.
 
-- ****House Veythrae (2 votes):**** Arcanists, allies with Velouryn, rivals to Xilrath & Zhaelor.  
+- ****House Veythrae (2 votes):**** Arcanists, allies with Velouryn, rivals to Xilrath & Zhaelor.
 
 **### Minor Houses**
 
-- ****House Dravun (1 vote):**** Beastmasters, aligned with Xilrath.  
+- ****House Dravun (1 vote):**** Beastmasters, aligned with Xilrath.
 
-- ****House Thalmyr (1 vote):**** Neutral spies, play both sides.  
+- ****House Thalmyr (1 vote):**** Neutral spies, play both sides.
 
-- ****House Velouryn (1 vote):**** Wealth bloc, aligned with Veythrae.  
+- ****House Velouryn (1 vote):**** Wealth bloc, aligned with Veythrae.
 
-- ****House Zhaelor (1 vote):**** Fanatics, aligned with Xilrath.  
+- ****House Zhaelor (1 vote):**** Fanatics, aligned with Xilrath.
 
 ****Council Split:**** 4 vs 4 deadlock — resolved by High Priestess of Lolth.
 
@@ -134,11 +134,11 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **### House Xilrath — “The Black Blades”**
 
-- ****Total Drow:**** ~1,200  
+- ****Total Drow:**** ~1,200
 
-- ****Auxiliaries:**** ~1,500  
+- ****Auxiliaries:**** ~1,500
 
-- ****Forces:****  
+- ****Forces:****
   - 200 House Guard (elite infantry)
   - 3 War Companies (750 soldiers + 75 priestesses)
   - 100 Strike Wing skirmishers
@@ -147,11 +147,11 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **### House Veythrae — “The Shadowfire Cadres”**
 
-- ****Total Drow:**** ~900  
+- ****Total Drow:**** ~900
 
-- ****Auxiliaries:**** ~1,200  
+- ****Auxiliaries:**** ~1,200
 
-- ****Forces:****  
+- ****Forces:****
   - 6–8 Arcane Councilors
   - 3 Shadowfire Cadres (150 battle-wizards)
   - 4–6 Bound Demons + 30 summoners
@@ -161,11 +161,11 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **### House Dravun — “The Fang Legion”**
 
-- ****Total Drow:**** ~400  
+- ****Total Drow:**** ~400
 
-- ****Auxiliaries:**** ~1,200 beasts/slaves  
+- ****Auxiliaries:**** ~1,200 beasts/slaves
 
-- ****Forces:****  
+- ****Forces:****
   - 200 quaggoths
   - 80 giant spiders
   - 100 drow handlers
@@ -173,22 +173,22 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **### House Thalmyr — “The Silent Blades”**
 
-- ****Total Drow:**** ~350  
+- ****Total Drow:**** ~350
 
-- ****Auxiliaries:**** ~500 thralls  
+- ****Auxiliaries:**** ~500 thralls
 
-- ****Forces:****  
+- ****Forces:****
   - 10 assassin cells (100 rogues)
   - 100 thrall scouts
   - 50 ambushers
 
 **### House Velouryn — “The Venom Syndicate”**
 
-- ****Total Drow:**** ~300  
+- ****Total Drow:**** ~300
 
-- ****Auxiliaries:**** ~400  
+- ****Auxiliaries:**** ~400
 
-- ****Forces:****  
+- ****Forces:****
   - 60 enforcers
   - 40 alchemists
   - 100 mercenaries
@@ -196,11 +196,11 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **### House Zhaelor — “The Lash of Lolth”**
 
-- ****Total Drow:**** ~250  
+- ****Total Drow:**** ~250
 
-- ****Auxiliaries:**** ~200 fanatics  
+- ****Auxiliaries:**** ~200 fanatics
 
-- ****Forces:****  
+- ****Forces:****
   - 100 zealots
   - 30 clerics
   - 150–200 indoctrinated slave-fanatics
@@ -209,27 +209,27 @@ This file compiles all notes, tables, and worldbuilding created in this thread.
 
 **## Military Ledger Summary**
 
-- ****House Xilrath:**** 1,200 drow + 1,500 auxiliaries  
+- ****House Xilrath:**** 1,200 drow + 1,500 auxiliaries
 
-- ****House Veythrae:**** 900 drow + 1,200 auxiliaries  
+- ****House Veythrae:**** 900 drow + 1,200 auxiliaries
 
-- ****House Dravun:**** 400 drow + 1,200 beasts/thralls  
+- ****House Dravun:**** 400 drow + 1,200 beasts/thralls
 
-- ****House Thalmyr:**** 350 drow + 500 thralls  
+- ****House Thalmyr:**** 350 drow + 500 thralls
 
-- ****House Velouryn:**** 300 drow + 400 auxiliaries  
+- ****House Velouryn:**** 300 drow + 400 auxiliaries
 
-- ****House Zhaelor:**** 250 drow + 200 fanatics  
+- ****House Zhaelor:**** 250 drow + 200 fanatics
 
 ****Grand Total:**** ~3,400 drow + ~3,300 auxiliaries = ~6,700+ combatants
 
 **### Council Power Blocs**
 
-- ****War Bloc (Xilrath + Dravun + Zhaelor):**** ~1,850 drow + 2,900 auxiliaries  
+- ****War Bloc (Xilrath + Dravun + Zhaelor):**** ~1,850 drow + 2,900 auxiliaries
 
-- ****Delay Bloc (Veythrae + Velouryn + Thalmyr):**** ~1,550 drow + 2,100 auxiliaries  
+- ****Delay Bloc (Veythrae + Velouryn + Thalmyr):**** ~1,550 drow + 2,100 auxiliaries
 
-- ****Balance:**** Deadlock, Lolth’s High Priestess as tiebreaker.  
+- ****Balance:**** Deadlock, Lolth’s High Priestess as tiebreaker.
 
 ---
 

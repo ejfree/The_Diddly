@@ -6,7 +6,6 @@ tags: []
 
 # Outpost Train Plunder
 
-
 Treasure
 Wand of Healing
 Scroll of Quench

@@ -7,7 +7,6 @@ tags: []
 
 # Iyri
 
-
 Major: Elemental Binding
 Minor: Magical Theory
 
@@ -21,8 +20,6 @@ Minor Grades 27 B+s
 Alchemy Club - 25 gets a D4 of poison.
 Sausage 22 (good)
 
-
-
 Sophomore Classes:
 ELBD 240 – Ethics of Elemental Enslavement
 Professor Quorim Fluxthread (Gold Dragon)
@@ -32,7 +29,6 @@ MATH 232 – Theoretical Mana Flows and Thaumaturgic Resonance
 
 *Professor Cyrenthesh the Unbound* (Lunar Dragon, reformed anarchist)
 Advanced
-
 
 PLAN 250 – Navigating the Elemental Maelstrom
 

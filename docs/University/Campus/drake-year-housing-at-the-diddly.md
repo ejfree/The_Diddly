@@ -6,7 +6,6 @@ tags: []
 
 # Drake-Year Housing at The Diddly
 
-
 Each **Quad** (Fire/North, Air/East, Water/South, Earth/West) supports:
 
 * **25 Flights** (5 students each = 125 students per Quad)

@@ -6,18 +6,13 @@ tags: []
 
 # New Year Prep..
 
-
 On to level 3…
 
 1. Tusseling Match on TV. Then run
 2. Run the Dragon Prophecy Seminar
-	1. Additional research on the
+    1. Additional research on the
 
 OK, so it is some sort of race amongst various gem dragons, who celebrate the new year, but with a different name.
-
-
-
-
 
 New Year’s Adventure
 
@@ -25,11 +20,11 @@ New Year’s Adventure
 
 **Adventure Level:** 2nd Level
 
-**Player Characters (PCs):** 4 Player Characters  
+**Player Characters (PCs):** 4 Player Characters
 
-**Setting:** Winter Break, New Year's Eve  
+**Setting:** Winter Break, New Year's Eve
 
-**Location:** Emerald Dragon Weyr, a home of Lisa (Emerald Dragon RA)  
+**Location:** Emerald Dragon Weyr, a home of Lisa (Emerald Dragon RA)
 
 ---
 
@@ -119,8 +114,6 @@ However, Lisa warns the group that the strange happenings during the ritual may 
 ---
 
 This adventure provides the players with a mix of investigative, skill-based challenges, combat, and exploration while also weaving in thematic elements of draconic traditions and mystery. The timeline around New Year’s Eve creates an exciting backdrop for unexpected events.
-
-
 
 ——
 Create an PF2e adventure for 4 2nd level characters. They are on winter break from the dragon university. They are visiting with the RA, Lisa, to Lisa’s home, the Emerald Dragon Weyr. But it is possible for the PCs to be teleported anywhere for the actual adventure. The occurs during New Years Eve.

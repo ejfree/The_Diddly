@@ -2,15 +2,19 @@
 title: "Professor Nyxar Veilcore"
 type: npc/professor
 college: "School of Yield Surging"
-course: "Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)"
-tags: ["professor", "college: School of Yield Surging", "course: Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)"]
+major: "Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)"
+tags: ["professor", "college: School of Yield Surging", "major: Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **Subterranean Threats & Gemfield Harvesting**  
+
+Professor of **Subterranean Threats & Gemfield Harvesting**
+
 **College**: School of Yield Surging
-**Course**: Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)
+
+**Major**: Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)
+
 
 ### Personality
 ...
@@ -33,7 +37,7 @@ Name**: Nyxar Veilcore
 **Role:**
 Professor of **Subterranean Threats & Gemfield Harvesting**
 
-**Course**: MIN402 - Advanced Mineral Extraction & Refinement
+**Major**: MIN402 - Advanced Mineral Extraction & Refinement
 
 **Personality:**
 Professor Nyxar Veilcore is coldly analytical, with a piercing presence that causes even confident students to second-guess their answers. He is meticulous, calculating, and eerily quiet, often allowing long silences to stretch before responding with laser-precise corrections. Though not outwardly cruel, he takes visible delight when students fall into well-laid traps during field assignments—viewing every failure as a lesson worth its weight in adamantine. Beneath the intimidation, however, lies a strict code of honor. He despises inefficiency, laziness, and especially anything that resembles necromancy or undeath, which he considers a perversion of natural cycles.
@@ -80,6 +84,9 @@ Nyxar’s classroom is not so much a room as a descending shaft below the earth,
 
 * **Test of Darkness**: During finals, students must retrieve a gem from a maze of magical traps without light. Veilcore invites the party to “audit” by surviving the same course—with undead ex-students roaming inside.
 Let me know if you'd like his stat block, a portrait, or a trap from his field class!
+
+### Classes Taught
+- Subterranean Threats & Gemfield Harvesting (MIN402 - Advanced Mineral Extraction & Refinement)
 
 ### Academic Approach
 - **Course Focus**: ...

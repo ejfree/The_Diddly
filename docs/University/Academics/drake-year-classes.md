@@ -6,13 +6,12 @@ tags: []
 
 # Drake Year Classes
 
-
-			Major					Minor
-Celedyr	History 				Archano Mechanics
-Nara		Prophecy				History
-Aura		Elemental Binding	Magical Theory
-Gullun		Artifacts				History
-Iyri			Elemental Binding
+            Major                    Minor
+Celedyr    History                 Archano Mechanics
+Nara        Prophecy                History
+Aura        Elemental Binding    Magical Theory
+Gullun        Artifacts                History
+Iyri            Elemental Binding
 
 ## College of Lore
 
@@ -254,7 +253,6 @@ Unpacks how to manipulate outcomes without raising a single claw.
 *Professor Yuladra Nightglen* (Edict Dragon)
 Analyzes infamous betrayals, broken treaties, and the anatomy of trust collapse.
 
-
 ## School of Yield Surging
 
 **Economic Dominance and Resource Management**
@@ -334,6 +332,4 @@ Pushes students to attempt legally dubious or paradoxical enchantment forms.
 
 *Professor Zysha Gearnote* (Gold Dragon)
 Designs for industrial-scale enchantment factories, including ethics of magical labor golems.
-
-
 

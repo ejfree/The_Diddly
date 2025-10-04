@@ -6,7 +6,6 @@ tags: []
 
 # Pixie [withdrew]
 
-
 Dropped
 
 August Quick Time
@@ -16,6 +15,5 @@ DC 20
 DC 25
 DC 30
 DC 40
-
 
 Small Fairy Dragon. Soon to be out on Foundry Vtt.

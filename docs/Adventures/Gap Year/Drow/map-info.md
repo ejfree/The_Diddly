@@ -6,7 +6,6 @@ tags: []
 
 # Map Info
 
-
 Excellent — using the **Menzoberranzan maps from** ***D3: Vault of the Drow*** gives you a strong backbone. Here’s how you can **re-skin and adapt that layout** to your new Eberron-flavored war city, while keeping the FR Underdark feel intact:
 
 **City Overview**

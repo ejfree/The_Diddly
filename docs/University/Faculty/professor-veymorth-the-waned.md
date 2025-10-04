@@ -2,15 +2,16 @@
 title: "Professor Veymorth The Waned"
 type: npc/professor
 college: "College of Lore"
-course: "Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)"
-tags: ["professor", "college: College of Lore", "course: Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)"]
+major: "Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)"
+tags: ["professor", "college: College of Lore", "major: Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)"]
 updated: 2025-10-04
 ---
 
-### Role
-Professor of **Advanced Prophetic Theory and Cognitive Collapse**  
+Professor of **Advanced Prophetic Theory and Cognitive Collapse**
+
 **College**: College of Lore
-**Course**: Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)
+
+**Major**: Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)
 
 ### Personality
 ...
@@ -30,7 +31,7 @@ Name**: Veymorth the Waned
 **Role:**
 Professor of **Advanced Prophetic Theory and Cognitive Collapse**
 
-**Course**: DRPR-430: *Fractured Futures and the Draconic Mind*
+**Major**: DRPR-430: *Fractured Futures and the Draconic Mind*
 
 **Personality:**
 Veymorth is enigmatic and unsettling, with a distant demeanor that speaks to his constant mental bombardment by futures yet unlived. He is contemplative and eerily calm, prone to lapsing into silences mid-sentence as he sorts through the tides of prophecy that crash against his mind. Students describe him as simultaneously intimidating and strangely comforting—like the eye of a storm. He has little patience for trivial conversation, yet shows unexpected empathy when a student is truly struggling to grasp the existential weight of their studies.
@@ -78,26 +79,24 @@ Veymorth teaches deep within the Atheneum Prime, in a subchamber known as *The W
 * **Field Mission**: Veymorth sends students (and adventurers) to retrieve a lost draconic omen buried within an ancient ruin that phases between futures.
 Would you like a visual of Professor Veymorth or his Whisper Vault classroom?
 
-
 Create a pf2e NPC using the following template and information in the following sentences. Professor $name is a an ancient male doom dragon at my dragon university. He teaches upper divisions courses at the Diddly.  Doom dragons are constantly buffeted by divination magic and he uses this to study draconic prophecy. He breathes mental damage and studies in the occult magics. He is primarily white in color though it tends to be more ashy and dull.
 
 ### Professor/Dean $name
 
 **Name**: $name
 
-**Dragon Type**: $dragon_type 
+**Dragon Type**: $dragon_type
 
 **Gender**: $gender
 
-**Age**: Ancient 
-
+**Age**: Ancient
 
 ---
 
 ### Role:
 Professor of **$course_name**
 
-**Course**: $course  
+**Major**: $course
 
 ---
 
@@ -111,11 +110,14 @@ $description paragraphs
 
 ---
 
+### Classes Taught
+- Advanced Prophetic Theory and Cognitive Collapse (DRPR-430)
+
 ### Academic Approach:
 
-- **Course Focus**: $course_focus  
+- **Course Focus**: $course_focus
 
-- **Teaching Style**: $style 
+- **Teaching Style**: $style
 
 - **Philosophy**: $philosophy
 
@@ -125,7 +127,7 @@ $description paragraphs
 
 - **$faith_title**: $faith_description
 
-- **Combat Style**: $combat 
+- **Combat Style**: $combat
 
 - **Signature Move**: $signature
 

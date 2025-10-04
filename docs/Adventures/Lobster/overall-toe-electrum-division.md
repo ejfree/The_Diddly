@@ -6,9 +6,7 @@ tags: []
 
 # Overall TOE Electrum Division
 
-
 The electrum division was a hidden division of Cyre
-
 
 Let's break down and expand the **Electrum Division** as follows:
 

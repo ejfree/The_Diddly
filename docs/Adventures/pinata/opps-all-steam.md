@@ -6,7 +6,6 @@ tags: []
 
 # Opps… All Steam
 
-
 75gp
 
 ### Adventure: **A Heated Experiment**
@@ -37,20 +36,20 @@ The PCs are assisting or observing a practical demonstration in the **Intro to E
 
 #### DC Progression:
 
-- Lever 1: DC 13  
+- Lever 1: DC 13
 
-- Lever 2: DC 16  
+- Lever 2: DC 16
 
-- Lever 3: DC 19  
+- Lever 3: DC 19
 
 **Failures:**
 On a failed check, a mephit (matching the portal’s energy) emerges:
 
-- **Water Mephit:** Uses ranged water blasts and slippery terrain.  
+- **Water Mephit:** Uses ranged water blasts and slippery terrain.
 
-- **Fire Mephit:** Breathes fire and ignites nearby objects.  
+- **Fire Mephit:** Breathes fire and ignites nearby objects.
 
-- **Steam Mephit:** Combines water and fire attacks, creating scalding steam clouds.  
+- **Steam Mephit:** Combines water and fire attacks, creating scalding steam clouds.
 
 Mephits have basic stats appropriate for Level 1-2 creatures, and each one takes about two rounds to handle.
 
@@ -65,7 +64,7 @@ When more than **3 failures** occur or if the PCs activate the levers out of bal
 
 - One PC at each station must perform a check to stabilize the combinator, with a **DC 20 Arcana, Crafting, or Nature** check.
 
-- If successful, the explosion is mitigated, but the lab is still heavily damaged.  
+- If successful, the explosion is mitigated, but the lab is still heavily damaged.
 
 - On failure, the combinator detonates, dealing **4d6 damage (Reflex DC 18 for half)** to all creatures in the room and summoning the elemental lords.
 
@@ -77,17 +76,17 @@ After the explosion (or successful stabilization), the **Elemental Lords of Fire
 
 #### Elemental Lords:
 
-- **Lord Ignus (Fire):** A humanoid figure made of flames. He demands retribution for meddling with his plane.  
+- **Lord Ignus (Fire):** A humanoid figure made of flames. He demands retribution for meddling with his plane.
 
-- **Lady Aquara (Water):** A regal, serpentine figure of flowing water. She is more diplomatic but accuses the group of disturbing the balance.  
+- **Lady Aquara (Water):** A regal, serpentine figure of flowing water. She is more diplomatic but accuses the group of disturbing the balance.
 
 - **Lord Vaporr (Steam):** A chaotic mix of boiling water and hissing vapor. He is furious at being “created” without permission.
 
 **Tactics:**
 
-- Combat is possible but challenging. Each lord fights with Level 4 elemental abilities (fire blasts, water jets, steam clouds).  
+- Combat is possible but challenging. Each lord fights with Level 4 elemental abilities (fire blasts, water jets, steam clouds).
 
-- Diplomacy or Deception (DC 18) can appease one of the lords and convince them to help resolve the issue.  
+- Diplomacy or Deception (DC 18) can appease one of the lords and convince them to help resolve the issue.
 
 - Creative uses of Arcana, Crafting, or magical items can stabilize the situation or redirect their ire.
 
@@ -104,11 +103,11 @@ After the explosion (or successful stabilization), the **Elemental Lords of Fire
 
 ### **Rewards**
 
-- **XP:** Standard XP for defeating mephits, stabilizing the combinator, and resolving the elemental lords’ appearance (combat or diplomacy).  
+- **XP:** Standard XP for defeating mephits, stabilizing the combinator, and resolving the elemental lords’ appearance (combat or diplomacy).
 
-- **Loot:** A magical trinket or scroll gifted by one of the elemental lords for resolving the situation diplomatically.  
+- **Loot:** A magical trinket or scroll gifted by one of the elemental lords for resolving the situation diplomatically.
 
-- **Reputation:** Favor with Professor Grittlespark, leading to future opportunities in the Archano-Mechanics department.  
+- **Reputation:** Favor with Professor Grittlespark, leading to future opportunities in the Archano-Mechanics department.
 
 This adventure provides a mix of skill challenges, combat, and roleplay, ensuring a dynamic and engaging session!
 

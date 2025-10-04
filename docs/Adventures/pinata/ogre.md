@@ -7,12 +7,10 @@ tags: []
 
 # Ogre
 
-
 Where one dreams and the other doubts,
 The Twin-Watcher bears the mark of storm.
 Their scouts are of flesh and fat and fury,
 But behind them march the old blood—
-
 
 Great! Here's a complete encounter breakdown for a **mid-level (Level 5) party** exploring an **elven glade overrun by ogre slavers**, including **traps, slave pens, key NPCs, and tactical layout**. This can be scaled for a party of **4–5 PCs around level 5** for Pathfinder 2E.
 
@@ -159,7 +157,6 @@ Optional:
 * **High Threat Version (L7+ PCs)**: 12+ ogres, an ettin or troll lieutenant, siege weapons, slave pens, and layered defenses.
 
 Would you like me to design this location with encounter breakdowns or traps next?
-
 
 Excellent! That opens a whole new layer of intrigue. Here’s how to integrate the **Dandasuka rakshasa** spy into the scenario:
 

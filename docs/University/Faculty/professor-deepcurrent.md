@@ -2,24 +2,24 @@
 title: "Professor Deepcurrent"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
-course: "Intro to Elemental Mechanics (Elementals 101)"
-tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "course: Intro to Elemental Mechanics (Elementals 101)"]
+major: "Intro to Elemental Mechanics (Elementals 101)"
+tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Intro to Elemental Mechanics (Elementals 101)"]
 updated: 2025-10-04
 ---
 
-### Role
-Professor of **Intro to Elemental Mechanics**  
+Professor of **Intro to Elemental Mechanics**
+
 **College**: Academy of Archano-elemental and Techno Mechanics
-**Course**: Intro to Elemental Mechanics (Elementals 101)
+
+**Major**: Intro to Elemental Mechanics (Elementals 101)
 
 ### Personality
 ...
 
 ### Description
 Intro to Elemental Mechanics - Elementals 101
-	- Students are introduced to the techniques of elemental binding, focusing on the basics of summoning, controlling, and applying elemental forces in various applications
-	- **Professor Deepcurrent (Sea Dragon):** With unmatched expertise in water elementals, Deepcurrent teaches students how to harness the power of water for energy, propulsion, and environmental restoration.
-
+    - Students are introduced to the techniques of elemental binding, focusing on the basics of summoning, controlling, and applying elemental forces in various applications
+    - **Professor Deepcurrent (Sea Dragon):** With unmatched expertise in water elementals, Deepcurrent teaches students how to harness the power of water for energy, propulsion, and environmental restoration.
 
 ### Professor Deepcurrent
 
@@ -27,18 +27,18 @@ Intro to Elemental Mechanics - Elementals 101
 
 **Name**: Deepcurrent
 
-**Dragon Type**: Sea Dragon  
+**Dragon Type**: Sea Dragon
 
-**Gender**: Male  
+**Gender**: Male
 
-**Age**: Ancient  
+**Age**: Ancient
 
 ---
 
 ### Role:
 Professor of **Intro to Elemental Mechanics**
 
-**Course**: Elementals 101  
+**Major**: Elementals 101
 
 ---
 
@@ -52,6 +52,9 @@ Deepcurrent is a long, serpentine dragon with scales in hues of turquoise, deep 
 
 ---
 
+### Classes Taught
+- Intro to Elemental Mechanics (Elementals 101)
+
 ### Academic Approach:
 
 - **Course Focus**: Professor Deepcurrent’s course centers on the magic, physics, chemistry, and manipulation of elemental forces, with a special emphasis on water and weather. Students learn the fundamentals of elemental summoning, controlling precipitation, and creating balanced ecosystems.
@@ -64,7 +67,7 @@ Deepcurrent is a long, serpentine dragon with scales in hues of turquoise, deep 
 
 ### Faith and Combat Prowess:
 
-- **Faith Title**: Keeper of the Tides  
+- **Faith Title**: Keeper of the Tides
   **Faith Description**: Deepcurrent reveres the natural cycles of water and weather, seeing them as manifestations of an intricate, divine balance. He often integrates this perspective into his teachings, encouraging students to view magic as a means of maintaining harmony rather than causing destruction.
 
 - **Combat Style**: As a Kineticist, Deepcurrent wields water with unparalleled precision, summoning waves and whirlpools to overwhelm foes. He uses his immense swimming speed and amphibious nature to outmaneuver opponents in aquatic environments.
@@ -80,11 +83,11 @@ Professor Deepcurrent’s classroom is as unique as his teaching style. Situated
 
 ### Quotes:
 
-- “The ocean does not obey commands; it is a partner, not a servant.”  
+- “The ocean does not obey commands; it is a partner, not a servant.”
 
-- “Mastery is not control; it is understanding when to push and when to yield.”  
+- “Mastery is not control; it is understanding when to push and when to yield.”
 
-- “A single drop of water may seem insignificant, but together, they form a force no one can withstand.”  
+- “A single drop of water may seem insignificant, but together, they form a force no one can withstand.”
 
 ---
 
@@ -96,31 +99,25 @@ Professor Deepcurrent’s classroom is as unique as his teaching style. Situated
 
 - The professor challenges the students to a mock battle using summoned elementals, offering a rare magical reward to the team that impresses him the most.
 
-
-
-
-
 ——
 Create a pf2e NPC using the following template and information in the following sentences. Professor Deepcurrent is a an ancient male sea dragon at my dragon university. He teaches Intro to Elemental Mechanics - Elementals 101. He is descended from a line of kindly but fickle masters of weather and precipitation. You gain a swim Speed of 10 feet and the amphibious and water traits. You can also choose to gain a swim Speed of 25 feet and reduce your land Speed to 10 feet. Like all creatures with the amphibious trait, you can breathe both water and air. Your associated damage type is bludgeoning (a ball of water) and all your dragon abilities that deal bludgeoning damage have the water trait, your breath shape is a burst, and your additional unarmed attack is tail. He has been part of many adventuring parties and now teaches the magic, methods, and calculations behind the elements. Combination of physics, chemistry, and manipulation of elementals to create these environments.  Sea dragons look more like Chinese dragons and tend to come in colors of the sea. For his class, he is a Kineticist.
-
 
 ### Professor/Dean $name
 
 **Name**: $name
 
-**Dragon Type**: $dragon_type 
+**Dragon Type**: $dragon_type
 
 **Gender**: $gender
 
-**Age**: Ancient 
-
+**Age**: Ancient
 
 ---
 
 ### Role:
 Professor of **$course_name**
 
-**Course**: $course  
+**Major**: $course
 
 ---
 
@@ -136,9 +133,9 @@ $description paragraphs
 
 ### Academic Approach:
 
-- **Course Focus**: $course_focus  
+- **Course Focus**: $course_focus
 
-- **Teaching Style**: $style 
+- **Teaching Style**: $style
 
 - **Philosophy**: $philosophy
 
@@ -148,7 +145,7 @@ $description paragraphs
 
 - **$faith_title**: $faith_description
 
-- **Combat Style**: $combat 
+- **Combat Style**: $combat
 
 - **Signature Move**: $signature
 

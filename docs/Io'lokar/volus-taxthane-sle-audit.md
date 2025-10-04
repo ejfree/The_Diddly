@@ -6,22 +6,18 @@ tags: []
 
 # Volus Taxthane  - SLE Audit
 
-
-
 ![B1DE708A-8EFF-4113-805D-D854F508E552](images/B1DE708A-8EFF-4113-805D-D854F508E552.png)
-
-
 
 ---
 ![FF603E11-17F7-447E-A484-F6A68B7F2FA8](images/FF603E11-17F7-447E-A484-F6A68B7F2FA8.png)
 
-**Name**: Volus Taxthane  
+**Name**: Volus Taxthane
 
-**Dragon Type**: Blue Dragon  
+**Dragon Type**: Blue Dragon
 
-**Gender**: Male  
+**Gender**: Male
 
-**Age**: Ancient  
+**Age**: Ancient
 
 ---
 

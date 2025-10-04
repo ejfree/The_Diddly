@@ -8,8 +8,6 @@ tags: []
 
 #
 
-
-
 Here’s **Grulm & Vak**, the **CR 7 boss** ettin built in **Pathfinder 2E style**, with full formatting and flavor to match your prophecy and the "Pinky and the Brain" head dynamic.
 ![58E9907F-2379-465A-B04F-E6C428170383](images/58E9907F-2379-465A-B04F-E6C428170383.png)
 
@@ -105,9 +103,7 @@ Grulm makes a **Storm Totem Maul** strike at -2 MAP (minimum -2, not stacking) a
 
 * PCs that succeed at **DC 20 Arcana** or **Society** checks while observing the carvings or interrogating Vak can piece together the **meaning of the storm sigil**: it is the mark of an ancient giant prince, suggesting this is just the beginning of larger giant incursions.
 
-
 ![0CDAAAE8-2F46-48B0-99C5-DED5D003945C](images/0CDAAAE8-2F46-48B0-99C5-DED5D003945C.png)
-
 
 Prophecy
 
@@ -129,5 +125,4 @@ For where giants fall,
 The weaver’s fangs grow bolder.”
 
 But all that is here is this….*
-
 

@@ -6,16 +6,13 @@ tags: []
 
 # Monster Mash
 
-
-
-
 *The party is tasked by a local druid circle to investigate and close a portal to Lamania that has opened in a sacred grove. The portal is unstable and leaking wild energy, which has begun to transform the surrounding forest and creatures into aggressive, primal versions of themselves. The druid circle provides the party with healing potions and some basic guidance on how to disrupt the portal’s flow, but warns them that waves of creatures from Lamania will pour out to protect it.*
 
 ### Portal Mechanics
 
 - **Portal Activation**: The portal spawns one wave of monsters every time the party disrupts the flow of energy.
 
-- **Healing Intervals**: After each wave, the portal goes dormant for 5 minutes, allowing the party to heal. Each character may drink one healing potion (2d8+4) after every wave. 
+- **Healing Intervals**: After each wave, the portal goes dormant for 5 minutes, allowing the party to heal. Each character may drink one healing potion (2d8+4) after every wave.
 
 ### Wave 1: Wild Wolves Moderate
 The first wave emerges from the portal in the form of fierce, otherworldly wolves with glowing eyes. These primal creatures are fast and aggressive.

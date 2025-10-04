@@ -2,20 +2,27 @@
 title: "Professor ${name}"
 type: npc/professor
 college: ""
-course: ""
-tags: ["professor", "college:", "course:"]
+major: ""
+tags: ["professor", "college:", "major:"]
 updated: 2025-01-01
 ---
 
 ### Role
+
 Professor of **${course_name}**
-**Course**: ${course}
+
+**College**: ${college}
+
+**Major**: ${course}
 
 ### Personality
 ...
 
 ### Description
 ...
+
+### Classes Taught
+- ...
 
 ### Academic Approach
 - **Course Focus**: ...

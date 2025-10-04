@@ -6,7 +6,6 @@ tags: []
 
 # Auris Gildwing Electrum Dragon Orphan
 
-
 ### Expanded Details for Auris Gildwing
 ![9531885E-3418-4CA5-9913-DB70D17E28FF](images/9531885E-3418-4CA5-9913-DB70D17E28FF.webp)
 
@@ -88,7 +87,6 @@ Auris begins his day early, pulling his portable claw-shining stand through the 
 ---
 
 Auris’s story is full of heart, ambition, and potential, making him a captivating NPC who can grow with the narrative. Would you like me to focus on any particular aspect of his story or abilities?
-
 
 Create an npc, an electrum dragon orphan, age 8. He was an orphaned offspring of a Romeo & Juliet type of romance between a  female gold dragon and a male silver dragon. The parents were disowned by the families and went no contact. His parents died when he was young. This unusually silver/gold mottled dragon is a bright chipper young fellow, who is just earning his way in this great city by working as a “claw shiner.” He has a portable stand to polish the claws of dragons through out the city. This is how he is saving money for school.
 

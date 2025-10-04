@@ -19,18 +19,17 @@ updated: 2025-10-04
 Elder Rhemoraz
 Event Planner of Lamannia Enthusiasts
 
-
 Here is the updated student NPC profile for Roarkfang:
 
 ---
 
 **Name**: Roarkfang
 
-**Dragon Type**: Infernal  
+**Dragon Type**: Infernal
 
-**Year**: 5th Year, Primus  
+**Year**: 5th Year, Primus
 
-**Major**: Political Intrigue  
+**Major**: Political Intrigue
 
 ### Personality:
 Roarkfang is cunning and strategic, often observing before making their move in any situation. They have a sharp mind and a natural talent for reading people, making them highly skilled in political maneuvering. Despite their infernal heritage, they are not overtly intimidating; instead, they use subtlety and charm to influence others. Roarkfang is fiercely independent and values personal space but can be incredibly loyal to those they trust. In their primus year, they are known as a master of manipulation, always thinking several steps ahead in every interaction.

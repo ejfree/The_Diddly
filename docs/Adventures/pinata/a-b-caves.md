@@ -6,9 +6,7 @@ tags: []
 
 # A & B Caves
 
-
 ### Pathfinder Adventure: Goblin Cave Hideout
-
 
 **Setting:** A hidden goblin cave nestled in the side of a forested hill. The walls of the cave are rough-hewn from the earth, damp, and covered in moss and fungi. The air is thick with the smell of decay and the sound of dripping water.
 
@@ -40,7 +38,7 @@ That is one of the largest bears you have ever seen. It is also one of the deade
 
 **Treasure:**
 
-- There are some gems in the bears innards.If search, DC12 perception to notice they are present. But to get them you gotta fight the rats. 
+- There are some gems in the bears innards.If search, DC12 perception to notice they are present. But to get them you gotta fight the rats.
 
 Hazard: DC 12 - This is gross, Sickness 1 if in the area.
 
@@ -48,7 +46,6 @@ Hazard: DC 12 - This is gross, Sickness 1 if in the area.
 
 **Description:**
 The door is locked. This place contains various sorts of dried and salted meat, **grain,** and vegetables in sacks**,** boxes, barrels, and piles. There are also bits and pieces of past human victims. There is nothing of value here; even the wine in a large cask is thin and vinegary.
-
 
 **Encounters:**
 
@@ -73,7 +70,7 @@ On call guard room for this area.
 
 **Treasure:**
 
-- A copper bracelet 2GP one is wearing as a nose piercing. 
+- A copper bracelet 2GP one is wearing as a nose piercing.
 
 #### Room 5: Goblin Kitchen
 
@@ -113,7 +110,6 @@ After defeating the goblin chieftain, the adventurers can explore the hideout to
 #### Room 7: More Guard Room
 
 **Description:**
-
 
 **Encounters:**
 
@@ -167,7 +163,6 @@ Treasure - Generic Hobgoblin armor, clothes, very crappy weapons. Bag of hammers
 #### Room 12: The hobgoblin boss
 
 **Description:**
-
 
 - - **Enemies:** 1 elite hobgoblin
 

@@ -6,7 +6,6 @@ tags: []
 
 # Treasure Hunters Anonymous THA
 
-
 Perfect! Let’s build out **Treasure Hunters Anonymous (THA)** as a formalized, flamboyant counterpoint to the idea of secrecy—because of course, dragons can’t resist boasting.
 
 **Treasure Hunters Anonymous (THA)**
@@ -27,10 +26,10 @@ Perfect! Let’s build out **Treasure Hunters Anonymous (THA)** as a formalized,
 
 * **Meetings:** Weekly “Revelations,” where members present their latest acquisitions. They are judged not just on the treasure’s value, but on the drama of the story—how dangerous the dungeon was, how clever the trick to claim it, or how humiliating it was for the loser who lost it.
 
-* **Ranks:**	1. **The Newly Gilded** – First-years or new initiates who must bring a “token” treasure to prove their worth.
-	3. **Gemclaws** – Full members, recognized for having at least one truly worthy treasure.
-	5. **Hoardmasters** – Senior members who manage collections, oversee rituals, and often “loan” artifacts to others for quests.
-	7. **Auric Exemplars** – Alumni or legendary dragons who embody the club’s ideals and sometimes return to challenge students or sponsor expeditions.
+* **Ranks:**    1. **The Newly Gilded** – First-years or new initiates who must bring a “token” treasure to prove their worth.
+    3. **Gemclaws** – Full members, recognized for having at least one truly worthy treasure.
+    5. **Hoardmasters** – Senior members who manage collections, oversee rituals, and often “loan” artifacts to others for quests.
+    7. **Auric Exemplars** – Alumni or legendary dragons who embody the club’s ideals and sometimes return to challenge students or sponsor expeditions.
 
 **Wider Organization**
 

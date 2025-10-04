@@ -6,9 +6,9 @@ updated: 2025-10-04
 ---
 
 **Name**: Drake Sapphire Dragon - Lisa’s Friend & Guardian
-**Dragon Type**: 
-**Year**: 
-**Major**: 
+**Dragon Type**:
+**Year**:
+**Major**:
 
 ### Personality
 (Describe demeanor, quirks, interaction style.)

@@ -8,7 +8,6 @@ tags: []
 
 ![427276CC-BDDB-4B46-80DB-F7983FAC5BB2](images/427276CC-BDDB-4B46-80DB-F7983FAC5BB2.jpg)
 
-
 Overall: perfect, spot on. As I started added building identifiers, comments that I initially had changed dramatically. Here are. My notes, they are based on the area. I am also including a legend for how I see things. Overall, make the numbered building all a little larger. See if you can increase the scale factor and have them be a little more prominent
 
 **Center - Grand Old Diddly (0)**

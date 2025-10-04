@@ -6,7 +6,6 @@ tags: []
 
 # More dataa
 
-
 [A0851E98-5ACB-4424-A54A-85A00CA500EA](attachments/A0851E98-5ACB-4424-A54A-85A00CA500EA.md)
 [43811365-5EF1-45F6-954C-452C8C5F7F16](attachments/43811365-5EF1-45F6-954C-452C8C5F7F16.xlsx)
 Perfect—here are **reconciled, roll-up-clean TOEs** in the exact same style. Each section includes a math check so totals match with no double-counting. I kept Dravun as-is (from the last message) and added Xilrath, Veythrae, and four minor houses (A–D). If you already have different totals for any house, I can reflow the counts instantly to your numbers.

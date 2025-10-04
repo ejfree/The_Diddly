@@ -6,9 +6,6 @@ tags: []
 
 # Lamannia Enthusiasts Society
 
-
-
-
 At Dragon University, the *Lamannia Enthusiasts Society* AKA Lamas… is a thriving student-run club dedicated to the admiration and exploration of the primal forces and untamed beauty of the plane of Lamannia. The club attracts dragons who are drawn to the raw, unbound nature of the plane, its diverse fauna, and the pure, wild magic that it represents. They often host excursions to planar replicas, work with druids and shamans, and discuss Lamannia’s unique ecosystems and magical creatures.
 
 ### Officers of the *Lamannia Enthusiasts Society*:
@@ -53,7 +50,6 @@ These five members bring their diverse interests and passions to the *Lamannia E
 
 —
 In my dragon university, create a club that are fans of “Lamannia”, which is the plane of raw unbounded nature, filled with all sorts of plants, animals, and magical beasts. It should have 5 officers that are named after various beasts.
-
 
 —
 Twilight Forest

@@ -8,22 +8,21 @@ tags: []
 
 #
 
-- ****Matron Mother Thalara Veythrae (Lvl 17 Wizard/Cleric hybrid)****  
+- ****Matron Mother Thalara Veythrae (Lvl 17 Wizard/Cleric hybrid)****
 
-- ****Archmage Sybrynn Veythrae (Lvl 12 Wizard, Evocation focus)****  
+- ****Archmage Sybrynn Veythrae (Lvl 12 Wizard, Evocation focus)****
 
-- ****Demonmistress Elvrae Veythrae (Lvl 11 Summoner)****  
+- ****Demonmistress Elvrae Veythrae (Lvl 11 Summoner)****
 
-- ****Company:**** **The Shadowfire Cadres** — 150 battle-wizards, 50 arcane guards, plus 4–6 bound demons.  
-
+- ****Company:**** **The Shadowfire Cadres** — 150 battle-wizards, 50 arcane guards, plus 4–6 bound demons.
 
 **### House Veythrae — “The Shadowfire Cadres”**
 
-- ****Total Drow:**** ~900  
+- ****Total Drow:**** ~900
 
-- ****Auxiliaries:**** ~1,200  
+- ****Auxiliaries:**** ~1,200
 
-- ****Forces:****  
+- ****Forces:****
   - 6–8 Arcane Councilors
   - 3 Shadowfire Cadres (150 battle-wizards)
   - 4–6 Bound Demons + 30 summoners

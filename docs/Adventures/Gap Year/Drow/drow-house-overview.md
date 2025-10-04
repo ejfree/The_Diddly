@@ -6,7 +6,6 @@ tags: []
 
 # Drow House Overview
 
-
 Excellent — let’s make each house feel like a **living faction** by giving it a **Matron Mother**, **two leadership tiers**, and the **company/patrol** they command. I’ll do this in the PF2e style so you can drop them straight into play.
 
 ## **House Xilrath (Militarists)**

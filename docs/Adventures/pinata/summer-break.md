@@ -6,16 +6,12 @@ tags: []
 
 # Summer Break
 
-
 Grandma wants a flight for summer interns…
 
 Summer Interns for Sivi’s Libation Emporium. This opportunity is available through your RA, Lisa, and her grandmother, newly hired Professor of prophecy, Alyssa Siviridion. While initially you thought this was some boring corporate thing, a blue dragon working for the Emporium met with your team with a clarification on the nature of the assignment. This is a sensitive operation and requires assuming a non-draconic form for the duration of the assignment. The is a special tea, Q’Barran First Flush, that has been a constant trade item from Q’Barra to Korranberg/Sharn for a lengthy time. It has been disrupted and we need some troubleshooters to go find out why. We have good intelligence on where this is happening but need a team to investigate it locally. And the only want to get there is on a boat disguised as guards.
 
-
 400gp for 1 month 1/4 up front
 300gp if 2nd month is required - paid out at end
-
-
 
 ---
 
@@ -92,13 +88,13 @@ Summer Interns for Sivi’s Libation Emporium. This opportunity is available thr
 
 - **Name**: *Drifting Meddler*
 
-- **Power**: Wind + sails  
+- **Power**: Wind + sails
 
-- **Route**: Lhazaar Principalities → Adderport → Koranberg → Sharn 
+- **Route**: Lhazaar Principalities → Adderport → Koranberg → Sharn
 
-- **Cargo**: Fine textiles, spices, crystal glassware, rare mushrooms, and Aereni perfumes  
+- **Cargo**: Fine textiles, spices, crystal glassware, rare mushrooms, and Aereni perfumes
 
-- **Defense**:  
+- **Defense**:
   - Reinforced hull
   - Magical locks on cargo holds (runed by a past magewright)
   - Evasive sailing tactics and fast wind-handling
@@ -107,31 +103,30 @@ Summer Interns for Sivi’s Libation Emporium. This opportunity is available thr
 
 Let me know if you want:
 
-- A map of the ship  
+- A map of the ship
 
-- Potential crew secrets  
+- Potential crew secrets
 
-- A rival ship  
+- A rival ship
 
 - Or NPC stat blocks for encounters/events!
-
 
 Watch Bill
 Port
 
-- **First Mate Ignatius Max** *(Goblin man)*  
+- **First Mate Ignatius Max** *(Goblin man)*
 
-- **Navigator Elven Dun** *(Elf man)*  
+- **Navigator Elven Dun** *(Elf man)*
 
-- **'Bosun' Griffin2HoplidonA4 aka Hoppy* *(Warforged)*  
+- **'Bosun' Griffin2HoplidonA4 aka Hoppy* *(Warforged)*
   - **Brimm** *(Kobold)* –
   - **Varen** *(Half-Elf)* –
   - **Olaf** *(Goliath man)* –
   - **"Hob" Grems** *(Human man)* –
 
-- **Cargo Master Boddik Ten-Toes** *(Dwarf man)*  
+- **Cargo Master Boddik Ten-Toes** *(Dwarf man)*
 
-- **Livestock Tender Brellah** *(Beastkin woman)*  
+- **Livestock Tender Brellah** *(Beastkin woman)*
 
 - Celedyr
 
@@ -139,22 +134,21 @@ Port
 
 Starboard
 
-- **Quartermaster & Trade Broker Jannix Velda** *(Kalashtar nonbinary)*  
+- **Quartermaster & Trade Broker Jannix Velda** *(Kalashtar nonbinary)*
 
-- **Helmsman Gusta "Rudder" Kell** *(Dwarf woman)*  
+- **Helmsman Gusta "Rudder" Kell** *(Dwarf woman)*
 
-- **Scribe & Ledger-Keeper Vint Tamm** *(Gnome man)*  
+- **Scribe & Ledger-Keeper Vint Tamm** *(Gnome man)*
 
-- **Carpenter & Shipwright Janek Drass** *(Human man)*  
+- **Carpenter & Shipwright Janek Drass** *(Human man)*
 
 - **Toff & Mera** *(Human teenage siblings)* – Hired on in Sharn.   - **Nokku** *(Lizardfolk)* –
 
-- **Sailmaker & Seamstress Mivra Niss** *(Elf woman)*  
+- **Sailmaker & Seamstress Mivra Niss** *(Elf woman)*
 
-- **Medic Harsoon "Stitch" Crael** *(Human man)*  
+- **Medic Harsoon "Stitch" Crael** *(Human man)*
 
 - Nara
 
 - Aura
-
 

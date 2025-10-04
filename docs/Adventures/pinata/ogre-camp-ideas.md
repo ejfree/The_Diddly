@@ -6,8 +6,6 @@ tags: []
 
 # Ogre camp ideas
 
-
-
 Stone Riddle Solution
 (Noble Elf knows it, but reluctant to give it up)
 3 = Turns on 3
@@ -19,8 +17,6 @@ Stone Riddle Solution
 Any wrong sequence = 2d6 lightning/fire/frost rondom, DC16 avoid
 
 Treasure will be an elven relic
-
-
 
 Here are 10 **Pathfinder 2E** magic items appropriate for **4th or 5th level characters**, all of which appear in official Paizo sources. These have been selected based on level, utility, and potential to spark interesting tactical or narrative play:
 
@@ -144,9 +140,9 @@ Absolutely! Here are **10 more Pathfinder 2E magic items** appropriate for chara
 **10. Feather Token (Anchor, Tree, or Bird) (L3–5, Consumable)**
 
 * **Source**: *Core Rulebook***Use**:
-	* **Tree Token**: Grows a huge tree instantly—great for cover, escape, or climbing.
-	* **Anchor Token**: Keeps a vessel in place.
-	* **Bird Token**: Sends a written message up to 100 miles.
+    * **Tree Token**: Grows a huge tree instantly—great for cover, escape, or climbing.
+    * **Anchor Token**: Keeps a vessel in place.
+    * **Bird Token**: Sends a written message up to 100 miles.
 
 * **Perfect for**: Exploration and problem-solving adventurers. Adds fun utility at a great price.
 

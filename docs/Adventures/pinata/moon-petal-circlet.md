@@ -6,7 +6,6 @@ tags: []
 
 # Moon Petal Circlet
 
-
 Here’s a fully Pathfinder 2E–compatible elven relic that starts at **Level 6** and can scale in power as the PCs grow. I designed it with PF2E relic mechanics in mind, including **Gifts**, **Awakenings**, and **Relic Powers**, so you can drop it into your campaign seamlessly.
 
 **Moonpetal Circlet**
@@ -60,8 +59,8 @@ Gift: Lunar Resilience**
 Gift: Fate’s Eclipse**
 
 * Once per day, you can enter a **Moonshadow State** for 1 minute:
-	* Gain *concealment* while in dim light or darkness.
-	* Enemies must succeed at a DC 5 flat check to target you directly.
+    * Gain *concealment* while in dim light or darkness.
+    * Enemies must succeed at a DC 5 flat check to target you directly.
 
 **Focus Pool Upgrade**: Gain a second Focus Point.
 
@@ -80,7 +79,7 @@ Gift: Moon’s Apotheosis**
 * Permanently gain *Greater Darkvision* and constant *See Invisibility*.
 
 * Once per day, you can use **Moon’s Judgment**:
-	* As a 3-action activity, call down a beam of pure moonlight in a 20-foot radius, dealing 10d6 positive damage to undead and fiends (basic Reflex save, DC = highest spell DC or class DC). Allies in the area heal 5d6 Hit Points.
+    * As a 3-action activity, call down a beam of pure moonlight in a 20-foot radius, dealing 10d6 positive damage to undead and fiends (basic Reflex save, DC = highest spell DC or class DC). Allies in the area heal 5d6 Hit Points.
 
 **Scaling Summary**
 | Awakening Level                                          | Gift/Power Granted                                       |

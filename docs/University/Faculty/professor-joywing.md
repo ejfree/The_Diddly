@@ -2,15 +2,16 @@
 title: "Professor Joywing"
 type: npc/professor
 college: "College of Lore"
-course: "Dragon Prophecy"
-tags: ["professor", "college: College of Lore", "course: Dragon Prophecy"]
+major: "Dragon Prophecy"
+tags: ["professor", "college: College of Lore", "major: Dragon Prophecy"]
 updated: 2025-10-04
 ---
 
-### Role
-Professor of **Dragon Prophecy**  
+Professor of **Dragon Prophecy**
+
 **College**: College of Lore
-**Course**: Dragon Prophecy
+
+**Major**: Dragon Prophecy
 
 ### Personality
 ...
@@ -18,11 +19,11 @@ Professor of **Dragon Prophecy**
 ### Description
 **Name**: Professor Joywing
 
-**Dragon Type**: Bliss Dragon  
+**Dragon Type**: Bliss Dragon
 
-**Gender**: Female  
+**Gender**: Female
 
-**Age**: Ancient  
+**Age**: Ancient
 ![F94B4654-B49D-44FC-80AC-879B3AB0344E](images/F94B4654-B49D-44FC-80AC-879B3AB0344E.webp)
 
 ---
@@ -30,7 +31,7 @@ Professor of **Dragon Prophecy**
 ### Role:
 Professor of **Dragon Prophecy**
 
-**Course**:
+**Major**:
 
 ---
 
@@ -44,6 +45,9 @@ Professor Joywing’s shimmering scales shift between pastel hues of pink, gold,
 
 ---
 
+### Classes Taught
+- Dragon Prophecy
+
 ### Academic Approach:
 
 - **Course Focus**: Advanced interpretation of prophetic visions, emphasizing hope, harmony, and the potential for positive outcomes.
@@ -56,7 +60,7 @@ Professor Joywing’s shimmering scales shift between pastel hues of pink, gold,
 
 ### Faith and Combat Prowess:
 
-- **Faith Title**: Divine Seer of Harmony  
+- **Faith Title**: Divine Seer of Harmony
   **Faith Description**: Professor Joywing’s teachings align with divine principles of balance, serenity, and the pursuit of a greater good. She sees prophecy as a tool to align one’s path with the harmonious rhythms of the universe.
 
 - **Combat Style**: Nonlethal and defensive, emphasizing the use of electricity-based attacks to incapacitate rather than harm. Her combat style reflects her peaceful nature, using her horn and tail to gently subdue foes when necessary.
@@ -72,11 +76,11 @@ Professor Joywing’s classroom, the **Serenity Dome**, is a tranquil sanctuary 
 
 ### Quotes:
 
-- “Even the darkest storm carries the promise of new life in its rain.”  
+- “Even the darkest storm carries the promise of new life in its rain.”
 
-- “Prophecy is not a sentence; it is a suggestion. We shape our own destinies.”  
+- “Prophecy is not a sentence; it is a suggestion. We shape our own destinies.”
 
-- “Look beyond the chaos of the present to see the harmony of the future.”  
+- “Look beyond the chaos of the present to see the harmony of the future.”
 
 ---
 
@@ -87,9 +91,6 @@ Professor Joywing’s classroom, the **Serenity Dome**, is a tranquil sanctuary 
 - **Protect the Serenity Dome**: A magical disruption threatens the peace of the Serenity Dome, and Joywing requests the party’s help in restoring balance.
 
 - **Lessons in Hope**: Joywing provides the party with a series of exercises to channel positive energy, aiding them in overcoming a demoralizing curse or challenge.
-
-
-
 
 —
 Create a pf2e NPC using the following template and information in the following sentences. Professor Joywing is a radiant and ethereal bliss dragon, known for her serene presence and auras of happiness that seem to brighten any room she enters. Her shimmering scales shift between pastel hues of pink, gold, and lavender, giving her an almost otherworldly glow. Her wings, semi-translucent and adorned with iridescent patterns, unfurl gracefully, leaving behind a soft trail of sparkling light. She teaches various advanced courses in Dragon Prophecy. Her class is Oracle
@@ -108,19 +109,18 @@ Despite her calming nature, Professor Joywing is deeply wise and has a profound 
 
 **Name**: $name
 
-**Dragon Type**: $dragon_type 
+**Dragon Type**: $dragon_type
 
 **Gender**: $gender
 
-**Age**: Ancient 
-
+**Age**: Ancient
 
 ---
 
 ### Role:
 Professor of **$course_name**
 
-**Course**: $course  
+**Major**: $course
 
 ---
 
@@ -136,9 +136,9 @@ $description paragraphs
 
 ### Academic Approach:
 
-- **Course Focus**: $course_focus  
+- **Course Focus**: $course_focus
 
-- **Teaching Style**: $style 
+- **Teaching Style**: $style
 
 - **Philosophy**: $philosophy
 
@@ -148,7 +148,7 @@ $description paragraphs
 
 - **$faith_title**: $faith_description
 
-- **Combat Style**: $combat 
+- **Combat Style**: $combat
 
 - **Signature Move**: $signature
 

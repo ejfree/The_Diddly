@@ -7,7 +7,6 @@ tags: []
 
 # Atrius
 
-
 Class Rank unknown
 
 Major: Prophecy
@@ -15,7 +14,6 @@ Minor: Eldritch Engineerin
 
 Major Advisor: **Professor Veymorth the Waned
 Dragon Type**: Doom Dragon
-
 
 Mid Term Grades:
 Major: A+

@@ -8,23 +8,21 @@ tags: []
 
 #
 
-- ****Matron Mother Xilrath Vel’dryn (Lvl 16 Cleric/Warpriest)****  
+- ****Matron Mother Xilrath Vel’dryn (Lvl 16 Cleric/Warpriest)****
 
-- ****First Sword Captain Veynar (Lvl 12 Fighter/Champion)****  
+- ****First Sword Captain Veynar (Lvl 12 Fighter/Champion)****
 
-- ****Logistics Mistress Shynrae (Lvl 10 Cleric/Investigator)****  
+- ****Logistics Mistress Shynrae (Lvl 10 Cleric/Investigator)****
 
-- ****Company:**** **The Black Blades** — 200 elite soldiers, heavy infantry with poisoned weapons, supported by 20 priestesses.  
-
-
+- ****Company:**** **The Black Blades** — 200 elite soldiers, heavy infantry with poisoned weapons, supported by 20 priestesses.
 
 **### House Xilrath — “The Black Blades”**
 
-- ****Total Drow:**** ~1,200  
+- ****Total Drow:**** ~1,200
 
-- ****Auxiliaries:**** ~1,500  
+- ****Auxiliaries:**** ~1,500
 
-- ****Forces:****  
+- ****Forces:****
   - 200 House Guard (elite infantry)
   - 3 War Companies (750 soldiers + 75 priestesses)
   - 100 Strike Wing skirmishers
@@ -117,7 +115,6 @@ Got it — you want the **“Order of Battle” (TOE / Table of Organization and
 This makes House Xilrath the **largest single fighting force in the city** — enough to anchor the war against the surface.
 
 👉 Do you want me to build **encounter-sized subgroups** (e.g., what a “Black Blade patrol” of 8–10 looks like, what a 50-soldier raiding company looks like in PF2e terms)? That way you can drop them into your sessions without having to scale from the full TOE.
-
 
 Perfect — let’s build **House Xilrath** into a PF2e–ready organization. Since this house is the **militaristic “matron house”**of your Underdark city, I’ll sketch its structure like a faction/army with role-tiers you can pull NPCs from.
 

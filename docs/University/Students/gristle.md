@@ -22,11 +22,11 @@ Here is the new student NPC using the default template:
 
 **Name**: Gristle
 
-**Dragon Type**: Brass Dragon  
+**Dragon Type**: Brass Dragon
 
-**Year**: 5th Year (Primus)  
+**Year**: 5th Year (Primus)
 
-**Major**: Arcanomechanics  
+**Major**: Arcanomechanics
 
 ### Personality:
 Gristle is a gregarious and highly talkative dragon who loves to engage in deep conversations about magical technology and ancient lore. He’s passionate about his studies and often seen tinkering with magical devices or experimenting with new recipes. His love for food is as intense as his love for magic, making him a natural fit as Chairman of The Draconic Gastronomy Guild. Gristle has a jovial, charismatic demeanor but can become quite intense when it comes to perfecting both his culinary and magical creations. He often enjoys sharing his work with friends and inviting others to taste-test his latest dishes.

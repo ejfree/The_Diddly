@@ -6,8 +6,6 @@ tags: []
 
 # The Draconic Gastronomy Guild
 
-
-
 **Club Name:** *The Draconic Gastronomy Guild*
 
 *Motto:* "Savor the Unknown, Feast on Discovery"
@@ -89,6 +87,5 @@ Here are five unique members of *The Draconic Gastronomy Guild*:
 ---
 
 These five members each bring their unique flare to the Draconic Gastronomy Guild, contributing to the club’s reputation for pushing the boundaries of culinary exploration with their adventurous tastes and magical flair!
-
 
 In my dragon university, create a club that are culinary adventurers and foodies. It should be run by a committee with a chairman.

@@ -6,24 +6,17 @@ tags: []
 
 # Iouna (retired)
 
-
-
-
 Major: Magical theory
 Minor: planar studies
 
 Short White is kobold, white horns and iridescent armor, big blue eyes.
-
 
 Mar - May
 DC 10 Academics - 27 CRIT!!!!
 DC15 Other. Medical
 Head Abess Mother of Horation house of Healing Gold dragon
 
-
-
 Jan & Feb
-
 
 Academics Crit, Success, Success +4
 Rank 21 A-
@@ -47,7 +40,6 @@ DC 20
 DC 25
 DC 30
 DC 40
-
 
 While with opalescent scales
 

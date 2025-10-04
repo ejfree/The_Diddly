@@ -6,7 +6,6 @@ tags: []
 
 # Treasures for level 1
 
-
 For L2 = 35*5 = 180
 For L3 + 40*5= 200
 For L4 + 65*5= 325

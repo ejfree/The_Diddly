@@ -6,7 +6,6 @@ tags: []
 
 # Major Areas
 
-
 College of Lore
 
 * **Prophecy**: A major dedicated to studying the draconic prophecy. Hardest major at the university.

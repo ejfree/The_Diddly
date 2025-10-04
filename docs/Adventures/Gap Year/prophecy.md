@@ -7,8 +7,6 @@ tags: []
 
 # Prophecy
 
-
-
 Here is a draconic prophecy in the style of the *Draconic Prophecy* from Eberron. It uses metaphor, celestial alignments, and layered meanings — avoiding naming Lloth or Tiamat directly, while alluding to both — and references the events of the classic GDQ (G1–3, D1–3, Q1) series as fate-bound steps in a greater cosmic struggle:
 
 **📜** ***Fragment of the Black Coil, etched in obsidian beneath the Vault of Sighs***

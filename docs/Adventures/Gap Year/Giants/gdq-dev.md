@@ -6,17 +6,10 @@ tags: []
 
 # GDQ Dev
 
-
-
-
 Located in Sarlona. ??
 G1 Forest of Lurking Shadows
 G2 Eska Mountains
 G3 Broken Blade Mountains
-
-
-
-
 
 G1 Random Monsters
 01-05 1 Bear, Cave
@@ -44,7 +37,7 @@ Western Sections (West **of** Great Hall): encounter **1** in **10**
 
 *3. 3* ogres from Room 11 going to get one of the guards.
 
-*4. 1* hill giant from Room 11 taking a stroll. 
+*4. 1* hill giant from Room 11 taking a stroll.
 
 Great **Hall** to **Room 11:** Encounter **1** in **8**
 
@@ -113,25 +106,25 @@ G3 random
 91-00 1-2 Giant Trolls
 
 Giant Bag Contents
-01-03	old axe blade for use as hand chopper
-04-17	boulders, small (1-4)
-18-19	bowl and spoon, tin or pewter, bat-
-20-21	brass items, various and sundry, bent
-22-23	caltrops, iron, large (1-6)
-24-25	cheese, hard, slightly moldy, and
-26-30	cloak, shabby, wool or hide
-31-32	comb and hairpins, bone
-33-40	cooking pot, iron
-41-43	horn, drinking
-44-47	knife, skinning
-48-53	linen:, various, soiled, patched
-54-60	meat, haunch of
-61-64	money, copper (100-400 pieces)
-65-67	money, silver (20-80 pieces)
-68-69	money, gold (10-40 pieces)
-70-76	pelt, fur, worthless and mangy
-77-83	rope, 10(FM)-120(FM) coil, very
-84-85	salt, small bag or box of
-86-90	flip flpops
-91-98	skin, water or wine, full
-99-00	teeth 
+01-03    old axe blade for use as hand chopper
+04-17    boulders, small (1-4)
+18-19    bowl and spoon, tin or pewter, bat-
+20-21    brass items, various and sundry, bent
+22-23    caltrops, iron, large (1-6)
+24-25    cheese, hard, slightly moldy, and
+26-30    cloak, shabby, wool or hide
+31-32    comb and hairpins, bone
+33-40    cooking pot, iron
+41-43    horn, drinking
+44-47    knife, skinning
+48-53    linen:, various, soiled, patched
+54-60    meat, haunch of
+61-64    money, copper (100-400 pieces)
+65-67    money, silver (20-80 pieces)
+68-69    money, gold (10-40 pieces)
+70-76    pelt, fur, worthless and mangy
+77-83    rope, 10(FM)-120(FM) coil, very
+84-85    salt, small bag or box of
+86-90    flip flpops
+91-98    skin, water or wine, full
+99-00    teeth 

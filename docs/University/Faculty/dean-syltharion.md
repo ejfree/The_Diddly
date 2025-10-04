@@ -2,15 +2,19 @@
 title: "Dean Syltharion"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
-course: "Arcanomechanics"
-tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "course: Arcanomechanics"]
+major: "Arcanomechanics"
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Arcanomechanics"]
 updated: 2025-10-04
 ---
 
 ### Role
-Dean of **Arcanomechanics**  
+
+Dean of **Arcanomechanics**
+
 **College**: Academy of Archano-elemental and Techno Mechanics
-**Course**: Arcanomechanics
+
+**Major**: Arcanomechanics
+
 
 ### Personality
 ...
@@ -66,11 +70,13 @@ Syltharion has a network of alumni and academic peers across various realms and 
 
 This NPC could serve as a mentor, an ally, or a quest giver in your game, involving players in intricate plots of arcane intrigue and mechanical marvels at the Dragon University.
 
-
  Draw Syltharion the Bronze, an ancient bronze dragon with massive, shimmering bronze scales that seem to glow slightly with arcane energy. His eyes are deep turquoise, reflecting a mind that is both ancient and keenly attuned to the nuances of magic and mechanics. He has a flowing beard interspersed with bronze streaks, wearing ornate robes decorated with symbols of gears and arcane sigils.
 
 ——
 create an NPC bronze dragon that is also a Dean of the Arcanomechanics in the Academy of Archano-elemental and Techno Mechanics at the dragon university.
+
+### Classes Taught
+- Arcanomechanics
 
 ### Academic Approach
 - **Course Focus**: ...

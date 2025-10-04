@@ -6,14 +6,12 @@ tags: []
 
 # City Location Breakout
 
-
 There are 6 levels to Io’Lokar
 
 L1: Shops, General Portals, and most taverns, inns and everything is located on this level.
 L2 - This level holds all the general governmental buildings and a very small number of food/inns.
 L3 - Library Level - Research Houses & Libraries. There are a very few shops on this level and all specific to books & scholarly things.
 L4 - L6 are housing. This is fairly dense as there is a lot of space fuckery going on inside. Every weyr has a townhouse location on level 4 & 5. Level 6  is more estates for some of the larger weyrs.
-
 
 To support a floating city like **Io’lokar** with 1,500 dragon residents and its close relationship to the university ("The Diddly"), the shops would need to serve both everyday life for residents and the specialized needs of the university population. Here's a breakdown of how many shops and types might be necessary:
 
@@ -139,7 +137,6 @@ For social gatherings, offering special dragon brews and elixirs.
    - A dive bar, that is al fresco and even more open air. It overlooks the campus below and is underneath the city itself.
    - Specialty: Silver Bullets… Smaller canned beer for 1sp. Yes, it is coors light.
 
-
 #### **Housing and Maintenance**
 
 - **Furniture & Decoration Shops**
@@ -171,7 +168,6 @@ Handling magical and structural repairs for floating homes or dorms.
     - A “catalog” store offering almost every building material you could want. Metal ingots, raw gems, custom nails, as well as many common non-magical elements for the home, office, or further crafted works.
     - Specialty: U shaped counter with gargantuan catalogs on the 3 legs of the U. Once ordered, everything arrives within a minute, through the portal. It comes down a roller belt out of a portal. It will be packaged in something that the golem will recycle on another roller that takes it
 
-
 #### **Clothing and Accessories**
 
 - **Clothiers**
@@ -190,7 +186,6 @@ While dragons don’t wear much clothing, some like enchanted adornments, cloaks
 33. **Glitter & Gleam**
     - A jewelry shop specializing in rare, custom pieces for dragons.
     - Specialty: Hoard-enhancing ornaments and wearable magical gems.
-
 
 #### **Healthcare**
 
@@ -264,7 +259,6 @@ For parchments, quills, and dragon-sized notebooks.
    - A one-stop shop for general study supplies, including dragon-scale-compatible textbooks, scroll binders, and enchanted highlighters.
    - Specialty: "Infinite Memory Scrolls" for perfect note-taking.
 
-
 #### **Student-Centric Shops**
 
 - **Cafes and Study Lounges**
@@ -281,7 +275,6 @@ Providing quiet places for studying, networking, or relaxing.
 48. **Planar Brews**
    - A café with a library-like setting, offering coffee, tea, and planar-infused beverages.
    - Specialty: Drinks themed by elemental planes (e.g., "Air Element Espresso").
-
 
 49. **The Flight Lounge**
    - A casual spot for students to gather between classes, with wing-sized seating and group-friendly spaces.
@@ -334,7 +327,6 @@ Focused on metallurgy, crafting, and arcanomechanics.
     - A creative supplies shop for artistic dragons, selling paints, canvases, and crafting materials.
     - Specialty: Magical paints that shift with emotions or elemental energy.
 
-
 ---
 
 ### **Specialized Dragon Shops**
@@ -375,7 +367,6 @@ For tailoring large ceremonial or academic robes.
    - A boutique offering dragon-specific ceremonial and decorative items such as horn adornments, wing jewelry, and claw caps.
    - **Specialty**: Enchanted items that shift colors or emit magical glows.
 
-
 ---
 
 ### **General Retail and Entertainment**
@@ -387,7 +378,6 @@ Selling everyday goods.
 64. **The All-Scales Emporium**
    - A large general store carrying everyday goods for dragons, from cleaning supplies to enchanted lighting.
    - **Specialty**: Fireproof, waterproof, and frost-resistant household items. Also self cleaning things
-
 
 65. **The Eternal Glow**
    - A lantern and lighting shop offering ever-burning lights, enchanted chandeliers, and glowing gemstones.
@@ -416,7 +406,6 @@ Including theaters, musical halls, or magical performance spaces.
     - An upscale lounge offering relaxation spaces, live entertainment, and luxurious refreshments.
     - **Specialty**: Private lounges with customizable elemental atmospheres.
 
-
 - **Curiosity Shops**
 Selling rare magical items, artifacts, and mysterious objects.
 
@@ -427,7 +416,6 @@ Selling rare magical items, artifacts, and mysterious objects.
 72. **The Scale Boutique**
    - A shop selling wearable accessories, including ceremonial cloaks, enchanted collars, and wing wraps.
    - **Specialty**: Self-repairing and adaptive clothing for dragons of all sizes.
-
 
 - **Toy and Trinket Shops**
 For playful or collectible items, especially for younger dragons.
@@ -456,8 +444,6 @@ For renting or maintaining flying mounts or enchanted vehicles.
    - A travel agency specializing in planning dragon-sized excursions to prime material plane locations across the multiverse.
    - **Specialty**: Safe portal travel arrangements, with automated returns and "portable lairs" for long trips.
 
-
-
 - **Courier and Delivery Services**
 Ensuring goods move between the city and the university.
 
@@ -479,8 +465,6 @@ For teleportation to the ground or between planes.
 80. **Portal Nexus**
    - A teleportation service shop for instant travel to the university, other cities or to other planes.
    - **Specialty**: Secure and personalized portal creation, along with planar anchoring services.
-
-
 
 ---
 

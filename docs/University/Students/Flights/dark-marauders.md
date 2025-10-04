@@ -6,9 +6,9 @@ updated: 2025-10-04
 ---
 
 **Name**: Dark Marauders
-**Dragon Type**: 
+**Dragon Type**:
 **Year**: Wyvern
-**Major**: 
+**Major**:
 
 ### Personality
 (Describe demeanor, quirks, interaction style.)

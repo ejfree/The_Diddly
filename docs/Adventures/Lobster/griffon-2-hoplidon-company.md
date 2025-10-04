@@ -6,8 +6,6 @@ tags: []
 
 # Griffon 2 Hoplidon Company
 
-
-
 Part of the Cyre army. This was an attack company of war robots.
 Company: Hopps
 A company has 127 units + leader. Yes, they will use Hexidecimal

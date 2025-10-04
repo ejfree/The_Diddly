@@ -23,11 +23,11 @@ He is currently a prospect for the Lamannia Enthusiasts
 
 **Name**: Wildpyre
 
-**Dragon Type**: Red Dragon  
+**Dragon Type**: Red Dragon
 
-**Year**: 2nd Year  
+**Year**: 2nd Year
 
-**Major**: Political Intrigue and Diplomacy  
+**Major**: Political Intrigue and Diplomacy
 
 ### Personality:
 Wildpyre is ambitious, confident, and highly strategic in his approach to both academics and personal interactions. He is quick to analyze situations and adapt his tactics to gain an upper hand, making him an adept student of diplomacy. While he can be charming when he wants to be, his fiery temper sometimes flares up when things don’t go his way. He enjoys intellectual challenges and debates, often engaging with professors and peers in discussions to hone his skills. Wildpyre is not afraid to play a long game, and he is known for his careful planning and desire to rise to power.

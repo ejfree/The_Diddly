@@ -6,7 +6,6 @@ tags: []
 
 # Gear for the Tomb
 
-
 /Tome Entrance
 
 /Smoke balls

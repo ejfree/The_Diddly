@@ -6,7 +6,6 @@ tags: []
 
 # Dark Pumpkins
 
-
 Use the dark pumpkin battlemap. Here is the hook.
 ![0964AB91-326C-4622-9A4F-56FE959B31EF](images/0964AB91-326C-4622-9A4F-56FE959B31EF.jpg)
 
@@ -31,10 +30,6 @@ The adventure is set in a sprawling pumpkin patch that serves as a production si
 ---
 
 Just a bunch of spiders who chop up pumpkin and get enraged when you enter their pumpkin. Swampclaw buffs and launches into the air. Dives down onto them
-
-
-
-
 
 ### Key Locations in the Pumpkin Patch Village
 

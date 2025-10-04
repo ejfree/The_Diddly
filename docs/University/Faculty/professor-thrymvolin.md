@@ -2,15 +2,19 @@
 title: "Professor Thrymvolin"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
-course: "Advanced Techno-Magical Engineering (Arcanomechanics 101)"
-tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "course: Advanced Techno-Magical Engineering (Arcanomechanics 101)"]
+major: "Advanced Techno-Magical Engineering (Arcanomechanics 101)"
+tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Advanced Techno-Magical Engineering (Arcanomechanics 101)"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **Advanced Techno-Magical Engineering**  
+
+Professor of **Advanced Techno-Magical Engineering**
+
 **College**: Academy of Archano-elemental and Techno Mechanics
-**Course**: Advanced Techno-Magical Engineering (Arcanomechanics 101)
+
+**Major**: Advanced Techno-Magical Engineering (Arcanomechanics 101)
+
 
 ### Personality
 ...
@@ -18,9 +22,8 @@ Professor of **Advanced Techno-Magical Engineering**
 ### Description
 ![7D195336-7768-4989-A090-A13877AF049C](images/7D195336-7768-4989-A090-A13877AF049C.webp)
 Advanced Techno-Magical Engineering - Archanomechanics 101
-	- An introduction to the fusion of magic and technology, examining the principles behind magical constructs and the advancements in arcanomechanical designs.
-	- *Professor Thrymvolin (Amethyst Dragon):** An innovator in magical computing and information storage, Gearspark teaches students how to create and manipulate arcanomechanical computers and libraries, pushing the boundaries of knowledge management.
-
+    - An introduction to the fusion of magic and technology, examining the principles behind magical constructs and the advancements in arcanomechanical designs.
+    - *Professor Thrymvolin (Amethyst Dragon):** An innovator in magical computing and information storage, Gearspark teaches students how to create and manipulate arcanomechanical computers and libraries, pushing the boundaries of knowledge management.
 
 I've created your NPC amethyst dragon professor:
 
@@ -38,13 +41,15 @@ I've created your NPC amethyst dragon professor:
 
 Would you like to expand on any aspects of this character or create a specific scenario for them?
 
-
 Draw this dragon which has gleaming amethyst scales and piercing crystalline eyes, and embodies the innovative spirit of arcanomechanics.
 
 —
 Create a pathfinder npc, the race is amethyst dragon, and this is a professor of Arcanomechanics in the Academy of Archano-elemental and Techno Mechanics at the dragon university.
 
 https://wormhole.app/ZMOZ56#_v8pptjqG1Scgjg0-6go5A
+
+### Classes Taught
+- Advanced Techno-Magical Engineering (Arcanomechanics 101)
 
 ### Academic Approach
 - **Course Focus**: ...

@@ -4,7 +4,6 @@ updated: 2025-10-04
 tags: []
 ---
 
-
 # Council of Houses
 
 ## Major Houses
@@ -27,7 +26,6 @@ tags: []
 
 Perfect — here’s your **Council of Houses** roster for the drow war-city. This is modeled on the *Ruling Council* of Menzoberranzan but tuned for your **two-decade war effort** and the political weight of each house’s military company.
 
-
 ## Council of Houses
 
 ### Structure
@@ -35,11 +33,10 @@ Perfect — here’s your **Council of Houses** roster for the drow war-city. Th
 - **Seats:** 6 total (2 major houses, 4 minor).
 
 - **Voting Power:** Weighted by house status and military contribution.
-	- Major Houses: 2 votes each
-	- Minor Houses: 1 vote each
+    - Major Houses: 2 votes each
+    - Minor Houses: 1 vote each
 
 - **Council Hall:** A circular obsidian chamber inside the Temple-Fortress of Lolth, with each house’s insignia carved into stone thrones.
-
 
 ### Roster
 
@@ -126,7 +123,6 @@ Perfect — here’s your **Council of Houses** roster for the drow war-city. Th
 - **Allies:** Xilrath (war doctrine, at least superficially)
 
 - **Rivals:** Veythrae (sees them as dangerously heretical)
-
 
 ## Council Dynamics
 

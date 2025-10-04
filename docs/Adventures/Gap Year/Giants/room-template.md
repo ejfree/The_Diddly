@@ -6,7 +6,6 @@ tags: []
 
 # Room Template
 
-
 ## **Room_Name**
 Critical Notes to remember
 
@@ -15,46 +14,46 @@ Room
 
 ### **Features & Terrain**
 
-- **Lighting**:   
+- **Lighting**:
 
-- **Surfaces**:  
+- **Surfaces**:
 
-- **Objects**:   
+- **Objects**:
 
-- **Doors & Exits**: 
+- **Doors & Exits**:
 
-- **Special Interactions**: 
+- **Special Interactions**:
 
 ### **Smells & Sounds**
 
-- **Smells**:  
+- **Smells**:
 
-- **Sounds**:  
+- **Sounds**:
 
 ### **Inhabitants**
 
-- **Passive Creatures**: 
+- **Passive Creatures**:
 
-- **Hostile Threats**:  
+- **Hostile Threats**:
 
-- **Unique NPCs**: 
+- **Unique NPCs**:
 
 ### **Traps & Hazards**
 
-- **Trap Name & Type**:   
+- **Trap Name & Type**:
 
 - **Trigger**:
 
-- **Effect**: 
+- **Effect**:
 
-- **Disarm**:  
+- **Disarm**:
 
 ### **Loot & Rewards**
 
-- **Visible Loot**: 
+- **Visible Loot**:
 
-- **Hidden Loot**: 
+- **Hidden Loot**:
 
-- **Magical Items**: 
+- **Magical Items**:
 
 ### **Additional Notes**

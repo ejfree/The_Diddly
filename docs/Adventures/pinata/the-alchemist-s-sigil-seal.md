@@ -6,9 +6,6 @@ tags: []
 
 # The Alchemist’s Sigil Seal
 
-
-
-
 **Puzzle Trap: The Alchemist’s Sigil Seal
 Room Layout**
 
@@ -29,7 +26,7 @@ Room Layout**
 **Correct Set (the Alchemist’s Formula)**
 
 * To mirror the secret recipe the alchemist jealously guarded, the sigils must be arranged clockwise:
-	* **North: Gold (Sunburst)****East: Fire (Triangle)****South: Blood (Droplet)****West: Water (Circle)**This sequence is the alchemist’s “Great Work”:
+    * **North: Gold (Sunburst)****East: Fire (Triangle)****South: Blood (Droplet)****West: Water (Circle)**This sequence is the alchemist’s “Great Work”:
 
 **Gold is born of Fire, Fire is fed by Blood, Blood is washed in Water, and Water purifies into Gold.**
 
@@ -37,18 +34,18 @@ Room Layout**
 
 **Incorrect Sets & Alchemist’s Punishments**
 The alchemist deliberately rigged the seal so wrong combinations unleash “failed experiment” effects:
-1. **All Fire**	* **Explosion of Flame:** The circle belches a gout of fire, scorching everything in the room.
-	* Walls blacken, and the smell of brimstone lingers.
-2. **All Water**	* **Flooding Vapors:** The chamber fills with choking alchemical steam.
-	* Creatures cough violently, taking acid damage and suffering obscured vision.
-3. **All Blood**	* **Vampiric Drain:** Crimson mist rises from the disc, draining HP from creatures and channeling it into the stone.
-	* Anyone reduced to 0 collapses into a husk.
-4. **All Gold**	* **Alchemical Calcification:** A transmutation surge hardens skin into brittle crystal.
-	* Affected creatures become slowed and vulnerable to bludgeoning until cured.
-5. **Opposite Pairs (North/South match, East/West match)**	* **Unstable Reaction:** The circle glows violently, then detonates with thunderous force.
-	* Creatures are pushed back as if an alchemical bomb exploded.
-6. **Chaos Pattern (all four different but in wrong order)**	* The seal “hisses” like a boiling crucible.
-	* Everyone in the room takes splash acid damage, and the lever locks for 1 minute while the system resets.
+1. **All Fire**    * **Explosion of Flame:** The circle belches a gout of fire, scorching everything in the room.
+    * Walls blacken, and the smell of brimstone lingers.
+2. **All Water**    * **Flooding Vapors:** The chamber fills with choking alchemical steam.
+    * Creatures cough violently, taking acid damage and suffering obscured vision.
+3. **All Blood**    * **Vampiric Drain:** Crimson mist rises from the disc, draining HP from creatures and channeling it into the stone.
+    * Anyone reduced to 0 collapses into a husk.
+4. **All Gold**    * **Alchemical Calcification:** A transmutation surge hardens skin into brittle crystal.
+    * Affected creatures become slowed and vulnerable to bludgeoning until cured.
+5. **Opposite Pairs (North/South match, East/West match)**    * **Unstable Reaction:** The circle glows violently, then detonates with thunderous force.
+    * Creatures are pushed back as if an alchemical bomb exploded.
+6. **Chaos Pattern (all four different but in wrong order)**    * The seal “hisses” like a boiling crucible.
+    * Everyone in the room takes splash acid damage, and the lever locks for 1 minute while the system resets.
 
 **Atmosphere**
 
@@ -102,9 +99,9 @@ When pieced together, the cycle emerges:
 * The notes might be written in *Goblin shorthand*, requiring checks (Arcana, Alchemy, or Linguistics) to interpret.
 
 * Some pieces might be **physically damaged**:
-	* Words obscured with acid burns.
-	* Sentences ending mid-thought.
-	* Blood smears across a phrase.
+    * Words obscured with acid burns.
+    * Sentences ending mid-thought.
+    * Blood smears across a phrase.
 This makes them feel like authentic scraps instead of perfect instructions.
 
 ⚗️ Do you want me to write these **exactly as handouts/props** (short phrases formatted as old scraps players could be given at the table)?

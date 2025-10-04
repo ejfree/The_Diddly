@@ -6,8 +6,6 @@ tags: []
 
 # Codified Draconic Code
 
-
-
 1. No killing or intentional harming of other dragons
 2. No theft of any other dragon’s horde
 3. No trespassing on Weyr estates & lands

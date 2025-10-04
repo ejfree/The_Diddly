@@ -23,9 +23,9 @@ He is currently a prospect for the Lamannia Enthusiasts
 
 **Name**: Wildbriar
 
-**Dragon Type**: Forest Dragon  
+**Dragon Type**: Forest Dragon
 
-**Year**: 2nd Year (Drake Year)  
+**Year**: 2nd Year (Drake Year)
 
 **Major**: Mineral Extraction & Refinement
 

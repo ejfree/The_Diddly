@@ -6,7 +6,6 @@ tags: []
 
 # Character Backstory Homework
 
-
 I promise this will be as detailed as you want it. The only request is that you answer each question, even if it is just 1 word. Free response. The answer can be generic or specific, choose what you want. Your answer can also be “I dont know” that’s ok too. Thanks
 
 1. What is your characters full name?

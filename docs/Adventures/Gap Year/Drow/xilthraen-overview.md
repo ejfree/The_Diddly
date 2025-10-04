@@ -6,7 +6,6 @@ tags: []
 
 # Xilthraen Overview
 
-
 Got it — if you’re leaning into the **Forgotten Realms Underdark stereotype** (Lolthite hierarchy, slave-driven economy, martial focus) but want it transplanted into Eberron, here’s a good scale for your **forward-leaning, war-supporting city**:
 
 **Population Scale**

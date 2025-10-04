@@ -6,14 +6,11 @@ tags: []
 
 # Dragon Tussling
 
-
 **The Top of the dragon tussling pyramid is called the Wyrmperor:** A fusion of "Wyrm," an old term for dragon, and "Emperor," suggesting a dragon of unparalleled strength and regal authority in the sumo wrestling world.
 
 This also has an odd military connotation. In combination with the leader of the Council, they are the battle leaders of the dragon armies. The each control forces for a [day,week,month].
 
-
-
-"Tusseling," the dragon sumo wrestling, is an intricate duel	 that combines elements of performance, physical prowess, and verbal dexterity. It is poart sport and part code duello. Dragons have realized that wanton destruction of their own kind is silly. But having a competition was important to showing who is best. It has been used to settle grudges, family disputes, or as sporting/gladatorial combat for entertainment. Imagine even crazier WWE shenanigans but with dragons. Here’s an expanded breakdown of the three phases of a Tusseling competition in your Pathfinder 2e game:
+"Tusseling," the dragon sumo wrestling, is an intricate duel     that combines elements of performance, physical prowess, and verbal dexterity. It is poart sport and part code duello. Dragons have realized that wanton destruction of their own kind is silly. But having a competition was important to showing who is best. It has been used to settle grudges, family disputes, or as sporting/gladatorial combat for entertainment. Imagine even crazier WWE shenanigans but with dragons. Here’s an expanded breakdown of the three phases of a Tusseling competition in your Pathfinder 2e game:
 
 **Phase 1: The Grand Entrance (Performance Phase)**
 
@@ -51,16 +48,11 @@ This also has an odd military connotation. In combination with the leader of the
 
 * Tusseling is not just a test of strength but a comprehensive showcase of a dragon's capabilities, making it a highly respected and multifaceted sport in your game world.
 
-
-
 Tussling Ladder Rankings…
 
 Groups of 500.
 
-
-
 Pyramid Names
-
 
 **Wyrmperor:** A fusion of "Wyrm," an old term for dragon, and "Emperor," suggesting a dragon of unparalleled strength and regal authority in the sumo wrestling world.
 

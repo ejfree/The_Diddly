@@ -61,29 +61,25 @@ You’re right—the earlier breakdown double-counted some roles and left gaps. 
 * Elite **Nightfangs (12 drow) + 24 shadow weasels** are accounted for in their respective totals.
 If you want, I can drop this into the master city ledger and align the other houses’ TOEs to the same accounting style so all house totals reconcile cleanly.
 
-
 - ****Matron Mother Yvra Dravun (Lvl 13 Cleric/Beastmaster)****
 
-- ****Beastlord Krael Dravun (Lvl 9 Ranger/Beastmaster)****  
+- ****Beastlord Krael Dravun (Lvl 9 Ranger/Beastmaster)****
 
-- ****Mistress of Fangs Nelyth Dravun (Lvl 8 Rogue/Poisoner)****  
+- ****Mistress of Fangs Nelyth Dravun (Lvl 8 Rogue/Poisoner)****
 
-- ****Company:**** **The Fang Legion** — 100 handlers, 200 quaggoths, 80 spiders.  
-
+- ****Company:**** **The Fang Legion** — 100 handlers, 200 quaggoths, 80 spiders.
 
 **### House Dravun — “The Fang Legion”**
 
-- ****Total Drow:**** ~400  
+- ****Total Drow:**** ~400
 
-- ****Auxiliaries:**** ~1,200 beasts/slaves  
+- ****Auxiliaries:**** ~1,200 beasts/slaves
 
-- ****Forces:****  
+- ****Forces:****
   - 200 quaggoths
   - 80 giant spiders
   - 100 drow handlers
   - 200 rothé beasts
-
-
 
 ## **House Dravun — TOE**
 

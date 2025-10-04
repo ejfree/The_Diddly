@@ -6,9 +6,7 @@ tags: []
 
 # The Pit
 
-
 The pit is 150’ deep and very wide.
-
 
 Run by a time mage.
 

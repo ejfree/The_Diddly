@@ -6,7 +6,6 @@ tags: []
 
 # Level 3 Encounters & Loot tracking
 
-
 Skymetal Mines
 
 40 XP - 2x statues
@@ -30,16 +29,6 @@ Total 700
 880
 60 2XDERO
 60
-
-
-
-
-
-
-
-
-
-
 
 Loot target (560gp)
 —

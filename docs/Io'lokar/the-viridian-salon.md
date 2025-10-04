@@ -6,8 +6,6 @@ tags: []
 
 # The Viridian Salon
 
-
-
 The Viridian Salon. The salon is located in Io’lokar and is one of the best places to eat in the universe. The kitchen is run by Chef Jabbie. And the salon itself is owned by Alyssa Siviridion.
 
 The lobby is a large hostess stand where Alyssa or her stand-in greets guests and shows them to their tables. And personally chooses their teapot from her collection. The green booths for a circle around a large silver & green crystal cylinder that is actually a samovar, Sammy the samovar. Part of the samovar is a robot looking golem, top half only, that protrudes from the counter. It interacts with guests as the enter & exit.

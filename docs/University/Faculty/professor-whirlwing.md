@@ -2,15 +2,16 @@
 title: "Professor Whirlwing"
 type: npc/professor
 college: "College of Lore"
-course: "Dragons > Giants (Dragon History 200)"
-tags: ["professor", "college: College of Lore", "course: Dragons > Giants (Dragon History 200)"]
+major: "Dragons > Giants (Dragon History 200)"
+tags: ["professor", "college: College of Lore", "major: Dragons > Giants (Dragon History 200)"]
 updated: 2025-10-04
 ---
 
-### Role
-Professor of **Dragons > Giants**  
+Professor of **Dragons > Giants**
+
 **College**: College of Lore
-**Course**: Dragons > Giants (Dragon History 200)
+
+**Major**: Dragons > Giants (Dragon History 200)
 
 ### Personality
 ...
@@ -18,11 +19,11 @@ Professor of **Dragons > Giants**
 ### Description
 **Name**: Professor Whirlwing
 
-**Dragon Type**: Tumult Dragon  
+**Dragon Type**: Tumult Dragon
 
-**Gender**: Non-Binary  
+**Gender**: Non-Binary
 
-**Age**: Ancient  
+**Age**: Ancient
 ![162B7A9E-D902-4154-908F-C2B1CE1D9AD7](images/162B7A9E-D902-4154-908F-C2B1CE1D9AD7.webp)
 
 ---
@@ -30,7 +31,7 @@ Professor of **Dragons > Giants**
 ### Role:
 Professor of **Dragons > Giants**
 
-**Course**: Dragon History 200  
+**Major**: Dragon History 200
 
 ---
 
@@ -44,11 +45,14 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 ---
 
+### Classes Taught
+- Dragons > Giants (Dragon History 200)
+
 ### Academic Approach:
 
-- **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.  
+- **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.
 
-- **Teaching Style**: Highly dynamic and interactive, Whirlwing encourages debates, role-playing exercises, and immersive storytelling. They challenge students to think critically about the sources of history, question established narratives, and embrace the idea of history as a living, evolving entity.  
+- **Teaching Style**: Highly dynamic and interactive, Whirlwing encourages debates, role-playing exercises, and immersive storytelling. They challenge students to think critically about the sources of history, question established narratives, and embrace the idea of history as a living, evolving entity.
 
 - **Philosophy**: Whirlwing’s core belief is that history is not static. It is a tide constantly reshaped by the perspectives of those who tell it. They inspire students to see themselves as active participants in the ongoing story of dragonkind.
 
@@ -56,11 +60,11 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 ### Faith and Combat Prowess:
 
-- **Faith Title**: Keeper of Shifting Truths  
+- **Faith Title**: Keeper of Shifting Truths
 
-- **Faith Description**: Professor Whirlwing honors no singular deity but rather reveres the concept of transformation itself, drawing inspiration from the ever-changing winds and tides of the world.  
+- **Faith Description**: Professor Whirlwing honors no singular deity but rather reveres the concept of transformation itself, drawing inspiration from the ever-changing winds and tides of the world.
 
-- **Combat Style**: Whirlwing’s combat style reflects their nature, emphasizing agility, unpredictability, and adaptability. They use their breath weapon to create chaotic, multicolored bursts that disorient opponents and shift the battlefield to their advantage.  
+- **Combat Style**: Whirlwing’s combat style reflects their nature, emphasizing agility, unpredictability, and adaptability. They use their breath weapon to create chaotic, multicolored bursts that disorient opponents and shift the battlefield to their advantage.
 
 - **Signature Move**: "Cyclone of Chaos"—a powerful breath attack that combines elemental damage types in a swirling vortex, leaving adversaries staggered and confused.
 
@@ -73,11 +77,11 @@ Professor Whirlwing’s classroom is a testament to their love of change. The sp
 
 ### Quotes:
 
-- “History is not a river flowing in one direction; it is a storm, wild and untamed. Embrace its chaos, and you shall find truth.”  
+- “History is not a river flowing in one direction; it is a storm, wild and untamed. Embrace its chaos, and you shall find truth.”
 
-- “To understand our future, we must unchain ourselves from the past and dare to rewrite it.”  
+- “To understand our future, we must unchain ourselves from the past and dare to rewrite it.”
 
-- “What the giants call defeat, we dragons call transformation. It is all a matter of perspective.”  
+- “What the giants call defeat, we dragons call transformation. It is all a matter of perspective.”
 
 ---
 
@@ -87,12 +91,9 @@ Professor Whirlwing’s classroom is a testament to their love of change. The sp
 3. **Uncovering the Past**: A lost artifact from the age of dragon-giant wars resurfaces, and Whirlwing enlists the students to help unravel its mysteries while fending off rival scholars and treasure hunters.
 4. **The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
 
-
-
 —
 
 *Professor Whirlwing (Tumult Dragon):** Examines the historical shifts in elemental powers and their impact on dragonkind.\
-
 
 Create a pf2e NPC using the following template and information in the following sentences. Professor Whirlwing is a an ancient non-binary tumult dragon at my dragon university. They teaches Dragons > Giants, Dragon History 200 . Tumult dragons are descended from a line of capricious seekers of change. tumult dragon are multicolored in large patches, using the traditional dragon colors.
 
@@ -106,19 +107,18 @@ Though he is driven by a love for change, Whirlwing is also deeply committed to 
 
 **Name**: $name
 
-**Dragon Type**: $dragon_type 
+**Dragon Type**: $dragon_type
 
 **Gender**: $gender
 
-**Age**: Ancient 
-
+**Age**: Ancient
 
 ---
 
 ### Role:
 Professor of **$course_name**
 
-**Course**: $course  
+**Major**: $course
 
 ---
 
@@ -134,9 +134,9 @@ $description paragraphs
 
 ### Academic Approach:
 
-- **Course Focus**: $course_focus  
+- **Course Focus**: $course_focus
 
-- **Teaching Style**: $style 
+- **Teaching Style**: $style
 
 - **Philosophy**: $philosophy
 
@@ -146,7 +146,7 @@ $description paragraphs
 
 - **$faith_title**: $faith_description
 
-- **Combat Style**: $combat 
+- **Combat Style**: $combat
 
 - **Signature Move**: $signature
 

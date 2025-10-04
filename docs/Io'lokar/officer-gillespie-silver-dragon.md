@@ -6,12 +6,3 @@ tags: []
 
 # Officer Gillespie Silver Dragon
 
-
-
-
-
-
-
-
-
-

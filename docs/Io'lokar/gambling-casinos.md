@@ -6,7 +6,6 @@ tags: []
 
 # Gambling & Casinos
 
-
 ### The Draconic Gambling Empires of Io'kolar
 
 #### **The Auric Consortium (Gold Dragon Family)**
@@ -14,7 +13,7 @@ A bastion of wealth and security, the **Auric Consortium** is the premier name i
 
 - **Motto:** “Fortune Favored, Debt Honored.”
 
-- **Notable Services:**  
+- **Notable Services:**
   - Traditional gambling: dice games, high-stakes poker, fortune wagers.
   - **Auric Vaults & Securities:** A fortress of wealth safeguarding gold, contracts, and magical assets.
   - Exclusive “Eternal Wager” contracts, where dragons can stake future treasures or even parts of their hoard for high-reward bets.
@@ -25,7 +24,7 @@ More unpredictable than their gold dragon rivals, the **Argent Syndicate** thriv
 
 - **Motto:** “Fortune is the Clever Hand That Plays the Game.”
 
-- **Notable Services:**  
+- **Notable Services:**
   - Betting on trade agreements, diplomatic outcomes, and mercantile wars.
   - **The Argent Boardroom:** A secretive chamber where high-profile deals are sealed through wagers.
   - “Elder Wagers”: Contracts where knowledge, favors, and influence are gambled instead of gold.
@@ -45,11 +44,11 @@ Both the Auric Consortium and the Argent Syndicate have **multiple establishment
 
 - **On Campus:** The gold dragon **Micky the Stick** manages student affairs and oversees small wagers and financial contracts.
 
-- **The Grand Spire Casino:** The most prestigious gambling hall, run jointly by both families, where the wealthiest dragons come to test their fortune.  
+- **The Grand Spire Casino:** The most prestigious gambling hall, run jointly by both families, where the wealthiest dragons come to test their fortune.
 
-- **The Scales of Fortune:** A mid-tier establishment run by the Argent Syndicate, specializing in strategic betting and future contracts.  
+- **The Scales of Fortune:** A mid-tier establishment run by the Argent Syndicate, specializing in strategic betting and future contracts.
 
-- **The Vaulted Hall:** An exclusive, heavily protected Auric Consortium location, where wagers of immense consequence—such as the future of dragon lineages—are placed.  
+- **The Vaulted Hall:** An exclusive, heavily protected Auric Consortium location, where wagers of immense consequence—such as the future of dragon lineages—are placed.
 
 ### **A Gamble Beyond Gold**
 Betting in Io’kolar isn’t just about money. It’s about **legacy, power, and even fate itself.** The dragons who walk into these halls aren’t merely risking their hoards—they are playing with **the weight of eternity.**

@@ -6,7 +6,6 @@ tags: []
 
 # Skymetal Mines - Rusthenge
 
-
 D6 number of eggies die
 Roll d100 for flight
 

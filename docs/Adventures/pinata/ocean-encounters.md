@@ -6,8 +6,6 @@ tags: []
 
 # Ocean Encounters
 
-
-
 Absolutely! Here's a flavorful and balanced list of **non-monster, non-combat encounters, hazards, and events** for a **Level 4 party in Eberron**, specifically for an ocean voyage. These are categorized by **harmless**, **moderate**, and **extreme** to help you scale tension, pacing, and resource management.
 
 All entries are designed with **Pathfinder 2e mechanics** in mind, using **Exploration Mode, Skill Challenges, Environmental Hazards**, or **Roleplay Scenarios** rather than direct combat.
@@ -71,7 +69,6 @@ All entries are designed with **Pathfinder 2e mechanics** in mind, using **Explo
 7. **Ancient Draconic Rune Buoy**
    - The ship nears a floating obsidian rune buoy. Arcane magic surges. Interacting requires **Arcana, Occultism, or Religion (DC 20)**. Harmless if studied; dangerous if tampered.
 
-
 8. **Arcane Contamination Spill**
    - The ship passes through an area where a lightning rail shipment of raw arcane crystals was dumped into the sea decades ago. Magic flickers unpredictably.
    - **Arcana (DC 18)** to recognize the source and mitigate magical interference.
@@ -124,7 +121,6 @@ All entries are designed with **Pathfinder 2e mechanics** in mind, using **Explo
 
 5. **Cursed Cargo**
    - A crate of contraband recovered earlier contains a dormant curse tied to the Shadow Marches. Once opened, it infects the crew with a compulsion or mild madness. **Counteract check (DC 23)** to cleanse it.
-
 
 ~~6. **Ley Line Wild Surge**
    - The ship crosses a volatile underwater ley line. Spellcasters feel power surge or collapse.

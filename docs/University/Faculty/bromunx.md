@@ -2,14 +2,19 @@
 title: "Bromunx"
 type: npc/professor
 college: ""
-course: ""
-tags: ["professor", "college:", "course:"]
+major: ""
+tags: ["professor", "college:", "major:"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **...**  
-**Course**: ...
+
+Professor of **...**
+
+**College**: 
+
+**Major**: ...
+
 
 ### Personality
 ...
@@ -24,6 +29,9 @@ Professor of **...**
 **Personality**: Deeply introspective and slow to speak, but his words are like tides—deliberate, steady, and inescapable.
 
 He is a vibrant North Carolina blue dragon with a huge snout,  and 1 floppy ear.
+
+### Classes Taught
+- ...
 
 ### Academic Approach
 - **Course Focus**: ...

@@ -2,21 +2,25 @@
 title: "Choose A New Professor"
 type: npc/professor
 college: ""
-course: ""
-tags: ["professor", "college:", "course:"]
+major: ""
+tags: ["professor", "college:", "major:"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **...**  
-**Course**: ...
+
+Professor of **...**
+
+**College**: 
+
+**Major**: ...
+
 
 ### Personality
 ...
 
 ### Description
 Here are 20 dragon professors, each with a name, dragon type, and personality:
-
 
 1. **Professor Glimthar Veynspark**
 
@@ -115,6 +119,9 @@ Here are 20 dragon professors, each with a name, dragon type, and personality:
 **Personality**: Calculating and charismatic, she treats social maneuvering as the highest academic discipline. Most students don't realize they're being taught until it's too late.
 
 Would you like a visual roster or tie them into departments later?
+
+### Classes Taught
+- ...
 
 ### Academic Approach
 - **Course Focus**: ...

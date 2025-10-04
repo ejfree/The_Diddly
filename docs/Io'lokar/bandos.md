@@ -7,8 +7,6 @@ tags: []
 
 # Bandos
 
-
-
 ![0B712AF0-0CBB-405D-A5CD-CF7C43E08C40](images/0B712AF0-0CBB-405D-A5CD-CF7C43E08C40.webp)
 Name: Bandos
 Type: Restaurant.

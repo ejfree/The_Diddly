@@ -6,8 +6,6 @@ tags: []
 
 # Griffon 2 Ikarion Company
 
-
-
 Part of the Cyre army. This was a support company of artificers.
 Company: Ikarion
 Platoons A-G

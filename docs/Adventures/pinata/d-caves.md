@@ -6,24 +6,19 @@ tags: []
 
 # D Caves
 
-
 These are filled with undead as well as refuse from the Ogre. Describe each room however. There is a knoll necromancer responsible for all this who has a couple of assistants.
 
 17
 
-
 18 - refuse Pit. Mold on the wall trap
-
 
 19 - Huge Zombie wearing a fez - mages’s hat. Magic
 
 20
 
-
 23 - 15’wide hallway with statuses of skeletons on the north and south walls.
 
 24 - Giant Crab
-
 
 **Encounter 1**
 

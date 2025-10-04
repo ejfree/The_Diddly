@@ -7,20 +7,16 @@ tags: []
 
 # Aura
 
-
 Major: Elemental Binding
 Minor: Magical Theory
 
 Major Advisor:
-
 
 Mid Term Grades:
 Major: 26 A+
 Minor: 29 A
 Father: 17
 Alchemy - low roll
-
-
 
 Sophomore Classes:
 ELBD 236 – Heart of the Storm: Lightning Elementals
@@ -36,8 +32,6 @@ Advanced modeling of how spell energy flows through ley intersections and magica
 MATH 229 – Paradox Magic: When Spells Break Their Own Rules Professor Scintilla Vor (Sky Dragon)
 Focuses on unstable or contradictory spell formations and how to use or survive them.
 
-
-
 Mar - May
 DC 10 Crit. Academics
 DC 15 Other
@@ -45,9 +39,6 @@ DC 15 Other
 Pale Looking Elf with flowing blue dress.
 Blue & White eye
 Small pouches attached to her hips
-
-
-
 
 Here is Aura’s Background. This is generally unknown to her.
 
@@ -74,7 +65,6 @@ She was on leave and took a portal to the Astral Plane for a cruise. Had a weak 
 He has a stage name…. But that is now a new dragon.. like Great Pirate Roberts. Find out that he now does something else.
 Had a moment Responsible
 
-
 October-December
 DC 10 Academics 22
 DC 15 Ice & Lightning Twin 15 Professer Moonwhisper has seen a similar dragon with moon & solar
@@ -87,7 +77,6 @@ DC 15
 DC 20
 DC 25
 
-
 August Quick Time
 DC 10: 21 roll
 DC 15
@@ -96,9 +85,7 @@ DC 25
 DC 30
 DC 40
 
-
 Stange for a dragon. White & Blue dragon love child
 One night stand
-
 
 Mixed major in elemental binding & maybe artifacts.

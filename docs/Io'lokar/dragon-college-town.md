@@ -6,11 +6,9 @@ tags: []
 
 # Dragon College Town
 
-
-
 The Viridian Salon.
-	Considered the finest place for high tea in the continent
-	Cocktails & canapés in the evening. Close at 7:30 to make the show.
+    Considered the finest place for high tea in the continent
+    Cocktails & canapés in the evening. Close at 7:30 to make the show.
 
 Right beside is the Tusslers Square. The place for bare knuckle boxing, wrestling, no-limits arena combat. But no actual damage is done, no killing blows. Also training? Gym?
 
@@ -50,11 +48,9 @@ Very fancy bar that is essentially open floor and wall allowing for the dragon c
 
 Featherfall. One way permanent wall of force. Encompasses the entirety of the underside of $dalaran.
 
-
 Create a map of a floating city for dragons. It should be influenced by Dalaran from warcraft. It should have 4 sections, North, South, East & West. It should be a single floating platform where all interior locations are not to scale. It should have levels that go up like Gondor
 
 Mimic it off a Theme Park
 There should be 4 quadrants again, NSEW.
 Maybe it is a flying city above the Ley Lines. Make it like Dalaran
-
 

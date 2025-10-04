@@ -8,9 +8,6 @@ tags: []
 
 #
 
-
-
-
 # **Relic: The Ember Crucible**
 
 *Level 6 Relic (scales with PC)*
@@ -48,8 +45,8 @@ Minor Gifts**
 **Curse / Drawback**
 
 * Each time you use a **Moderate or Major Gift**, roll a Will save (DC set by relic level). On a failure, whispers from the crucible urge you toward obsession with experimentation.
-	* **Minor Failure**: Distracted — take a –1 penalty to Perception for 10 minutes.
-	* **Major Failure**: The crucible consumes one of your infused reagents at random, even if you don’t use it.
+    * **Minor Failure**: Distracted — take a –1 penalty to Perception for 10 minutes.
+    * **Major Failure**: The crucible consumes one of your infused reagents at random, even if you don’t use it.
 
 **Lore**
 The Ember Crucible is said to be the *final vessel* of the Emperor’s alchemist, forged from his laboratory cauldron and quenched in his own blood. His spirit lingers, eager to continue experiments through the hands of a new alchemist.

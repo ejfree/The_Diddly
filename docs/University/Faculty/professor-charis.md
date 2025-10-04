@@ -2,23 +2,27 @@
 title: "Professor Charis"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
-course: "Eldritch Fundamentals (Eldritch Engineering 199)"
-tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "course: Eldritch Fundamentals (Eldritch Engineering 199)"]
+major: "Eldritch Fundamentals (Eldritch Engineering 199)"
+tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Eldritch Fundamentals (Eldritch Engineering 199)"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **Eldritch Fundamentals**  
+
+Professor of **Eldritch Fundamentals**
+
 **College**: Academy of Archano-elemental and Techno Mechanics
-**Course**: Eldritch Fundamentals (Eldritch Engineering 199)
+
+**Major**: Eldritch Fundamentals (Eldritch Engineering 199)
+
 
 ### Personality
 ...
 
 ### Description
 Elderich Fundamentals - Elderich Engineering 199
-	- An overview of the fundamentals of elderich magics and the basic integration of eldritch magic with engineering principles.
-	- **Professor Charis Emberfiend (Infernal Dragon):** Specializes in the integration of fire magic with engineering, focusing on energy efficiency and power generation. Chris’ lectures are fiery and filled with real-world applications.
+    - An overview of the fundamentals of elderich magics and the basic integration of eldritch magic with engineering principles.
+    - **Professor Charis Emberfiend (Infernal Dragon):** Specializes in the integration of fire magic with engineering, focusing on energy efficiency and power generation. Chris’ lectures are fiery and filled with real-world applications.
 ——
 ![3037A95B-253F-4E63-8A0A-EF136CB79FA2](images/3037A95B-253F-4E63-8A0A-EF136CB79FA2.webp)
 Professor Charris is an infernal dragon with a formidable presence, her dull red scales reflecting her lineage of tyrannical deal brokers. Her appearance is more devilish than that of typical dragons, with sharp, angular features, a pair of menacing horns curving back from her forehead, and eyes that burn with a smoldering intensity. Her breath weapon is a powerful stream of fire, capable of incinerating anything in its path, a testament to her fiery nature and her mastery over the destructive elements.
@@ -51,6 +55,9 @@ Charris's interactions are often tinged with a sense of calculation, as she is a
 In her quieter moments, Charris is contemplative, often found studying ancient texts or refining her eldritch devices in solitude. Her love for knowledge and power is evident in all she does, and she is always on the lookout for ways to expand her understanding of the dark and arcane.
 
 Professor Charris is an infernal dragon, descended from a line of tyrannical deal brokers. She breathes fire. Infernal dragons have dull red scales and more devilish look to their face. She teaches Elderich Fundamentals - Elderich Engineering 199, which is located in the Cthonic Nexus.
+
+### Classes Taught
+- Eldritch Fundamentals (Eldritch Engineering 199)
 
 ### Academic Approach
 - **Course Focus**: ...

@@ -2,15 +2,19 @@
 title: "Dean Blackshard"
 type: npc/professor
 college: "College of Lore"
-course: "Prophecy"
-tags: ["professor", "dean", "college: College of Lore", "course: Prophecy"]
+major: "Prophecy"
+tags: ["professor", "dean", "college: College of Lore", "major: Prophecy"]
 updated: 2025-10-04
 ---
 
 ### Role
-Dean of **Prophecy**  
+
+Dean of **Prophecy**
+
 **College**: College of Lore
-**Course**: Prophecy
+
+**Major**: Prophecy
+
 
 ### Personality
 ...
@@ -30,9 +34,11 @@ Their role at Dragon University isn't just academic; it's also deeply political.
 
 Blackshard also mentors a select group of students, teaching them the art of scrying, the interpretation of omens, and the ethical implications of using such knowledge. These students are chosen for their potential and resilience, as the path of a prophet is fraught with burdensome truths and moral dilemmas.
 
-
 ——
 create an NPC infernal dragon that is also a Dean of Prophecy in the College of Lore at the dragon university.
+
+### Classes Taught
+- Prophecy
 
 ### Academic Approach
 - **Course Focus**: ...

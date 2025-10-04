@@ -6,7 +6,6 @@ tags: []
 
 # Aquatic Adventures
 
-
 ![7492452D-B29A-4BD4-8699-98263D203464](images/7492452D-B29A-4BD4-8699-98263D203464.png)
 
 Absolutely! Here's a flavorful and balanced list of **non-monster, non-combat encounters, hazards, and events** for a **Level 4 party in Eberron**, specifically for an ocean voyage. These are categorized by **harmless**, **moderate**, and **extreme** to help you scale tension, pacing, and resource management.

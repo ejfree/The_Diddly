@@ -2,15 +2,19 @@
 title: "Professor Viridius"
 type: npc/professor
 college: "Quintessence Institute"
-course: "Lower Planer Exploration (Planar Studies 111)"
-tags: ["professor", "college: Quintessence Institute", "course: Lower Planer Exploration (Planar Studies 111)"]
+major: "Lower Planer Exploration (Planar Studies 111)"
+tags: ["professor", "college: Quintessence Institute", "major: Lower Planer Exploration (Planar Studies 111)"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **Lower Planer Exploration**  
+
+Professor of **Lower Planer Exploration**
+
 **College**: Quintessence Institute
-**Course**: Lower Planer Exploration (Planar Studies 111)
+
+**Major**: Lower Planer Exploration (Planar Studies 111)
+
 
 ### Personality
 ...
@@ -19,10 +23,8 @@ Professor of **Lower Planer Exploration**
 ![AB77B942-31F8-43ED-8F73-53B549B78CA5](images/AB77B942-31F8-43ED-8F73-53B549B78CA5.webp)
 Lower Planer Exploration - Planar Studies 111
 
-  	- An introductory survey of the various lower planes of existence, their characteristics, and the effects of their interactions with the material plane.
-	- **Professor Viridius (Green Dragon):** Teaches the connections between the natural world and the elemental planes.
-
-
+      - An introductory survey of the various lower planes of existence, their characteristics, and the effects of their interactions with the material plane.
+    - **Professor Viridius (Green Dragon):** Teaches the connections between the natural world and the elemental planes.
 
 I've created a green dragon NPC for your Pathfinder game. Here are the details:
 
@@ -56,8 +58,10 @@ Viridius aims to expand the knowledge of planar ecology among the dragon communi
 
 This character can serve as an excellent guide or mentor for player characters who are interested in planar travel, ecological studies, or simply seeking wisdom from a seasoned scholar.
 
-
 Create an npc green dragon for a pathfinder game. This green dragon is a professor of planar studies in the Quintessence Institute at the dragon university.
+
+### Classes Taught
+- Lower Planer Exploration (Planar Studies 111)
 
 ### Academic Approach
 - **Course Focus**: ...

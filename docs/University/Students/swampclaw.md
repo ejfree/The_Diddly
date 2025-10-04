@@ -28,9 +28,9 @@ Here is the new student, Swampclaw, following the default template:
 
 **Name**: Swampclaw
 
-**Dragon Type**: Green Dragon  
+**Dragon Type**: Green Dragon
 
-**Year**: 5th Year, Primus  
+**Year**: 5th Year, Primus
 
 **Major**: Prophecy
 

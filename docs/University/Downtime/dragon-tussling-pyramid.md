@@ -6,7 +6,6 @@ tags: []
 
 # Dragon Tussling Pyramid
 
-
 Here's a league system for your "Tussling" sport, featuring 10 tiers, each with 500 dragons. The goal is to climb the ladder by challenging dragons ahead of you in ranking. Players can only challenge dragons up to 5 places above their current rank. Winning the challenge allows them to swap places with the defeated dragon, advancing up the ladder.
 
 ### League Structure
@@ -60,27 +59,26 @@ Here's a league system for your "Tussling" sport, featuring 10 tiers, each with 
 
 This structure keeps the system dynamic, with dragons constantly vying for position through strategy and skill in the sport of "Tussling." It rewards active participants while encouraging fierce competition at every level.
 
-
 Here’s a naming convention for the 10 tiers using gem and metal analogies, representing the increasing value and prestige of each tier as dragons advance:
 
 **Tier Names for the Tussling League**
 1. **Diamond Tier** (Tier 1 - The Apex League)
-	* The pinnacle of the league, where only the best and most elite dragons reside. Diamond represents strength, resilience, and the utmost skill.
+    * The pinnacle of the league, where only the best and most elite dragons reside. Diamond represents strength, resilience, and the utmost skill.
 3. **Platinum Tier** (Tier 2)
-	* Just below the apex, dragons here are high performers, close to the top, shining with rare brilliance like platinum.
+    * Just below the apex, dragons here are high performers, close to the top, shining with rare brilliance like platinum.
 5. **Gold Tier** (Tier 3)
-	* Prestigious and valuable, Gold Tier dragons are well-rounded and highly skilled, fighting their way toward the highest ranks.
+    * Prestigious and valuable, Gold Tier dragons are well-rounded and highly skilled, fighting their way toward the highest ranks.
 7. **Emerald Tier** (Tier 4)
-	* Dragons in this tier possess exceptional abilities, glowing with promise like the rare and powerful emerald.
+    * Dragons in this tier possess exceptional abilities, glowing with promise like the rare and powerful emerald.
 9. **Sapphire Tier** (Tier 5)
-	* A rich and valuable tier, Sapphire represents wisdom and skill, where mid-tier dragons aim to push toward higher ranks.
+    * A rich and valuable tier, Sapphire represents wisdom and skill, where mid-tier dragons aim to push toward higher ranks.
 11. **Silver Tier** (Tier 6)
-	* Silver dragons are skilled but have more room to grow, refining their abilities as they ascend through the ranks.
+    * Silver dragons are skilled but have more room to grow, refining their abilities as they ascend through the ranks.
 13. **Ruby Tier** (Tier 7)
-	* These dragons are fierce and passionate, with their skill beginning to shine like rubies in the fire of competition.
+    * These dragons are fierce and passionate, with their skill beginning to shine like rubies in the fire of competition.
 15. **Bronze Tier** (Tier 8)
-	* Dragons in the Bronze Tier are gaining momentum, showing promise and strength as they hone their skills to climb higher.
+    * Dragons in the Bronze Tier are gaining momentum, showing promise and strength as they hone their skills to climb higher.
 17. **Iron Tier** (Tier 9)
-	* Rugged and determined, these dragons are beginning to master the basics of tussling, displaying the toughness of iron.
+    * Rugged and determined, these dragons are beginning to master the basics of tussling, displaying the toughness of iron.
 19. **Copper Tier** (Tier 10 - Novice League)
-	* The starting point for all new dragons, Copper Tier represents potential waiting to be refined. These dragons are at the beginning of their journey.
+    * The starting point for all new dragons, Copper Tier represents potential waiting to be refined. These dragons are at the beginning of their journey.

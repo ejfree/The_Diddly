@@ -2,14 +2,19 @@
 title: "Diddly Faculty"
 type: npc/professor
 college: ""
-course: ""
-tags: ["professor", "college:", "course:"]
+major: ""
+tags: ["professor", "college:", "major:"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **...**  
-**Course**: ...
+
+Professor of **...**
+
+**College**: 
+
+**Major**: ...
+
 
 ### Personality
 ...
@@ -18,7 +23,6 @@ Professor of **...**
 Building on the established deans for each major, here are four professors who specialize in their respective fields within the draconic university's curriculum. Each brings a unique perspective and expertise to their teaching, enriching the academic environment.
 
 ### College of Lore
-
 
 #### Prophecy
 
@@ -33,8 +37,6 @@ Building on the established deans for each major, here are four professors who s
 - **Professor Siviridion  (Emerald Dragon):** Teaches the chaos theory of prophecies, exploring unpredictable futures.
 
 - **Professor   (Umbral Dragon):** Teaches the chaos theory of prophecies, exploring unpredictable futures.
-
-
 
 #### Dragon History
 
@@ -163,6 +165,9 @@ Building on the established deans for each major, here are four professors who s
 
 4. **Professor Stoneheart (Earth Dragon)**
    - Specializes in earth elemental binding, focusing on applications in construction, mineral extraction, and land management. Stoneheart’s practical lessons involve large-scale terraforming projects.
+
+### Classes Taught
+- ...
 
 ### Academic Approach
 - **Course Focus**: ...

@@ -2,15 +2,19 @@
 title: "Dean Saphyrastrasz"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
-course: "Eldritch Engineering"
-tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "course: Eldritch Engineering"]
+major: "Eldritch Engineering"
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Eldritch Engineering"]
 updated: 2025-10-04
 ---
 
 ### Role
-Dean of **Eldritch Engineering**  
+
+Dean of **Eldritch Engineering**
+
 **College**: Academy of Archano-elemental and Techno Mechanics
-**Course**: Eldritch Engineering
+
+**Major**: Eldritch Engineering
+
 
 ### Personality
 ...
@@ -68,11 +72,13 @@ Saphyrastrasz is well-respected by her peers and loved by her students. She ofte
 
 This profile should provide a rich character to interact with in your game, bringing depth and intrigue to the setting of the dragon university.
 
-
  Draw Saphyrastrasz, a majestic sapphire dragon with shimmering, deep blue scales that glint with a metallic sheen under the light. Her eyes are bright azure, radiating wisdom and authority. Her presence is both awe-inspiring and comforting, with a serene demeanor that belies her immense power.
 
 ——
 create an NPC sapphire dragon that is also a Dean of the  Eldritch Engineering in the Academy of Archano-elemental and Techno Mechanics at the dragon university. The dean is an expert in magical architecture and the creation of self-sustaining environments.
+
+### Classes Taught
+- Eldritch Engineering
 
 ### Academic Approach
 - **Course Focus**: ...

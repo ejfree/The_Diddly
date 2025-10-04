@@ -6,7 +6,6 @@ tags: []
 
 # Alyssa Siviridion the Tea Shop Owner
 
-
 ![9B0B8238-5BE9-45CD-B431-E886D0F2B336](images/9B0B8238-5BE9-45CD-B431-E886D0F2B336.webp)
 The “retired” matriarch of the Emerald Dragon Wyer. No longer directs any house activities or participates in elections. Owns a tea shop in IO’klar that is the equivalent of a 3 Michelin star. It is a very quaint shop with a large  selection of garden gnomes each approximately 1 meter tall. They are wear different hats
 

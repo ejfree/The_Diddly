@@ -7,8 +7,6 @@ tags: []
 
 # Background
 
-
-
 I started this project in late 2023 based on the release of Battlezoo Dragons. This provided 50+ new dragon races and a whole system to level as a dragon, including new feats for all levels. I then decided to mimic Stixhaven as well as the Fantasy High Junior year downtime rules and approach to encounters. From all that I decided that the next campaign was going to be a 1-20 at this dragon university. Here is where I got the maps from [https://www.patreon.com/cassastereo](https://www.patreon.com/cassastereo)
 
 The setting is the continent of Argonessen, on the continent of eberron where 4 ley lines meet. This university, Depository of Interplanar Draconic Disciplines, Lore, Yield Surging, QUintessence , and Arcano-elemental and Techno Mechanics is near the center of the continent. Above it is Io’Kalar the city of knowledge. This is also a city that non-dragons inhabit, at least on the first level, where they are restricted to. No non-dragon flight is allowed. Nor is travel through the earth/stone.

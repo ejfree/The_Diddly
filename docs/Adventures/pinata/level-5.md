@@ -6,7 +6,6 @@ tags: []
 
 # Level 5
 
-
 50 Xp goblins
 40 For the crusher
 
@@ -33,17 +32,9 @@ Something else to get them to 6th level which we need for the next level. So let
 
 Lethander
 
-
-
-
-
-
-
 7th level at start of xmas break
 8th Level at start of spring break
 9th level at the start of gap year.
-
-
 
 [Log in](https://blue-hill-0e339f71e.1.azurestaticapps.net/authentication/login)
 [Log in](https://blue-hill-0e339f71e.1.azurestaticapps.net/authentication/login)

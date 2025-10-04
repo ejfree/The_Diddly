@@ -2,15 +2,19 @@
 title: "Dean Seraphel"
 type: npc/professor
 college: "Quintessence Institute"
-course: "Political Intrigue and Diplomacy"
-tags: ["professor", "dean", "college: Quintessence Institute", "course: Political Intrigue and Diplomacy"]
+major: "Political Intrigue and Diplomacy"
+tags: ["professor", "dean", "college: Quintessence Institute", "major: Political Intrigue and Diplomacy"]
 updated: 2025-10-04
 ---
 
 ### Role
-Dean of **Political Intrigue and Diplomacy**  
+
+Dean of **Political Intrigue and Diplomacy**
+
 **College**: Quintessence Institute
-**Course**: Political Intrigue and Diplomacy
+
+**Major**: Political Intrigue and Diplomacy
+
 
 ### Personality
 ...
@@ -21,7 +25,6 @@ Dean of **Political Intrigue and Diplomacy**
 #### Political Intrigue and Diplomacy
 
 - **Dean Seraphel (Paradise Dragon):** Provides lessons on diplomatic ethics and the pursuit of justice in politics.
-
 
  This paradise dragon, as the Dean of Political Intrigue and Diplomacy, is a master of the nuanced dance of diplomacy. She has iridescent scales that shimmer in ethereal hues of pastel colors, enhancing her captivating presence in any diplomatic gathering. Her eyes, reflecting the wisdom of centuries, are adept at reading the intentions and emotions of others, making her an exceptional negotiator and mediator. Draw her
 
@@ -35,6 +38,9 @@ Through her leadership, the Quintessence Institute has become a pivotal center i
 
 ——
 create a female NPC paradise dragon that is also a Dean of Political Intrigue and Diplomacy in the Quintessence Institute at the dragon university.
+
+### Classes Taught
+- Political Intrigue and Diplomacy
 
 ### Academic Approach
 - **Course Focus**: ...

@@ -60,7 +60,6 @@ Most housing locations have capacity for all classes with specific quotes set as
 
 * Senior/Primus tends to be a much larger shared common space for a flight of 5 dragons including a large kitchen, 2 bathrooms, 2 bonus area, indoor & outdoor gathering areas. Each dragon has an attached “portal” to their now 50x50 room which has multi zone environmental controls as well.
 
-
 **(6) Emberfall Heights** - Built into the actual lava flows there are terraced floors for all classes. The tower up the cliff with constant “lavafall”, one of which is real and prized by red dragons, and the others are illusions. There are constant warm breezes through open archways and the common spaces have ember-stone hearths as well as outdoor living spaces.
 
 **(7) Cinderwalk Court** - Housing built along blackened basalt walkways. Magical torches always flicker with multicolored flame. There are also murals of ancient fire dragons and other similarly fire breathers decorate the walls.
@@ -94,7 +93,6 @@ This quad has the most diverse elevations of all three areas.  From the deep hol
 
 **(18) Magic Forest** - A super magical forest where there is a portal to Lamania. It would be nearby the Feywild portal and guarded by the same group.
 
-
 ——
 
 ### Major Disciplines of Study
@@ -127,12 +125,11 @@ Solid, grounded, enduring — natural stone, greenery, and crystal themes.
 (28) TDB
 
 **(29) Fraternity Row**  (From Left to Right)
-	Epsilon Epsilon Epsilon
-	Lambda Upsilon
-	Beta Psi Pi
-	Beta Delta Sigma
-	Chi Delta Epsilon
-
+    Epsilon Epsilon Epsilon
+    Lambda Upsilon
+    Beta Psi Pi
+    Beta Delta Sigma
+    Chi Delta Epsilon
 
 ## <u>**Water Quad - The South**</u>
 This quad is comprised only of water, with islands for any structure. Bridges connect the main campus to all the necessary locations in this quad. Some of the deeper reaches of this area are only reachable via flying or swimming. There are also significant underwater features including a portal to the elemental plane of water. Lots of water features in this space. Reefs, underwater trenches existing in this biome.
@@ -144,7 +141,6 @@ This quad is comprised only of water, with islands for any structure. Bridges co
 **(31) Symphonic Coliseum** - AKA SyCo (Psycho) Concert Hall for the Io’lokar Philharmonic as well as the university symphony and many other groups. It is one of the premier performance locations in the universe. It is done in a very avant garde and has over the top “dragon” theme  & culture.
 
 **(32) Grimnosh Museum of Antiquities** - Similar in character to the Hermitage or the Louvre. This also has many magical artifacts from eras long past. Various art exhibits of all styles exist. In some cases and on some floors, they somewhat litter the place. The sub-basement floors are the holding place for a thousand’s of exhibits. None are of any real value. Those that are valuable are on loan from a horde and are embedded with trackers.
-
 
 ### Major Disciplines of Study
 
@@ -176,7 +172,6 @@ Occasional simulated thunderstorms for ambiance.
 (42) TDB
 
 (43) TDB
-
 
 ## <u>**Air Quad - The East**</u>
 This quad is comprised of sand, air, astral space, glass, and other odd construction materials desired. There are floating islands and connections to the astral plane and the plane of air in this quad as well. As others they are guarded against intrusion.  Much of this area is not available to Eggies who are not able to fly to the more remote locations.

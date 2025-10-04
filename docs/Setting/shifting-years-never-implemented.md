@@ -6,9 +6,7 @@ tags: []
 
 # Shifting years (never implemented)
 
-
 So I am thinking and would like your thoughts. Current "plan" is a 5 year program where the 3rd year is an away year. Each year was thought of as fairly rigid constructs of 12 months. So it was intended to mimic a traditional uni schedule. This might be ok as at upper levels as everything will eventually become “independent study.” There is a 2-1 ratio teachers to students for all majors. Dragons do a lot of independent research and many are on sabbatical at any time as well
-
 
 But is that the best for the story? That is what I would like your opinions on.
 
@@ -32,5 +30,4 @@ STW 13-17
 Larger “adventure” where the flight has to prove their ability to be a dragon. This is always a large project/exploration/relic recovery.
 
 18-20 Flight Capstone Project. Some grand battle? What part do 5 not-ancient dragons do in this eventuality. How can they actually matter?
-
 

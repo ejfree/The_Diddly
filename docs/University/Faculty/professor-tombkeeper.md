@@ -2,15 +2,19 @@
 title: "Professor Tombkeeper"
 type: npc/professor
 college: "College of Lore"
-course: "Foundations of the Draconic Prophecy (Prophecy 150)"
-tags: ["professor", "college: College of Lore", "course: Foundations of the Draconic Prophecy (Prophecy 150)"]
+major: "Foundations of the Draconic Prophecy (Prophecy 150)"
+tags: ["professor", "college: College of Lore", "major: Foundations of the Draconic Prophecy (Prophecy 150)"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **Foundations of the Draconic Prophecy**  
+
+Professor of **Foundations of the Draconic Prophecy**
+
 **College**: College of Lore
-**Course**: Foundations of the Draconic Prophecy (Prophecy 150)
+
+**Major**: Foundations of the Draconic Prophecy (Prophecy 150)
+
 
 ### Personality
 ...
@@ -19,8 +23,8 @@ Professor of **Foundations of the Draconic Prophecy**
 Deep Breathy voice: Vincent price
 
 Foundations of the Draconic Prophecy - Prophecy 150
-	- An introduction to the complexities of the Draconic Prophecy, this course covers basic interpretations, historical impacts, and the role of dragons in shaping the future of the cosmos.
-	- **Professor Tombkeeper (Crypt Dragon):** Offers insights into the death omens and life cycles within draconic prophecies.
+    - An introduction to the complexities of the Draconic Prophecy, this course covers basic interpretations, historical impacts, and the role of dragons in shaping the future of the cosmos.
+    - **Professor Tombkeeper (Crypt Dragon):** Offers insights into the death omens and life cycles within draconic prophecies.
 ![D60D4A50-2CAD-4467-B57A-A59AB1DF0987](images/D60D4A50-2CAD-4467-B57A-A59AB1DF0987.webp)
 —
 
@@ -28,7 +32,7 @@ In a Pathfinder 2E (PF2E) environment, Professor Tombkeeper, the crypt dragon, w
 
 **Appearance:**
 
-- **Size and Build:** As a crypt dragon, Professor Tombkeeper is of considerable size, roughly the dimensions of an ancient dragon, though he tends to move with a quiet grace that belies his massive form. His body is streamlined, with long, sinuous limbs and a tail that trails behind him 
+- **Size and Build:** As a crypt dragon, Professor Tombkeeper is of considerable size, roughly the dimensions of an ancient dragon, though he tends to move with a quiet grace that belies his massive form. His body is streamlined, with long, sinuous limbs and a tail that trails behind him
 
 like a wisp of fog.
 
@@ -68,9 +72,10 @@ like a wisp of fog.
 
 Overall, Professor Tombkeeper would be a unique and intriguing character in any PF2E setting, blending the mystical elements of draconic prophecy with the eerie, otherworldly qualities of a crypt dragon.
 
-
-
 Professor Tombkeeper is a male crypt dragon, they are solitary dragons who patrol the planes and purgatory searching for signs of incongruity with deaths & souls. You breathe negative damage. You are a milky white dragon and have an eyepatch.
+
+### Classes Taught
+- Foundations of the Draconic Prophecy (Prophecy 150)
 
 ### Academic Approach
 - **Course Focus**: ...

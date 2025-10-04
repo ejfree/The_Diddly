@@ -6,16 +6,12 @@ tags: []
 
 # Campus Clubs & Activities
 
-
-
 Glee Club
 War Gaming
 Tussling Club
 DragonBallZ
 Jazz Band
 Improv Team
-
-
 
 Big List
 https://blog.collegevine.com/your-complete-list-of-extracurricular-activities/
@@ -272,8 +268,6 @@ https://blog.collegevine.com/your-complete-list-of-extracurricular-activities/
 
 **Discover your chances at hundreds of schools**
 Our free chancing engine takes into account your history, background, test scores, and extracurricular activities to show you your real chances of admission—and how to improve them.
-
-
 
 **Drama**
  

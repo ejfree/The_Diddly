@@ -6,9 +6,9 @@ updated: 2025-10-04
 ---
 
 **Name**: Joan the Amber Dragon
-**Dragon Type**: 
-**Year**: 
-**Major**: 
+**Dragon Type**:
+**Year**:
+**Major**:
 
 ### Personality
 (Describe demeanor, quirks, interaction style.)

@@ -17,21 +17,21 @@ The society’s core tenets revolve around **honorable dueling, physical might, 
 
 ### **Membership & Recruitment**
 
-**Eligibility:**  
+**Eligibility:**
 
-- Only **Wyvern (4th-year) and Primus (5th-year) students** can be full members.  
+- Only **Wyvern (4th-year) and Primus (5th-year) students** can be full members.
 
-- **Drake (2nd-year) students** may be selected as prospective initiates and must undergo trials.  
+- **Drake (2nd-year) students** may be selected as prospective initiates and must undergo trials.
 
-- Selection is done in utmost secrecy, with members handpicking initiates based on combat skill, cunning, and a willingness to push beyond their limits.  
+- Selection is done in utmost secrecy, with members handpicking initiates based on combat skill, cunning, and a willingness to push beyond their limits.
 
 **Initiation Rituals:**
 
-- Prospective members must complete **The Tussle Rite**, a no-holds-barred sparring competition against other initiates while blindfolded. They are judged on resilience, strategy, and instinct.  
+- Prospective members must complete **The Tussle Rite**, a no-holds-barred sparring competition against other initiates while blindfolded. They are judged on resilience, strategy, and instinct.
 
-- Upon successful completion, initiates must take **The Clawed Oath**, vowing loyalty to the society and its ideals.  
+- Upon successful completion, initiates must take **The Clawed Oath**, vowing loyalty to the society and its ideals.
 
-- ????? The final test is **The Drake’s Descent**, where initiates must retrieve an artifact hidden within a perilous and magically warded underground chamber beneath The Diddly.  
+- ????? The final test is **The Drake’s Descent**, where initiates must retrieve an artifact hidden within a perilous and magically warded underground chamber beneath The Diddly.
 —
 Invitation to the First Tussle….
 
@@ -96,18 +96,18 @@ Time:** Between the 3rd and 4th bell past midnight
 **Location:** The prospect’s apartment or shared dormitory at The Diddly
 
 **Sequence of Delivery:**
-1. **Silent Entry**	* Members of the Clawed Oath enter the apartment using **temporary phase glyphs**—short-lived magical marks that allow them to slip through walls like mist. These glyphs leave no trace once the ritual is complete.
-	* They never speak, never reveal their faces. They wear dark cloaks or glamouring spells that shroud their forms.
-2. **The Marking of Territory**	* A clawed slash—just shallow enough to score stone—is carved into the floor or wall *near the prospect’s bed*. It is always **three talon marks**, intersecting at a downward angle.
-	* The slash glows faintly with arcane embers for 6 hours before fading.
-3. **The Token**	* Placed on the pillow, desk, or center of the room is a **small obsidian claw**, about the size of a thumb, resting on a square of red cloth.
-	* As soon as the prospect touches it, the claw **heats briefly** and then **disintegrates into ash**, triggering a minor illusion:
-		* The air fills with the sound of a growl and the whispered phrase:
+1. **Silent Entry**    * Members of the Clawed Oath enter the apartment using **temporary phase glyphs**—short-lived magical marks that allow them to slip through walls like mist. These glyphs leave no trace once the ritual is complete.
+    * They never speak, never reveal their faces. They wear dark cloaks or glamouring spells that shroud their forms.
+2. **The Marking of Territory**    * A clawed slash—just shallow enough to score stone—is carved into the floor or wall *near the prospect’s bed*. It is always **three talon marks**, intersecting at a downward angle.
+    * The slash glows faintly with arcane embers for 6 hours before fading.
+3. **The Token**    * Placed on the pillow, desk, or center of the room is a **small obsidian claw**, about the size of a thumb, resting on a square of red cloth.
+    * As soon as the prospect touches it, the claw **heats briefly** and then **disintegrates into ash**, triggering a minor illusion:
+        * The air fills with the sound of a growl and the whispered phrase:
 “Strength is truth. Might is law. Come to the Obelisk.”
 
-4. **The Flame Trail**	* After the claw dissolves, a **single arcane flame** appears floating just outside the window or doorway—visible **only to the chosen**.
-	* It slowly drifts toward the meeting point (the shattered Obelisk near the old dueling pits), pausing if the prospect falls behind.
-	* It cannot be interacted with or diverted—if ignored, it disappears with a hiss at dawn.
+4. **The Flame Trail**    * After the claw dissolves, a **single arcane flame** appears floating just outside the window or doorway—visible **only to the chosen**.
+    * It slowly drifts toward the meeting point (the shattered Obelisk near the old dueling pits), pausing if the prospect falls behind.
+    * It cannot be interacted with or diverted—if ignored, it disappears with a hiss at dawn.
 
 **Notes for Prospects:**
 
@@ -126,12 +126,11 @@ This method ensures that prospects are:
 * Bound to secrecy by the sheer **weight of the ritual**.
 Would you like an in-world “incident” where one prospect disobeyed or tried to expose the invitation?
 
-
 ---
 
 ### **Traditions & Activities**
 
-**1. The Tussle Nights** – Weekly underground dueling events where members engage in bare-claw sparring. These bouts are a mix of ritual combat, training, and proving oneself before senior members.  
+**1. The Tussle Nights** – Weekly underground dueling events where members engage in bare-claw sparring. These bouts are a mix of ritual combat, training, and proving oneself before senior members.
 
 **2. The Unbroken Flight** – A test of endurance where members must fly a treacherous course across dangerous storm-wracked regions surrounding The Diddly, dodging arcane hazards.
 
@@ -152,55 +151,54 @@ Only members know the secret entrance, which requires a specific claw formation 
 
 ### **Symbol & Motto**
 
-- **Symbol:** A crimson dragon’s claw gripping a shattered sword.  
+- **Symbol:** A crimson dragon’s claw gripping a shattered sword.
 
-- **Motto:** *“Strength is Truth, Might is Law.”*  
+- **Motto:** *“Strength is Truth, Might is Law.”*
 
 ---
 
 ### **Notable Past Members**
 
-- **Vurmathe the Indomitable (Infernal Dragon, Year 1074)** – Led the infamous **Skyward Rebellion**, a military coup that redefined dragon-led battle tactics.  
+- **Vurmathe the Indomitable (Infernal Dragon, Year 1074)** – Led the infamous **Skyward Rebellion**, a military coup that redefined dragon-led battle tactics.
 
-- **Iskaris the Stormborn (Cerulean Dragon, Year 1321)** – Mastered aerial combat techniques that remain undefeated in tournament history.  
+- **Iskaris the Stormborn (Cerulean Dragon, Year 1321)** – Mastered aerial combat techniques that remain undefeated in tournament history.
 
-- **Karnax the Unyielding (Brass Dragon, Year 1576)** – Once wrestled a colossus bare-handed to defend his title in the Roaring Challenge.  
+- **Karnax the Unyielding (Brass Dragon, Year 1576)** – Once wrestled a colossus bare-handed to defend his title in the Roaring Challenge.
 
 ---
 
 The Clawed Oath operates in secrecy, ensuring that only the most worthy rise through its ranks. To be a member is to carry the weight of history, honor, and unparalleled strength.
 
-
 ### **The Clawed Oath** *(Recited by Initiates During Induction)*
 
 *"By fang and fire, by wing and might,*
 
-*I swear upon my scales, my strength, my soul.*  
+*I swear upon my scales, my strength, my soul.*
 
-*Let the weak falter, let the timid flee—*  
+*Let the weak falter, let the timid flee—*
 
-*But I shall stand, unbroken, unbowed, unafraid.*  
+*But I shall stand, unbroken, unbowed, unafraid.*
 
 *I am claw and storm, talon and wrath,*
 
-*A scion of battle, a child of the sky.*  
+*A scion of battle, a child of the sky.*
 
-*Honor is my law, power is my truth,*  
+*Honor is my law, power is my truth,*
 
-*And in the clash of combat, I am revealed.*  
+*And in the clash of combat, I am revealed.*
 
 *I pledge my wings to the Clawed Oath,*
 
-*To my kin in struggle, my rivals in strength.*  
+*To my kin in struggle, my rivals in strength.*
 
-*I shall strike with courage, endure with pride,*  
+*I shall strike with courage, endure with pride,*
 
-*And never let fear rule my fire.*  
+*And never let fear rule my fire.*
 
 *Until my last breath, until my final roar,*
 
-*I am bound by blood, by trial, by flame.*  
+*I am bound by blood, by trial, by flame.*
 
-*Strength is truth. Might is law. Let my name be worthy."*  
+*Strength is truth. Might is law. Let my name be worthy."*
 
 *(Initiates then carve their claw mark into stone, symbolizing their entry into the ranks of the Clawed Oath.)*

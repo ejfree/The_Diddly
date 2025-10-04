@@ -6,9 +6,9 @@ updated: 2025-10-04
 ---
 
 **Name**: Lisa the RA
-**Dragon Type**: 
-**Year**: 
-**Major**: 
+**Dragon Type**:
+**Year**:
+**Major**:
 
 ### Personality
 (Describe demeanor, quirks, interaction style.)
@@ -18,13 +18,12 @@ updated: 2025-10-04
 
 # Lisa Siviridion
 
-# 
+#
 Her flight is going to recoinnoiter. We find out she is help during our PC’s gap year. That is the hook here. So…
 
 She is working on basic transistors.
 
 # nee Lyrriman d’Sivis
-
 
 The 20 year old "grand daughter" of Lysse the tea shop owner. Lisa is a 2nd year drake at the Diddly. She is also the RA for our group of adventurers in the first year. She will be in whatever wing our flight decides to be in.
 

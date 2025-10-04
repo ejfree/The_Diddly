@@ -4,7 +4,6 @@ updated: 2025-10-04
 tags: []
 ---
 
-
 # House Velouryn — “The Venom Syndicate”
 
 #
@@ -17,7 +16,6 @@ tags: []
 
 * ****Company:**** **The Venom Syndicate** — 60 enforcers, 40 poison alchemists, 200 mercs/slaves.
 
-
 **### House Velouryn — “The Venom Syndicate”**
 
 * ****Total Drow:**** ~300
@@ -29,8 +27,6 @@ tags: []
   * 40 alchemists
   * 100 mercenaries
   * 200 slave-laborers
-
-
 
 ## **House Velouryn — TOE**
 
@@ -63,5 +59,4 @@ tags: []
 **Special Tactics:** Poison clouds, alchemical bombs, ambushes in tight tunnels.
 
 **Weakness:** Militarily weak; fights best through hired blades and toxins.
-
 

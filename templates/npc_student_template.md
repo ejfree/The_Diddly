@@ -5,10 +5,10 @@ tags: ["year:drake", "major:"]
 updated: 2025-01-01
 ---
 
-**Name**:  
-**Dragon Type**:  
-**Year**:  
-**Major**:  
+**Name**:
+**Dragon Type**:
+**Year**:
+**Major**:
 
 ### Personality
 (Describe demeanor, quirks, interaction style.)

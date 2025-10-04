@@ -7,7 +7,6 @@ tags: []
 
 # Sausage
 
-
 **Sausage the Giant Shadow Weasel
 Type:** Animal in Aberration
 
@@ -158,7 +157,7 @@ The PCs may not realize what’s happening at first. They might just notice Saus
 * **Food**: Prefers dishes with complexity—fermentation, glaze, rare spices. He *guides* Sausage’s cravings, but not gluttonously. Every meal should be a **narrative**.
 
 * **Literature**: He adores serialized dragon romances with titles like:
-	* *“Scales of Desire”**“The Duke of the Ember Hoard”**“Flightbound to You”***Speech**: Sausage does not speak… but sometimes, at night, **a single sentence appears in steam or ink or ash**. It’s always poetic, romantic, or hilariously overwrought.
+    * *“Scales of Desire”**“The Duke of the Ember Hoard”**“Flightbound to You”***Speech**: Sausage does not speak… but sometimes, at night, **a single sentence appears in steam or ink or ash**. It’s always poetic, romantic, or hilariously overwrought.
 
 *“Her wings shimmered like sapphire regret.”*
 
@@ -175,5 +174,4 @@ Trait**: *Bound Gourmand* (Rare, Mental, Magical, Weasel-only)
 Eventually, Xiltharn may fully awaken. He has no desire to leave Sausage—he finds his current form **cozy**, **adored**, and **full of snacks**. But should the PCs ever need to **negotiate with ancient dream entities**, **access a forgotten dragonic library**, or **pass the Trials of Appetite in the Vaults of Taste**, Sausage may become **a vessel of insight and flavor unmatched**.
 
 Would you like a short in-universe journal entry where one of the PCs reflects on discovering “there’s someone else in Sausage”? Or perhaps a Sivi’s-exclusive menu item named *“Xiltharn’s Whisper”*?
-
 

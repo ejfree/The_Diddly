@@ -6,7 +6,6 @@ tags: []
 
 # Ikarion Company TOE
 
-
 Here are squad names for each company, starting with the letters A to H:
 
 ### **Aetherion Company:**

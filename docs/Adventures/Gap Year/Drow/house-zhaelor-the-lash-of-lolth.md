@@ -8,21 +8,21 @@ tags: []
 
 #
 
-- ****Matron Mother Zarila Zhaelor (Lvl 14 Warpriest/Champion)****  
+- ****Matron Mother Zarila Zhaelor (Lvl 14 Warpriest/Champion)****
 
-- ****Zealot Commander Rhazek Zhaelor (Lvl 9 Champion/Warpriest)****  
+- ****Zealot Commander Rhazek Zhaelor (Lvl 9 Champion/Warpriest)****
 
-- ****Firebrand Cleric Syrris Zhaelor (Lvl 7 Cleric/Destruction)****  
+- ****Firebrand Cleric Syrris Zhaelor (Lvl 7 Cleric/Destruction)****
 
-- ****Company:**** **The Lash of Lolth** — 100 zealots, 30 clerics, 150 indoctrinated slaves.  
+- ****Company:**** **The Lash of Lolth** — 100 zealots, 30 clerics, 150 indoctrinated slaves.
 
 **### House Zhaelor — “The Lash of Lolth”**
 
-- ****Total Drow:**** ~250  
+- ****Total Drow:**** ~250
 
-- ****Auxiliaries:**** ~200 fanatics  
+- ****Auxiliaries:**** ~200 fanatics
 
-- ****Forces:****  
+- ****Forces:****
   - 100 zealots
   - 30 clerics
   - 150–200 indoctrinated slave-fanatics

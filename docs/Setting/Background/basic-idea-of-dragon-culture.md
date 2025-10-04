@@ -6,7 +6,6 @@ tags: []
 
 # Basic Idea of Dragon Culture
 
-
 Argonnessen is a continent to the far southeast of Khorvaire and southwest of Sarlona. It is the home of dragons, the oldest civilization in the world. The continent of Argonnessen is almost totally unexplored by any race of Khorvaire, except for Dragons.
 
 The center of all learning for the continent & the cosmos is the floating city of Knowledge, Io’lokar and the associated university below it, The Diddly.
@@ -14,9 +13,6 @@ The center of all learning for the continent & the cosmos is the floating city o
 The total draconic population is approximately 100,000  dragons. Vast majority life in cities or towns, though some types are solitary. Broken up into Weyrs, which belong to a race. Generally population growth is ~0%. If an event caused a dramatic reduction in dragon population, you would see a resultant spike with a return to normal over a century or so (it takes a while to make a dragon)
 
 The Codified Draconic Code provides the rules by which dragon have chosen to adhere to.
-
-
-
 
 Maturation Process
 Restricted to Argonessen & their Weyr nursery
@@ -39,6 +35,5 @@ Wyverns - Junior
 Primus - Senior - Double Size of all others.
 
 1. **Adult Dragons (101-500 years):** Adult dragons, being more powerful and wiser, are likely to survive longer. They might make up 50% of the population, or 50,000 dragons.
-
 
 1. **Ancient Dragons (500+ years):** The oldest and most powerful dragons. Due to their long lives and the accumulation of enemies or challenges, their numbers would be the smallest, possibly around 20% of the population, or 20,000 dragons.

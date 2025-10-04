@@ -6,7 +6,6 @@ tags: []
 
 # Introduction Gathering - Session 1
 
-
 <<Meet Chancellor Tempestra>>
 
 Welcome to,  Depository of Interplanar Draconic Disciplines, Lore, Yield Surging, QUintessence , and Arcano-elemental and Techno Mechanics , or The Diddly.
@@ -21,7 +20,6 @@ Let me be first to welcome you to your new home for the next 5 years. I’m Chan
 
 —> Who are you here with + intros and what do you see. You have a hello my name is badge.
 
-
 Over the next year you will participate in many introductory course culminating with the selection of your major at the end of your first year. I would now like to introduce the President of the Student body…
 
 Primus Reef
@@ -33,7 +31,6 @@ The rules of the Draconic Council still apply, No killing, no theft of horde, no
 Simple
 
 Upon conclusion of the key line ceremony in a few minutes, you will be released to your Wing RAs who will take you to you new rooms and get WOW started.
-
 
 Dismiss to Res & the WOW
 Say any goodbyes

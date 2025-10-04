@@ -6,9 +6,7 @@ tags: []
 
 # L2 Encounters & Loot
 
-
 NYE Adventure
-
 
 Angel Mountain 246
 Traps 30XP
@@ -16,7 +14,6 @@ ForgeMaster 80
 Infiltrators 72Xp
 End boss 64
 Winners Receive 50gp wrapped like quarters
-
 
 —
 Dark Pumpkins  279 XP total each…
@@ -26,7 +23,6 @@ Spider Patrol 48 XP
 Spider Group 1 72 XP
 Spider Group 3 48 XP
 Spider Factory1 63XP
-
 
 Outpost Train Plunder -  369 XP
 Patrol 1 - 36 XP

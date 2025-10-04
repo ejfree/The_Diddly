@@ -2,15 +2,16 @@
 title: "Professor Stellarwind"
 type: npc/professor
 college: "Quintessence Institute"
-course: "Upper Planar Exploration (Planar Studies 110)"
-tags: ["professor", "college: Quintessence Institute", "course: Upper Planar Exploration (Planar Studies 110)"]
+major: "Upper Planar Exploration (Planar Studies 110)"
+tags: ["professor", "college: Quintessence Institute", "major: Upper Planar Exploration (Planar Studies 110)"]
 updated: 2025-10-04
 ---
 
-### Role
-Professor of **Upper Planar Exploration**  
+Professor of **Upper Planar Exploration**
+
 **College**: Quintessence Institute
-**Course**: Upper Planar Exploration (Planar Studies 110)
+
+**Major**: Upper Planar Exploration (Planar Studies 110)
 
 ### Personality
 ...
@@ -18,8 +19,8 @@ Professor of **Upper Planar Exploration**
 ### Description
 ![C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1](images/C6F063E9-0B2F-4F3D-B07E-D66F1C9510E1.webp)
 Upper Planar Exploration - Planar Studies  110
-  	- An introductory survey of the various upper planes of existence, their characteristics, and the effects of their interactions with the material plane.
-	- **Professor Stellarwind (Vortex Dragon):** Offers courses on interplanetary travel and the study of cosm
+      - An introductory survey of the various upper planes of existence, their characteristics, and the effects of their interactions with the material plane.
+    - **Professor Stellarwind (Vortex Dragon):** Offers courses on interplanetary travel and the study of cosm
 
 ic planar alignments.
 
@@ -27,19 +28,18 @@ ic planar alignments.
 
 **Name**: Professor Stellarwind
 
-**Dragon Type**: Vortex Dragon  
+**Dragon Type**: Vortex Dragon
 
-**Gender**: Female  
+**Gender**: Female
 
-**Age**: Ancient  
-
+**Age**: Ancient
 
 ---
 
 ### Role:
 Professor of **Upper Planar Exploration**
 
-**Course**: Planar Studies 110  
+**Major**: Planar Studies 110
 
 ---
 
@@ -57,11 +57,14 @@ She carries herself with an air of majesty, befitting her ancient status, and he
 
 ---
 
+### Classes Taught
+- Upper Planar Exploration (Planar Studies 110)
+
 ### Academic Approach:
 
-- **Course Focus**: Upper Planar Exploration delves into navigating the extreme environments of the upper planes, including Celestia, Elysium, and Arborea. Emphasis is placed on survival, cultural diplomacy with celestial beings, and the ethical use of planar energy.  
+- **Course Focus**: Upper Planar Exploration delves into navigating the extreme environments of the upper planes, including Celestia, Elysium, and Arborea. Emphasis is placed on survival, cultural diplomacy with celestial beings, and the ethical use of planar energy.
 
-- **Teaching Style**: Professor Stellarwind emphasizes **fieldwork and hands-on exploration**, often employing magical simulations and extraplanar excursions to immerse her students. She uses her paladin abilities to guide and shield them during dangerous lessons.  
+- **Teaching Style**: Professor Stellarwind emphasizes **fieldwork and hands-on exploration**, often employing magical simulations and extraplanar excursions to immerse her students. She uses her paladin abilities to guide and shield them during dangerous lessons.
 
 - **Philosophy**: "The planes shape us as much as we shape them. To truly understand, one must face their trials and embrace their light."
 
@@ -69,9 +72,9 @@ She carries herself with an air of majesty, befitting her ancient status, and he
 
 ### Faith and Combat Prowess:
 
-- **Paladin of Bahamut**: As a devoted follower of Bahamut, Professor Stellarwind exemplifies justice, honor, and protection. Her devotion influences her teaching, inspiring students to respect and defend the balance of the multiverse.  
+- **Paladin of Bahamut**: As a devoted follower of Bahamut, Professor Stellarwind exemplifies justice, honor, and protection. Her devotion influences her teaching, inspiring students to respect and defend the balance of the multiverse.
 
-- **Combat Style**: Her radiant breath weapon, infused with fire and Bahamut's light, makes her a formidable combatant. She wields planar magic and celestial blessings to shield allies and strike foes with precision.  
+- **Combat Style**: Her radiant breath weapon, infused with fire and Bahamut's light, makes her a formidable combatant. She wields planar magic and celestial blessings to shield allies and strike foes with precision.
 
 - **Signature Move**: **"Aurora Wrath"**, a fiery burst of energy that damages enemies while empowering allies with radiant vigor.
 
@@ -86,23 +89,21 @@ A massive circular platform at the center is enchanted to simulate planar condit
 
 ### Quotes:
 
-- "The upper planes demand more than courage. They demand humility, for even dragons are but a flicker in their light."  
+- "The upper planes demand more than courage. They demand humility, for even dragons are but a flicker in their light."
 
-- "Each plane has its trials. Face them with resolve, and you will emerge tempered by the multiverse itself."  
+- "Each plane has its trials. Face them with resolve, and you will emerge tempered by the multiverse itself."
 
-- "Bahamut teaches us that honor is not given. It is earned through every step of our journey."  
+- "Bahamut teaches us that honor is not given. It is earned through every step of our journey."
 
 ---
 
 **Encounter Ideas**:
 
-- **Field Study Gone Awry**: During a planar field trip to Celestia, the group is caught in a clash between celestial beings and planar invaders, forcing the students to rely on their training and Stellarwind's guidance.  
+- **Field Study Gone Awry**: During a planar field trip to Celestia, the group is caught in a clash between celestial beings and planar invaders, forcing the students to rely on their training and Stellarwind's guidance.
 
-- **Planar Research Crisis**: A dangerous anomaly threatens to destabilize the Quintessence Institute's planar spire. Stellarwind tasks her students to assist in investigating and resolving the anomaly.  
+- **Planar Research Crisis**: A dangerous anomaly threatens to destabilize the Quintessence Institute's planar spire. Stellarwind tasks her students to assist in investigating and resolving the anomaly.
 
 - **Celestial Trial**: Bahamut himself sets a trial for Stellarwind and her class to test their worthiness, involving moral dilemmas and intense combat.
-
-
 
 Create a pf2e NPC Professor Stellarwind, a an ancient female vortex dragon at my dragon university. She teaches Upper Planar Exploration - Planar Studies  110 . Vortex dragons are descended from a line of interplanetary messengers, but she is determined to forge her own path as a scholar of exploring extreme planar environments.  She breathes fire damage. She has 2 different colors for stripes and whorls across her scales. For her class she is a paladin of bahumat.
 

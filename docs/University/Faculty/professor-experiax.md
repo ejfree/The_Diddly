@@ -2,20 +2,28 @@
 title: "Professor Experiax"
 type: npc/professor
 college: ""
-course: ""
-tags: ["professor", "college:", "course:"]
+major: ""
+tags: ["professor", "college:", "major:"]
 updated: 2025-10-04
 ---
 
 ### Role
-Professor of **...**  
-**Course**: ...
+
+Professor of **...**
+
+**College**: 
+
+**Major**: ...
+
 
 ### Personality
 ...
 
 ### Description
 Black dragon Emperiax
+
+### Classes Taught
+- ...
 
 ### Academic Approach
 - **Course Focus**: ...

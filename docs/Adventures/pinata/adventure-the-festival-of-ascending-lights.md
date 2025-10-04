@@ -6,13 +6,11 @@ tags: []
 
 # Adventure: The Festival of Ascending Lights
 
-
 Score 1000
 Time: 30 min + 5 + 30 min walk to forge
 Forge
 Golden Choir+5
 Balance 2 Fail
-
 
 ### Adventure: The Festival of Ascending Lights
 
@@ -95,7 +93,7 @@ The Festival includes:
 
 - **Description**: Players face a celestial guardian corrupted by chaos, torn between maintaining the festival’s virtue and succumbing to the invader’s influence.
 
-- **Encounter**: 
+- **Encounter**:
    - **Combat**: A corrupted archon (CR 2) with lair actions tied to moral dilemmas (e.g., sacrificing personal health to save allies).
    - **Dilemma**: The archon offers a deal—players can win by sacrificing a festival token to "cheat" the trial.
 

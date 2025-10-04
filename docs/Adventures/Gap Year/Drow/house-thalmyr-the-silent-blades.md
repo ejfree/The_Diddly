@@ -16,8 +16,6 @@ tags: []
 
 - ****Company:**** **The Silent Blades** — 50 assassins, 100 rogues, dozens of thrall scouts.
 
-
-
 **### House Thalmyr — “The Silent Blades”**
 
 - ****Total Drow:**** ~350
@@ -30,7 +28,6 @@ tags: []
   - 50 ambushers
 
 Perfect — here’s the full **TOE (Table of Organization & Equipment)** for the **four minor houses**. Each is smaller than Xilrath or Veythrae, but they’re specialists, each controlling a vital piece of the city’s war machine.
-
 
 ## **House Thalmyr — TOE**
 

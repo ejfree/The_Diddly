@@ -4,11 +4,9 @@ updated: 2025-10-04
 tags: []
 ---
 
-# Draconic Council	- better name
-
+# Draconic Council    - better name
 
 1 of each race, determined by the Weyr with the largest horde or another Wery designated version. It is all very contractual. 1 vote.
-
 
 Argonessen Business is majority
 Eberron business is 2/3 vote

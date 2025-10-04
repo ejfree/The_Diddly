@@ -6,7 +6,6 @@ tags: []
 
 # Summer Smash
 
-
 Entrance
 Massive DragonTaur
 
@@ -21,7 +20,6 @@ A **red dragon** who is fascinated by the volcanic regions of Lamannia. Wildpyre
 Year: Drake
 
 Then meet Elder Rhemoraz (he doesn’t know Joan). Bad to front, ask if took money. If so, then committed to the ritual.
-
 
 Face the beasts….
 
@@ -87,9 +85,6 @@ Written at the bottom in a lovely draconic script….
 
 Joan
 
-
-
-
 Chef Gristle at the table….
 He was forced to sit here with the wild twins.
 
@@ -98,7 +93,7 @@ It was supposed to be the Eclipsing Ember Enclave flight, but it is them instead
 ——
 Food
 
-**Feast Menu for Summer Smash**  
+**Feast Menu for Summer Smash**
 
 *Presented by the Draconic Gastronomy Guild*
 
@@ -106,7 +101,7 @@ Food
 
 ### **Starters**
 
-- **Crispy Lava Bites**  
+- **Crispy Lava Bites**
   Spicy fire-roasted drake wings with a tangy magma dipping sauce.
 
 - **Bloodseeker Soup**
@@ -122,13 +117,12 @@ Food
 
 ### **Pasta Course**
 
-- **Earth Scamp Scampi & Linguine **  
+- **Earth Scamp Scampi & Linguine **
   More than a little gritty with a silky smooth garlic butter sauce.
-
 
 ### **Main Course**
 
-- **Flame-Grilled Basilisk Steaks**  
+- **Flame-Grilled Basilisk Steaks**
   Charred to perfection, these hearty steaks are served with a side of molten rock sauce for an extra kick.
 
 - **Black Bear Fillet**
@@ -141,7 +135,7 @@ Food
 
 ### **Desserts**
 
-- **Molten Core Cakes**  
+- **Molten Core Cakes**
   Warm, oozing chocolate cakes with a molten center, infused with hints of volcanic ash for an earthy flavor.
 
 - **Frostberry Ice Cream**
@@ -154,7 +148,7 @@ Food
 
 ### **Drinks**
 
-- **Elemental Mead**  or Lycan Mead - Turns your into a dire wolf for 1 round. 
+- **Elemental Mead**  or Lycan Mead - Turns your into a dire wolf for 1 round.
   A fiery mead infused with spices from the elemental planes, perfect for warming the soul after combat.
 
 - **Skybrew Ale**

@@ -2,15 +2,16 @@
 title: "Dean Argentius"
 type: npc/professor
 college: "College of Lore"
-course: "Dragon History"
-tags: ["professor", "dean", "college: College of Lore", "course: Dragon History"]
+major: "Dragon History"
+tags: ["professor", "dean", "college: College of Lore", "major: Dragon History"]
 updated: 2025-10-04
 ---
 
-### Role
-Dean of **Dragon History**  
+Dean of **Dragon History**
+
 **College**: College of Lore
-**Course**: Dragon History
+
+**Major**: Dragon History
 
 ### Personality
 ...
@@ -22,11 +23,9 @@ Dean of **Dragon History**
 
 - **Dean  Argentius the Lorewarden (Silver Dragon):** Chronicles the deeds of silver dragons throughout history, emphasizing their role in peacekeeping.
 
-
-
 The Dawn of Dragonkind - History 104
- 	- This class explores the origins and evolution of dragonkind, their ancient civilizations, and their pivotal roles in history up to the present day.
-	- **Dean Argentwing (Silver Dragon):** Chronicles the deeds of silver dragons throughout history, emphasizing their role in peacekeeping.
+     - This class explores the origins and evolution of dragonkind, their ancient civilizations, and their pivotal roles in history up to the present day.
+    - **Dean Argentwing (Silver Dragon):** Chronicles the deeds of silver dragons throughout history, emphasizing their role in peacekeeping.
 
 Here's a detailed description of a silver dragon NPC who serves as the Dean of History at the College of Lore in a dragon university:
 
@@ -43,7 +42,7 @@ Argentius the Lorewarden is wise and patient, with a passion for teaching that i
 
 ### Abilities:
 
-- **Dragon Form Abilities**: In dragon form, Argentius the Lorewarden can breathe a chilling cone of frost or a debilitating cone of paralyzing gas. 
+- **Dragon Form Abilities**: In dragon form, Argentius the Lorewarden can breathe a chilling cone of frost or a debilitating cone of paralyzing gas.
 
 - **Humanoid Form Abilities**: As a humanoid, Argentius the Lorewarden wields magic focusing on protection and preservation, capable of casting powerful wards and barriers to safeguard the archives and its denizens.
 
@@ -64,6 +63,9 @@ Argentius the Lorewarden the Archivist is a versatile character who can enrich y
 
 ——
 create an NPC silver dragon that is also a Dean of the History in the College  of Lore at the dragon university.
+
+### Classes Taught
+- Dragon History
 
 ### Academic Approach
 - **Course Focus**: ...

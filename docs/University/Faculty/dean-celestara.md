@@ -2,15 +2,19 @@
 title: "Dean Celestara"
 type: npc/professor
 college: "School of Yield Surging"
-course: "Arcane Artifice and Enchantment Studies"
-tags: ["professor", "dean", "college: School of Yield Surging", "course: Arcane Artifice and Enchantment Studies"]
+major: "Arcane Artifice and Enchantment Studies"
+tags: ["professor", "dean", "college: School of Yield Surging", "major: Arcane Artifice and Enchantment Studies"]
 updated: 2025-10-04
 ---
 
 ### Role
-Dean of **Arcane Artifice and Enchantment Studies**  
+
+Dean of **Arcane Artifice and Enchantment Studies**
+
 **College**: School of Yield Surging
-**Course**: Arcane Artifice and Enchantment Studies
+
+**Major**: Arcane Artifice and Enchantment Studies
+
 
 ### Personality
 ...
@@ -23,8 +27,8 @@ Dean of **Arcane Artifice and Enchantment Studies**
 - **Dean Celestara (Astral Dragon):** Explores the cosmic enchantments and artifacts that draw power from celestial bodies.
 
 Principles of Draconic Economics  - Econ 102
-	- An overview of dragon-centric economic theories, strategies for resource management, and advanced tactics in accumulating wealth.
-	- **Dean Celestara (Astral Dragon):** Explores the cosmic enchantments and artifacts that draw power from celestial bodies.
+    - An overview of dragon-centric economic theories, strategies for resource management, and advanced tactics in accumulating wealth.
+    - **Dean Celestara (Astral Dragon):** Explores the cosmic enchantments and artifacts that draw power from celestial bodies.
 
 Here's an NPC profile for an astral dragon who serves as the Dean of the Arcane Artifice and Enchantment Studies at the School of Yield Surging in a dragon-centric university:
 
@@ -62,6 +66,9 @@ Celestara's presence at the university adds a layer of cosmic intrigue and advan
 
 ——
 create an NPC astral dragon that is also a Dean of the Arcane Artifice and Enchantment Studies in the School  of Yield Surging at the dragon university.
+
+### Classes Taught
+- Arcane Artifice and Enchantment Studies
 
 ### Academic Approach
 - **Course Focus**: ...
