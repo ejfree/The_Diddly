@@ -2,8 +2,8 @@
 set -euo pipefail
 
 # kebab-case filenames, add YAML frontmatter if missing
-shopt -s nullglob
-for f in docs/**/*.md docs/*.md; do
+shopt -s globstar nullglob
+for f in docs/**/*.md; do
   # 1) rename to kebab-case
   dir=$(dirname "$f")
   base=$(basename "$f" .md)

@@ -1,3 +1,9 @@
+---
+title: 00 Index
+updated: 2025-10-04
+tags: []
+---
+
 # Index
 
 - [The Viridian Salon](Io'lokar/the-viridian-salon.md)
