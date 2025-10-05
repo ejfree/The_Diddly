@@ -1,0 +1,61 @@
+Frequency,Type,Family,Tradition,Breath Shape,Damage type,General Personality
+0.2,Alicorn,fairy,primal,line,fire,peaceful seclusionists who take pride in offering guidance
+0.2,Allure,fairy,primal,cone,mental,inspiring muses who elicit strong emotions
+0.6,Amber,wild,arcane,cone,electric,gossip & information broker
+0.4,Amethyst,jewel,arcane/divine,cone,mental,deception and stealth
+0.2,Apocolypse,planar,divine,cone,cold,despoiler & destroyer
+0.2,Astral,esoteric,Occult,line,mental,private & proud
+0.2,Bionic,misfit,divine,cone,void,you have mechanical parts and void magic
+3.5,Black,chromatic,arcane,line,acid,loaners with mean streaks & like swamps
+0.2,Bliss,planar,divine,line,electric,serene healers
+3.5,Blue,chromatic,arcane,line,electric,poised cosmopolitan manipulators
+3.5,Brass,metallic,arcane,line,fire,curious & short attention span
+0.6,Brine,primal,primal,line,acid,rigid courtsey & discipline
+3.5,Bronze,metallic,arcane,line,electric,stoic scholars and guardians of lore
+0.6,Cerulean,wild,arcane,cone,bludgeoning,explorers and adventurers
+0.6,Cloud,primal,primal,cone,electric,wander & exlpore
+3.5,Copper,metallic,arcane,line,acid,prankster & hedonist
+0.2,Court,fairy,occult,cone,slashing,cunning fey politicians
+0.2,Crypt,planar,divine,cone,negative,independent & decisive
+0.6,Crystal,primal,primal,cone,piercing,build beautiful homes
+0.2,Doom,misfit,occult,line,mental,bombarded by terrible visions of the future
+0.2,Dream,esoteric,Occult,cone,mental," wanderers, hunters, masters, and guardians of the Dreamland"
+0.2,Edict,planar,divine,line,slashing,"planner, order bringer, & corruption purger"
+0.4,Emerald,jewel,arcane,cone,mental/sonic,"inquisitive, knowledgeable sage"
+0.2,Etheric,esoteric,Occult,line,force,pragmatic survivalists
+0.5,Forest,imperial,primal,cone,piercing,guardians of nature
+3.5,Gold,metallic,divine,cone,fire,wise counselor and leader
+3.5,Green,chromatic,arcane,cone,poison,obessive and meticulous scholars
+0.6,Harlequin,wild,arcane,cone,poison,clever and insightful jesters
+0.2,Havoc,planar,divine,cone,sonic,passionate artists
+0.6,Indigo,wild,arcane,cone,piercing,party going revelers
+0.2,Infernal,planar,divine,line,fire,tyranical deal brokers
+0.3,Lunar,outer,arcane,line,cold,nosy interplanetary people watchers
+0.6,Magma,primal,primal,cone,fire,"brash, unpredictable, & violent"
+0.2,Metamorphic,misfit,primal,random,random,you change all the time
+0.2,Mischief,fairy,primal,line/cone,acid/poison,cruel pranksters and vindictive saboteurs.
+0.4,Moonstone,jewel,divine,cone,bludgeoning or piercing,wise and gentle storytellers and teachers
+0.2,Nightmare,esoteric,Occult,cone,mental,artists of terror
+0.2,Occult,esoteric,Occult,cone,cold/fire,eclectic seekers
+0.2,Paradise,planar,divine,line,force,defender and champion of righteousnous
+0.2,Phase,misfit,arcane,cone,force,body phases in and out of existance
+0.2,Pixie,fairy,primal,cone,poison,joyful pranksters and friendly comedians
+3.5,Red,chromatic,arcane,cone,fire,proud and arrogant
+0.2,rift,planar,divine,cone,acid,rampagers who break things
+0.4,Sapphire,jewel,Occult,line,electric,Militaristic and warlike
+0.5,Sea,imperial,arcane,burst,bludgeoning,ind & fickle
+3.5,Silver,metallic,divine,cone,cold,"chivalrous champions of justice, guardians and guides of goodly societies"
+0.5,Sky,imperial,divine,burst,electric,religious traditionalist
+0.3,Solar,outer,arcane,line,fire,uber arrogant
+0.5,Soverign,imperial,Occult,cone,mental,"subtle manipulators, negotiators"
+0.3,Time,outer,arcane,cone,electric,patient watchers and guardians of history
+0.2,Toadstool,leshy,primal,cone,poison,communal gourmands
+0.4,Topaz,jewel,arcane,cone,positive,selfish and unsociable
+0.2,Tumult,planar,divine,cone,MANY,capricious seekers of change
+0.6,Umbral,primal,primal,cone,negative,malicious hunters of the undead
+0.5,Underworld,imperial,arcane,burst,fire,natural alchemists and hoarders
+0.6,Vermillion,wild,arcane,cone,fire,thrill seekers who love to tell tall tales
+0.3,Void,outer,arcane,cone,negative,corrupted destroyers
+0.3,Vortex,outer,arcane,cone,fire,interplanetary messengers
+0.2,Wellspring,misfit,arcane,cone,fire,saturated with magic...wild magic
+3.5,White,chromatic,arcane,cone,cold,brutish and predatory survivalists

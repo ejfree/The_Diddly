@@ -8,7 +8,7 @@ updated: 2025-01-01
 ---
 ### ${name}
 
-${dragon_variant}
+Ancient ${dragon_variant} Dragon
 
 ### Role
 
