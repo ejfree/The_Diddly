@@ -28,7 +28,7 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
   Chronicles famous dragons who influenced history through action or intellect, drawing on rare interviews and memory orbs.
 - **HIST 217 – Historiomancy: Using Magic to Reconstruct the Past** — _Professor Velmara Seercoil (Black Dragon)_
   Teaches students how to use divination and artifact resonance to recover or reinterpret historical events.
-- **HIST 221 – Imperial Archives and the Censor’s Flame** — _Professor Draezith Quillbarrow (Silver Dragon)_
+- **HIST 221 – Imperial Archives and the Censor’s Flame** — _Professor Draezith Quillbarrow (Moonstone Dragon)_
   Covers how history is shaped by censorship, cultural narrative, and archival manipulation; includes assignments in subtext decryption.
 - **HIST 226 – Local Histories: Memory, Myth, and Manipulation** — _Professor Ikthilra of the Deep Roots (Blue Dragon)_
   Focuses on oral traditions, regional memory, and the reinterpretation of myth as historical record.
@@ -84,19 +84,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **ELBD 212 – Firebound Constructs and Combustion Spirits** — _Professor Solkarn Pyrecoil (Red Dragon)_
   Teaches control of volatile flame spirits and their integration into weaponry.
-
 - **ELBD 219 – The Subtle Bind: Air, Mist, and Invisible Forces** — _Professor Naelora Windskein (Silver Dragon)_
   Explores delicate techniques for coaxing and linking fluid elementals.
-
 - **ELBD 224 – The Salt Pact: Binding Oceanic Forces** — _Professor Brundal’thuun (Sea Dragon)_
   Focus on tidal, salt, and deep-pressure elementals for defense and propulsion.
-
 - **ELBD 229 – Crystal Thrones: Earth Elemental Command** — _Professor Rhexidra Gravelheart (White Dragon)_
   Students craft bindings for stability, density shifts, and geomantic defense.
-
 - **ELBD 236 – Heart of the Storm: Lightning Elementals** — _Professor Voltikar Skyrake (Blue Dragon)_
   Focuses on power storage, conduction, and fury-based elemental integration.
-
 - **ELBD 240 – Ethics of Elemental Enslavement** — _Professor Quorim Fluxthread (Gold Dragon)_
   Explores morality, consent, and emerging theories on elemental sentience and rights.
 
@@ -104,19 +99,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **ELEN 202 – Abyssal Resonance and Void Coils** — _Professor Karthaz Nullicore (Black Dragon)_
   Hands-on construction of energy-hungry conduits that channel extradimensional power.
-
 - **ELEN 210 – Curses as Utility Matrices** — _Professor Xirrel Grudgefire (Infernal Dragon)_
   Applies minor curses for tools, protections, and even time-delay logic structures.
-
 - **ELEN 219 – Geometric Binding Arrays** — _Professor Ralin Hexstep (Blue Dragon)_
   Focuses on stable multidimensional enchantment grids used in ritual scaffolding.
-
 - **ELEN 227 – Bio-Eldritch Integration** — _Professor Vaskra Veinsong (Occult Dragon)_
   Combines organic material and eldritch power to produce living magical constructs.
-
 - **ELEN 234 – Forbidden Power Sources** — _Professor Arinth Talonshade (Sapphire Dragon)_
   Explores unsafe, volatile, or unethical energy sources—strict supervision enforced.
-
 - **ELEN 240 – Control Systems for Madness-Linked Devices** — _Professor Teth’Varn the Unseen Tamer (Brass Dragon)_
   Teaches mental resilience and spell safety protocols for handling sanity-breaking systems.
 
@@ -126,19 +116,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **MATH 222 – Arcane Logic and Spell Harmonics** — _Professor Arilax Inkwyrm (Cerulean Dragon)_
   Explores foundational logic and resonance patterns in spell architecture.
-
 - **MATH 229 – Paradox Magic: When Spells Break Their Own Rules** — _Professor Scintilla Vor (Bronze Dragon)_
   Focuses on unstable or contradictory spell formations and how to use or survive them.
-
 - **MATH 232 – Theoretical Mana Flows and Thaumaturgic Resonance** — _Professor Cyrenthesh the Unbound (Lunar Dragon, reformed anarchist)_
   Advanced modeling of how spell energy flows through ley intersections and magical organs.
-
 - **MATH 236 – Forbidden Structures: Anomalous Spell Geometry** — _Professor Drivessh the Severed Star (Copper Dragon)_
   Teaches students to study magic’s darkest geometries and misfolded constructs.
-
 - **MATH 243 – The Origin of Spells** — _Professor Belthane Sheerwing (Solar Dragon)_
   Traces the genesis of magical theory from the proto-lexicons of arcane understanding.
-
 - **MATH 249 – Counterspelling as Disproof** — _Professor Zarva the Echo Unwoven (Paradise Dragon)_
   A rigorous course in understanding countermagic as a logical refutation of spell structure.
 
@@ -146,19 +131,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **PLAN 230 – Tides of Time: The Temporal Planes** — _Professor Heliocron (Time Dragon)_
   Explores how time behaves differently in various planes and the implications for travelers.
-
 - **PLAN 238 – The Eighth Horizon: Undiscovered Planes** — _Professor Veska’laar (Gold Dragon)_
   Investigates speculative planar coordinates and rogue realms.
-
 - **PLAN 244 – The Dead and Dreaming Realms** — _Professor Ossivarth (White Dragon)_
   A grim but popular class on the Shadow Plane, Dreamscape, and their relationship with mortal death and memory.
-
 - **PLAN 250 – Navigating the Elemental Maelstrom** — _Professor Karzuth Emberwhirl (Vortex Dragon)_
   Focuses on planar survival in raw elemental chaos and the tools of cross-planar travel.
-
 - **PLAN 257 – Anchors and Breaches: Sealing Planar Incursions** — _Professor Threnaxis Foldscale (Green Dragon)_
   Teaches magical methods to close planar rifts and stabilize reality fabric.
-
 - **PLAN 261 – Concords and Conflicts of the Outer Realms** — _Professor Quenlyr of the Tranquil Verdict (Copper Dragon)_
   Debates the philosophical structures of aligned planes and their influence on mortal morality.
 
@@ -166,19 +146,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **POLI 210 – The Art of the Mask: Disguise and Persona Cultivation** — _Professor Venitha Sablecrest (Paradise Dragon)_
   Drakes learn to cultivate political identities, conceal flaws, and weave false truths.
-
 - **POLI 219 – The Whisper Network: Espionage in Diplomacy** — _Professor Kellith Oathvine (Red Dragon)_
   Explores how secrets are currency and information is weaponized between nations.
-
 - **POLI 225 – Dragon Courts and Mortal Thrones** — _Professor Tyzass the Herald-Binder (Copper Dragon)_
   Compares draconic and mortal governance, with case studies on vassal states.
-
 - **POLI 231 – Negotiation Under Duress** — _Professor Dralvora Shardtongue (Silver Dragon)_
   Tactics for high-stakes, high-pressure diplomacy, including hostage and warzone scenarios.
-
 - **POLI 237 – Subtle Warfare: Sanction, Subterfuge, and Soft Power** — _Professor Zalrex Whisperwing (Silver Dragon)_
   Unpacks how to manipulate outcomes without raising a single claw.
-
 - **POLI 244 – The Pact and the Knife: Betrayals in History** — _Professor Yuladra Nightglen (White Dragon)_
   Analyzes infamous betrayals, broken treaties, and the anatomy of trust collapse.
 
@@ -188,19 +163,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **EDRM 210 – Hoard Theory and Vault Security** — _Professor Grendavon Talonmark (Gold Dragon)_
   The psychology and logistics of draconic hoards, including vault layering and investment enchantments.
-
 - **EDRM 218 – Trade Wars: Economic Aggression and Countermeasures** — _Professor Razhin the Taxblight (Brass Dragon)_
   Models economic sabotage, embargo strategy, and counter-leverage in trade networks.
-
 - **EDRM 224 – Yieldcraft: Growing Wealth from Nothing** — _Professor Syriss Hightide (Silver Dragon)_
   Explores subtle economic manipulation, including speculative binding, magical compounding, and wealth mirages.
-
 - **EDRM 231 – Draconic Banking Systems** — _Professor Kyther Vellgold (Black Dragon)_
   Deep dive into ancient and modern draconic monetary systems, from barter rings to temporal lending.
-
 - **EDRM 238 – Ethics in Resource Domination** — _Professor Threllix Moraine (Blue Dragon)_
   A critical look at exploitation, monopolies, and economic subjugation—by dragons or mortals.
-
 - **EDRM 245 – Inflation Magic and Monetary Rituals** — _Professor Zin Quen’tel (Amethyst Dragon)_
   Studies arcane manipulation of supply/demand curves, illusion-backed currency, and wealth glamours.
 
@@ -208,19 +178,14 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **MINX 205 – Pressure and Patience: Gem Growth in Mana Fields** — _Professor Rhaggen Shardfury (Blue Dragon)_
   Advanced geomancy and controlled magical catalysis of high-grade crystals.
-
 - **MINX 213 – Deep Burrow Economics** — _Professor Klarna Pebblebind (Brass Dragon)_
   Resource valuation, transportation logistics, and deep-earth trade route security.
-
 - **MINX 220 – Extraction Tools: Breath and Steel** — _Professor Valdrix Hammerclap (Cerulean Dragon)_
   Hands-on training in magically-infused mining techniques, including breath-powered excavation.
-
 - **MINX 227 – Alchemic Purification of Ores** — _Professor Iskeldrin of the Slag Vein (Bronze Dragon)_
   Breaks down transmutative refinement, slag residue reuse, and trace element recovery.
-
 - **MINX 235 – Living Stone and Elemental Cooperation** — _Professor Sarnax Quakeheart (Copper Dragon)_
   Negotiating extraction rights with intelligent elementals or living caverns.
-
 - **MINX 241 – Collapse Scenarios and Structural Fortification** — _Professor Yelva Shalecloak (Gold Dragon)_
   Survey of mining safety, collapses, and enchanted structural integrity fieldwork.
 
@@ -228,18 +193,13 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 - **AAES 211 – Glyphs that Whisper: Sentient Enchantments** — _Professor Thressalune Inkburn (Green Dragon)_
   Focus on unstable enchantments that develop rudimentary awareness.
-
 - **AAES 218 – Modular Wandcraft and Personal Sigils** — _Professor Marilth Voltwire (Amethyst Dragon)_
   Combines enchantment theory and custom wand design with personal signature binding.
-
 - **AAES 226 – Cross-School Item Infusion** — _Professor Orik Flarespindle (Red Dragon)_
   Studies items that hold multiple magic school effects without destabilization.
-
 - **AAES 232 – Disenchantment and Anti-Magic Fabrication** — _Professor Gallidra Stillshard (Silver Dragon)_
   Teaches nullification zones, unbinding rituals, and magic-resistant construction.
-
 - **AAES 238 – Enchanting the Impossible: High-Risk Constructs** — _Professor Thazorik Dreambind (Infernal Dragon)_
   Pushes students to attempt legally dubious or paradoxical enchantment forms.
-
 - **AAES 246 – Mass Production of Magical Items** — _Professor Zysha Gearnote (Gold Dragon)_
   Designs for industrial-scale enchantment factories, including ethics of magical labor golems.

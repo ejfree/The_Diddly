@@ -1,13 +1,12 @@
 ---
-title: "Professor Viridius"
-type: npc/professor
-college: "Quintessence Institute"
-major: "Planar Studies"
-tags: ["professor", "college: Quintessence Institute", "major: Planar Studies","variant:green"]
-updated: 2025-10-04
+name: Professor Viridius
+species: Green Dragon
+title: Professor of Planar Studies
 ---
 
-### Professor Viridius
+# Professor Viridius
+
+## Biography
 
 Ancient Green Dragon
 
@@ -33,9 +32,9 @@ Viridius possesses the typical emerald-green scales of his kind, which shimmer w
 
 Professor Viridius is a distinguished scholar known for his expertise in the ecological and environmental aspects of various planes of existence. His research primarily focuses on how different environments affect both flora and fauna across the planes, emphasizing the interconnectivity and ecological balance necessary for sustaining life.
 
-### Classes Taught
+## Courses Taught
 
-- PLAN 111 – Lower Planar Explorations
+- **PLAN 111 – Lower Planar Explorations**
 
 ### Academic Approach
 
@@ -63,4 +62,5 @@ Lectures convene in the Planisphere Conservatory, a greenhouse threaded with min
 
 - Viridius requests escorts on a survey of the Ooze Plane where invasive fungus threatens a portal to the campus arboretum.
 - A planar bloom overruns the conservatory; he needs brave students to prune the runaway ecology without collapsing the research.
+- He hires the party to negotiate with a council of fey whose realm is being poisoned by careless planar miners.
 - He hires the party to negotiate with a council of fey whose realm is being poisoned by careless planar miners.

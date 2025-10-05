@@ -1,25 +1,10 @@
 ---
 title: "Diddly Faculty"
-type: npc/professor
-college: ""
-major: ""
-tags: ["professor", "college:", "major:"]
+type: npc/index
+tags: ["index"]
 updated: 2025-10-04
 ---
 
-### Role
-
-Professor of **...**
-
-**College**: 
-
-**Major**: ...
-
-
-### Personality
-...
-
-### Description
 Building on the established deans for each major, here are four professors who specialize in their respective fields within the draconic university's curriculum. Each brings a unique perspective and expertise to their teaching, enriching the academic environment.
 
 ### College of Lore
@@ -36,17 +21,19 @@ Building on the established deans for each major, here are four professors who s
 
 - **Professor Siviridion  (Emerald Dragon):** Teaches the chaos theory of prophecies, exploring unpredictable futures.
 
-- **Professor   (Umbral Dragon):** Teaches the chaos theory of prophecies, exploring unpredictable futures.
+- **Professor Carrilith Timeflame  (Time Dragon):** Teaches the chaos theory of prophecies, exploring unpredictable futures.
 
 #### Dragon History
 
 - **Dean  Argentwing (Silver Dragon):** Chronicles the deeds of silver dragons throughout history, emphasizing their role in peacekeeping.
 
-- **Professor Darkmire (Black Dragon):** Focuses on the historical territories and dominions of black dragons, including their survival strategies.
+- **Professor Experiax (Black Dragon):** Dissects censored chronicles, teaching students how to reconstruct events from fragments, witness testimony, and forensic spellwork.
 
-- **Professor Funglore (Toadstool Dragon):** Provides lessons on the communal living and societal structures of ancient dragon colonies.
+- **Professor Glazenthra (Black Dragon):** Provides lessons on the communal living and societal structures of ancient dragon colonies.
 
 - **Professor Whirlwing (Tumult Dragon):** Examines the historical shifts in elemental powers and their impact on dragonkind.
+
+- **Professor Draezith Quillbarrow (Moonstone Dragon):** Focuses on the planar access of Dragon history as well as other possible parallel planes.
 
 #### Ancient Relics and Artifacts
 
@@ -166,25 +153,3 @@ Building on the established deans for each major, here are four professors who s
 4. **Professor Stoneheart (Earth Dragon)**
    - Specializes in earth elemental binding, focusing on applications in construction, mineral extraction, and land management. Stoneheart’s practical lessons involve large-scale terraforming projects.
 
-### Classes Taught
-
-- ...
-
-### Academic Approach
-- **Course Focus**: ...
-- **Teaching Style**: ...
-- **Philosophy**: ...
-
-### Faith and Combat Prowess
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
-
-### Classroom & Teaching Environment
-...
-
-### Quotes
-...
-
-**Encounter Ideas**
-...

@@ -1,13 +1,12 @@
 ---
-title: "Professor Stellarwind"
-type: npc/professor
-college: "Quintessence Institute"
-major: "Planar Studies"
-tags: ["professor", "college: Quintessence Institute", "major: Planar Studies","variant:vortex"]
-updated: 2025-10-04
+name: Professor Stellarwind
+species: Vortex Dragon
+title: Professor of Planar Studies
 ---
 
-### Professor Stellarwind
+# Professor Stellarwind
+
+## Biography
 
 Ancient Vortex Dragon
 
@@ -35,9 +34,8 @@ She carries herself with an air of majesty, befitting her ancient status, and he
 
 Stellarwind earned her honorific while serving as a planar courier for Bahamut’s Concordance, ferrying embassies through storms of astral debris. She joined the Quintessence Institute after leading a rescue mission into a collapsing shard of Arborea, where she refused to leave until every trapped student escaped. Her research now catalogues survival protocols for hostile celestial terrain, and she maintains alliances with angelic legions who owe her more than one life-debt.
 
-### Classes Taught
-
-- PLAN 110 – Upper Planar Explorations
+## Courses Taught
+- **PLAN 110 – Upper Planar Explorations**
 
 ### Academic Approach
 

@@ -22,7 +22,7 @@ Here are some of the courses taught at The Diddly.
   Chronicles famous dragons who influenced history through action or intellect, drawing on rare interviews and memory orbs.
 - **HIST 217 – Historiomancy: Using Magic to Reconstruct the Past** — _[Professor Velmara Seercoil (Black Dragon)](../Faculty/professor-velmara-seercoil.md)_
   Teaches students how to use divination and artifact resonance to recover or reinterpret historical events.
-- **HIST 221 – Imperial Archives and the Censor’s Flame** — _[Professor Draezith Quillbarrow (Silver Dragon)](../Faculty/professor-draezith-quillbarrow.md)_
+- **HIST 221 – Imperial Archives and the Censor’s Flame** — _[Professor Draezith Quillbarrow (Moonstone Dragon)](../Faculty/professor-draezith-quillbarrow.md)_
   Covers how history is shaped by censorship, cultural narrative, and archival manipulation; includes assignments in subtext decryption.
 - **HIST 226 – Local Histories: Memory, Myth, and Manipulation** — _[Professor Ikthilra of the Deep Roots (Blue Dragon)](../Faculty/professor-ikthilra-of-the-deep-roots.md)_
   Focuses on oral traditions, regional memory, and the reinterpretation of myth as historical record.

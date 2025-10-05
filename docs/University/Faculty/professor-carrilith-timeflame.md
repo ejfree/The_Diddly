@@ -3,7 +3,7 @@ title: Professor Carrilith Timeflame
 type: npc/professor
 college: "College of Lore"
 major: "Prophecy"
-tags: ["professor", "college:College of Lore", "major:Prophecy","variant:Time"]
+tags: ["professor", "college:College of Lore", "major:Prophecy","variant:time"]
 updated: 2025-01-01
 ---
 
