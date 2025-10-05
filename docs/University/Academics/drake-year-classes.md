@@ -13,7 +13,7 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 | Celedyr | History | Arcanomechanics |
 | Nara | Prophecy | History |
 | Aura | Elemental Binding | Magical Theory |
-| Gullun | Ancient Relics & Artifacts | History |
+| Gullin | Ancient Relics & Artifacts | History |
 | Iyri | Elemental Binding | — |
 
 ## College of Lore
