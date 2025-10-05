@@ -35,7 +35,6 @@ Zephyrion once served as a chronomantic cartographer for the draconic conclave, 
 
 ### Classes Taught
 
-
 - **[Planar Studies Oversight (110 & 111)](../Academics/course-catalog.md#planar-studies-oversight-110-and-111)**
 - **[Temporal Navigation Workshop](../Academics/course-catalog.md#temporal-navigation-workshop)**
 - **[Field Practicum: Sealing Micro-Rifts](../Academics/course-catalog.md#field-practicum-sealing-micro-rifts)**

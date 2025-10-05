@@ -35,7 +35,6 @@ Veilcore once served the Midnight Cartographers, a guild that mapped the mineral
 
 ### Classes Taught
 
-
 - **[Subterranean Threats & Gemfield Harvesting](../Academics/course-catalog.md#subterranean-threats-and-gemfield-harvesting)**
 
 ### Academic Approach

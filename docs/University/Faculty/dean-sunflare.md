@@ -35,7 +35,6 @@ As Dean of Economic Dominance and Resource Management, Solarius is pivotal in sh
 
 ### Classes Taught
 
-
 - **[Economic Dominance and Resource Management — Core Lecture](../Academics/course-catalog.md#economic-dominance-and-resource-management-core-lecture)**
 - **[Solar Wealth Strategies Workshop](../Academics/course-catalog.md#solar-wealth-strategies-workshop)**
 - **[Resource Ethics in Multiplanar Trade](../Academics/course-catalog.md#resource-ethics-in-multiplanar-trade)**

@@ -33,7 +33,6 @@ Experiax once served as the Conclave’s clandestine historian, charged with pur
 
 ### Classes Taught
 
-
 - **[Forbidden Histories Colloquium](../Academics/course-catalog.md#forbidden-histories-colloquium)**
 - **[Covert Narratives and Counter-Propaganda](../Academics/course-catalog.md#covert-narratives-and-counter-propaganda)**
 - **[Ethics of Information Suppression](../Academics/course-catalog.md#ethics-of-information-suppression)**

@@ -35,7 +35,6 @@ Thrymvolin was once chief systems architect for the Crystal Bastion, a floating 
 
 ### Classes Taught
 
-
 - **[Advanced Techno-Magical Engineering](../Academics/course-catalog.md#advanced-techno-magical-engineering)**
 
 ### Academic Approach

@@ -35,7 +35,6 @@ Professor Viridius is a distinguished scholar known for his expertise in the eco
 
 ### Classes Taught
 
-
 - **[Lower Planer Exploration — Planar Studies 111](../Academics/course-catalog.md#lower-planer-exploration--planar-studies-111)**
 
 ### Academic Approach
