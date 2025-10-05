@@ -2,82 +2,66 @@
 title: "Professor Viridius"
 type: npc/professor
 college: "Quintessence Institute"
-major: "Lower Planer Exploration (Planar Studies 111)"
-tags: ["professor", "college: Quintessence Institute", "major: Lower Planer Exploration (Planar Studies 111)"]
+major: "Planar Studies"
+tags: ["professor", "college: Quintessence Institute", "major: Planar Studies","variant:green"]
 updated: 2025-10-04
 ---
 
+### Professor Viridius
+
+Ancient Green Dragon
+
 ### Role
 
-Professor of **Lower Planer Exploration**
+Professor of **Planar Studies**
 
 **College**: Quintessence Institute
 
-**Major**: Lower Planer Exploration (Planar Studies 111)
-
+**Major**: Planar Studies
 
 ### Personality
-...
 
-### Description
-![AB77B942-31F8-43ED-8F73-53B549B78CA5](/assets/images/AB77B942-31F8-43ED-8F73-53B549B78CA5.webp)
-Lower Planer Exploration - Planar Studies 111
-
-      - An introductory survey of the various lower planes of existence, their characteristics, and the effects of their interactions with the material plane.
-    - **Professor Viridius (Green Dragon):** Teaches the connections between the natural world and the elemental planes.
-
-I've created a green dragon NPC for your Pathfinder game. Here are the details:
-
-**Name:** Professor Viridius
-
-**Species:** Green Dragon
-
-**Position:** Professor of Planar Studies
-
-**Institution:** Quintessence Institute, Dragon University
-
-**Background:**
-Professor Viridius is a distinguished scholar known for his expertise in the ecological and environmental aspects of various planes of existence. His research primarily focuses on how different environments affect both flora and fauna across the planes, emphasizing the interconnectivity and ecological balance necessary for sustaining life.
-
-**Personality:**
 Viridius is deeply intellectual and has a keen interest in conservation and ecological studies. He is methodical in his research, often taking long expeditions to remote planes to gather unique specimens and data. Despite his serious demeanor, he is passionately dedicated to educating young dragons about the importance of environmental stewardship in the multiverse.
 
-**Abilities and Skills:**
+### Description
 
-- **Planar Knowledge:** Profound understanding of multiple planes and their environmental systems.
-
-- **Ecological Insight:** Ability to analyze and interpret ecological data from various environments.
-
-- **Teaching Acumen:** Skilled at conveying complex concepts to his students, inspiring them to consider the broader ecological impacts of their actions across different planes.
-
-**Appearance:**
 Viridius possesses the typical emerald-green scales of his kind, which shimmer with a more vibrant hue that reflects his deep connection to the natural world. His eyes mirror the canopy of a dense forest, filled with a wisdom that spans centuries.
 
-**Goals:**
-Viridius aims to expand the knowledge of planar ecology among the dragon community, hoping to foster a generation of dragons who are as concerned with the preservation of natural balances as they are with their own growth and power. He is also secretly working on a grand thesis that explores the potential for creating sustainable habitats that can bridge multiple planes.
+![AB77B942-31F8-43ED-8F73-53B549B78CA5](/assets/images/AB77B942-31F8-43ED-8F73-53B549B78CA5.webp)
 
-This character can serve as an excellent guide or mentor for player characters who are interested in planar travel, ecological studies, or simply seeking wisdom from a seasoned scholar.
+### Background
 
-Create an npc green dragon for a pathfinder game. This green dragon is a professor of planar studies in the Quintessence Institute at the dragon university.
+Professor Viridius is a distinguished scholar known for his expertise in the ecological and environmental aspects of various planes of existence. His research primarily focuses on how different environments affect both flora and fauna across the planes, emphasizing the interconnectivity and ecological balance necessary for sustaining life.
 
 ### Classes Taught
-- Lower Planer Exploration (Planar Studies 111)
+
+
+- **[Lower Planer Exploration — Planar Studies 111](../Academics/course-catalog.md#lower-planer-exploration--planar-studies-111)**
 
 ### Academic Approach
-- **Course Focus**: ...
-- **Teaching Style**: ...
-- **Philosophy**: ...
+
+- **Course Focus**: Viridius studies how planar ecosystems intersect, charting food webs, elemental weather patterns, and restorative rituals that keep portals from destabilizing.
+- **Teaching Style**: Fieldwork is mandatory—students collect samples with carefully rationed magic while Viridius telepathically quizz es them on ecological impact assessments.
+- **Philosophy**: “Travel lightly, leave balance.” He insists explorers become stewards, not conquerors, of the realms they traverse.
 
 ### Faith and Combat Prowess
-- **Faith Alignment**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
+
+- **Faith Alignment**: Devotee of the Verdant Confluence, a planar druidic circle that tends the seams between worlds.
+- **Combat Style**: Manipulates verdant winds and corrosive spores to repel invaders while sealing breaches with living root barriers.
+- **Signature Move**: *Genesis Gale*—Viridius exhales a torrent of seeds and emerald vapor that sprouts instant foliage, slowing enemies and restoring allies with planar pollen.
 
 ### Classroom & Teaching Environment
-...
+
+Lectures convene in the Planisphere Conservatory, a greenhouse threaded with miniature biomes from every plane he has catalogued. Students rotate between observation decks, each tuned to a different planar atmosphere, while enchanted vines record their field notes in chlorophyll ink.
 
 ### Quotes
-...
 
-**Encounter Ideas**
-...
+- “Every plane watches how you tread its soil.”
+- “Balance is not a suggestion; it is survival.”
+- “Catalog the smallest sprout—it might be the keystone of a world.”
+
+### Encounter Ideas
+
+- Viridius requests escorts on a survey of the Ooze Plane where invasive fungus threatens a portal to the campus arboretum.
+- A planar bloom overruns the conservatory; he needs brave students to prune the runaway ecology without collapsing the research.
+- He hires the party to negotiate with a council of fey whose realm is being poisoned by careless planar miners.

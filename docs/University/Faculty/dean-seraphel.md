@@ -35,9 +35,10 @@ Her role at the Quintessence Institute involves not only teaching but also activ
 
 ### Classes Taught
 
-- Political Intrigue and Diplomacy - Core Colloquium
-- Crisis Negotiation Simulations
-- Espionage Ethics & Counterintelligence
+
+- **[Political Intrigue and Diplomacy — Core Colloquium](../Academics/course-catalog.md#political-intrigue-and-diplomacy-core-colloquium)**
+- **[Crisis Negotiation Simulations](../Academics/course-catalog.md#crisis-negotiation-simulations)**
+- **[Espionage Ethics & Counterintelligence](../Academics/course-catalog.md#espionage-ethics-and-counterintelligence)**
 
 ### Academic Approach
 

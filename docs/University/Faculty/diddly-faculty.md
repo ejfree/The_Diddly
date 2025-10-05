@@ -167,6 +167,7 @@ Building on the established deans for each major, here are four professors who s
    - Specializes in earth elemental binding, focusing on applications in construction, mineral extraction, and land management. Stoneheart’s practical lessons involve large-scale terraforming projects.
 
 ### Classes Taught
+
 - ...
 
 ### Academic Approach

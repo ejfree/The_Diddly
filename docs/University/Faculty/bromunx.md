@@ -31,6 +31,7 @@ Professor of **...**
 He is a vibrant North Carolina blue dragon with a huge snout,  and 1 floppy ear.
 
 ### Classes Taught
+
 - ...
 
 ### Academic Approach

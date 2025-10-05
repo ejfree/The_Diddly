@@ -35,9 +35,10 @@ Descended from a venerable line of occult dragons, Arcanix’s ancestry has alwa
 
 ### Classes Taught
 
-- Magical Theory and Application
-- Esoteric Ritual Practicum
-- Ethics of Forbidden Magic
+
+- **[Magical Theory and Application](../Academics/course-catalog.md#magical-theory-and-application)**
+- **[Esoteric Ritual Practicum](../Academics/course-catalog.md#esoteric-ritual-practicum)**
+- **[Ethics of Forbidden Magic](../Academics/course-catalog.md#ethics-of-forbidden-magic)**
 
 ### Academic Approach
 
