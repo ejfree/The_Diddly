@@ -1,13 +1,59 @@
 ---
-name: Professor Zysha Gearnote
-species: Gold Dragon
-title: Professor of Arcane Artifice and Enchantment Studies
+title: "Professor Zysha Gearnote"
+type: npc/professor
+college: "School of Yield Surging"
+major: "Arcane Artifice and Enchantment Studies"
+tags: ["professor", "college:", "major:","variant:gold"]
+updated: 2025-10-05
 ---
+### Zysha Gearnote
 
-# Professor Zysha Gearnote
+Ancient Gold Dragon
 
-## Biography
-...npc_professor_template...
+### Role
 
-## Courses Taught
+Professor of **Arcane Artifice and Enchantment Studies**
+
+**College**: School of Yield Surging
+
+**Major**: Arcane Artifice and Enchantment Studies
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
 - **AAES 246 – Mass Production of Magical Items**
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...

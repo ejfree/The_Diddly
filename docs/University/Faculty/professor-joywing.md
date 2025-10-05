@@ -2,7 +2,7 @@
 title: "Professor Joywing"
 type: npc/professor
 college: "College of Lore"
-major: "Dragon Prophecy"
+major: "Prophecy"
 tags: ["professor", "college: College of Lore", "major:prophecy","variant:bliss"]
 updated: 2025-10-04
 ---

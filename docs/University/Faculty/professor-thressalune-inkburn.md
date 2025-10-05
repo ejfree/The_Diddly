@@ -1,13 +1,59 @@
 ---
-name: Professor Thressalune Inkburn
-species: Green Dragon
-title: Professor of Arcane Artifice and Enchantment Studies
+title: "Professor Thressalune Inkburn"
+type: npc/professor
+college: "School of Yield Surging"
+major: "Arcane Artifice and Enchantment Studies"
+tags: ["professor", "college:", "major:","variant:green"]
+updated: 2025-10-05
 ---
+### Thressalune Inkburn
 
-# Professor Thressalune Inkburn
+Ancient Green Dragon
 
-## Biography
-...npc_professor_template...
+### Role
 
-## Courses Taught
+Professor of **Arcane Artifice and Enchantment Studies**
+
+**College**: School of Yield Surging
+
+**Major**: Arcane Artifice and Enchantment Studies
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
 - **AAES 211 – Glyphs that Whisper: Sentient Enchantments**
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...

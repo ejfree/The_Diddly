@@ -1,36 +1,22 @@
 ---
-name: Professor Velzira the Obscured
-species: Green Dragon
-title: Professor of Prophecy
----
-
-# Professor Velzira the Obscured
-
-## Biography
-...npc_professor_template...
-
-## Courses Taught
-- **PROF 245 – Voice of the Ancients: Translating Lost Prophetic Tongues**
-
----
-title: "Professor ${name}"
+title: "Professor Velzira the Obscured"
 type: npc/professor
-college: ""
-major: ""
-tags: ["professor", "college:", "major:","variant:"]
-updated: 2025-01-01
+college: "College of Lore"
+major: "Prophecy"
+tags: ["professor", "college: College of Lore", "major: Prophecy","variant:green"]
+updated: 2025-10-05
 ---
-### ${name}
+### Velzira the Obscured
 
-Ancient ${dragon_variant} Dragon
+Ancient Green Dragon
 
 ### Role
 
-Professor of **${course_name}**
+Professor of **Prophecy**
 
-**College**: ${college}
+**College**: College of Lore
 
-**Major**: ${course}
+**Major**: Prophecy
 
 ### Personality
 
@@ -46,7 +32,7 @@ Professor of **${course_name}**
 
 ### Classes Taught
 
-- ...
+- **PROF 245 – Voice of the Ancients: Translating Lost Prophetic Tongues**
 
 ### Academic Approach
 
@@ -56,7 +42,7 @@ Professor of **${course_name}**
 
 ### Faith and Combat Prowess
 
-- **${faith_title}**: ...
+- **Faith Alignment**: ...
 - **Combat Style**: ...
 - **Signature Move**: ...
 

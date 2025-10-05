@@ -2,7 +2,7 @@
 title: "Professor Moonwhisper"
 type: npc/professor
 college: "Quintessence Institute"
-major: "Magical Theory and Application"
+major: "Magical Theory"
 tags: ["professor", "college: Quintessence Institute", "major: Magical Theory and Application","variant:lunar"]
 updated: 2025-10-04
 ---
@@ -17,7 +17,7 @@ Professor of **Magical Theory and Application**
 
 **College**: Quintessence Institute
 
-**Major**: Magical Theory and Application
+**Major**: Magical Theory
 
 ### Personality
 

@@ -1,13 +1,59 @@
 ---
-name: Professor Threnaxis Foldscale
-species: Green Dragon
-title: Professor of Planar Studies
+title: "Professor Threnaxis Foldscale"
+type: npc/professor
+college: "Quintessence Institute"
+major: "Planar Studies"
+tags: ["professor", "college:", "major:","variant:green"]
+updated: 2025-10-05
 ---
+### Threnaxis Foldscale
 
-# Professor Threnaxis Foldscale
+Ancient Green Dragon
 
-## Biography
-...npc_professor_template...
+### Role
 
-## Courses Taught
+Professor of **Planar Studies**
+
+**College**: Quintessence Institute
+
+**Major**: Planar Studies
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
 - **PLAN 257 – Anchors and Breaches: Sealing Planar Incursions**
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...

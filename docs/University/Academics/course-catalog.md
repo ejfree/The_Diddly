@@ -171,7 +171,7 @@ Here are some of the courses taught at The Diddly.
 
 - **EDRM 101 – Hoard Management** — _[Professor Skytalon (Blue Dragon)](../Faculty/professor-skytalon.md)_
   The basics of amassing and leveraging wealth
-- **EDRM 102 – TPrinciples of Draconic Economics** — _[Dean Celestar (Astral Dragon)](../Faculty/dean-celestar.md)_
+- **EDRM 102 – Principles of Draconic Economics** — _[Dean Celestara (Astral Dragon)](../Faculty/dean-celestara.md)_
   An overview of dragon-centric economic theories, strategies for resource management, and advanced tactics in accumulating wealth.
 - **EDRM 210 – Hoard Theory and Vault Security** — _[Professor Grendavon Talonmark (Gold Dragon)](../Faculty/professor-grendavon-talonmark.md)_
   The psychology and logistics of draconic hoards, including vault layering and investment enchantments.

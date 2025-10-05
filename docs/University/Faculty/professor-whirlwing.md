@@ -2,6 +2,7 @@
 name: Professor Whirlwing
 species: Tumult Dragon
 title: Professor of History
+major: "${course_name}"
 ---
 
 
@@ -9,7 +10,7 @@ title: Professor of History
 title: "Professor ${name}"
 type: npc/professor
 college: ""
-major: ""
+major: "${course}"
 tags: ["professor", "college:", "major:","variant:"]
 updated: 2025-01-01
 ---
@@ -23,7 +24,7 @@ Professor of **${course_name}**
 
 **College**: ${college}
 
-**Major**: ${course}
+**Major**: ${course_name}
 
 ### Personality
 
@@ -78,7 +79,7 @@ Professor of **History**
 
 **College**: College of Lore
 
-**Major**: History
+**Major**: ${course_name}
 
 ### Personality
 

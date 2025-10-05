@@ -1,13 +1,59 @@
 ---
-name: Professor Klarna Pebblebind
-species: Brass Dragon
-title: Professor of Mineral Extraction & Refinement
+title: "Professor Klarna Pebblebind"
+type: npc/professor
+college: "School of Yield Surging"
+major: "Mineral Extraction & Refinement"
+tags: ["professor", "college:", "major:","variant:brass"]
+updated: 2025-10-05
 ---
+### Klarna Pebblebind
 
-# Professor Klarna Pebblebind
+Ancient Brass Dragon
 
-## Biography
-...npc_professor_template...
+### Role
 
-## Courses Taught
+Professor of **Mineral Extraction & Refinement**
+
+**College**: School of Yield Surging
+
+**Major**: Mineral Extraction & Refinement
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
 - **MINX 213 – Deep Burrow Economics**
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...

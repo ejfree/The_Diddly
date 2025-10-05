@@ -1,8 +1,8 @@
 ---
 title: "Professor Deepcurrent"
 type: npc/professor
-college: "Academy of Archano-elemental and Techno Mechanics"
-major: "Elemental Bindings"
+college: "Academy of Archano-Elemental and Techno Mechanics"
+major: "Elemental Binding"
 tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Elemental Binding)","variant:sea"]
 updated: 2025-10-04
 ---
@@ -15,7 +15,7 @@ Ancient Sea Dragon
 
 Professor of **Elemental Bindings**
 
-**College**: Academy of Archano-elemental and Techno Mechanics
+**College**: Academy of Archano-Elemental and Techno Mechanics
 
 **Major**: Elemental Binding
 

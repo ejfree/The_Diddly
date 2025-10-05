@@ -1,13 +1,59 @@
 ---
-name: Professor Vaskra Veinsong
-species: Occult Dragon
-title: Professor of Eldritch Engineering
+title: "Professor Vaskra Veinsong"
+type: npc/professor
+college: "Academy of Archano-Elemental and Techno Mechanics"
+major: "Eldritch Engineering"
+tags: ["professor", "college:", "major:","variant:occult"]
+updated: 2025-10-05
 ---
+### Vaskra Veinsong
 
-# Professor Vaskra Veinsong
+Ancient Occult Dragon
 
-## Biography
-...npc_professor_template...
+### Role
 
-## Courses Taught
+Professor of **Eldritch Engineering**
+
+**College**: Academy of Archano-Elemental and Techno Mechanics
+
+**Major**: Eldritch Engineering
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
 - **ELEN 227 – Bio-Eldritch Integration**
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...

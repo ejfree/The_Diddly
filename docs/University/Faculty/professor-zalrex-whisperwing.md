@@ -1,13 +1,59 @@
 ---
-name: Professor Zalrex Whisperwing
-species: Silver Dragon
-title: Professor of Political Intrigue and Diplomacy
+title: "Professor Zalrex Whisperwing"
+type: npc/professor
+college: "Quintessence Institute"
+major: "Political Intrigue and Diplomacy"
+tags: ["professor", "college:", "major:","variant:silver"]
+updated: 2025-10-05
 ---
+### Zalrex Whisperwing
 
-# Professor Zalrex Whisperwing
+Ancient Silver Dragon
 
-## Biography
-...npc_professor_template...
+### Role
 
-## Courses Taught
+Professor of **Political Intrigue and Diplomacy**
+
+**College**: Quintessence Institute
+
+**Major**: Political Intrigue and Diplomacy
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
 - **POLI 237 – Subtle Warfare: Sanction, Subterfuge, and Soft Power**
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **Faith Alignment**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...

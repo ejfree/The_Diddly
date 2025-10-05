@@ -2,9 +2,9 @@
 title: "Professor Experiax"
 type: npc/professor
 college: "College of Lore"
-major: "Forbidden Histories"
-tags: ["professor", "college: College of Lore", "major: Forbidden Histories","variant:black"]
-updated: 2025-10-04
+major: "History"
+tags: ["professor", "college: College of Lore", "major: History","variant:black"]
+updated: 2025-10-05
 ---
 
 ### Professor Experiax
@@ -13,11 +13,11 @@ Ancient Black Dragon
 
 ### Role
 
-Professor of **Forbidden Histories**
+Professor of **History**
 
 **College**: College of Lore
 
-**Major**: Forbidden Histories
+**Major**: History
 
 ### Personality
 

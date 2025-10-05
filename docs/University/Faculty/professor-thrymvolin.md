@@ -1,7 +1,7 @@
 ---
 title: "Professor Thrymvolin"
 type: npc/professor
-college: "Academy of Archano-elemental and Techno Mechanics"
+college: "Academy of Archano-Elemental and Techno Mechanics"
 major: "Arcanomechanics"
 tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Arcanomechanics","variant:amethyst"]
 updated: 2025-10-04
@@ -15,7 +15,7 @@ Ancient Amethyst Dragon
 
 Professor of **Arcanomechanics**
 
-**College**: Academy of Archano-elemental and Techno Mechanics
+**College**: Academy of Archano-Elemental and Techno Mechanics
 
 **Major**: Arcanomechanics
 

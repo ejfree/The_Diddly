@@ -1,7 +1,7 @@
 ---
 title: "Professor Charis Emberfiend"
 type: npc/professor
-college: "Academy of Archano-elemental and Techno Mechanics"
+college: "Academy of Archano-Elemental and Techno Mechanics"
 major: "Eldritch Engineering"
 tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Eldritch Engineering","variant:infernal"]
 updated: 2025-10-04
@@ -15,7 +15,7 @@ Ancient Infernal Dragon
 
 Professor of **Eldritch Engineering**
 
-**College**: Academy of Archano-elemental and Techno Mechanics
+**College**: Academy of Archano-Elemental and Techno Mechanics
 
 **Major**: Eldritch Engineering
 
