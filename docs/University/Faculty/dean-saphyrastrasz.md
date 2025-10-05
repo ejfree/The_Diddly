@@ -35,9 +35,7 @@ Saphyrastrasz has spent centuries studying the confluence of arcane magic and el
 
 ### Classes Taught
 
-- **[Eldritch Engineering — Capstone Studio](../Academics/course-catalog.md#eldritch-engineering-capstone-studio)**
-- **[Sustainable Megastructures Lab](../Academics/course-catalog.md#sustainable-megastructures-lab)**
-- **[Runic Symbiosis Colloquium](../Academics/course-catalog.md#runic-symbiosis-colloquium)**
+...
 
 ### Academic Approach
 

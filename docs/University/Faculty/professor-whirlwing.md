@@ -29,7 +29,7 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 ### Classes Taught
 
-- **[Dragons > Giants](../Academics/course-catalog.md#dragons-giants)**
+...
 
 ### Academic Approach
 

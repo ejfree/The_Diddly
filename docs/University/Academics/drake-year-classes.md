@@ -35,17 +35,17 @@ Second-year dragons (“Drakes”) transition from foundational coursework to fo
 
 ### Prophecy
 
-- **PRO 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave** — _Professor Nyxithar (Doom Dragon)_
+- **PROF 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave** — _Professor Nyxithar (Doom Dragon)_
   Deciphers large-scale destructive visions and their anchors in current time streams.
-- **PRO 245 – Voice of the Ancients: Translating Lost Prophetic Tongues** — _Professor Velzira the Obscured (Green Dragon)_
+- **PROF 245 – Voice of the Ancients: Translating Lost Prophetic Tongues** — _Professor Velzira the Obscured (Green Dragon)_
   Covers extinct dialects used in old prophecy and their influence on modern interpretation.
-- **PRO 248 – Divergence Theory and Multipath Futures** — _Professor Carrilith Timeflame (Time Dragon)_
+- **PROF 248 – Divergence Theory and Multipath Futures** — _Professor Carrilith Timeflame (Time Dragon)_
   Introduces timeline theory, convergence points, and minor corrections in the temporal continuum.
-- **PRO 253 – The Marked and the Chosen** — _Professor Vornask Embercall (Infernal Dragon)_
+- **PROF 253 – The Marked and the Chosen** — _Professor Vornask Embercall (Infernal Dragon)_
   Examines prophecies concerning individual dragons or mortals marked by fate, especially those bearing draconic omens.
-- **PRO 259 – Whispers in the Void: Alien Prophecy Sources** — _Professor Xel'Quin'thoth (Brass Dragon)_
+- **PROF 259 – Whispers in the Void: Alien Prophecy Sources** — _Professor Xel'Quin'thoth (Brass Dragon)_
   Studies prophetic knowledge gained from non-draconic and alien entities, including the Far Realms.
-- **PRO 264 – The Ethics of Knowing** — _Professor Aerys Nightrend (Bronze Dragon)_
+- **PROF 264 – The Ethics of Knowing** — _Professor Aerys Nightrend (Bronze Dragon)_
   Debates the responsibility of seers, the burden of knowledge, and the dangers of public revelation.
 
 ### Ancient Relics and Artifacts

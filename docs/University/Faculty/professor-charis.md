@@ -35,7 +35,7 @@ Born into a lineage of infernal engineers who bargained with devils for blueprin
 
 ### Classes Taught
 
-- **[Eldritch Fundamentals](../Academics/course-catalog.md#eldritch-fundamentals)**
+...
 
 ### Academic Approach
 

@@ -35,10 +35,7 @@ Born amidst the snowy peaks of the Elder Mountains, Argentius the Lorewarden has
 
 ### Classes Taught
 
-
-- **[The Dawn of Dragonkind — History 104](../Academics/course-catalog.md#the-dawn-of-dragonkind-history-104)**
-- **[Curating the Wyrm Archives — Independent Study](../Academics/course-catalog.md#curating-the-wyrm-archives-independent-study)**
-- **[Historiography for Long-Lived Species](../Academics/course-catalog.md#historiography-for-long-lived-species)**
+- The Dawn of Dragonkind — History 104
 
 ### Academic Approach
 

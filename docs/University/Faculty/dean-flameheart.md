@@ -35,9 +35,7 @@ Born amidst the volcanic chains of the Draconic Highlands, Pyraxis was exposed t
 
 ### Classes Taught
 
-- **[Elemental Binding — Fundamentals to Mastery](../Academics/course-catalog.md#elemental-binding-fundamentals-to-mastery)**
-- **[Firestorm Field Exercises](../Academics/course-catalog.md#firestorm-field-exercises)**
-- **[Containment Strategies for Rogue Elementals](../Academics/course-catalog.md#containment-strategies-for-rogue-elementals)**
+...
 
 ### Academic Approach
 

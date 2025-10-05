@@ -29,19 +29,19 @@ Here are some of the courses taught at The Diddly.
 
 ### Prophecy
 
-- **PRO 150 – Foundations of the Draconic Prophecy** — _Professor Toomkeeper (Crypt Dragon)_
+- **PROF 150 – Foundations of the Draconic Prophecy** — _Professor Toomkeeper (Crypt Dragon)_
   An introduction to the complexities of the Draconic Prophecy, this course covers basic interpretations, historical impacts, and the role of dragons in shaping the future of the cosmos.
-- **PRO 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave** — _Professor Nyxithar (Doom Dragon)_
+- **PROF 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave** — _Professor Nyxithar (Doom Dragon)_
   Deciphers large-scale destructive visions and their anchors in current time streams.
-- **PRO 245 – Voice of the Ancients: Translating Lost Prophetic Tongues** — _Professor Velzira the Obscured (Green Dragon)_
+- **PROF 245 – Voice of the Ancients: Translating Lost Prophetic Tongues** — _Professor Velzira the Obscured (Green Dragon)_
   Covers extinct dialects used in old prophecy and their influence on modern interpretation.
-- **PRO 248 – Divergence Theory and Multipath Futures** — _Professor Carrilith Timeflame (Time Dragon)_
+- **PROF 248 – Divergence Theory and Multipath Futures** — _Professor Carrilith Timeflame (Time Dragon)_
   Introduces timeline theory, convergence points, and minor corrections in the temporal continuum.
-- **PRO 253 – The Marked and the Chosen** — _Professor Vornask Embercall (Infernal Dragon)_
+- **PROF 253 – The Marked and the Chosen** — _Professor Vornask Embercall (Infernal Dragon)_
   Examines prophecies concerning individual dragons or mortals marked by fate, especially those bearing draconic omens.
-- **PRO 259 – Whispers in the Void: Alien Prophecy Sources** — _Professor Xel'Quin'thoth (Brass Dragon)_
+- **PROF 259 – Whispers in the Void: Alien Prophecy Sources** — _Professor Xel'Quin'thoth (Brass Dragon)_
   Studies prophetic knowledge gained from non-draconic and alien entities, including the Far Realms.
-- **PRO 264 – The Ethics of Knowing** — _Professor Aerys Nightrend (Bronze Dragon)_
+- **PROF 264 – The Ethics of Knowing** — _Professor Aerys Nightrend (Bronze Dragon)_
   Debates the responsibility of seers, the burden of knowledge, and the dangers of public revelation.
 
 ### Ancient Relics and Artifacts
@@ -135,9 +135,9 @@ Here are some of the courses taught at The Diddly.
 
 - **PLAN 110 – Upper Planar Explorations** — _Professor Stellarwind (Vortex Dragon)_
   An introductory survey of the various upper planes of existence, their characteristics, and the effects of their interactions with the material plane.
-- **PLAN 111 – Upper Planar Explorations** — _Professor Viridius (Green Dragon)_
+- **PLAN 111 – Lower Planar Explorations** — _Professor Viridius (Green Dragon)_
   An introductory survey of the various lower planes of existence, their characteristics, and the effects of their interactions with the material plane.
-  - **PLAN 230 – Tides of Time: The Temporal Planes** — _Professor Heliocron (Time Dragon)_
+- **PLAN 230 – Tides of Time: The Temporal Planes** — _Professor Heliocron (Time Dragon)_
   Explores how time behaves differently in various planes and the implications for travelers.
 - **PLAN 238 – The Eighth Horizon: Undiscovered Planes** — _Professor Veska’laar (Gold Dragon)_
   Investigates speculative planar coordinates and rogue realms.
@@ -171,7 +171,6 @@ Here are some of the courses taught at The Diddly.
 
 - **EDRM 101 – Hoard Management** — _Professor Skytalon (Blue Dragon)_
   The basics of amassing and leveraging wealth
-
 - **EDRM 102 – TPrinciples of Draconic Economics** — _Dean Celestar (Astral Dragon)_
   An overview of dragon-centric economic theories, strategies for resource management, and advanced tactics in accumulating wealth.
 - **EDRM 210 – Hoard Theory and Vault Security** — _Professor Grendavon Talonmark (Gold Dragon)_

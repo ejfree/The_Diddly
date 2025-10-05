@@ -31,7 +31,7 @@ Moonwhisper is a majestic lunar dragon with iridescent silver scales that shimme
 
 ### Classes Taught
 
-- **[Foundations of Arcane Practice — Magic 100](../Academics/course-catalog.md#foundations-of-arcane-practice-magic-100)**
+- MATH 100 – Foundations of Arcane Practice
 
 ### Academic Approach
 

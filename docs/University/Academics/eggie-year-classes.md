@@ -13,7 +13,7 @@ tags: []
 
 ### Prophecy
 
-- **PRO 150 – Foundations of the Draconic Prophecy** — _Professor Toomkeeper (Crypt Dragon)_
+- **PROF 150 – Foundations of the Draconic Prophecy** — _Professor Toomkeeper (Crypt Dragon)_
   An introduction to the complexities of the Draconic Prophecy, this course covers basic interpretations, historical impacts, and the role of dragons in shaping the future of the cosmos.
 
 ## Academy of Archano-Elemental and Techno Mechanics
@@ -45,7 +45,7 @@ tags: []
 - **PLAN 110 – Upper Planar Explorations** — _Professor Stellarwind (Vortex Dragon)_
   An introductory survey of the various upper planes of existence, their characteristics, and the effects of their interactions with the material plane.
 
-- **PLAN 111 – Upper Planar Explorations** — _Professor Viridius (Green Dragon)_
+- **PLAN 111 – Lower Planar Explorations** — _Professor Viridius (Green Dragon)_
   An introductory survey of the various lower planes of existence, their characteristics, and the effects of their interactions with the material plane.
 
 ## School of Yield Surging

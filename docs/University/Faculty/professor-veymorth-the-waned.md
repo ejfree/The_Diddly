@@ -35,7 +35,7 @@ Veymorth once served as oracle to a doomed empire, forced to watch every warning
 
 ### Classes Taught
 
-- **[Advanced Prophetic Theory and Cognitive Collapse](../Academics/course-catalog.md#advanced-prophetic-theory-and-cognitive-collapse)**
+...
 
 ### Academic Approach
 

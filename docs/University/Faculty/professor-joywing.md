@@ -28,9 +28,7 @@ Professor Joywing’s shimmering scales shift between pastel hues of pink, gold,
 
 ### Classes Taught
 
-- **[Foundations of Prophetic Harmony](../Academics/course-catalog.md#foundations-of-prophetic-harmony)**
-- **[Guided Vision Meditation Lab](../Academics/course-catalog.md#guided-vision-meditation-lab)**
-- **[Counseling Through Prophecy Practicum](../Academics/course-catalog.md#counseling-through-prophecy-practicum)**
+...
 
 ### Academic Approach
 

@@ -35,9 +35,7 @@ Born during the Age of Wonder, when dragons openly mingled with other races, Syl
 
 ### Classes Taught
 
-- **[Arcanomechanics 101 — Advanced Techno-Magical Engineering](../Academics/course-catalog.md#arcanomechanics-101-advanced-techno-magical-engineering)**
-- **[Golem Architecture Practicum](../Academics/course-catalog.md#golem-architecture-practicum)**
-- **[Mana-Driven Systems Design Lab](../Academics/course-catalog.md#mana-driven-systems-design-lab)**
+...
 
 ### Academic Approach
 

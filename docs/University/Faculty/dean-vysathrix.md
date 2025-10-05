@@ -35,9 +35,7 @@ Born in the submerged caverns of the Sapphire Trench, Vysathrix grew up surround
 
 ### Classes Taught
 
-- **[Mineral Extraction & Refinement — Core Seminar](../Academics/course-catalog.md#mineral-extraction-and-refinement-core-seminar)**
-- **[Oceanic Survey Practicum](../Academics/course-catalog.md#oceanic-survey-practicum)**
-- **[Sustainable Dredging Techniques Workshop](../Academics/course-catalog.md#sustainable-dredging-techniques-workshop)**
+...
 
 ### Academic Approach
 

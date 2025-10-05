@@ -31,10 +31,7 @@ Chatterbeak’s bronze feathers are streaked with verdigris, a patina earned fro
 
 ### Classes Taught
 
-
-- **[Ancient Relics Survey — ARF 201](../Academics/course-catalog.md#ancient-relics-survey-arf-201)**
-- **[Provenance & Restoration Workshop](../Academics/course-catalog.md#provenance-and-restoration-workshop)**
-- **[Oral Histories of the Draconic Diaspora](../Academics/course-catalog.md#oral-histories-of-the-draconic-diaspora)**
+...
 
 ### Academic Approach
 

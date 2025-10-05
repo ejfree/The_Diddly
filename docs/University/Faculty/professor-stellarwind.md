@@ -37,7 +37,7 @@ Stellarwind earned her honorific while serving as a planar courier for Bahamut�
 
 ### Classes Taught
 
-- **[Upper Planar Exploration — Planar Studies 110](../Academics/course-catalog.md#upper-planar-exploration-planar-studies-110)**
+- PLAN 110 – Upper Planar Explorations
 
 ### Academic Approach
 

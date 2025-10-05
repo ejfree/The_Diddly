@@ -31,7 +31,7 @@ Deepcurrent is a long, serpentine dragon with scales in hues of turquoise, deep 
 
 ### Classes Taught
 
-- **[Intro to Elemental Mechanics — Elementals 101](../Academics/course-catalog.md#intro-to-elemental-mechanics-elementals-101)**
+- ELBD 101 – Intro to Elemental Mechanics
 
 ### Academic Approach
 

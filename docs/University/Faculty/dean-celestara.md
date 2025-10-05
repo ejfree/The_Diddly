@@ -35,10 +35,7 @@ Born in the vastness of the Astral Sea, Celestara was drawn to the material plan
 
 ### Classes Taught
 
-
-- **[Arcane Artifice and Enchantment Studies Seminar](../Academics/course-catalog.md#arcane-artifice-and-enchantment-studies-seminar)**
-- **[Principles of Draconic Economics — Econ 102](../Academics/course-catalog.md#principles-of-draconic-economics-econ-102)**
-- **[Astral Forge Practicum](../Academics/course-catalog.md#astral-forge-practicum)**
+- Principles of Draconic Economics — Econ 102
 
 ### Academic Approach
 

@@ -35,10 +35,7 @@ Their role at Dragon University isn't just academic; it's also deeply political.
 
 ### Classes Taught
 
-
-- **[Prophecy Workshop: Threads of Doom](../Academics/course-catalog.md#prophecy-workshop-threads-of-doom)**
-- **[Ethics of Foretelling](../Academics/course-catalog.md#ethics-of-foretelling)**
-- **[Advanced Scrying Practicum](../Academics/course-catalog.md#advanced-scrying-practicum)**
+...
 
 ### Academic Approach
 
