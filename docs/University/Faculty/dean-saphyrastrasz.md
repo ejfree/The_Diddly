@@ -35,7 +35,9 @@ Saphyrastrasz has spent centuries studying the confluence of arcane magic and el
 
 ### Classes Taught
 
-...
+- **ELEN 345 – Eldritch Systems Architecture**
+
+
 
 ### Academic Approach
 

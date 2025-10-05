@@ -33,7 +33,9 @@ Professor of **History**
 
 ### Classes Taught
 
-- HIST 226 – Local Histories: Memory, Myth, and Manipulation
+- **HIST 226 – Local Histories: Memory, Myth, and Manipulation**
+
+
 
 ### Academic Approach
 

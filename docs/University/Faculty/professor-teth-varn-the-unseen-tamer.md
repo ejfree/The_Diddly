@@ -34,6 +34,8 @@ Professor of **Eldritch Engineering**
 
 - **ELEN 240 – Control Systems for Madness-Linked Devices**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

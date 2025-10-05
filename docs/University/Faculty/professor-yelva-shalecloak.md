@@ -34,6 +34,8 @@ Professor of **Mineral Extraction & Refinement**
 
 - **MINX 241 – Collapse Scenarios and Structural Fortification**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

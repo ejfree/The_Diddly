@@ -34,6 +34,8 @@ Professor of **Planar Studies**
 
 - **PLAN 230 – Tides of Time: The Temporal Planes**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

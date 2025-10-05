@@ -34,6 +34,8 @@ Professor of **Economic Dominance and Resource Management**
 
 - **EDRM 238 – Ethics in Resource Domination**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

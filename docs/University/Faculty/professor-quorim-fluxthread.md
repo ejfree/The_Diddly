@@ -34,6 +34,8 @@ Professor of **Elemental Binding**
 
 - **ELBD 240 – Ethics of Elemental Enslavement**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

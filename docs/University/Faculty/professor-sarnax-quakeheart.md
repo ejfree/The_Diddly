@@ -34,6 +34,8 @@ Professor of **Mineral Extraction & Refinement**
 
 - **MINX 235 – Living Stone and Elemental Cooperation**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

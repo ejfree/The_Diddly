@@ -34,6 +34,8 @@ Professor of **Mineral Extraction & Refinement**
 
 - **MINX 227 – Alchemic Purification of Ores**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

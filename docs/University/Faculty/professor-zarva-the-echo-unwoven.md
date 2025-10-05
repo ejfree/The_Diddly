@@ -34,6 +34,8 @@ Professor of **Magical Theory**
 
 - **MATH 249 – Counterspelling as Disproof**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -34,6 +34,8 @@ Professor of **Political Intrigue and Diplomacy**
 
 - **POLI 210 – The Art of the Mask: Disguise and Persona Cultivation**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -33,7 +33,9 @@ Professor of **History**
 
 ### Classes Taught
 
-- HIST 221 – Imperial Archives and the Censor’s Flame
+- **HIST 221 – Imperial Archives and the Censor’s Flame**
+
+
 
 ### Academic Approach
 

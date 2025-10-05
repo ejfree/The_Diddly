@@ -35,7 +35,9 @@ Her role at the Quintessence Institute involves not only teaching but also activ
 
 ### Classes Taught
 
-...
+- **POLI 340 – Shadow Treaties and Double Binds**
+
+
 
 ### Academic Approach
 

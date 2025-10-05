@@ -34,6 +34,8 @@ Professor of **Planar Studies**
 
 - **PLAN 250 – Navigating the Elemental Maelstrom**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

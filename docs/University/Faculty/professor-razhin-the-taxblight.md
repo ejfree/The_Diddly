@@ -34,6 +34,8 @@ Professor of **Economic Dominance and Resource Management**
 
 - **EDRM 218 – Trade Wars: Economic Aggression and Countermeasures**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

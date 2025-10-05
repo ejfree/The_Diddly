@@ -34,6 +34,8 @@ Professor of **Elemental Binding**
 
 - **ELBD 219 – The Subtle Bind: Air, Mist, and Invisible Forces**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

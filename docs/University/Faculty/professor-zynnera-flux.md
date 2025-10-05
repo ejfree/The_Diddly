@@ -34,6 +34,8 @@ Professor of **Arcanomechanics**
 
 - **AMCH 215 – Arcano-Lattice Diagnostics**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

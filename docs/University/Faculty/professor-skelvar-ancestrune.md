@@ -34,6 +34,8 @@ Professor of **Ancient Relics and Artifacts**
 
 - **ARAR 219 – Echoes in Stone: Monoliths and Inscribed Memory**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

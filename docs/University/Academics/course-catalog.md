@@ -44,6 +44,9 @@ Here are some of the courses taught at The Diddly.
 - **PROF 264 – The Ethics of Knowing** — _[Professor Aerys Nightrend (Bronze Dragon)](../Faculty/professor-aerys-nightrend.md)_
   Debates the responsibility of seers, the burden of knowledge, and the dangers of public revelation.
 
+- **PROF 360 – Infernal Portents and Counterfates** — _[Dean Blackshard (Infernal Dragon)](../Faculty/dean-blackshard.md)_
+  Advanced seminar in tracing doom-laden auguries to their anchors and designing ethical interventions.
+
 ### Ancient Relics and Artifacts
 
 - **ARAR 201 – Bones of Kings: Identifying Sovereign Relics** — _[Professor Tarmelith Brightburrow (Gold Dragon)](../Faculty/professor-tarmelith-brightburrow.md)_
@@ -58,6 +61,9 @@ Here are some of the courses taught at The Diddly.
   Survey of extremely dangerous or unstable relics, and their geopolitical history.
 - **ARAR 240 – Cult Relics and False Icons** — _[Professor Ienwe Suncleft (Copper Dragon)](../Faculty/professor-ienwe-suncleft.md)_
   Investigates the use of artifacts in religious fraud, manufactured prophecy, and cult influence.
+
+- **ARAR 340 – Relic Ethics and Custodianship** — _[Dean Chatterbeak (Brass Dragon)](../Faculty/dean-chatterbeak.md)_
+  Case-law and praxis for acquisition, restoration, and repatriation of powerful artifacts.
 
 ## Academy of Archano-Elemental and Techno Mechanics
 
@@ -78,6 +84,9 @@ Here are some of the courses taught at The Diddly.
 - **AMCH 238 – Ethics in Magical Engineering** — _[Professor Selvar Thricebound (Green Dragon)](../Faculty/professor-selvar-thricebound.md)_
   Examines the societal impact of technomagical invention, accountability, and consent. Professor Haldras Ethoscale (Crystal Dragon) contributes guest audits on sentient construct rights and planar-machine ethics.
 
+- **AMCH 345 – Self-Healing Constructs and Fail-Safes** — _[Dean Syltharion (Bronze Dragon)](../Faculty/dean-syltharion.md)_
+  Design patterns for resilient devices, fault isolation, and autonomous recovery protocols.
+
 ### Elemental Binding
 
 - **ELBD 101 – Intro to Elemental Mechanics** — _[Professor Deepcurrent (Sea Dragon)](../Faculty/professor-deepcurrent.md)_
@@ -95,6 +104,9 @@ Here are some of the courses taught at The Diddly.
 - **ELBD 240 – Ethics of Elemental Enslavement** — _[Professor Quorim Fluxthread (Gold Dragon)](../Faculty/professor-quorim-fluxthread.md)_
   Explores morality, consent, and emerging theories on elemental sentience and rights.
 
+- **ELBD 335 – Convergence Binding and Storm Arrays** — _[Dean Flameheart (Red Dragon)](../Faculty/dean-flameheart.md)_
+  Harnessing multi-front elementals into stable latticework for large-scale applications.
+
 ### Eldritch Engineering
 
 - **ELEN 199 – Eldrich Fundamentals** — _[Professor Emberfiend (Infernal Dragon)](../Faculty/professor-emberfiend.md)_
@@ -111,6 +123,9 @@ Here are some of the courses taught at The Diddly.
   Explores unsafe, volatile, or unethical energy sources—strict supervision enforced.
 - **ELEN 240 – Control Systems for Madness-Linked Devices** — _[Professor Teth’Varn the Unseen Tamer (Brass Dragon)](../Faculty/professor-teth-varn-the-unseen-tamer.md)_
   Teaches mental resilience and spell safety protocols for handling sanity-breaking systems.
+
+- **ELEN 345 – Eldritch Systems Architecture** — _[Dean Saphyrastrasz (Sapphire Dragon)](../Faculty/dean-saphyrastrasz.md)_
+  High-order integration of eldritch power sources with safe containment and modular interfaces.
 
 ## Quintessence Institute
 
@@ -131,6 +146,9 @@ Here are some of the courses taught at The Diddly.
 - **MATH 249 – Counterspelling as Disproof** — _[Professor Zarva the Echo Unwoven (Paradise Dragon)](../Faculty/professor-zarva-the-echo-unwoven.md)_
   A rigorous course in understanding countermagic as a logical refutation of spell structure.
 
+- **MATH 340 – Meta-Thaumic Proofs and Paradox** — _[Dean Arcanix (Occult Dragon)](../Faculty/dean-arcanix.md)_
+  Advanced proof techniques, paradox handling, and consistency checks across magical axiom systems.
+
 ### Planar Studies
 
 - **PLAN 110 – Upper Planar Explorations** — _[Professor Stellarwind (Vortex Dragon)](../Faculty/professor-stellarwind.md)_
@@ -150,6 +168,9 @@ Here are some of the courses taught at The Diddly.
 - **PLAN 261 – Concords and Conflicts of the Outer Realms** — _[Professor Quenlyr of the Tranquil Verdict (Copper Dragon)](../Faculty/professor-quenlyr-of-the-tranquil-verdict.md)_
   Debates the philosophical structures of aligned planes and their influence on mortal morality.
 
+- **PLAN 360 – Temporal Corridors and Closed Time Tactics** — _[Dean Zephyrion (Time Dragon)](../Faculty/dean-zephyrion.md)_
+  Navigating stable corridors, preventing paradox, and employing time-safe tactical retreats.
+
 ### Political Intrigue and Diplomacy
 
 - **POLI 210 – The Art of the Mask: Disguise and Persona Cultivation** — _[Professor Venitha Sablecrest (Paradise Dragon)](../Faculty/professor-venitha-sablecrest.md)_
@@ -164,6 +185,9 @@ Here are some of the courses taught at The Diddly.
   Unpacks how to manipulate outcomes without raising a single claw.
 - **POLI 244 – The Pact and the Knife: Betrayals in History** — _[Professor Yuladra Nightglen (White Dragon)](../Faculty/professor-yuladra-nightglen.md)_
   Analyzes infamous betrayals, broken treaties, and the anatomy of trust collapse.
+
+- **POLI 340 – Shadow Treaties and Double Binds** — _[Dean Seraphel (Paradise Dragon)](../Faculty/dean-seraphel.md)_
+  Drafting enforceable covert accords and anticipating weaponized ambiguity.
 
 ## School of Yield Surging
 
@@ -186,6 +210,9 @@ Here are some of the courses taught at The Diddly.
 - **EDRM 245 – Inflation Magic and Monetary Rituals** — _[Professor Zin Quen’tel (Amethyst Dragon)](../Faculty/professor-zin-quen-tel.md)_
   Studies arcane manipulation of supply/demand curves, illusion-backed currency, and wealth glamours.
 
+- **EDRM 332 – Sovereign Funds and Arcane Infrastructure** — _[Dean Sunflare (Solar Dragon)](../Faculty/dean-sunflare.md)_
+  Financing and auditing continent-scale projects with magical dividends and public boons.
+
 ### Mineral Extraction & Refinement
 
 - **MINX 205 – Pressure and Patience: Gem Growth in Mana Fields** — _[Professor Rhaggen Shardfury (Blue Dragon)](../Faculty/professor-rhaggen-shardfury.md)_
@@ -200,6 +227,9 @@ Here are some of the courses taught at The Diddly.
   Negotiating extraction rights with intelligent elementals or living caverns.
 - **MINX 241 – Collapse Scenarios and Structural Fortification** — _[Professor Yelva Shalecloak (Gold Dragon)](../Faculty/professor-yelva-shalecloak.md)_
   Survey of mining safety, collapses, and enchanted structural integrity fieldwork.
+
+- **MINX 342 – Abyssal Vein Mapping and Yield Stabilization** — _[Dean Vysathrix (Cerulean Dragon)](../Faculty/dean-vysathrix.md)_
+  Deep-ocean survey methods, pressure-safe extraction, and post-harvest reef restoration.
 
 ### Arcane Artifice and Enchantment Studies
 

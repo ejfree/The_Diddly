@@ -35,7 +35,9 @@ Descended from a venerable line of occult dragons, Arcanix’s ancestry has alwa
 
 ### Classes Taught
 
-...
+- **MATH 340 – Meta-Thaumic Proofs and Paradox**
+
+
 
 ### Academic Approach
 

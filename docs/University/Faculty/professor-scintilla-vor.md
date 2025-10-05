@@ -34,6 +34,8 @@ Professor of **Magical Theory**
 
 - **MATH 229 – Paradox Magic: When Spells Break Their Own Rules**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -33,7 +33,9 @@ Professor of **Prophecy**
 
 ### Classes Taught
 
-- PROF 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave
+- **PROF 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave**
+
+
 
 ### Academic Approach
 

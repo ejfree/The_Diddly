@@ -34,6 +34,8 @@ Professor of **Prophecy**
 
 - **PROF 264 – The Ethics of Knowing**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -34,6 +34,8 @@ Professor of **Arcanomechanics**
 
 - **AMCH 238 – Ethics in Magical Engineering**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

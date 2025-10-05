@@ -34,6 +34,8 @@ Professor of **Planar Studies**
 
 - **PLAN 238 – The Eighth Horizon: Undiscovered Planes**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

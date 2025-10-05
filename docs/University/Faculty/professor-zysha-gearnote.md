@@ -34,6 +34,8 @@ Professor of **Arcane Artifice and Enchantment Studies**
 
 - **AAES 246 – Mass Production of Magical Items**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

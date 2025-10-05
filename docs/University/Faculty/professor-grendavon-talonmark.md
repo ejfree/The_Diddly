@@ -34,6 +34,8 @@ Professor of **Economic Dominance and Resource Management**
 
 - **EDRM 210 – Hoard Theory and Vault Security**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

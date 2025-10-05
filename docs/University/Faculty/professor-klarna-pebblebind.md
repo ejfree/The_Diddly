@@ -34,6 +34,8 @@ Professor of **Mineral Extraction & Refinement**
 
 - **MINX 213 – Deep Burrow Economics**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -35,7 +35,9 @@ As Dean of Economic Dominance and Resource Management, Solarius is pivotal in sh
 
 ### Classes Taught
 
-...
+- **EDRM 332 – Sovereign Funds and Arcane Infrastructure**
+
+
 
 ### Academic Approach
 

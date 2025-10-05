@@ -35,7 +35,9 @@ Born in the vastness of the Astral Sea, Celestara was drawn to the material plan
 
 ### Classes Taught
 
-- Principles of Draconic Economics — Econ 102
+- **EDRM 102 – Principles of Draconic Economics**
+
+
 
 ### Academic Approach
 

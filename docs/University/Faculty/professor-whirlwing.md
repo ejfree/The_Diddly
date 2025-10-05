@@ -1,85 +1,23 @@
 ---
-name: Professor Whirlwing
-species: Tumult Dragon
-title: Professor of History
-major: "${course_name}"
----
-
-
----
-title: "Professor ${name}"
+title: Professor Whirlwing
 type: npc/professor
-college: ""
-major: "${course}"
-tags: ["professor", "college:", "major:","variant:"]
+college: "College of Lore"
+major: "History"
+tags: ["professor", "college: College of Lore", "major: History","variant:tumult"]
 updated: 2025-01-01
 ---
-### ${name}
 
-Ancient ${dragon_variant} Dragon
-
-### Role
-
-Professor of **${course_name}**
-
-**College**: ${college}
-
-**Major**: ${course_name}
-
-### Personality
-
-...
-
-### Description
-
-...
-
-### Background
-
-...
-
-### Classes Taught
-
-- ...
-
-### Academic Approach
-
-- **Course Focus**: ...
-- **Teaching Style**: ...
-- **Philosophy**: ...
-
-### Faith and Combat Prowess
-
-- **${faith_title}**: ...
-- **Combat Style**: ...
-- **Signature Move**: ...
-
-### Classroom & Teaching Environment
-
-...
-
-### Quotes
-
-...
-
-### Encounter Ideas
-
-...
-
-
-
-
-# Professor Whirlwing
-
-## Biography
+### Professor Whirlwing
 
 Ancient Tumult Dragon
 
-Professor of **History**
+### Role
+
+Professor of **$History**
 
 **College**: College of Lore
 
-**Major**: ${course_name}
+**Major**: History
 
 ### Personality
 
@@ -91,32 +29,34 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 ![162B7A9E-D902-4154-908F-C2B1CE1D9AD7](/assets/images/162B7A9E-D902-4154-908F-C2B1CE1D9AD7.webp)
 
-## Courses Taught
+### Background
+
+...
+
+### Classes Taught
+
 - **HIST 202 – War Echoes: Draconic Conflicts Across Ages**
 
-## Academic Approach
 
-- **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.
 
+### Academic Approach
+
+- **Course Focus**: - **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.
 - **Teaching Style**: Highly dynamic and interactive, Whirlwing encourages debates, role-playing exercises, and immersive storytelling. They challenge students to think critically about the sources of history, question established narratives, and embrace the idea of history as a living, evolving entity.
-
 - **Philosophy**: Whirlwing’s core belief is that history is not static. It is a tide constantly reshaped by the perspectives of those who tell it. They inspire students to see themselves as active participants in the ongoing story of dragonkind.
 
-## Faith and Combat Prowess
+### Faith and Combat Prowess
 
 - **Faith Title**: Keeper of Shifting Truths
-
 - **Faith Description**: Professor Whirlwing honors no singular deity but rather reveres the concept of transformation itself, drawing inspiration from the ever-changing winds and tides of the world.
-
 - **Combat Style**: Whirlwing’s combat style reflects their nature, emphasizing agility, unpredictability, and adaptability. They use their breath weapon to create chaotic, multicolored bursts that disorient opponents and shift the battlefield to their advantage.
-
 - **Signature Move**: "Cyclone of Chaos"—a powerful breath attack that combines elemental damage types in a swirling vortex, leaving adversaries staggered and confused.
 
-## Classroom & Teaching Environment
+### Classroom & Teaching Environment
 
 Professor Whirlwing’s classroom is a testament to their love of change. The space is enchanted to constantly shift its layout and decor, reflecting the themes of the day’s lesson. One day it might resemble an ancient battlefield, complete with holographic projections of dragons and giants clashing, and the next, it could transform into a grand hall filled with artifacts and murals. Despite the ever-changing environment, the classroom maintains an aura of warmth and inspiration, with plenty of spaces for students to gather and discuss ideas. The room’s centerpiece is a massive, floating orb that displays a dynamic timeline of dragon history, which Whirlwing often manipulates during lectures to illustrate key points.
 
-## Quotes
+### Quotes
 
 - “History is not a river flowing in one direction; it is a storm, wild and untamed. Embrace its chaos, and you shall find truth.”
 
@@ -124,7 +64,7 @@ Professor Whirlwing’s classroom is a testament to their love of change. The sp
 
 - “What the giants call defeat, we dragons call transformation. It is all a matter of perspective.”
 
-## Encounter Ideas
+### Encounter Ideas
 
 **Classroom Debate**: Students are tasked with reenacting a key historical conflict between dragons and giants, but mid-debate, Whirlwing changes the scenario, challenging students to adapt their arguments to a new perspective.
 **Field Trip**: Whirlwing leads students to a long-forgotten battleground where dragons and giants once clashed, but the site turns out to be cursed, forcing the group to confront ancient ghosts.
@@ -132,4 +72,3 @@ Professor Whirlwing’s classroom is a testament to their love of change. The sp
 **The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
 **Uncovering the Past**: A lost artifact from the age of dragon-giant wars resurfaces, and Whirlwing enlists the students to help unravel its mysteries while fending off rival scholars and treasure hunters.
 **The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
-

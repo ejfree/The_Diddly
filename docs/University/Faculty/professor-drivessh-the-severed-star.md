@@ -34,6 +34,8 @@ Professor of **Magical Theory**
 
 - **MATH 236 – Forbidden Structures: Anomalous Spell Geometry**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

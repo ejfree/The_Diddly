@@ -34,6 +34,8 @@ Professor of **Political Intrigue and Diplomacy**
 
 - **POLI 244 – The Pact and the Knife: Betrayals in History**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

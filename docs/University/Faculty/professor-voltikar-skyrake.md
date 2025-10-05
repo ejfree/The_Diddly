@@ -34,6 +34,8 @@ Professor of **Elemental Binding**
 
 - **ELBD 236 – Heart of the Storm: Lightning Elementals**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

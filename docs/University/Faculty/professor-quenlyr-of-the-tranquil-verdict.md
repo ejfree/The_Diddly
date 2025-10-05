@@ -34,6 +34,8 @@ Professor of **Planar Studies**
 
 - **PLAN 261 – Concords and Conflicts of the Outer Realms**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

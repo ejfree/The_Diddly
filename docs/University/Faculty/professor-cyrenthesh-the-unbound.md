@@ -34,6 +34,8 @@ Professor of **Magical Theory**
 
 - **MATH 232 – Theoretical Mana Flows and Thaumaturgic Resonance**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -31,7 +31,9 @@ Professor Tombkeeper is of considerable size, roughly the dimensions of an ancie
 
 ### Classes Taught
 
-- PROF 150 – Foundations of the Draconic Prophecy
+- **PROF 150 – Foundations of the Draconic Prophecy**
+
+
 
 ### Academic Approach
 

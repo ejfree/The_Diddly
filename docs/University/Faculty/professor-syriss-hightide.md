@@ -34,6 +34,8 @@ Professor of **Economic Dominance and Resource Management**
 
 - **EDRM 224 – Yieldcraft: Growing Wealth from Nothing**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

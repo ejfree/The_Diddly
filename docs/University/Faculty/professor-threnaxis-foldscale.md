@@ -34,6 +34,8 @@ Professor of **Planar Studies**
 
 - **PLAN 257 – Anchors and Breaches: Sealing Planar Incursions**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

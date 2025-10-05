@@ -34,6 +34,8 @@ Professor of **Economic Dominance and Resource Management**
 
 - **EDRM 245 – Inflation Magic and Monetary Rituals**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -34,6 +34,8 @@ Professor of **Magical Theory**
 
 - **MATH 222 – Arcane Logic and Spell Harmonics**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

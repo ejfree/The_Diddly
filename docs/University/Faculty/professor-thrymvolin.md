@@ -35,7 +35,9 @@ Thrymvolin was once chief systems architect for the Crystal Bastion, a floating 
 
 ### Classes Taught
 
-- AMCH 101 – Foundational Techno-Magical Engineering
+- **AMCH 101 – Foundational Techno-Magical Engineering**
+
+
 
 ### Academic Approach
 

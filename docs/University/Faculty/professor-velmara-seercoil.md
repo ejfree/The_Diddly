@@ -34,6 +34,8 @@ Professor of **History**
 
 - **HIST 217 – Historiomancy: Using Magic to Reconstruct the Past**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

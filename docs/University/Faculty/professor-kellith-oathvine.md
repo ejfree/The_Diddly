@@ -34,6 +34,8 @@ Professor of **Political Intrigue and Diplomacy**
 
 - **POLI 219 – The Whisper Network: Espionage in Diplomacy**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

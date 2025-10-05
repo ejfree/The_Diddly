@@ -34,6 +34,8 @@ Professor of **Eldritch Engineering**
 
 - **ELEN 219 – Geometric Binding Arrays**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -33,7 +33,9 @@ Professor of **History**
 
 ### Classes Taught
 
-- HIST 208 – The Rise and Fall of Empires
+- **HIST 208 – The Rise and Fall of Empires**
+
+
 
 ### Academic Approach
 

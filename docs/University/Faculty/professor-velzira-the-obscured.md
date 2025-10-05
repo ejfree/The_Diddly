@@ -34,6 +34,8 @@ Professor of **Prophecy**
 
 - **PROF 245 – Voice of the Ancients: Translating Lost Prophetic Tongues**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

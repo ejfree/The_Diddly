@@ -31,7 +31,9 @@ Chatterbeak’s bronze feathers are streaked with verdigris, a patina earned fro
 
 ### Classes Taught
 
-...
+- **ARAR 340 – Relic Ethics and Custodianship**
+
+
 
 ### Academic Approach
 

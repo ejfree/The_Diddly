@@ -34,6 +34,8 @@ Professor of **Political Intrigue and Diplomacy**
 
 - **POLI 237 – Subtle Warfare: Sanction, Subterfuge, and Soft Power**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

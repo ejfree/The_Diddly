@@ -34,6 +34,8 @@ Professor of **Mineral Extraction & Refinement**
 
 - **MINX 220 – Extraction Tools: Breath and Steel**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

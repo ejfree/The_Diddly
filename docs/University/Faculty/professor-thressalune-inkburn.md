@@ -34,6 +34,8 @@ Professor of **Arcane Artifice and Enchantment Studies**
 
 - **AAES 211 – Glyphs that Whisper: Sentient Enchantments**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

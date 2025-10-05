@@ -34,6 +34,8 @@ Professor of **Ancient Relics and Artifacts**
 
 - **ARAR 212 – Tomb Traps and Cursecraft**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

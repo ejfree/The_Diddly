@@ -35,7 +35,9 @@ Born in the submerged caverns of the Sapphire Trench, Vysathrix grew up surround
 
 ### Classes Taught
 
-...
+- **MINX 342 – Abyssal Vein Mapping and Yield Stabilization**
+
+
 
 ### Academic Approach
 

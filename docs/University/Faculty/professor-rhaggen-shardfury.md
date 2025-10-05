@@ -34,6 +34,8 @@ Professor of **Mineral Extraction & Refinement**
 
 - **MINX 205 – Pressure and Patience: Gem Growth in Mana Fields**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

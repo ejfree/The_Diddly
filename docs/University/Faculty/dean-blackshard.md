@@ -35,7 +35,9 @@ Their role at Dragon University isn't just academic; it's also deeply political.
 
 ### Classes Taught
 
-...
+- **PROF 360 – Infernal Portents and Counterfates**
+
+
 
 ### Academic Approach
 

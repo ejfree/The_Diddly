@@ -34,6 +34,8 @@ Professor of **Prophecy**
 
 - **PROF 259 – Whispers in the Void: Alien Prophecy Sources**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

@@ -34,6 +34,8 @@ Professor of **Arcanomechanics**
 
 - **AMCH 230 – Spell Engines and Modulated Core Design**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

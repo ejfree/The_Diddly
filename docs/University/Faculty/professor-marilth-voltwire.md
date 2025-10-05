@@ -34,6 +34,8 @@ Professor of **Arcane Artifice and Enchantment Studies**
 
 - **AAES 218 – Modular Wandcraft and Personal Sigils**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

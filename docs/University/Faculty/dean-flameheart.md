@@ -35,7 +35,9 @@ Born amidst the volcanic chains of the Draconic Highlands, Pyraxis was exposed t
 
 ### Classes Taught
 
-...
+- **ELBD 335 – Convergence Binding and Storm Arrays**
+
+
 
 ### Academic Approach
 

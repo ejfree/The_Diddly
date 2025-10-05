@@ -34,6 +34,8 @@ Professor of **Elemental Binding**
 
 - **ELBD 212 – Firebound Constructs and Combustion Spirits**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

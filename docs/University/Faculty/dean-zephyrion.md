@@ -35,7 +35,9 @@ Zephyrion once served as a chronomantic cartographer for the draconic conclave, 
 
 ### Classes Taught
 
-...
+- **PLAN 360 – Temporal Corridors and Closed Time Tactics**
+
+
 
 ### Academic Approach
 

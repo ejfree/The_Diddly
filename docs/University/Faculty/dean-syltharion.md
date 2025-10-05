@@ -35,7 +35,9 @@ Born during the Age of Wonder, when dragons openly mingled with other races, Syl
 
 ### Classes Taught
 
-...
+- **AMCH 345 – Self-Healing Constructs and Fail-Safes**
+
+
 
 ### Academic Approach
 

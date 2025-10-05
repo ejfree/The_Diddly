@@ -34,6 +34,8 @@ Professor of **Magical Theory**
 
 - **MATH 243 – The Origin of Spells**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...

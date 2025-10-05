@@ -33,7 +33,9 @@ Professor of **History**
 
 ### Classes Taught
 
-- HIST 214 – The Wyrms Who Walked: Biographies of Legendary Dragons
+- **HIST 214 – The Wyrms Who Walked: Biographies of Legendary Dragons**
+
+
 
 ### Academic Approach
 

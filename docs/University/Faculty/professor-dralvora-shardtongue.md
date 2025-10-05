@@ -34,6 +34,8 @@ Professor of **Political Intrigue and Diplomacy**
 
 - **POLI 231 – Negotiation Under Duress**
 
+
+
 ### Academic Approach
 
 - **Course Focus**: ...
