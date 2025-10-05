@@ -29,7 +29,7 @@ Here are some of the courses taught at The Diddly.
 
 ### Prophecy
 
-- **PROF 150 – Foundations of the Draconic Prophecy** — _[Professor Toomkeeper (Crypt Dragon)](../Faculty/professor-toomkeeper.md)_
+- **PROF 150 – Foundations of the Draconic Prophecy** — _[Professor Tombkeeper (Crypt Dragon)](../Faculty/professor-tombkeeper.md)_
   An introduction to the complexities of the Draconic Prophecy, this course covers basic interpretations, historical impacts, and the role of dragons in shaping the future of the cosmos.
 - **PROF 240 – Threads of Doom: Cataclysmic Visions in Prophetic Weave** — _[Professor Nyxithar (Doom Dragon)](../Faculty/professor-nyxithar.md)_
   Deciphers large-scale destructive visions and their anchors in current time streams.

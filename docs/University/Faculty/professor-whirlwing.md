@@ -4,6 +4,70 @@ species: Tumult Dragon
 title: Professor of History
 ---
 
+
+---
+title: "Professor ${name}"
+type: npc/professor
+college: ""
+major: ""
+tags: ["professor", "college:", "major:","variant:"]
+updated: 2025-01-01
+---
+### ${name}
+
+Ancient ${dragon_variant} Dragon
+
+### Role
+
+Professor of **${course_name}**
+
+**College**: ${college}
+
+**Major**: ${course}
+
+### Personality
+
+...
+
+### Description
+
+...
+
+### Background
+
+...
+
+### Classes Taught
+
+- ...
+
+### Academic Approach
+
+- **Course Focus**: ...
+- **Teaching Style**: ...
+- **Philosophy**: ...
+
+### Faith and Combat Prowess
+
+- **${faith_title}**: ...
+- **Combat Style**: ...
+- **Signature Move**: ...
+
+### Classroom & Teaching Environment
+
+...
+
+### Quotes
+
+...
+
+### Encounter Ideas
+
+...
+
+
+
+
 # Professor Whirlwing
 
 ## Biography
@@ -67,3 +131,4 @@ Professor Whirlwing’s classroom is a testament to their love of change. The sp
 **The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
 **Uncovering the Past**: A lost artifact from the age of dragon-giant wars resurfaces, and Whirlwing enlists the students to help unravel its mysteries while fending off rival scholars and treasure hunters.
 **The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
+

@@ -11,3 +11,5 @@ title: Professor of History
 
 ## Courses Taught
 - **HIST 217 – Historiomancy: Using Magic to Reconstruct the Past**
+
+
