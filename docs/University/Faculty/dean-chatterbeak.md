@@ -3,7 +3,7 @@ title: "Dean Chatterbeak"
 type: npc/professor
 college: "College of Lore"
 major: "Ancient Relics and Artifacts"
-tags: ["professor", "dean", "college: College of Lore", "major: Ancient Relics and Artifacts","variant:brass"]
+tags: ["professor", "dean", "college: College of Lore", "major: Ancient Relics and Artifacts", "variant:brass"]
 updated: 2025-10-04
 ---
 

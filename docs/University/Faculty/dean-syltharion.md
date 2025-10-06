@@ -3,7 +3,7 @@ title: "Dean Syltharion"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
 major: "Arcanomechanics"
-tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Arcanomechanics","variant:bronze"]
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Arcanomechanics", "variant:bronze"]
 updated: 2025-10-04
 ---
 

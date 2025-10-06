@@ -3,7 +3,7 @@ title: "Dean Celestara"
 type: npc/professor
 college: "School of Yield Surging"
 major: "Arcane Artifice and Enchantment Studies"
-tags: ["professor", "dean", "college: School of Yield Surging", "major: Arcane Artifice and Enchantment Studies","variant:astral"]
+tags: ["professor", "dean", "college: School of Yield Surging", "major: Arcane Artifice and Enchantment Studies", "variant:astral"]
 updated: 2025-10-04
 ---
 

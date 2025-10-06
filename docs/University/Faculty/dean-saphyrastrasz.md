@@ -3,7 +3,7 @@ title: "Dean Saphyrastrasz"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
 major: "Eldritch Engineering"
-tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Eldritch Engineering","variant:sapphire"]
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Eldritch Engineering", "variant:sapphire"]
 updated: 2025-10-04
 ---
 

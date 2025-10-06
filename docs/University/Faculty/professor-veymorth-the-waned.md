@@ -3,7 +3,7 @@ title: "Professor Veymorth The Waned"
 type: npc/professor
 college: "College of Lore"
 major: "Prophecy"
-tags: ["professor", "college: College of Lore", "major:prophecy","variant:doom"]
+tags: ["professor", "college: College of Lore", "major: Prophecy", "variant:doom"]
 updated: 2025-10-04
 ---
 
@@ -35,7 +35,8 @@ Veymorth once served as oracle to a doomed empire, forced to watch every warning
 
 ### Classes Taught
 
-...
+- **PROF 271 – Bearing the Storm: Mental Resilience for Seers**
+- **PROF 286 – Paradox Management and Ethical Non-Action**
 
 ### Academic Approach
 

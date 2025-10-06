@@ -3,7 +3,7 @@ title: "Professor Experiax"
 type: npc/professor
 college: "College of Lore"
 major: "History"
-tags: ["professor", "college: College of Lore", "major: History","variant:black"]
+tags: ["professor", "college: College of Lore", "major: History", "variant:black"]
 updated: 2025-10-05
 ---
 
@@ -33,7 +33,9 @@ Experiax once served as the Conclave’s clandestine historian, charged with pur
 
 ### Classes Taught
 
-...
+- **HIST 239 – Ethics of Erasure: Censorship and its Consequences**
+- **HIST 333 – Shadow Archives Lab: Reconstructing Redacted Records**
+- Guest colloquia on evidentiary divinations for HIST 217 “Historiomancy.”
 
 ### Academic Approach
 

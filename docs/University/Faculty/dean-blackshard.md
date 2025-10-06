@@ -3,7 +3,7 @@ title: "Dean Blackshard"
 type: npc/professor
 college: "College of Lore"
 major: "Prophecy"
-tags: ["professor", "dean", "college: College of Lore", "major: Prophecy","variant:infernal"]
+tags: ["professor", "dean", "college: College of Lore", "major: Prophecy", "variant:infernal"]
 updated: 2025-10-04
 ---
 

@@ -3,7 +3,7 @@ title: "Dean Sunflare"
 type: npc/professor
 college: "School of Yield Surging"
 major: "Economic Dominance and Resource Management"
-tags: ["professor", "dean", "college: School of Yield Surging", "major: Economic Dominance and Resource Management","variant:solar"]
+tags: ["professor", "dean", "college: School of Yield Surging", "major: Economic Dominance and Resource Management", "variant:solar"]
 updated: 2025-10-04
 ---
 

@@ -3,7 +3,7 @@ title: "Dean Arcanix"
 type: npc/professor
 college: "Quintessence Institute"
 major: "Magical Theory and Application"
-tags: ["professor", "dean", "college: Quintessence Institute", "major: Magical Theory and Application","variant:occult"]
+tags: ["professor", "dean", "college: Quintessence Institute", "major: Magical Theory and Application", "variant:occult"]
 updated: 2025-10-04
 ---
 

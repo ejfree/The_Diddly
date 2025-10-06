@@ -3,7 +3,7 @@ title: "Dean Zephyrion"
 type: npc/professor
 college: "Quintessence Institute"
 major: "Planar Studies"
-tags: ["professor", "dean", "college: Quintessence Institute", "major: Planar Studies","variant:time"]
+tags: ["professor", "dean", "college: Quintessence Institute", "major: Planar Studies", "variant:time"]
 updated: 2025-10-04
 ---
 

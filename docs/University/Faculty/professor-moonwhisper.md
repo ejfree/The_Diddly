@@ -3,7 +3,7 @@ title: "Professor Moonwhisper"
 type: npc/professor
 college: "Quintessence Institute"
 major: "Magical Theory"
-tags: ["professor", "college: Quintessence Institute", "major: Magical Theory and Application","variant:lunar"]
+tags: ["professor", "college: Quintessence Institute", "major: Magical Theory", "variant:lunar"]
 updated: 2025-10-04
 ---
 

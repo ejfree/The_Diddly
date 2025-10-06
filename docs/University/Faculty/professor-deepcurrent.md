@@ -3,7 +3,7 @@ title: "Professor Deepcurrent"
 type: npc/professor
 college: "Academy of Archano-Elemental and Techno Mechanics"
 major: "Elemental Binding"
-tags: ["professor", "college: Academy of Archano-elemental and Techno Mechanics", "major: Elemental Binding)","variant:sea"]
+tags: ["professor", "college: Academy of Archano-Elemental and Techno Mechanics", "major: Elemental Binding", "variant:sea"]
 updated: 2025-10-04
 ---
 
@@ -45,8 +45,8 @@ Deepcurrent is a long, serpentine dragon with scales in hues of turquoise, deep 
 
 ### Faith and Combat Prowess
 
-- **Faith Title**: Keeper of the Tides
-  **Faith Description**: Deepcurrent reveres the natural cycles of water and weather, seeing them as manifestations of an intricate, divine balance. He often integrates this perspective into his teachings, encouraging students to view magic as a means of maintaining harmony rather than causing destruction.
+- **Faith Alignment**: Keeper of the Tides
+- **Faith Description**: Deepcurrent reveres the natural cycles of water and weather, seeing them as manifestations of an intricate, divine balance. He often integrates this perspective into his teachings, encouraging students to view magic as a means of maintaining harmony rather than causing destruction.
 
 - **Combat Style**: As a Kineticist, Deepcurrent wields water with unparalleled precision, summoning waves and whirlpools to overwhelm foes. He uses his immense swimming speed and amphibious nature to outmaneuver opponents in aquatic environments.
 

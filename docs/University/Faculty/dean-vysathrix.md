@@ -3,7 +3,7 @@ title: "Dean Vysathrix"
 type: npc/professor
 college: "School of Yield Surging"
 major: "Mineral Extraction & Refinement"
-tags: ["professor", "dean", "college: School of Yield Surging", "major: Mineral Extraction & Refinement","variant:cerulean"]
+tags: ["professor", "dean", "college: School of Yield Surging", "major: Mineral Extraction & Refinement", "variant:cerulean"]
 updated: 2025-10-04
 ---
 

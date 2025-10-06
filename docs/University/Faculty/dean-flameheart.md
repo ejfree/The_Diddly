@@ -3,7 +3,7 @@ title: "Dean Flameheart"
 type: npc/professor
 college: "Academy of Archano-elemental and Techno Mechanics"
 major: "Elemental Binding"
-tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Elemental Binding","variant:red"]
+tags: ["professor", "dean", "college: Academy of Archano-elemental and Techno Mechanics", "major: Elemental Binding", "variant:red"]
 updated: 2025-10-04
 ---
 

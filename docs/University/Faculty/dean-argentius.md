@@ -3,7 +3,7 @@ title: "Dean Argentius"
 type: npc/professor
 college: "College of Lore"
 major: "Dragon History"
-tags: ["professor", "dean", "college: College of Lore", "major: Dragon History","variant:silver"]
+tags: ["professor", "dean", "college: College of Lore", "major: Dragon History", "variant:silver"]
 updated: 2025-10-04
 ---
 

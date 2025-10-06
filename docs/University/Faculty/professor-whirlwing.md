@@ -3,7 +3,7 @@ title: Professor Whirlwing
 type: npc/professor
 college: "College of Lore"
 major: "History"
-tags: ["professor", "college: College of Lore", "major: History","variant:tumult"]
+tags: ["professor", "college: College of Lore", "major: History", "variant:tumult"]
 updated: 2025-01-01
 ---
 
@@ -13,7 +13,7 @@ Ancient Tumult Dragon
 
 ### Role
 
-Professor of **$History**
+Professor of **History**
 
 **College**: College of Lore
 
@@ -31,7 +31,7 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 ### Background
 
-...
+A once-peripatetic chronicler of borderlands, Whirlwing embedded with clutches and clans across shifting regimes to record how power reorders memory. After witnessing history revised in real time to suit a victor, they vowed to teach students to surf change rather than drown in it—and to annotate every wave.
 
 ### Classes Taught
 
@@ -39,13 +39,13 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 ### Academic Approach
 
-- **Course Focus**: - **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.
+- **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.
 - **Teaching Style**: Highly dynamic and interactive, Whirlwing encourages debates, role-playing exercises, and immersive storytelling. They challenge students to think critically about the sources of history, question established narratives, and embrace the idea of history as a living, evolving entity.
 - **Philosophy**: Whirlwing’s core belief is that history is not static. It is a tide constantly reshaped by the perspectives of those who tell it. They inspire students to see themselves as active participants in the ongoing story of dragonkind.
 
 ### Faith and Combat Prowess
 
-- **Faith Title**: Keeper of Shifting Truths
+- **Faith Alignment**: Keeper of Shifting Truths
 - **Faith Description**: Professor Whirlwing honors no singular deity but rather reveres the concept of transformation itself, drawing inspiration from the ever-changing winds and tides of the world.
 - **Combat Style**: Whirlwing’s combat style reflects their nature, emphasizing agility, unpredictability, and adaptability. They use their breath weapon to create chaotic, multicolored bursts that disorient opponents and shift the battlefield to their advantage.
 - **Signature Move**: "Cyclone of Chaos"—a powerful breath attack that combines elemental damage types in a swirling vortex, leaving adversaries staggered and confused.
@@ -64,9 +64,7 @@ Professor Whirlwing’s classroom is a testament to their love of change. The sp
 
 ### Encounter Ideas
 
-**Classroom Debate**: Students are tasked with reenacting a key historical conflict between dragons and giants, but mid-debate, Whirlwing changes the scenario, challenging students to adapt their arguments to a new perspective.
-**Field Trip**: Whirlwing leads students to a long-forgotten battleground where dragons and giants once clashed, but the site turns out to be cursed, forcing the group to confront ancient ghosts.
-**Uncovering the Past**: A lost artifact from the age of dragon-giant wars resurfaces, and Whirlwing enlists the students to help unravel its mysteries while fending off rival scholars and treasure hunters.
-**The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
-**Uncovering the Past**: A lost artifact from the age of dragon-giant wars resurfaces, and Whirlwing enlists the students to help unravel its mysteries while fending off rival scholars and treasure hunters.
-**The Challenge of Change**: A rival professor challenges Whirlwing’s interpretation of a pivotal historical event, leading to a high-stakes intellectual duel with far-reaching consequences for the academic community.
+**Classroom Debate**: Students reenact a key historical conflict between dragons and giants; mid-debate, Whirlwing changes the scenario, forcing rapid adaptation.
+**Field Trip**: A visit to a long-forgotten battleground reveals a curse, compelling the class to confront ancient ghosts.
+**Uncovering the Past**: A lost artifact from the dragon-giant wars resurfaces; Whirlwing enlists students to unravel its mysteries while fending off rival scholars and treasure hunters.
+**The Challenge of Change**: A rival professor contests Whirlwing’s interpretation of a pivotal event, leading to a high-stakes intellectual duel with campus-wide consequences.

@@ -3,7 +3,7 @@ title: "Professor Tombkeeper"
 type: npc/professor
 college: "College of Lore"
 major: "Prophecy"
-tags: ["professor", "college: College of Lore", "major: Prophecy","variant:crypt"]
+tags: ["professor", "college: College of Lore", "major: Prophecy", "variant:crypt"]
 updated: 2025-10-04
 ---
 

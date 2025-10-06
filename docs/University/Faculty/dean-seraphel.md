@@ -3,7 +3,7 @@ title: "Dean Seraphel"
 type: npc/professor
 college: "Quintessence Institute"
 major: "Political Intrigue and Diplomacy"
-tags: ["professor", "dean", "college: Quintessence Institute", "major: Political Intrigue and Diplomacy","variant:paradise"]
+tags: ["professor", "dean", "college: Quintessence Institute", "major: Political Intrigue and Diplomacy", "variant:paradise"]
 updated: 2025-10-04
 ---
 

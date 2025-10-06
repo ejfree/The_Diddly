@@ -3,7 +3,7 @@ title: "Professor Nyxar Veilcore"
 type: npc/professor
 college: "School of Yield Surging"
 major: "Mineral Extraction & Refinement"
-tags: ["professor", "college: School of Yield Surging", "major: Mineral Extraction & Refinement","variant:umbral"]
+tags: ["professor", "college: School of Yield Surging", "major: Mineral Extraction & Refinement", "variant:umbral"]
 updated: 2025-10-04
 ---
 
@@ -35,7 +35,8 @@ Veilcore once served the Midnight Cartographers, a guild that mapped the mineral
 
 ### Classes Taught
 
-...
+- **MINX 262 – Shadow Veins: Mining in Lightless Environments**
+- **MINX 279 – Counter-Undeath Protocols for Extraction Crews**
 
 ### Academic Approach
 

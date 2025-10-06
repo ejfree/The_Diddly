@@ -3,7 +3,7 @@ title: "Professor Joywing"
 type: npc/professor
 college: "College of Lore"
 major: "Prophecy"
-tags: ["professor", "college: College of Lore", "major:prophecy","variant:bliss"]
+tags: ["professor", "college: College of Lore", "major: Prophecy", "variant:bliss"]
 updated: 2025-10-04
 ---
 ### Professor Joywing
@@ -28,7 +28,9 @@ Professor Joywing’s shimmering scales shift between pastel hues of pink, gold,
 
 ### Classes Taught
 
-...
+- **PROF 272 – Harmonies of Fate: Positive Paths in Prophecy**
+- **PROF 281 – Meditative Methods for Vision Clarity**
+- Cross-college seminar: “Diplomacy of Omens” (with Quintessence faculty)
 
 ### Academic Approach
 
@@ -40,8 +42,8 @@ Professor Joywing’s shimmering scales shift between pastel hues of pink, gold,
 
 ### Faith and Combat Prowess
 
-- **Faith Title**: Divine Seer of Harmony
-  **Faith Description**: Professor Joywing’s teachings align with divine principles of balance, serenity, and the pursuit of a greater good. She sees prophecy as a tool to align one’s path with the harmonious rhythms of the universe.
+- **Faith Alignment**: Divine Seer of Harmony
+- **Faith Description**: Professor Joywing’s teachings align with divine principles of balance, serenity, and the pursuit of a greater good. She sees prophecy as a tool to align one’s path with the harmonious rhythms of the universe.
 
 - **Combat Style**: Nonlethal and defensive, emphasizing the use of electricity-based attacks to incapacitate rather than harm. Her combat style reflects her peaceful nature, using her horn and tail to gently subdue foes when necessary.
 
