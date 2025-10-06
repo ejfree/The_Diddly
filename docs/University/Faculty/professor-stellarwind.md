@@ -34,7 +34,6 @@ Professor of **Planar Studies**
 
 - **PLAN 110 – Upper Planar Explorations**
 
-
 ### Academic Approach
 
 - **Course Focus**: ...

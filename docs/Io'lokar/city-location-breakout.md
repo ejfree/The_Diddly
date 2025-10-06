@@ -164,9 +164,12 @@ Handling magical and structural repairs for floating homes or dorms.
    - A construction and repair shop maintaining Io’lokar's floating homes and magical infrastructure.
    - Specialty: Fixing magical wards and anti-gravity structures.
 
-1. **MFK - McFaster-Karr**
+- **Building Supplies**
+Materials and components for construction and crafting.
+
+30. **MFK - McFaster-Karr**
     - A “catalog” store offering almost every building material you could want. Metal ingots, raw gems, custom nails, as well as many common non-magical elements for the home, office, or further crafted works.
-    - Specialty: U shaped counter with gargantuan catalogs on the 3 legs of the U. Once ordered, everything arrives within a minute, through the portal. It comes down a roller belt out of a portal. It will be packaged in something that the golem will recycle on another roller that takes it
+    - Specialty: U shaped counter with gargantuan catalogs on the 3 legs of the U. Once ordered, everything arrives within a minute, through the portal. It comes down a roller belt out of a portal. It will be packaged in something that the golem will recycle on another roller for reuse.
 
 #### **Clothing and Accessories**
 
@@ -181,7 +184,8 @@ While dragons don’t wear much clothing, some like enchanted adornments, cloaks
     - A clothier selling enchanted fabrics and robes, tailored for dragons of all sizes.
     - Specialty: Self-cleaning robes and heat-resistant cloaks.
 
-- **Jewelry & Accessories**Specializing in wearable magical items and ornamental treasures.
+- **Jewelry & Accessories**
+Specializing in wearable magical items and ornamental treasures.
 
 33. **Glitter & Gleam**
     - A jewelry shop specializing in rare, custom pieces for dragons.
@@ -196,7 +200,7 @@ For physical and magical healing, as well as general wellness potions.
     - An apothecary offering potions, salves, and enchanted tonics for physical and magical ailments.
     - Specialty: Energy-restoring elixirs and flameproof balms.
 
-1. **Horatio’s Healing Hands**
+35. **Horatio’s Healing Hands**
     - A gold dragon healer capable of fixing almost anything including death.
     - Specialty: Healing magics.
 
@@ -261,12 +265,15 @@ For parchments, quills, and dragon-sized notebooks.
 
 #### **Student-Centric Shops**
 
-- **Cafes and Study Lounges**
-Providing quiet places for studying, networking, or relaxing.
+- **Student Essentials**
+Dorm and day-to-day supplies.
 
 46. **The Scaled Scholar**
     - A general supply shop catering to the day-to-day needs of university dragons.
     - Specialty: Dorm supplies like enchanted lamps, fireproof bedding, and storage crystals.
+
+- **Cafes and Study Lounges**
+Providing quiet places for studying, networking, or relaxing.
 
 47. **The Hearthstone Café**
    - A cozy café with large study areas, group spaces, and access to minor magical utilities for studying.
@@ -398,6 +405,9 @@ Including theaters, musical halls, or magical performance spaces.
    - A magical performance venue featuring plays, concerts, and illusion-based shows catered to dragons.
    - **Specialty**: Interactive performances with planar projections and elemental effects.
 
+- **Curiosity Shops**
+Selling rare magical items, artifacts, and mysterious objects.
+
 69. **Planar Curiosities**
    - A curiosity shop selling rare magical items, artifacts, and oddities from across the planes.
    - **Specialty**: Enigmatic items with unknown origins and uses, perfect for collectors.
@@ -406,16 +416,16 @@ Including theaters, musical halls, or magical performance spaces.
     - An upscale lounge offering relaxation spaces, live entertainment, and luxurious refreshments.
     - **Specialty**: Private lounges with customizable elemental atmospheres.
 
-- **Curiosity Shops**
-Selling rare magical items, artifacts, and mysterious objects.
-
 71. **Molten Memories**
    - A shop selling magical trinkets and keepsakes for dragons looking to commemorate major life events or achievements.
    - **Specialty**: Customizable "Memory Orbs" that store visual and emotional moments.
 
+- **Fashion & Accessories**
+Wearable accessories, ceremonial cloaks, and adaptive clothing.
+
 72. **The Scale Boutique**
-   - A shop selling wearable accessories, including ceremonial cloaks, enchanted collars, and wing wraps.
-   - **Specialty**: Self-repairing and adaptive clothing for dragons of all sizes.
+    - A shop selling wearable accessories, including ceremonial cloaks, enchanted collars, and wing wraps.
+    - **Specialty**: Self-repairing and adaptive clothing for dragons of all sizes.
 
 - **Toy and Trinket Shops**
 For playful or collectible items, especially for younger dragons.
@@ -428,7 +438,7 @@ For playful or collectible items, especially for younger dragons.
     - Intricately made toys for worms to engage all their senses. .
     - **Specialty**: Dragon Legos. They animate when completed.
 
-—
+---
 
 ### **Transportation and Logistics**
 Io’lokar is a floating city, so it needs ways to maintain and manage the transportation of goods and people.
@@ -471,7 +481,7 @@ For teleportation to the ground or between planes.
 ### **Government and Administrative Services**
 A city of knowledge like Io’lokar would have administrative support.
 
-- **City Hall and Registry** (1): Managing documentation and city governance.
+- **City Hall and Registry**: Managing documentation and city governance.
 
 81. **Io’lokar City Hall**
    - The administrative hub for the city, managing permits, registrations, and general governance.

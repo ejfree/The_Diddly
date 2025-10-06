@@ -34,7 +34,6 @@ Professor of **Planar Studies**
 
 - **PLAN 111 – Lower Planar Explorations**
 
-
 ### Academic Approach
 
 - **Course Focus**: ...

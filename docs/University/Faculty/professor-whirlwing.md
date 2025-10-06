@@ -37,8 +37,6 @@ Professor Whirlwing’s scales are a patchwork of colors that shift and swirl wi
 
 - **HIST 202 – War Echoes: Draconic Conflicts Across Ages**
 
-
-
 ### Academic Approach
 
 - **Course Focus**: - **Course Focus**: Whirlwing’s course, "Dragons > Giants," examines the historical relationships, conflicts, and alliances between dragons and giants, with a strong emphasis on how these interactions have shaped the cultural, political, and ecological landscapes of various planes.
