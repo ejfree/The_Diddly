@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Captain Indira Gale](../People/captain-indira-gale.md) (Indigo dragon), joyful excursion master.
+- Key staff:
+  - Shop Golem (non-sentient), handles lifting, cleaning, simple tasks via chime/gesture.
+  - Ledger Automaton (non-sentient), stamps receipts and tracks stock.
+  - Bound Elemental (non-sentient), provides heat/cold/air/light as needed.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

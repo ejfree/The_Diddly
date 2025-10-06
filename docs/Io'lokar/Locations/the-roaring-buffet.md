@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Lady Carmina Carveflame](../People/lady-carmina-carveflame.md) (Wellspring dragon), booming host and chef.
+- Key staff:
+  - Hearth-Kiln Golem (non-sentient), tends ovens and grills.
+  - Spice-Scale Automaton (non-sentient), measures blends.
+  - Brazier Ember Elemental (non-sentient), steady heat for smokes.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

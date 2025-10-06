@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: Blue dragon enchanter; precise runework and wards.
+- Key staff:
+  - Rune-Etcher Automaton (non-sentient), trace-follows etched guides.
+  - Static-Spark Elemental (non-sentient), powers sigil testers.
+  - Safebox Golem (non-sentient), safeguards volatile pieces.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

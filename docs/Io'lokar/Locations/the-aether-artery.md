@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Conductor Celene](../People/conductor-celene.md) (Lunar dragon), oversees arterial flow during alignments.
+- Departments/units:
+  - Pulse Wardens (Time dragon, 1), cadence control for surges and slowdowns.
+  - Vein Survey (Cerulean dragon, 1), scouting alternate paths and spurs.
+  - Harmonicists (Havoc dragon, 1), intentional resonance to smooth rough crossings.
+  - Counterflux (Occult dragon, 1), cancels oscillations and siphons.
+  - Support constructs: Metronome Golems and Chime Elementals pace intervals.
+- Key contacts:
+  - [Scheduler Threx](../People/scheduler-threx.md) (Topaz dragon), charts throughput windows.
+  - [Safety Marshal Prim](../People/safety-marshal-prim.md) (Paradise dragon), greenlights traffic after inspections.
 
 ### Magic, Wards, and Infrastructure
 

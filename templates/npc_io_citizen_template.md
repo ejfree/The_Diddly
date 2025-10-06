@@ -5,7 +5,6 @@ species: "" # dragon | humanoid | construct | outsider | other
 dragon_variant: "" # if species=dragon (e.g., emerald, copper)
 role: "" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
-alignment: "" # optional flavor (e.g., NG, LN)
 weyr: "" # affiliation, if any
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city

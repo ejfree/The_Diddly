@@ -39,9 +39,18 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Commander Lex Ultorin](../People/commander-lex-ultorin.md) (Edict dragon), order-bringer who oversees patrol schedules and discipline.
+- Departments/units:
+  - Wardens of the Mantle (Sapphire dragons, 2–3), martial response team; drillmasters and field captains.
+  - Aegis Adjuncts (Bronze dragons, 2), investigations and records; liaise with archives and courts.
+  - Borderlight Sentinels (Astral dragon, 1), planar sight and early warning from the tower’s spire.
+  - Compliance Clerks (Court dragon, 1), citations, permits, and dispute intake.
+  - Armory Keepers (Underworld dragon, 1), maintains siege lockers and restraint gear.
+  - Support constructs: Gate-Lock Golems (non‑sentient) and Beacon Elementals (non‑sentient) for alarms/lamps.
+- Key contacts:
+  - [Marshal Ser Tarsis](../People/marshal-ser-tarsis.md) (Sapphire dragon), drillmaster; schedules combined-wehyr exercises.
+  - [Auditor Vess Klyne](../People/auditor-vess-klyne.md) (Bronze dragon), evidence custodian; issues viewing permits.
+  - [Proctor Lysithea](../People/proctor-lysithea.md) (Court dragon), mediation lead for minor infractions.
 
 ### Magic, Wards, and Infrastructure
 

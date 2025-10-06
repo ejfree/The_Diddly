@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Noctis Ashminder](../People/noctis-ashminder.md) (Void dragon), somber curator of relics.
+- Key staff:
+  - Curio-Clasp Golem (non-sentient), careful grips for fragile items.
+  - Dust-Whorl Air Elemental (non-sentient), keeps cases pristine.
+  - Tally Automaton (non-sentient), tags and catalogues.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

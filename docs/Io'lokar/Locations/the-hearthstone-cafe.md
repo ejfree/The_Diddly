@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Aurelian Inksteam](../People/aurelian-inksteam.md) (Lunar dragon), serene cafe-keeper.
+- Key staff:
+  - Tea-Steep Automaton (non-sentient), precise infusion cycles.
+  - Page-Whisper Air Elemental (non-sentient), turns pages, muffles noise.
+  - Cup-Bearer Golem (non-sentient), bussing and tray runs.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

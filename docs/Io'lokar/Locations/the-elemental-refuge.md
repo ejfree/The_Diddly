@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Warden Cloudwhorl](../People/warden-cloudwhorl.md) (Cloud dragon), airy lair customizer.
+- Key staff:
+  - Mason Golem (non-sentient), cut/fit stone and metal.
+  - Earth Elemental (non-sentient), compacts fill and supports.
+  - Measure Automaton (non-sentient), spans and templates.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

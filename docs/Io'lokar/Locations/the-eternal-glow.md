@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Solaryn Dawnlamp](../People/solaryn-dawnlamp.md) (Solar dragon), luminous quartermaster.
+- Key staff:
+  - Lift Golem (non-sentient), shelves and pallets.
+  - Ledger Automaton (non-sentient), receipts and counts.
+  - Air Elemental (non-sentient), circulation and scent control.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

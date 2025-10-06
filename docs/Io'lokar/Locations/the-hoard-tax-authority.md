@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Assessor Prime Verdun](../People/assessor-prime-verdun.md) (Green dragon), obsessive accountant of hoards and liens.
+- Departments/units:
+  - Appraisal Board (Crystal dragon, 1), values unusual hordes and intangible assets.
+  - Compliance Wing (Edict dragon, 1), interprets code and drafts advisories.
+  - Field Recovery (Black dragon, 1), seizes assets from delinquent lairs.
+  - Petition Office (Gold dragon, 1), hardship relief and payment plans.
+  - Support constructs: Counter Golems tally; Scribe Elementals duplicate forms.
+- Key contacts:
+  - [Examiner Tock](../People/examiner-tock.md) (Topaz dragon), audits inventory listings.
+  - [Advocate Mel](../People/advocate-mel.md) (Court dragon), negotiates settlements.
 
 ### Magic, Wards, and Infrastructure
 

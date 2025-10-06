@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Lady Aurumina Giltwing](../People/lady-aurumina-giltwing.md) (Gold dragon), exacting jeweler-proprietor.
+- Key staff:
+  - Gem-Sorter Automaton (non-sentient), facet grading and counts.
+  - Dust-Whorl Air Elemental (non-sentient), debris-free benches.
+  - Lockbox Golem (non-sentient), secure case mover.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

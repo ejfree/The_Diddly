@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Master Indivar Hue](../People/master-indivar-hue.md) (Havoc dragon), pigments and living murals.
+- Key staff:
+  - Canvas-Stretcher Golem (non-sentient), frames and tightens.
+  - Drying Air Elemental (non-sentient), laminar warm drafts.
+  - Brushstroke Automaton (non-sentient), repeats pattern stencils.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

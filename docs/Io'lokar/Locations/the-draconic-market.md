@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Market Warden Selach](../People/market-warden-selach.md) (Sea dragon), fickle but fair master of stalls and routes.
+- Departments/units:
+  - Stallmasters (Green dragons, 2), enforce weights, measures, and sanitation.
+  - Patrol Drakes (Black dragon, 1), prowls for thieves and counterfeiters.
+  - Festival Office (Vermillion dragon, 1), schedules fairs and food courts.
+  - Arbitration Table (Court dragon, 1), settles merchant disputes on the spot.
+  - Support constructs: Scale Golems and Breeze Elementals keep air moving and queues tidy.
+- Key contacts:
+  - [Harbormark Sedge](../People/harbormark-sedge.md) (Brine dragon), inbound provisions and cold‑chain lanes.
+  - [Tallier Prism](../People/tallier-prism.md) (Crystal dragon), rent rolls and stall assignments.
 
 ### Magic, Wards, and Infrastructure
 

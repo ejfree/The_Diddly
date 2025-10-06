@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Embercoil of Anbar](../People/embercoil-of-anbar.md) (brass dragon), proprietor and buyer. Personally oversees the ember‑kilns and negotiates imports; prefers a lean, hands‑on operation.
+- Key staff:
+  - Brass‑Bell Kiln Golem (non‑sentient), heat‑regulated loader/roaster for spices and ambered fruits; follows simple rung‑chime commands.
+  - Amber‑Ledger Automaton (non‑sentient), bead‑counter and label stamper; tracks lots and reorder marks.
+  - Ember‑Wisp (tiny fire elemental, non‑sentient), bound heat source for curing trays; glows brighter when temperatures drift.
+- Ties to university or weyrs: Supplies dragon‑run kitchens (incl. The Ember Hearth) and faculty hoard‑pantries; Frostfire Couriers handle most scheduled runs.
 
 ### Mechanics and Rules
 

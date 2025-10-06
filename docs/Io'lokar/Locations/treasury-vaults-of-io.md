@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Arch-Controller Solarys](../People/arch-controller-solarys.md) (Solar dragon), imperious master of reserves.
+- Departments/units:
+  - Reserve Ward (Gold dragon, 1), oversight of bullion and major deposits.
+  - Audit Spear (Sapphire dragon, 1), surprise audits and chain‑of‑custody checks.
+  - Sigil Vault (Amethyst dragon, 1), mind‑locked memory vault for code phrases.
+  - Recovery Desk (Underworld dragon, 1), reclamation of lost or encumbered hoards.
+  - Support constructs: Lock Golems and Sentinel Elementals patrol corridors.
+- Key contacts:
+  - [Factor Brisk](../People/factor-brisk.md) (Topaz dragon), client onboarding and limits.
+  - [Keywright Ferron](../People/keywright-ferron.md) (Bronze dragon), fabricates and maintains vault keys.
 
 ### Magic, Wards, and Infrastructure
 

@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Postmaster Astryx](../People/postmaster-astryx.md) (Astral dragon), precise coordinator of interplanar mail.
+- Departments/units:
+  - Gate Sortation (Phase dragon, 1), phases pallets through aligned chutes.
+  - Wayfinding (Sapphire dragon, 1), route planning and hazard forecasts.
+  - Dead‑Letter Office (Void dragon, 1), recovers orphaned parcels from the Between.
+  - Customs Counter (Paradise dragon, 1), humane inspections and declarations.
+  - Support constructs: Stamp Golems and Whistle Elementals keep cadence and callouts.
+- Key contacts:
+  - [Clerk Zevi](../People/clerk-zevi.md) (Blue dragon), permits and stamps; knows every form.
+  - [Inspector Rook](../People/inspector-rook.md) (Bronze dragon), audits courier seals for tamper.
 
 ### Magic, Wards, and Infrastructure
 

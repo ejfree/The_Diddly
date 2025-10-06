@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Glaurna Glazebore](../People/glaurna-glazebore.md) (Magma dragon), volcanic doughsmith.
+- Key staff:
+  - Kiln Golem (non-sentient), manages curing racks.
+  - Amber-Stamper Automaton (non-sentient), labels and lot counts.
+  - Ember Elemental (non-sentient), controlled roasting heat.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

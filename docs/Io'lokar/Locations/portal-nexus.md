@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Nexus Master Wells](../People/nexus-master-wells.md) (Wellspring dragon), saturated with wild magic, safely channels flux.
+- Departments/units:
+  - Anchor Crew (Paradise dragon, 1), stabilizes civic anchors and waybeacons.
+  - Flux Monitors (Etheric dragon, 1), reads stress, bleed, and resonance.
+  - Customs Gate (Edict dragon, 1), enforces portal codes and bans.
+  - Drift Guides (Vortex dragon, 1), escorts during partial alignment.
+  - Support constructs: Threshold Golems and Lumen Elementals manage doors and visibility.
+- Key contacts:
+  - [Attendant Kair](../People/attendant-kair.md) (Blue dragon), slot reservations and reroutes.
+  - [Warder Gant](../People/warder-gant.md) (Bronze dragon), incident response with Aegis Watch.
 
 ### Magic, Wards, and Infrastructure
 

@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Director Vermia](../People/director-vermia.md) (Vermillion dragon), exuberant host of lights and music.
+- Departments/units:
+  - Stagecraft (Havoc dragon, 1), sonic spectacles and shifting sets.
+  - Dreambooths (Dream dragon, 1), curated illusion pods for story dives.
+  - Prize Exchange (Topaz dragon, 1), fair value for tickets and tokens.
+  - Safety and Courtesy (Paradise dragon, 1), keeps play kind and safe.
+  - Support constructs: Token Golems and Spark Elementals manage queues and ambiance.
+- Key contacts:
+  - [MC Flair](../People/mc-flair.md) (Copper dragon), crowd games and banter.
+  - [Lightwright Nova](../People/lightwright-nova.md) (Crystal dragon), gradient effects and auroral ceilings.
 
 ### Magic, Wards, and Infrastructure
 

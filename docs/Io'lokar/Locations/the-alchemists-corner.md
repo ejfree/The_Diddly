@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Alembic Gloomveil](../People/alembic-gloomveil.md) (Underworld dragon), meticulous alchemist.
+- Key staff:
+  - Retort Golem (non-sentient), holds glass and coiling.
+  - Vapor Elemental (non-sentient), fume hood flows.
+  - Measure Automaton (non-sentient), scrupulous volumetrics.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

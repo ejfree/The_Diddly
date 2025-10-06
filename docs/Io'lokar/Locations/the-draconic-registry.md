@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Registrar Primus](../People/registrar-primus.md) (Topaz dragon), exacting keeper of forms and seals.
+- Departments/units:
+  - Lineage Office (Emerald dragon, 1), verifies ancestry, adoption, and oaths.
+  - Names and Marks (Edict dragon, 1), legal names, sigils, and crest approvals.
+  - Residency Desk (Gold dragon, 1), lair districts, taxes, and civic privileges.
+  - Complaints and Corrections (Sovereign dragon, 1), petitions for amendment and appeal.
+  - Support constructs: Stamp Golems, Ribbon Elementals file and bind scrolls.
+- Key contacts:
+  - [Clerk Moonslip](../People/clerk-moonslip.md) (Moonstone dragon), courteous guide to new citizens.
+  - [Sealwright Nera](../People/sealwright-nera.md) (Blue dragon), embosses and validates certificates.
 
 ### Magic, Wards, and Infrastructure
 

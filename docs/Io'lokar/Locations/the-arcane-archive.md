@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Curator Ormion Attalus](../People/curator-ormion-attalus.md) (Occult dragon), historian and indexer.
+- Key staff:
+  - Indexing Automaton (non-sentient), catalogues and reshelving.
+  - Page-Flutter Air Elemental (non-sentient), page turning and airflow.
+  - Stacker Golem (non-sentient), tall-shelf retrieval.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Dreaming Adept Somniel](../People/dreaming-adept-somniel.md) (Dream dragon), restorative waters and calm.
+- Key staff:
+  - Hydrotherapy Water Elemental (non-sentient), temperature cycling.
+  - Steam Elemental (non-sentient), sauna and mist.
+  - Towel Golem (non-sentient), linens, folding, and tidying.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

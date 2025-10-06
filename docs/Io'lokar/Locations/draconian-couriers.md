@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Dispatcher Aegaron Gatewing](../People/dispatcher-aegaron-gatewing.md) (Bronze dragon), punctual and precise.
+- Key staff:
+  - Pallet Golem (non-sentient), handles crates and skids.
+  - Gust Air Elemental (non-sentient), load assist and wind shear.
+  - Ledger Automaton (non-sentient), route slips and manifests.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Seraphine Frostleaf](../People/seraphine-frostleaf.md) (Silver dragon), calm restorative alchemist.
+- Key staff:
+  - Sterile Water Elemental (non-sentient), cleansing and irrigation.
+  - Dispensary Automaton (non-sentient), doses and measures.
+  - Sanitizer Golem (non-sentient), surfaces and tools.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

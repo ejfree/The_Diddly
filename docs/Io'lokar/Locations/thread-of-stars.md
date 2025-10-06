@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Mistress Selene Loom](../People/mistress-selene-loom.md) (Moonstone dragon), storyteller couturier.
+- Key staff:
+  - Mannequin Golems (non-sentient), adjustable dragon forms.
+  - Seam-Thread Automaton (non-sentient), precision stitching.
+  - Steam Elemental (non-sentient), wrinkle relax and finish.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

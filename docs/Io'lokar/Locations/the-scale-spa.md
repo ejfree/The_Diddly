@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Mistress Azura Canticle](../People/mistress-azura-canticle.md) (Paradise dragon), serene proprietor.
+- Key staff:
+  - Hydrotherapy Water Elemental (non-sentient), temperature cycling.
+  - Steam Elemental (non-sentient), sauna and mist.
+  - Towel Golem (non-sentient), linens, folding, and tidying.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Tinker Tinywhirl](../People/tinker-tinywhirl.md) (Pixie dragon), gleeful toymaker.
+- Key staff:
+  - Wind-Up Automaton (non-sentient), demo and display winders.
+  - Mirth Air Elemental (non-sentient), gentle breezes and chimes.
+  - Clerk Golem (non-sentient), tidies and wraps purchases.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

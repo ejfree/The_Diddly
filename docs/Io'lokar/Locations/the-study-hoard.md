@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Dean Sereph Topline](../People/dean-sereph-topline.md) (Court dragon), exacting academic outfitter.
+- Key staff:
+  - Platen-Press Automaton (non-sentient), emboss and trim.
+  - Drying Air Elemental (non-sentient), quick ink set.
+  - Shelf Golem (non-sentient), stock handling.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

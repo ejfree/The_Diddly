@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Bronleif Grainwarden](../People/bronleif-grainwarden.md) (Forest dragon), tasteful woodwright.
+- Key staff:
+  - Lift Golem (non-sentient), move and place large pieces.
+  - Earth Elemental (non-sentient), stabilization and leveling.
+  - Polisher Automaton (non-sentient), finish work and sheen.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Coldkeeper Hrim](../People/coldkeeper-hrim.md) (White dragon), preservation grocer.
+- Key staff:
+  - Cold-Cellar Golem (non-sentient), rotates pallets and bins.
+  - Frost Elemental (non-sentient), walk-in chill and flash-freeze.
+  - Scale-Weigher Automaton (non-sentient), measures bulk goods.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

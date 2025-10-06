@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Magistrate Cyrilla](../People/magistrate-cyrilla.md) (Court dragon), incisive arbiter of disputes.
+- Departments/units:
+  - Bench of Equity (Emerald dragon, 1), inquisitive reviewer who tests claims for truth and context.
+  - Concord Guild (Sovereign dragon, 1), high‑stakes negotiator for binding agreements.
+  - Writ Office (Edict dragon, 1), issues rulings, injunctions, and binding terms.
+  - Ombuds Hall (Moonstone dragon, 1), gentles fraught emotions and preserves narratives.
+  - Support constructs: Record Golems transcribe; Bell‑Toll Elementals signal session phases.
+- Key contacts:
+  - [Advocate Nen](../People/advocate-nen.md) (Blue dragon), procedure and filings coach for petitioners.
+  - [Mediator Faris](../People/mediator-faris.md) (Gold dragon), pre‑hearing settlements and apologies.
 
 ### Magic, Wards, and Infrastructure
 

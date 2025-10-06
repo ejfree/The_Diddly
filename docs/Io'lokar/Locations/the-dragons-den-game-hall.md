@@ -39,9 +39,16 @@ One‑sentence description of the place and its purpose.
 
 ### Staff and Roles
 
-- Steward/Head: ...
-- Departments/units: ...
-- Key contacts: ...
+- Steward/Head: [Maestro Harlek](../People/maestro-harlek.md) (Harlequin dragon), clever impresario of games and challenges.
+- Departments/units:
+  - Arena Hosts (Copper dragons, 2), rule explainers and showrunners.
+  - Dreamfloor (Dream dragon, 1), curates lucid game experiences.
+  - Prize Vault (Crystal dragon, 1), secures trophies and winnings.
+  - Safety Marshal (Paradise dragon, 1), ensures competitions stay honorable.
+  - Support constructs: Pit Golems and Glow Elementals reset stages and light shows.
+- Key contacts:
+  - [Bookrunner Quill](../People/bookrunner-quill.md) (Sovereign dragon), manages odds for friendly wagers.
+  - [Referee Myrr](../People/referee-myrr.md) (Gold dragon), adjudicates ties and fouls.
 
 ### Magic, Wards, and Infrastructure
 

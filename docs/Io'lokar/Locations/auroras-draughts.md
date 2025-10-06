@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Harli Quinsong](../People/harli-quinsong.md) (Harlequin dragon), playful publican and festival host.
+- Key staff:
+  - Barrel-Roller Golem (non-sentient), moves kegs and taps.
+  - Fizz-Air Elemental (non-sentient), carbonation and head control.
+  - Tally-Bead Automaton (non-sentient), tokens and tab-keeping.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

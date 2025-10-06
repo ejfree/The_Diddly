@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Nocturne Whisper](../People/nocturne-whisper.md) (Nightmare dragon), avant-garde impresario.
+- Key staff:
+  - Stagehand Golems (non-sentient), scene shifts and props.
+  - Sound-Damp Air Elemental (non-sentient), keeps levels pleasant.
+  - Light-Glow Elemental (non-sentient), ambient illumination.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 

@@ -45,9 +45,12 @@ One‑sentence summary of what this shop is known for.
 
 ### Staff and NPCs
 
-- Owner/Manager: ...
-- Key staff: ...
-- Ties to university or weyrs: ...
+- Owner/Manager: [Dispatcher Skadi Icevein](../People/dispatcher-skadi-icevein.md) (Phase dragon), cold-chain specialist.
+- Key staff:
+  - Cold-Carrier Elemental (non-sentient), keeps cargo sub-zero.
+  - Insulated Pallet Golem (non-sentient), shock/heat damped.
+  - Route-Plot Automaton (non-sentient), time-slot and gate sync.
+- Ties to university or weyrs: Serves dragon-run facilities; deliveries via Draconian Couriers or Frostfire Couriers.
 
 ### Mechanics and Rules
 
