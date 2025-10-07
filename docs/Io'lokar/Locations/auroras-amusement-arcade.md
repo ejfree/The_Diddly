@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### Aurora’s Amusement Arcade
 
-One‑sentence description of the place and its purpose.
+Lights, games, and music—Io’lokar’s brightest arcade where skill and spectacle meet under joyful stewardship.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Arcade cabinets, rhythm stages, claw machines, prize counters, and festival events.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: Family‑friendly entertainment with strict breath/magic safety.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Festival square edge; easy spillover to market lanes.
+- Exterior/architecture: Neon‑sigil facade with animated aurora; big doors and balcony‑perches.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Rhythm stage, cabinet rows, prize counter, birthday alcoves, staff booth.
+- Capacity/scale: Large floor with high ceiling for wing clearance; mezzanine viewing deck.
+- Accessibility (flight, ramps, portals): Wide ramps, glide‑lanes marked, short‑hop pad for groups.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Late morning to late night; festival hours extended.
+- Procedures/queues/permits: Token cards; queue ropes for stage games; prize counter tally.
+- Dependencies (couriers, portals, guard): Couriers for prizes; Wardens for festival nights.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Volume leveling, glare control, and breath‑baffles around electronics.
+- Safety systems/failsafes: Crowd‑flow lights, soft stop on machines, and calm‑bell tones.
+- Power/portal anchors: Stable grid with surge runes; portal pad for big prize days.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A token card exploit empties prize cases; track the glitch and the grifters.
+- Procedural obstacle: Festival surge threatens safety; re‑route flow with [Director Vermia](../People/director-vermia.md).
+- Social opportunity: Rhythm tournament night—meet regulars and rivals.
 
 ### Rumors, Secrets, and Risks
 
@@ -72,9 +72,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Festival crush; extra staff, token lines, and safety lights.
+- Crisis/emergency mode: Calm‑bell sequence; shutters on high‑risk games; soft exit lanes.
+- Planar alignment shift: Neon glows brighter; rhythm games feel eerily on‑beat.
 
 ### GM Notes
 
