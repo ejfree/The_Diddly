@@ -4,7 +4,6 @@ type: location/iolokar
 category: "shop"
 subcategory: "General Stores"
 level: "L1"
-weyr: ""
 owner: ""
 tags: ["iolokar","category:shop","subcategory:General Stores","level:L1"]
 updated: 2025-10-06

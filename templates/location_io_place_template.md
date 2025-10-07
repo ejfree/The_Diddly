@@ -4,9 +4,8 @@ type: location/iolokar
 category: "" # e.g., government, portal node, library, workshop, housing, entertainment, logistics
 subcategory: "" # e.g., City Hall and Registry, Portal Service Shops, Artisan Workshops
 level: "L1" # L1–L6
-weyr: "" # optional affiliation
 steward: "" # head, captain, curator, or office
-tags: ["iolokar", "category:", "level:", "weyr:", "steward:"]
+tags: ["iolokar", "category:", "level:", "steward:"]
 updated: 2025-10-06
 ---
 ### ${name}

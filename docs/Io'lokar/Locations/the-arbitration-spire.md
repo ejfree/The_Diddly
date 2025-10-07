@@ -4,7 +4,6 @@ type: location/iolokar
 category: "place"
 subcategory: "Government Services"
 level: "L2"
-weyr: ""
 steward: ""
 tags: ["iolokar","category:place","subcategory:Government Services","level:L2"]
 updated: 2025-10-06

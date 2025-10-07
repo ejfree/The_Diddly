@@ -4,9 +4,8 @@ type: location/iolokar
 category: "shop" # e.g., grocery, bakery, restaurant, tavern, curiosity, portal, bookstore
 subcategory: "" # e.g., Restaurants/Cafes, Taverns/Breweries, Educational Supplies
 level: "L1" # L1–L6
-weyr: "" # optional affiliation
 owner: "" # NPC name or link
-tags: ["iolokar", "category:", "level:", "weyr:", "owner:"]
+tags: ["iolokar", "category:", "level:", "owner:"]
 updated: 2025-10-06
 ---
 ### ${name}

@@ -4,7 +4,6 @@ type: location/iolokar
 category: "place"
 subcategory: "Bank or Treasure Vault"
 level: "L2"
-weyr: ""
 steward: ""
 tags: ["iolokar","category:place","subcategory:Bank or Treasure Vault","level:L2"]
 updated: 2025-10-06

@@ -5,11 +5,10 @@ species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "white" # if species=dragon (e.g., emerald, copper)
 role: "Hard-Nosed Survi" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
-weyr: "" # affiliation, if any
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
-tags: ["iolokar", "role:", "weyr:", "level:", "rank:", "variant:"]
+tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Whiteclaw of the Fell

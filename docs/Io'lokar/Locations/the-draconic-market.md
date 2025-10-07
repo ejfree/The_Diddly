@@ -4,7 +4,6 @@ type: location/iolokar
 category: "place"
 subcategory: "General Stores"
 level: "L1"
-weyr: ""
 steward: ""
 tags: ["iolokar","category:place","subcategory:General Stores","level:L1"]
 updated: 2025-10-06
