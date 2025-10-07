@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "gold" # if species=dragon (e.g., emerald, copper)
 role: "Mediator" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "he/him" # e.g., she/her, he/him, they/them
+rank: "Pre‑Hearing Mediator" # e.g., matriarch, guard captain, student
+level_home: "L2" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Mediator Faris
 
-One‑sentence summary of who this citizen is and why they matter.
+A gold dragon who turns grudges into agreements before they harden—sparing Io’lokar needless trials through carefully built apologies and balanced concessions.
 
 ### Appearance
 
-...
+Polished gold scales with soft, warm reflections; a minimal collar of accord beads that click once when both sides are truly listening. His smile is small and real.
 
 ### Personality
 
-...
+Empathic and exact. Faris listens until the heat drops, then speaks only the words a room can hold. Abhors victory laps; prizes durable outcomes over triumph.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Arbitration Spire](docs/Io'lokar/Locations/the-arbitration-spire.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Conducts pre‑hearing mediation, scripts apologies and amends, and drafts settlement frameworks for Writ Office review.
+- University or weyr ties: Lectures on restorative practices; coaches the moot society alongside [Magistrate Cyrilla](magistrate-cyrilla.md).
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Hatched to a trade‑negotiator clutch; learned the price of pride early.
+- Notable history: Ended a guild feud by swapping victories for shared credits; the accord still holds.
+- Education/training: Mediator’s apprenticeship under a Gold matriarch; clerkship in the Writ Office to learn the teeth behind terms.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: A mellow heat that relaxes clenched jaws and slows speech to clarity; brief “mirror breath” reflects a speaker’s own words back with softened edges.
+- Class/CR/Tier: Social specialist with strong Insight, Persuasion, and Deception checks when needed.
+- Skills/Strengths: Apology architecture, face‑saving pathways, and concession pacing.
+- Gear/Hoard highlights: Accord bead strands keyed to standard terms; a folding privacy screen that dampens gallery noise.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Spare rooms on L2 near the Ombuds Hall; tea service always set, chairs sized for humanoids as well as dragons.
+- Frequent locations: The Arbitration Spire mediation rooms; The Tranquil Scale for post‑session decompression; City Hall for filing follow‑ups.
+- Travel/transport habits: Walks between adjacent towers; avoids dramatic entrances.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Faris needs neutral escorts to deliver a face‑saving gift that will unlock talks.
+- Social scene: An evening “apology workshop” where role‑play gets uncomfortably real.
+- Complication: One party seeks only delay; discovering that in time will save everyone pain.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "We choose outcomes, or we choose to be right."
+- "There’s always a third term hidden under the first two."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Mornings for intake prep with Nen; afternoons for shuttle mediations; nights for tea and notes.
+- Crisis/emergency mode: Boils words down to verbs and trades; cuts off speeches with kindness.
+- Planar alignment shift: When concordant planes brush close, accord beads glow gently when a balanced term is spoken.
 
 ### Stat Block Notes (Optional)
 

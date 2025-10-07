@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### The Aether Artery
 
-One‑sentence description of the place and its purpose.
+Primary portal thoroughfare for the district—timed passages, safe handoffs, and calm flow during alignments.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Schedule, meter, and stabilize civic portal traffic; open surge lanes during festivals; route around drift and outages.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: District portals and waybeacons; coordinates with Portal Nexus for city‑wide shifts.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Between the Lecture Hub and the Market; sightlines to the Nexus beacons.
+- Exterior/architecture: Ribbed arcades with inset waygates; bell‑towers mark cadence.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Meter Hall, Drift Desk, Surge Lane, and Quiet Queue for first‑timers.
+- Capacity/scale: Multiple gate pairs; overflow corridors open during alignment lifts.
+- Accessibility (flight, ramps, portals): Broad ramps and glide lanes; short‑hop pads for staff.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Bell to bell; surges on posted intervals; after‑hours by clearance.
+- Procedures/queues/permits: Token timeslots; first‑time briefings; cargo declarations at Meter Hall.
+- Dependencies (couriers, portals, guard): Couriers on call; Aegis Watch for incident response.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Flux dampers, cadence bells, and hush‑veils to steady crowds.
+- Safety systems/failsafes: Soft‑close on gates, drift alarms, and echo‑beacons to regroup.
+- Power/portal anchors: Anchors tuned to Nexus timings; redundancy via district beacons.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A surge window opens early; [Conductor Celene](../People/conductor-celene.md) needs quick reroutes.
+- Procedural obstacle: A token mismatch strands a shipment—solve for time or proof.
+- Social opportunity: Quiet Queue mentoring first‑time travelers.
 
 ### Rumors, Secrets, and Risks
 
@@ -72,9 +72,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Bell‑paced lines, surge lanes open, Metronome Golems visible.
+- Crisis/emergency mode: Soft‑close gates; Quiet Queue converts to assistance bay.
+- Planar alignment shift: Cadence bells harmonize; flux feels like a slow tide.
 
 ### GM Notes
 

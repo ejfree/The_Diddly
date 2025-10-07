@@ -10,37 +10,39 @@ updated: 2025-10-06
 ---
 ### Skyline Furnishings
 
-One‑sentence summary of what this shop is known for.
+Dragon‑scale interior design and modular furnishings that make vertical living elegant—custom perches, glide‑safe shelving, and harness‑compatible fixtures.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Cliff‑lane just off the lecture hub promenade; easy glide‑in with portal pad at the rear for freight.
+- Exterior/signage: A stylized skyline of perches and balconies in cerulean enamel; rotating display shows a perch unfolding mid‑air.
 
 ### Services and Offerings
 
-- ...
-- ...
+- - Custom perches (folding, heated, ward‑ready)
+- - Modular shelving rated for hoards and lab gear
+- - Harness‑mount anchors for tools and instruments
+- - Consultation and in‑home fitting for mixed‑size households
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- - “Cloudstep” folding balcony‑perch (silent hinges; shock‑grounded)
+- - “Hoard‑Nest” drawer clusters with anti‑slide lips and fire‑tolerant liners
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to late evening; installation crews by appointment
+- Entry/reservations: Walk‑ins welcome; design consults scheduled; portal demo by request
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- - Vibe and sensory notes: Cedar and beeswax; quiet click of precision joinery; soft breeze through glide‑doors
+- - Capacity/scale: Mixed sizes with test‑perches for large frames and mock apartments for humanoids
+- - Seating/flow: Consultation alcoves, demo rigs, material wall, rear install bay
+- - Map/layout notes: Street entrance, design counter, demo floor, back warehouse with portal pad
 
 ### Staff and NPCs
 
@@ -53,21 +55,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- - House rules (behavior, breath, magic): No aggressive breath near finishes; flight demos with a handler only
+- - Ordering/service flow (e.g., counter, portal chute, omakase): Browse → measure → consult → fabricate → install
+- - Hazards/environmental notes: Lift Golem lanes marked on the floor; please do not perch on unsecured prototypes
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- - Protections/alarms: Weight‑sensors and tilt alarms on displays; bell‑wards after hours
+- - Wards/anti‑theft: Tag‑runes that blur stolen items’ edges to uncomfortably visible shimmer
+- - Portal anchors/safeties: Anchored demo pad; freight portal keyed to warehouse only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- - Plot hook: A failed balcony anchor from a rival shop prompts emergency inspections across a block—help triage and repair before nightfall.
+- - Social scene: Design night where artisans and dragons test new perch concepts; excellent for favors and introductions.
+- - Complication: A shipment of shock‑ground bolts arrives magnetized; trace the fault or improvise safe installs.
 
 ### Rumors and Secrets
 
@@ -80,9 +82,9 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- - Stock highlights: Cloudstep perches; Hoard‑Nest clusters; glide‑safe shelving; harness anchors
+- - Custom orders/lead times: Standard installs in 2–5 days; custom layouts 1–2 weeks; rush for safety retrofits
+- - Planar imports/components: Shock‑ground alloys from storm‑touched foundries; heat‑tolerant resins from ember planes
 
 ### Variants
 

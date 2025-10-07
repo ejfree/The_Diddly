@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### Amber & Ember Imports
 
-One‑sentence summary of what this shop is known for.
+Select imports of heat‑touched goods—ember‑kilns, spices, and crafted metals sourced with discerning care.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market artisan row near smiths and cookfires.
+- Exterior/signage: Brass sigil with an ember coil; warm light and kiln vent glow.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Curated imports of ember‑spice, kilnware, and heat‑tolerant tools
+- Small‑lot contractor to chefs and artisans
+- Demonstrations of ember‑kilns and safe handling
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Ember‑kiln with precise venting for breath‑finishes
+- Anbar spice blends balanced for dragon and humanoid palates
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to evening; by appointment for demonstrations
+- Entry/reservations: Walk‑ins welcome; demos scheduled
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Warm spice, brass, and smoke in threads; controlled heat
+- Capacity/scale: Mixed sizes; tasting counter and kiln demo bay
+- Seating/flow: Counter, spice wall, demo bay, back room
+- Map/layout notes: Street entrance, tasting counter, kiln bay, storage
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No open breath outside the demo bay; respect heat markers
+- Ordering/service flow (e.g., counter, portal chute, omakase): Taste → select → contract → deliver
+- Hazards/environmental notes: Hot surfaces; clear tail lanes near kilns
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Heat drift alarms; bell on back door
+- Wards/anti‑theft: Tag‑runes on high‑value spice lots and kilns
+- Portal anchors/safeties: Staff pad for freight; demo bay isolated
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A rare spice lot stalls in customs; help [Embercoil of Anbar](../People/embercoil-of-anbar.md) secure release.
+- Social scene: Chef and smith tasting night—alliances born over heat.
+- Complication: A knockoff kiln risks backdraft; identify and recall.
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Ember‑kilns, Anbar spice sets, heat‑safe tools
+- Custom orders/lead times: Special lots by contract; kiln installs 3–7 days
+- Planar imports/components: Ember‑resins, dewglass, and heat‑tolerant alloys
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet tastings midday; lively demo evenings
+- Festival/event mode: Street grill‑offs and live kiln demos
+- Planar alignment shift: Flame runs cleaner; spices bloom brighter
 
 ### GM Notes
 

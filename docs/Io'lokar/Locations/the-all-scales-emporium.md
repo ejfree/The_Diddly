@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### The All-Scales Emporium
 
-One‑sentence summary of what this shop is known for.
+Reliable general goods for every size—tools, staples, and adapters that fit dragon perches and humanoid hands alike.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market heart, at the crossing of tool lane and staple row.
+- Exterior/signage: Brass scale emblem over green‑painted doors; neat hand‑lettered inventory boards.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Outfit kits for new arrivals; replacement parts for common tools
+- Size adapters, strap sets, and perch‑safe hooks
+- Copy/laminate of public safety guides and city forms
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Multi‑size tool handles with quick‑pin swaps
+- Perch‑safe storage bins with anti‑slide lips
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: From first bell to last market bell
+- Entry/reservations: Walk‑ins; bulk orders by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Cedar, oil, and parchment; the calm of a well‑kept ledger
+- Capacity/scale: Mixed sizes; low aisles and a high rack row
+- Seating/flow: Help counter, adapter wall, staple shelves; back counter for fittings
+- Map/layout notes: Street entrance, counter, aisles, backroom with portal chute
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No test breaths on materials; weights verified at the counter
+- Ordering/service flow (e.g., counter, portal chute, omakase): Ask → measure → fit → mark → pay
+- Hazards/environmental notes: Lift lanes are marked; keep tails and carts clear
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Inventory bells and seal‑tags on high‑value items
+- Wards/anti‑theft: Marking rune that highlights unpaid metal with a harmless green blush
+- Portal anchors/safeties: Chute keyed for bulk deliveries only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A batch of counterfeit adapters appears; trace the source with [Quartermaster Grellix Ledgergreen](../People/quartermaster-grellix-ledgergreen.md)
+- Social scene: New student outfitting day—fast fittings, faster friendships
+- Complication: A vendor dispute over measure standards erupts at the counter
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Tool kits, adapters, safety guides, perch‑safe bins
+- Custom orders/lead times: Fittings while you wait; custom kits in 1–3 days
+- Planar imports/components: Ether‑resin grips; heat‑tolerant liners
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Morning outfitting rush; afternoon steady flow; evening restock
+- Festival/event mode: Pop‑up adapter booth near the market gate
+- Planar alignment shift: Marking runes glow brighter, making checks easy
 
 ### GM Notes
 

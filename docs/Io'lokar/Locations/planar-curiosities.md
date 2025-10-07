@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### Planar Curiosities
 
-One‑sentence summary of what this shop is known for.
+Oddments from elsewhere—trinkets with stories, curios with care, and labels that admit when they don’t know.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Curio lane near Molten Memories and Oddities.
+- Exterior/signage: A turning ring with dangling charms; window cases of intriguing shapes.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Curated curios with provenance cards
+- Trade‑ins and appraisals; safe handling lessons
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Vortxel’s “Honest Curio” cards—what it is, what it isn’t, and how to keep it safe
+- Pocket echoes that hum faintly (harmless)
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to evening
+- Entry/reservations: Walk‑ins; private shows by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Dust, cedar, and soft whir; small bells
+- Capacity/scale: Mixed sizes; narrow aisles and viewing nooks
+- Seating/flow: Browse → inquire → card → decide
+- Map/layout notes: Door, counter, cases, back table
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No breath on unknowns; ask for gloves
+- Ordering/service flow (e.g., counter, portal chute, omakase): Card → consult → purchase/decline
+- Hazards/environmental notes: Unknowns may hum or flicker; staff ready to soothe
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Case bells; mirror‑wards
+- Wards/anti‑theft: Tag runes on cases and trays
+- Portal anchors/safeties: Staff pad for consignments only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A curio awakens a memory; [Vortxel Ferris](../People/vortxel-ferris.md) wants context before sale.
+- Social scene: Curious patrons swap theories (and cards).
+- Complication: A rival sells fakes; prove your line with tests.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Honest curios, pocket echoes, safe oddments
+- Custom orders/lead times: Hunts by arrangement; returns honored with grace
+- Planar imports/components: Nightglass, dewglass, and whisper‑mica
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Afternoon browsers; evening collectors
+- Festival/event mode: Street table of safe curios with big honest cards
+- Planar alignment shift: Hums and glows tick up; staff on hand
 
 ### GM Notes
 

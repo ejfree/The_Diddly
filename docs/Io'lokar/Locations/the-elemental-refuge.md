@@ -10,37 +10,39 @@ updated: 2025-10-06
 ---
 ### The Elemental Refuge
 
-One‑sentence summary of what this shop is known for.
+Custom lair environments—cloud perches, mist veils, ember‑safe nooks, and water‑calm pools tuned to your breath and habits.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Workshop row beside Skyline Furnishings and Lair Essentials.
+- Exterior/signage: A swirling cloud over a perch; breeze‑ribbons that move even on still days.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Environmental installs: cloud perches, mist curtains, breeze lanes, lighting
+- Breath‑safe liners and heat‑tolerant surfaces
+- Humidity/airflow balancing for mixed‑species households
+- Site surveys and post‑install tune‑ups
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Cloudwhorl Perch—cushioned aerogel with shock‑ground anchors
+- Whisper‑mist veils that cool and clean without damp
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to evening; installs by appointment
+- Entry/reservations: Walk‑in consults; site visits by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Clean air, cedar, and a faint coolness; demo breezes whisper through chimes
+- Capacity/scale: Mixed sizes; demo perches and a mock lair corner
+- Seating/flow: Consultation desk, materials wall, demo bay
+- Map/layout notes: Front entrance, consult, demo floor, warehouse, loading pad
 
 ### Staff and NPCs
 
@@ -53,21 +55,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Test breaths only at the demo bay; no open flames near veils
+- Ordering/service flow (e.g., counter, portal chute, omakase): Consult → survey → design → install → tune‑up
+- Hazards/environmental notes: Slip risk near mist demos; marked lanes
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Breeze alarms on night entry; tilt sensors on demo perches
+- Wards/anti‑theft: Tag‑runes on high‑value anchors
+- Portal anchors/safeties: Staff pad keyed to warehouse only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A tenant’s perch fails inspection; [Warden Cloudwhorl](../People/warden-cloudwhorl.md) needs quick reinforcement before sunset.
+- Social scene: Open‑house demo where neighbors compare lair upgrades and tips.
+- Complication: An over‑eager buyer insists on unsafe cooling veils; convince or retrofit.
 
 ### Rumors and Secrets
 
@@ -80,15 +82,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Perch kits, mist veils, airflow baffles, heat liners
+- Custom orders/lead times: Site‑specific components in 2–7 days; tune‑ups next‑day
+- Planar imports/components: Aerogel pads, hush‑silk veils, shock‑ground alloys
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet midday consults; evening demo traffic
+- Festival/event mode: Street demo perches and breeze lanes for try‑outs
+- Planar alignment shift: Veils glimmer; airflow lines show as faint threads
 
 ### GM Notes
 

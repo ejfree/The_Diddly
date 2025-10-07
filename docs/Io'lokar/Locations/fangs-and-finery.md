@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### Fangs & Finery
 
-One‑sentence summary of what this shop is known for.
+Dragon‑sized tailoring and couture—hush‑silk, dewglass trims, and impeccable fits for horn, fang, and frill.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Promenade fashion row near the theater.
+- Exterior/signage: Gilded fang over a silk cascade; window mannequins in slow pirouette.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Bespoke garments for dragons and mixed‑size households
+- Fittings for ceremonial collars, harness covers, and gala wear
+- Repairs and alterations; travel wardrobes
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Hush‑silk cloaks that float in glide
+- Dewglass beadwork that catches starlight
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to evening
+- Entry/reservations: Consults by token; walk‑ins for minor alterations
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Lavender, steam, and soft scissors; a hush of good taste
+- Capacity/scale: Dragon bays and low salons; mirrored walls and perch platforms
+- Seating/flow: Greet → consult → measure → pin → pick‑up
+- Map/layout notes: Street entrance, salon, fitting bays, workroom, vault
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No open flame; breath off near silk; pins bite
+- Ordering/service flow (e.g., counter, portal chute, omakase): Book → consult → fitting(s) → final pick‑up
+- Hazards/environmental notes: Pins, steam, and trailing hems; mind tails
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Wardrobe bells; mirror wards that reveal theft
+- Wards/anti‑theft: Tag‑runes in trims; vault runes
+- Portal anchors/safeties: Staff pad for cloth shipments
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A gala gown’s hush‑silk is delayed; [Marquess Aurion](../People/marquess-aurion.md) needs discreet recovery.
+- Social scene: Salon night where patrons sip tea, trade rumors, and choose trims.
+- Complication: A rival spreads slander about fit; prove or disprove with a public fitting.
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Hush‑silk, dewglass beads, ceremonial collars
+- Custom orders/lead times: Bespoke 3–14 days; alterations same‑day
+- Planar imports/components: Hush‑silk bolts; moon‑thread; starlight trims
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet fittings midday; lively salons evening
+- Festival/event mode: Pop‑up pins and trims booth near the theater
+- Planar alignment shift: Trims sparkle; cloaks float sweeter
 
 ### GM Notes
 

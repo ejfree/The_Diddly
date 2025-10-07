@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### The Gilded Goblet
 
-One‑sentence summary of what this shop is known for.
+Classic public house with polished taps, hearty fare, and a laugh you can hear from the lane.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market cross‑lane near the study promenade.
+- Exterior/signage: A gilded goblet on a swinging arm; warm amber light and window steam.
 
 ### Services and Offerings
 
-- ...
-- ...
+- House ales, ciders, and comfort plates
+- Story nights, quiz bells, and regulars’ table
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Honey‑amber ale with citrus peel
+- Skillet pie with root veg and gravy
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Midday to late; extended on festival eves
+- Entry/reservations: Walk‑ins; group tables by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Malt, roast, and oranges; the sound of easy laughter
+- Capacity/scale: Mixed sizes; bar rail, booths, and a perch bay
+- Seating/flow: Host stand, bar, booth run, regulars’ table
+- Map/layout notes: Street entrance, bar, kitchen pass, perch bay
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Keep breath to the kitchen; respect the bell; no tab without a name
+- Ordering/service flow (e.g., counter, portal chute, omakase): Seat → order → share stories → settle tabs
+- Hazards/environmental notes: Hot plates; crowded aisles at bell time
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Calm‑ward over the regulars’ table; bell at the back door
+- Wards/anti‑theft: Token tabs and marked glass
+- Portal anchors/safeties: Staff pad for kegs; no public portal in house
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A favored keg goes missing; [Merrith Caskringer](../People/merrith-caskringer.md) wants quiet help.
+- Social scene: Quiz bell night with mixed tables of dragons and students.
+- Complication: A counterfeit token ring muddies tabs; identify and mend.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Honey‑amber, citrus ale, ciders; comfort plates
+- Custom orders/lead times: Group platters and reserved bays; same‑day setups
+- Planar imports/components: Dewglass steins and hush‑silk curtains for the bay
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet lunches; cheery dinners; warm late nights
+- Festival/event mode: Overflow to lane benches; extra taps
+- Planar alignment shift: Ales sparkle brighter; bell carries kindly
 
 ### GM Notes
 

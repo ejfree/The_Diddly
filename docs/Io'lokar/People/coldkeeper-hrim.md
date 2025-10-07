@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "white" # if species=dragon (e.g., emerald, copper)
 role: "Coldkeeper" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "he/him" # e.g., she/her, he/him, they/them
+rank: "Proprietor" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Coldkeeper Hrim
 
-One‑sentence summary of who this citizen is and why they matter.
+A meticulous white dragon who keeps Io’lokar’s food cold‑true—guardian of chill chains and honest weights.
 
 ### Appearance
 
-...
+Pale, frosted scales; a breath that condenses in neat curls; ice‑rimed whiskers. He wears a leather seal‑belt with stamped rings for every locker.
 
 ### Personality
 
-...
+Calm, methodical, and scrupulously fair. Hrim’s humor is dry as winter air; he warms only for consistent honesty and good labeling.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Crystal Pantry](docs/Io'lokar/Locations/the-crystal-pantry.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Oversees cold‑room temperatures, weighs goods, seals crates, and audits delivery chains.
+- University or weyr ties: Supplies research kitchens; consults on cold safety for market festivals.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Born to a caravan that traded ice from mountain vaults.
+- Notable history: Tracked a series of spoilages to a faulty portal pad; wrote the current seal protocol.
+- Education/training: Apprenticed under a Glacial quartermaster; cold warding and logistics.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Precision frost breath that cools evenly; can reveal heat‑spoiled seams as foggy streaks.
+- Class/CR/Tier: Logistics‑leaning artisan; high Investigation and Perception.
+- Skills/Strengths: Cold chain mapping, seal discipline, and honesty detection by breath curl.
+- Gear/Hoard highlights: Seal‑belt, calibrated weights, dewglass ampoules for volatile goods.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Modest quarters above the cold rooms; neat, spare, and perfectly tempered.
+- Frequent locations: The Crystal Pantry; Draconic Market cold‑lanes; City Hall during audits.
+- Travel/transport habits: Walks the cold‑lane; takes portal hops to verify remote lockers.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A seal‑ring copycat appears; Hrim hires the party to find the counterfeiter before stock spoils.
+- Social scene: Quiet tasting of preserved winter fruits and smoked fish.
+- Complication: The chill‑ward hums oddly; a component from an ember plane is interfering.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Good cold is quiet and honest."
+- "Weigh truth first, then goods."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Pre‑dawn seal checks; noon audits; evening standing orders.
+- Crisis/emergency mode: Opens emergency lockers and triages perishables; calm orders, fast hands.
+- Planar alignment shift: Frost curls outline warm leaks, making fixes obvious.
 
 ### Stat Block Notes (Optional)
 

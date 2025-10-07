@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### The Aegis Watchtower
 
-One‑sentence description of the place and its purpose.
+City guard’s L2 anchor—patrol command, armory, and incident response with a clear view over the district.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Patrol coordination, incident triage, evidence custody, and public safety advisories.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: District security and response; liaises with Portal Nexus and City Hall.
 
 ### Location Details
 
 - Level: L2
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Promenade ridge line; sightlines to market lanes and beacons.
+- Exterior/architecture: Stone tower with beacon crown; broad balconies for winged musters.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Muster Hall, Evidence Vault, Beacon Spire, and Intake Desk for minor disputes.
+- Capacity/scale: Large muster floors; sealed vaults; training yard.
+- Accessibility (flight, ramps, portals): Exterior perches; interior ramps and lifts; portal pad for rapid response.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Always staffed; Intake Desk bell hours posted.
+- Procedures/queues/permits: Incident tokens; evidence logging; viewing permits via Auditor Vess Klyne.
+- Dependencies (couriers, portals, guard): Aegis patrols; Portal Nexus for drift incidents; City Hall for edicts.
 
 ### Staff and Roles
 
@@ -53,15 +53,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Beacon wards for alarm signaling; hush‑veils in interview rooms.
+- Safety systems/failsafes: Armory lockouts; soft‑contain protocols; beacon escalation bells.
+- Power/portal anchors: Anchor pad for response squads; drift monitors on spire.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A string of counterfeit permits surfaces; [Commander Lex Ultorin](../People/commander-lex-ultorin.md) needs discreet verification runs.
+- Procedural obstacle: Evidence viewing request hits a deadline; navigate permits fast.
+- Social opportunity: Training yard open drill—earn respect or useful contacts.
 
 ### Rumors, Secrets, and Risks
 

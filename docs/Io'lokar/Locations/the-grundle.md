@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### The Grundle
 
-One‑sentence summary of what this shop is known for.
+Low‑ceiling tavern with swampy charm—muddy ales, pickles, and sarcasm served dry.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Side lane near the Arcade and Goblet.
+- Exterior/signage: A grinning mud‑dragon; door that sticks in damp weather.
 
 ### Services and Offerings
 
-- ...
-- ...
+- House ales, pickled plates, and fried odds
+- Tall tales; sarcasm; cheap darts
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Mirebrew—dark ale with a briny bite
+- Pickled platter that pairs too well
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Afternoon to late
+- Entry/reservations: Walk‑ins; don’t bring expectations
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Damp wood, salt, and smoke; laughter under grumbles
+- Capacity/scale: Low ceilings; booths and a bar; one perch rail
+- Seating/flow: Squeeze in; shout over the bell; leave happy
+- Map/layout notes: Door, bar, booths, back door
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No breath at tables; no fuss; tip fair
+- Ordering/service flow (e.g., counter, portal chute, omakase): Order at bar; food comes when it comes
+- Hazards/environmental notes: Slippery floor on wet nights
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Bell on door; staff eyes sharp
+- Wards/anti‑theft: Token tabs; marked mugs
+- Portal anchors/safeties: None
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Sourfen hears a rumor worth something; buy a round to learn more.
+- Social scene: Dart night where insults are part of the charm.
+- Complication: A rival tries to poach regulars; out‑grumble them politely.
 
 ### Rumors and Secrets
 

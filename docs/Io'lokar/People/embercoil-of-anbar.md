@@ -5,49 +5,51 @@ species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "brass" # if species=dragon (e.g., emerald, copper)
 role: "Proprietor" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
+pronouns: "she/her" # e.g., she/her, he/him, they/them
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Embercoil of Anbar
 
-One‑sentence summary of who this citizen is and why they matter.
+Brass dragon importer who curates heat‑touched goods with a chef’s palate and a smith’s caution.
 
 ### Appearance
 
-...
+Polished brass scales; spice‑stained apron during tastings; a kiln‑glow gem at the throat. Her breath carries a hint of cinnamon and smoke.
 
 ### Personality
 
-...
+Confident, warm, and business‑lean. Embercoil favors handshakes, clear specs, and repeat clients over hype.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Amber & Ember Imports](docs/Io'lokar/Locations/amber-and-ember-imports.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Sourcing, tasting, vetting kilns and tools, and negotiating small‑lot contracts.
+- University or weyr ties: Supplies culinary labs and smithies; guest demos on safe breath‑finish equipment.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Waystation spice routes and caravan forges.
+- Notable history: Exposed a kiln backdraft scam by replicating vent tests on the street.
+- Education/training: Trade law, materials safety, and palate training.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Ember‑breath ember that can sustain precise low heat for demos.
+- Class/CR/Tier: Merchant‑artisan with high Insight, Investigation, and Persuasion.
+- Skills/Strengths: Sourcing, specification, and risk sensing.
+- Gear/Hoard highlights: Sample kiln, spice chest, and vent test kit.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Back room office lined with sealed tins and small tools.
+- Frequent locations: Amber & Ember Imports; Celestial Plates; smith row.
+- Travel/transport habits: Walks for tastings; portal for freight.
 
 ### Relationships
 
@@ -58,9 +60,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Recover a delayed spice lot before a showcase.
+- Social scene: Chef‑smith tasting with lively banter.
+- Complication: A rival’s knockoff kiln injures a client; investigate and recall.
 
 ### Secrets and Rumors
 
@@ -68,13 +70,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Heat reveals truth—so do contracts."
+- "If it can’t pass the vent test, it can’t pass my door."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Easy midday tastings; decisive evenings.
+- Crisis/emergency mode: Locks demos, checks vents, and calls in favors.
+- Planar alignment shift: Flames run clean; defective alloys buzz in her teeth.
 
 ### Stat Block Notes (Optional)
 

@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "underworld" # if species=dragon (e.g., emerald, copper)
 role: "Alchemist" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "they/them" # e.g., she/her, he/him, they/them
+rank: "Proprietor" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Alembic Gloomveil
 
-One‑sentence summary of who this citizen is and why they matter.
+An underworld dragon who treats alchemy like public safety—precise, patient, and proud of clean benches and clean consciences.
 
 ### Appearance
 
-...
+Basalt‑dark scales with a glassy sheen; horn‑rings etched with measurement marks; apron neatly scored with safe zones. Breath leaves a shimmer that settles evenly.
 
 ### Personality
 
-...
+Soft‑spoken, exact, and stubborn about safety. Humor is dry as desiccant. Celebrates small, repeatable successes over flashy breakthroughs.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Alchemist’s Corner](docs/Io'lokar/Locations/the-alchemists-corner.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Certifies benches, compounds custom orders, audits student kits, and runs the neutralizer hatch.
+- University or weyr ties: Teaches “lab etiquette and breath discipline” modules; consults with Seraphine Frostleaf on antidote stability.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Mine‑nest upbringing where fumes killed the careless.
+- Notable history: Tracked a string of minor mishaps to mislabeled student kits; rewrote the standard labels.
+- Education/training: Apprenticed under a void‑glass maker and a civic alchemist; certification in hazardous waste protocols.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Heat‑evening exhale that stabilizes temperature drift; “fog check” breath to test hood flow.
+- Class/CR/Tier: Artisan with high Medicine, Nature, and Tool (alchemist’s supplies).
+- Skills/Strengths: Process control, label clarity, steady claws.
+- Gear/Hoard highlights: Certified glass, calibrated droppers, and a personal logbook of safe recipes.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Small, cool loft over the shop; sparse, organized, and labeled.
+- Frequent locations: The Alchemist’s Corner; Drake’s Remedy; university labs during audits.
+- Travel/transport habits: Walks with a secure kit; avoids crowded festival lanes.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A mislabeled vial must be found before class; Alembic needs runners with good noses.
+- Social scene: Quiet “open bench” evening swapping safe process hacks.
+- Complication: A supplier’s batch fails purity tests; trace contamination source.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Pretty reactions are for festivals; ours are for lives."
+- "Label twice, brew once."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Patient mornings; brisk afternoons; meticulous nights.
+- Crisis/emergency mode: Triage, neutralize, ventilate—then investigate.
+- Planar alignment shift: Breath fog patterns reveal weak hood flow.
 
 ### Stat Block Notes (Optional)
 

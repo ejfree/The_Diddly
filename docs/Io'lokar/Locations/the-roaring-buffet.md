@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### The Roaring Buffet
 
-One‑sentence summary of what this shop is known for.
+Feasting hall for big appetites—roaring service, carved platters, and festival‑scale hospitality.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Festival promenade near the Arcade and Delights.
+- Exterior/signage: A roaring maw over laden platters; steam banners at meal bells.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Carvery lines, stew kettles, and grill plates sized for dragons and friends
+- Family tables, perch bays, and quick trays for crews
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Carveflame Roast with ember‑herb crust
+- Wellspring stew that warms without slowing
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Lunch through late; extended bells on festival nights
+- Entry/reservations: Counter lines; group tables by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Roast, spice, laughter, and clatter; bells mark course turns
+- Capacity/scale: Very large; carve lines, perch bays, family tables
+- Seating/flow: Queue → carve/stew → seat → seconds
+- Map/layout notes: Door, lines, pass, bays, tables, back kitchen
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Breath at the pass only; share tables at peak bells
+- Ordering/service flow (e.g., counter, portal chute, omakase): Queue → plate → seat → ring for seconds
+- Hazards/environmental notes: Hot trays; tail lanes marked
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Calm‑bells; back‑door bell; crowd‑flow lights
+- Wards/anti‑theft: Token tabs; marked platters
+- Portal anchors/safeties: Staff pad for supplies
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A festival roast is late; [Lady Carmina Carveflame](../People/lady-carmina-carveflame.md) calls in favors.
+- Social scene: Family tables mix students, artisans, and wardens—news and favors abound.
+- Complication: A rival poaches staff mid‑rush; keep plates moving.
 
 ### Rumors and Secrets
 

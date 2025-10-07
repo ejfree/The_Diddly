@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### The Flight Lounge
 
-One‑sentence summary of what this shop is known for.
+Quiet, airy study lounge with perfect tea, soft perches, and rules that keep focus aloft.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Lecture promenade mezzanine with breeze lanes; overlooks the green.
+- Exterior/signage: A feathered cup sigil; wind‑bells whisper at the doorway.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Steeped teas and light plates; study snacks
+- Quiet pods and group tables; loaner scribe stones
+- Breath‑baffled alcoves for dragons practicing soft focus
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Nimbus Tea Flight—three focus blends
+- Cloud‑crumb scones with honey and salt
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Morning through late evening; extended during finals
+- Entry/reservations: Walk‑ins; pods by token with time limits
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Steam, tea, and cool air; pages whisper; bells mark half‑hours
+- Capacity/scale: Mixed sizes; high perches, low nooks, and window bars
+- Seating/flow: Order counter, study zones, pod corridor
+- Map/layout notes: Street entrance, counter, pod hall, balcony perches
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Whisper voices; no open breath beyond baffled alcoves; respect the bell
+- Ordering/service flow (e.g., counter, portal chute, omakase): Order → sit → bell marks breaks; clear tables before leaving
+- Hazards/environmental notes: Hot kettles and steeping stones; tail clearance on balcony
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Hush‑wards to settle disruptions; gentle escort bell for persistent noise
+- Wards/anti‑theft: Token tabs; scribe stone tethers
+- Portal anchors/safeties: Short‑hop pad for supply crates only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Finals week crisis—lost notes, frayed tempers; [High Warden Cyra Nimbus](../People/high-warden-cyra-nimbus.md) asks the party to help keep the peace
+- Social scene: Tea tasting with study tips from regulars
+- Complication: A scribe stone echoes the wrong words; fix the pairing quietly
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Focus blends, scones, study kits, scribe stones
+- Custom orders/lead times: Group table reservations by token; tea blends prepared same‑day
+- Planar imports/components: Hush‑silk curtains and echo‑quartz for pod acoustics
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Gentle mornings; busy afternoons; quiet, intent evenings
+- Festival/event mode: Balcony readings and light music with breath baffled
+- Planar alignment shift: Bells chime clearer; steam drifts in elegant ribbons
 
 ### GM Notes
 

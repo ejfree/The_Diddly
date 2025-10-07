@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### Scale & Hearth Provisions
 
-One‑sentence summary of what this shop is known for.
+Daily staples and household goods for mixed‑size homes—fair weights, sturdy wares, and no fuss.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market staples row near All‑Scales Emporium.
+- Exterior/signage: A scale and a hearth glyph; chalkboard lists.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Bulk staples by weight; housewares sized for dragons and humanoids
+- Starter kits for new households; cleaning and repair odds and ends
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Tallytongue Kits—simple, durable starter sets that actually match
+- Scale‑safe storage bins and lined baskets
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: First bell to dusk
+- Entry/reservations: Queue with tokens for bulk sacks
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Wood, soap, grain; clear aisle bells
+- Capacity/scale: Mixed sizes; low aisles and high racks
+- Seating/flow: Counter, bulk wall, kit table
+- Map/layout notes: Door, counter, kit table, bulk racks
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No breath in the aisles; respect the queue
+- Ordering/service flow (e.g., counter, portal chute, omakase): Weigh → pack → pay
+- Hazards/environmental notes: Heavy sacks; handler carts available
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Door bell; scale drift alerts
+- Wards/anti‑theft: Token tabs; marked sacks
+- Portal anchors/safeties: Staff pad for pallet drops
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A bulk shipment is late; [Bronzegrub Tallytongue](../People/bronzegrub-tallytongue.md) drafts help to reroute.
+- Social scene: New household kit day; neighbors meet while sorting.
+- Complication: A scale dispute—settle it with fairness and a test weight.
 
 ### Rumors and Secrets
 

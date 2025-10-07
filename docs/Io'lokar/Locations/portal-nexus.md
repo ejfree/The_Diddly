@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### Portal Nexus
 
-One‑sentence description of the place and its purpose.
+City‑wide portal hub—anchors, customs, and incident response under one disciplined roof.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Maintain civic anchors, meter cross‑district flows, enforce codes, and handle incidents.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: City‑wide portals and registered waybeacons; liaises with Aether Artery.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Central promenade with clear lines to beacon towers.
+- Exterior/architecture: Massive ring hall with bell‑towers and visible anchor pylons.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Anchor Hall, Flux Desk, Customs Gates, Incident Yard.
+- Capacity/scale: High throughput; overflow rings open on festivals.
+- Accessibility (flight, ramps, portals): Ramps, lifts, and glide lanes; staff pads.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Bell to bell; incident desk 24/7.
+- Procedures/queues/permits: Token queues, customs declarations, and inspection flags.
+- Dependencies (couriers, portals, guard): Aegis Watch; couriers for parts; city bells for cadence.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Flux dampers, hush‑veils, and glare control.
+- Safety systems/failsafes: Soft‑close, drift alarms, and echo‑beacons to regroup.
+- Power/portal anchors: Redundant anchors with real‑time drift monitors.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A beacon drifts; [Nexus Master Wells](../People/nexus-master-wells.md) recruits steady hands.
+- Procedural obstacle: A customs hold threatens a timetable; solve or smooth.
+- Social opportunity: Quiet help for first‑time travelers.
 
 ### Rumors, Secrets, and Risks
 
@@ -72,9 +72,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Festival lanes open, Customs doubles, bells pace crowds.
+- Crisis/emergency mode: Soft‑close and regroup; Incident Yard takes lead.
+- Planar alignment shift: Bells harmonize; anchors hum; staff smiles get wider.
 
 ### GM Notes
 

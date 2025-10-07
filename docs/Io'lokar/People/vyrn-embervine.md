@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "vermillion" # if species=dragon (e.g., emerald, copper)
 role: "Tapmaster" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "they/she" # e.g., she/her, he/him, they/them
+rank: "Tapmaster" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Vyrn Embervine
 
-One‑sentence summary of who this citizen is and why they matter.
+Vermillion dragon of the showman’s pour—turns taps into small spectacles and keeps the room laughing.
 
 ### Appearance
 
-...
+Vermillion scales with ember motes at the edges; a bandolier of syrups; horn‑rings that jingle when they laugh.
 
 ### Personality
 
-...
+Flamboyant, warm, and meticulous about safety. Vyrn delights in delight—but never at the cost of a singed guest.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Elemental Mug](docs/Io'lokar/Locations/the-elemental-mug.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Menu design, infusion demos, staff training, and calm‑bell drills.
+- University or weyr ties: Hosts student nights; partners with the Arcade for safe festival events.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan festivals where a good pour could save a bad night.
+- Notable history: Helped codify safe flambé demos after a string of accidents city‑wide.
+- Education/training: Hospitality, minor pyrotechnics, and restorative hosting.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Fine‑control vermillion flare that caramelizes sugars without scorching hands.
+- Class/CR/Tier: Social performer with high Performance, Persuasion, and Sleight of Hand.
+- Skills/Strengths: Crowd reading, safe spectacle, and fast service.
+- Gear/Hoard highlights: Syrup bandolier, marked shakers, calm‑bell.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Cozy rooms over the bar with a shelf of gifted mugs.
+- Frequent locations: The Elemental Mug; the Arcade; festival lanes.
+- Travel/transport habits: Walks the square; short glides only after close.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A counterfeit syrup batch hits town; Vyrn needs a quiet recall.
+- Social scene: Elemental tasting flight with tales.
+- Complication: A rival challenges them to a pour‑off; keep it safe and fair.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Dazzle’s fine—so is every guest going home intact."
+- "If it sparks joy, guard the spark."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Quiet prep; lively pours; soft goodnights.
+- Crisis/emergency mode: Bells, lids, breath off—then smiles back on.
+- Planar alignment shift: Flames draw tidy shapes; foam lifts into little crowns.
 
 ### Stat Block Notes (Optional)
 

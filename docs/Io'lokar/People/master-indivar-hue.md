@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "havoc" # if species=dragon (e.g., emerald, copper)
 role: "Pigments And Liv" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "they/he" # e.g., she/her, he/him, they/them
+rank: "Master Painter" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Master Indivar Hue
 
-One‑sentence summary of who this citizen is and why they matter.
+Havoc dragon painter who makes color behave—living murals and pigments that hold under breath and time.
 
 ### Appearance
 
-...
+Prismatic flecks in deep scales; apron hued with tests; a brush behind one horn; fingers stained with moon‑dust white.
 
 ### Personality
 
-...
+Gentle, curious, and precise. Indivar believes accidents teach—but not on client walls.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Mystic Canvas](docs/Io'lokar/Locations/mystic-canvas.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Mixes pigments, tests binders, designs and maintains living panels, and runs workshops.
+- University or weyr ties: Guest critiques; safety modules for breath effects in art.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan banners and festival stages.
+- Notable history: Documented hue‑set recipes adopted city‑wide after breath haze incidents.
+- Education/training: Chemistry of color, safety, and composition.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Havoc breath that stirs micro‑currents for smooth blends without splatter.
+- Class/CR/Tier: Artisan/scholar with Arcana, Nature, and Performance.
+- Skills/Strengths: Color memory, calm demos, and repair of misbehaving murals.
+- Gear/Hoard highlights: Sample panels, sealed jars, and a safe brush kit.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Light‑warmed studio loft with drying lines and a tea shelf.
+- Frequent locations: Mystic Canvas; theaters; Lecture Hub workshops.
+- Travel/transport habits: Walks with a roll of panels; portal for installs.
 
 ### Relationships
 

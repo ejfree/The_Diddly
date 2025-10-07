@@ -5,49 +5,51 @@ species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "void" # if species=dragon (e.g., emerald, copper)
 role: "Curator" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
+pronouns: "they/he" # e.g., she/her, he/him, they/them
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Noctis Ashminder
 
-One‑sentence summary of who this citizen is and why they matter.
+Void dragon curator who treats memories like fragile art—context first, consent always.
 
 ### Appearance
 
-...
+Deep midnight scales; eyes like distant lanterns; a hush‑veil collar and soft gloves.
 
 ### Personality
 
-...
+Quiet, steady, and unsentimental. Noctis offers kindness without theatrics and refuses to sell pain.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Molten Memories](docs/Io'lokar/Locations/molten-memories.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Intake, provenance research, echo playback supervision, and aftercare.
+- University or weyr ties: Works with historians and counselors; consults on memory ethics.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan archivists who taught that stories must be held, not pressed.
+- Notable history: Halted a predatory echo auction; wrote the city’s consent guidelines.
+- Education/training: Archivist craft, restorative practice, and echo mechanics.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Void hush that mutes echo bleed; gentle gravitas that steadies rooms.
+- Class/CR/Tier: Support/social with high Insight, Investigation, and Arcana.
+- Skills/Strengths: Provenance research, consent practice, and quiet hosting.
+- Gear/Hoard highlights: Echo crystals, dewglass, and tea service.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Spare rooms behind the shop; shelves of books and a teapot.
+- Frequent locations: Molten Memories; Celestial Theater archives; Lecture Hub salons.
+- Travel/transport habits: Walks softly; arrives early; leaves last.
 
 ### Relationships
 
@@ -58,9 +60,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Recover missing context for a consigned echo before sale.
+- Social scene: Quiet salon with tea and story fragments.
+- Complication: An echo won’t release; choose empathy over spectacle.
 
 ### Secrets and Rumors
 
@@ -68,13 +70,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "We sell context, not wounds."
+- "Tea first. Then the echo."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Cool mornings; gentle evenings.
+- Crisis/emergency mode: Close the case, brew the tea, find the story.
+- Planar alignment shift: Echoes sharpen; hush deepens—tread kinder.
 
 ### Stat Block Notes (Optional)
 

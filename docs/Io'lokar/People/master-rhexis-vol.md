@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "blue" # if species=dragon (e.g., emerald, copper)
 role: "Meticulous Reage" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "he/him" # e.g., she/her, he/him, they/them
+rank: "Proprietor" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Master Rhexis Vol
 
-One‑sentence summary of who this citizen is and why they matter.
+Blue dragon whose measures are as exact as his ethics—keeps Io’lokar’s magic safer with honest reagents and careful tests.
 
 ### Appearance
 
-...
+Sapphire scales with fine clause‑like sigils at the edges; antistatic wrist straps clipped to his harness; spectacles tethered by a chain.
 
 ### Personality
 
-...
+Precise, dryly funny, and quietly kind. Rhexis prefers data to drama and will redo a measure rather than argue.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Celestial Atlas](docs/Io'lokar/Locations/the-celestial-atlas.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Sources and assays reagents, builds course kits, audits vendor lots, and maintains safety protocols.
+- University or weyr ties: Provides lab kits and runs purity workshops.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Waystation stocktaker who learned that good labels save lives.
+- Notable history: Exposed a mislabeled ink ring that caused ritual failures; rewrote the labeling standard.
+- Education/training: Arcanochemistry, logistics, and safety protocols.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Static‑tuning breath that levels charges; brief arcs that test conductivity without damage.
+- Class/CR/Tier: Artisan/scholar with high Investigation and Arcana.
+- Skills/Strengths: Assay, inventory control, and calm coaching.
+- Gear/Hoard highlights: Assay bench, meter stones, and fog‑glass cases.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Sparse loft with a tidy tea shelf and a wall of calibrated weights.
+- Frequent locations: The Celestial Atlas; Alchemist’s Corner; Lecture Hub workshops.
+- Travel/transport habits: Walks with a sample case; courier for bulk.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Track a contaminated batch before exam week.
+- Social scene: Assay night—students compare notes and techniques.
+- Complication: Static surge spoils a run; salvage and retest under pressure.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Weigh it twice. Then we can argue."
+- "Honest labels are the kindest magic."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Patient mornings; brisk afternoons; soft‑spoken evenings.
+- Crisis/emergency mode: Locks stock, opens the assay bench, and starts again.
+- Planar alignment shift: Labels glow; static jumps—wrist straps for everyone.
 
 ### Stat Block Notes (Optional)
 

@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### The Eternal Glow
 
-One‑sentence summary of what this shop is known for.
+Light, heat, and safe illumination—lamps, crystals, and fixtures that keep Io’lokar bright without burning it.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market tools row with a clear line to dorms and workshops.
+- Exterior/signage: Sun‑wheel lantern over the door; window of gently glowing crystals.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Lanterns, glow‑crystals, and ward‑safe candles
+- Fixture installation and wiring for mixed‑size homes
+- Emergency light kits and beacon rentals
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Dawnlamp series—self‑regulating crystals tuned to circadian cycles
+- Beacon‑rings that mark exits through light fog or smoke
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: First bell to dusk; emergency counter late
+- Entry/reservations: Walk‑ins; installs by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Warm citrus and clean metal; hush of steady light
+- Capacity/scale: Mixed sizes; low lamp wall and high fixture gallery
+- Seating/flow: Counter, demo aisle, install desk
+- Map/layout notes: Entrance, counter, demo floor, back stock, install bench
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No open flame; breath only at test booth; mind the glare signs
+- Ordering/service flow (e.g., counter, portal chute, omakase): Browse → test → purchase → schedule install
+- Hazards/environmental notes: Brightness acclimation; shock‑ground test rigs
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Photocell alarms after hours; heat drift sensors
+- Wards/anti‑theft: Mark‑light that paints stolen goods with a visible halo
+- Portal anchors/safeties: Staff pad for fragile shipments
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A dorm blackout needs fast triage—[Solaryn Dawnlamp](../People/solaryn-dawnlamp.md) recruits volunteers with steady hands
+- Social scene: Evening demo of new glow‑crystals attracting crafters and wardens
+- Complication: A counterfeit batch overheats; identify and pull stock before a fire
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Dawnlamp crystals, beacon‑rings, ward‑safe candles
+- Custom orders/lead times: Fixtures in 1–3 days; building installs scheduled
+- Planar imports/components: Sun‑mica, echo‑quartz, and heat‑tolerant resin
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Morning contractors; afternoon households; evening students
+- Festival/event mode: Street lantern strings and pop‑up beacon booths
+- Planar alignment shift: Sun‑touched crystals glow brighter on their own; safety halos sharpen
 
 ### GM Notes
 

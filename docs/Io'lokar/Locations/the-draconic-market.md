@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### The Draconic Market
 
-One‑sentence description of the place and its purpose.
+Io’lokar’s open‑air bazaar: fresh provisions, artisan goods, and roaring festival lanes kept fair and flowing under watchful draconic eyes.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Daily stalls for food, tools, and curios; festival courts; weights‑and‑measures enforcement; on‑site arbitration for merchant disputes.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: Vendor licensing, sanitation standards, and stall assignments for the L1 market district.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Between courier depots and the festival green; alleys feed into tasting rows and craft courts.
+- Exterior/architecture: Color‑striped canopies and wind‑flags; weigh‑houses and bell‑chimes mark the main lanes.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Weigh‑house, Arbitration Table, cold‑chain lanes, tasting alley, festival square.
+- Capacity/scale: Hundreds of rotating stalls with perch‑ridges overhead; overflow during festivals.
+- Accessibility (flight, ramps, portals): Wide lanes with low hazards; glide‑perches above; portal chutes for deliveries.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Dawn to dusk; festival hours extend by bell.
+- Procedures/queues/permits: Queue tokens for scales and stalls; day‑permits at the Warden’s desk; immediate arbitration available.
+- Dependencies (couriers, portals, guard): Frostfire and Draconian Couriers; Breeze Elementals for air quality; Patrol Drakes for security.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Anti‑counterfeit sigils at the weigh‑house; freshness markers along cold lanes.
+- Safety systems/failsafes: Spillway gutters; shock‑grounded poles near breath‑cooking stalls.
+- Power/portal anchors: Beacon chimes guide portal drops to safe pads.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A cold‑chain lane collapses; perishables will spoil without a fast reroute.
+- Procedural obstacle: A permit audit flags the party’s pop‑up stall; prove compliance or fix faults on the fly.
+- Social opportunity: Tasting alley showcase featuring new vendors—excellent for contacts and favors.
 
 ### Rumors, Secrets, and Risks
 
@@ -72,9 +72,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Festival days double stall density; extra weigh‑tables open and Selach patrols with additional staff.
+- Crisis/emergency mode: Lanes become relief corridors; supply priority lists go into effect under Warden orders.
+- Planar alignment shift: Brine‑scented gusts; freshness wards glow; sailors flood the lanes with exotic goods.
 
 ### GM Notes
 

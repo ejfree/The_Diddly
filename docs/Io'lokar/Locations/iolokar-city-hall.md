@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### Io’lokar City Hall
 
-One‑sentence description of the place and its purpose.
+Administrative heart of Io’lokar—records, edicts, permits, and ceremonies coordinated with crisp kindness.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Registry, edicts, mediation intake, petitions and ceremonies, and planar compliance.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: Civic administration across districts; coordinates with Watchtower and Nexus.
 
 ### Location Details
 
 - Level: L2
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Promenade ridge near the Arbitration Spire.
+- Exterior/architecture: Broad halls, bell towers, and sun‑lit counters with ramp access.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Registry counters, Edicts Office, Petitioners’ Hall, and Ceremony Court.
+- Capacity/scale: High throughput with queue golems and chime‑bells.
+- Accessibility (flight, ramps, portals): Wide ramps, lifts, and exterior perches.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Bell to bell; extended during festivals.
+- Procedures/queues/permits: Token queues; plain‑speech forms accepted; interpreters available.
+- Dependencies (couriers, portals, guard): Couriers for records; Aegis Watch for security.
 
 ### Staff and Roles
 
@@ -53,15 +53,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Hush‑veils at counters; clarity runes over forms desks.
+- Safety systems/failsafes: Calm‑bells; spillover queues; escorted exits.
+- Power/portal anchors: Staff pads to archives and ceremony venues.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A time‑sensitive permit gets stuck; help [Chancellor Paradius](../People/chancellor-paradius.md) unblock it without favoritism.
+- Procedural obstacle: A missing seal; find the right desk and the right words.
+- Social opportunity: Ceremony court reception; meet civic figures.
 
 ### Rumors, Secrets, and Risks
 

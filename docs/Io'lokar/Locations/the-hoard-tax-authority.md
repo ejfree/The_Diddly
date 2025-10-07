@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### The Hoard Tax Authority
 
-One‑sentence description of the place and its purpose.
+Assesses, records, and collects hoard taxes—clear rules, careful appraisals, and stern but fair relief options.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Appraisals, assessments, payment plans, lien filings, audits, and relief petitions.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: City‑wide hoard tax code; coordinates with City Hall and Aegis for enforcement.
 
 ### Location Details
 
 - Level: L2
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: City Hall ridge; close to Arbitration Spire.
+- Exterior/architecture: Tall counters, secure cases, clear signage; bells that never sound rushed.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Appraisal Hall, Petition Office, Compliance Desks, and Evidence Vault.
+- Capacity/scale: High‑throughput counters; private booths for sensitive matters.
+- Accessibility (flight, ramps, portals): Wide ramps, lifts, and a secure portal pad.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Bell to bell; petition hours posted.
+- Procedures/queues/permits: Token queues; documented inventories; hardship forms; receipts sealed at counter.
+- Dependencies (couriers, portals, guard): City Hall records; Aegis for seizures; couriers for notices.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Honesty wards at counters; glamour baffles around large appraisals.
+- Safety systems/failsafes: Soft‑contain protocols; secure vault entries; bell alerts.
+- Power/portal anchors: Anchored pad linked to vault and City Hall archives.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A mismatched inventory triggers an audit; [Assessor Prime Verdun](../People/assessor-prime-verdun.md) wants facts fast.
+- Procedural obstacle: A lien filing arrives late; salvage with proof and persuasion.
+- Social opportunity: Petition Office tea hour—candid advice from clerks.
 
 ### Rumors, Secrets, and Risks
 

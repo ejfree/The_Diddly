@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "copper" # if species=dragon (e.g., emerald, copper)
 role: "Publican" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "she/her" # e.g., she/her, he/him, they/them
+rank: "Publican" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Sirra Quipscale
 
-One‑sentence summary of who this citizen is and why they matter.
+A copper dragon with a legendary laugh who runs the city’s friendliest stage and stewpot.
 
 ### Appearance
 
-...
+Burnished copper scales; a bar towel over one shoulder; charm‑rings on horns that jingle when she cackles. Smells of malt and citrus.
 
 ### Personality
 
-...
+Witty, generous, and quick with a toast. Sirra defuses bar fights with a joke and a free round; she remembers regulars’ stories like recipes.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Laughing Drake Tavern](docs/Io'lokar/Locations/the-laughing-drake-tavern.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Menu, taps, staffing, and stage bookings; keeps the room warm and safe.
+- University or weyr ties: Hosts student open‑mics and debate after‑parties; caters to lecture circuits.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan cookfires and wayhouse stages.
+- Notable history: Sheltered market workers during the Great Canopy Collapse; the tavern became a relief kitchen overnight.
+- Education/training: Hospitality, crowd reading, and a little stagecraft.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Warm, smoky exhale that seasons and soothes; can dampen raised voices.
+- Class/CR/Tier: Social anchor with high Performance and Persuasion; decent Athletics from keg duty.
+- Skills/Strengths: Crowd management, storytelling, and cooking under pressure.
+- Gear/Hoard highlights: Season stones, reserve casks, and a “quiet bell” that ends arguments.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Cozy loft above the tavern; walls covered in framed toasts and first‑gig posters.
+- Frequent locations: The Laughing Drake; The Draconic Market; nearby festival square.
+- Travel/transport habits: Walks the lanes; rides delivery carts when needed.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A prankfest gets out of hand; Sirra needs tactful muscle.
+- Social scene: Story circle night—share a tale, earn a toast.
+- Complication: A stolen keg with sentimental value must be recovered before closing.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Eat first, argue later."
+- "If you can’t laugh at yourself, I’ll help."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Gentle lunches; bustling dinners; lively late shows.
+- Crisis/emergency mode: Clears the room in two jokes and three bells; kitchen becomes a relief line.
+- Planar alignment shift: Laughter carries; toasts sparkle on the tongue.
 
 ### Stat Block Notes (Optional)
 

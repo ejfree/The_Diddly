@@ -10,31 +10,31 @@ updated: 2025-10-06
 ---
 ### The Arbitration Spire
 
-One‑sentence description of the place and its purpose.
+Io’lokar’s civil dispute tower—neutral ground where agreements are forged, writs are issued, and frightened citizens find their way through procedure.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Civil arbitration, injunctions, oath‑binding for testimony, and the drafting/registration of concords and writs. The ground‑level Intake Clinic (run day‑to‑day by [Advocate Nen](../People/advocate-nen.md)) turns tangled problems into processable filings.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: Non‑criminal disputes between citizens, guilds, and visiting delegations; criminal matters are referred to City Hall courts.
 
 ### Location Details
 
 - Level: L2
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Between Io’lokar City Hall and the Draconic Market’s upper courts, with glide‑lanes marked by bell‑chimes.
+- Exterior/architecture: A faceted spiral of pale stone and blue glass sigils; balcony‑perches ring each hearing level like scales.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Intake Clinic (public desks coached by Nen), Bench of Equity chambers, Concord suites, Writ Office counters, Ombuds Hall, and a sound‑damped gallery for observers.
+- Capacity/scale: Four active hearing rooms at once; standing room on galleries; overflow opens to lecture halls during festivals.
+- Accessibility (flight, ramps, portals): Broad ramps coil the core; lift‑platforms and timed portal alcoves serve non‑fliers; exterior perches allow direct balcony entry.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Dawn‑to‑dusk for filings and clinics; hearings continue past dark on bell‑schedule.
+- Procedures/queues/permits: Queue tokens issued by Record Golems; pro se petitioners may claim a free clinic slot; oath‑binding requires two witnesses or a clerk.
+- Dependencies (couriers, portals, guard): Contracted courier flights, portal relays to City Hall archives, and Wardens on call for high‑tension sessions.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Truth‑resonance lattice softly amplifies clarity and dampens disruptive magic; oath‑rings inscribe temporary glyphs on sworn statements.
+- Safety systems/failsafes: Breath‑dampers and shock‑grounds redirect errant discharges; emergency shutters isolate chambers without sealing exits.
+- Power/portal anchors: Blue‑sigil conduits carry charge between bells; anchored portals link to archives and the evidence locker.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A courier pouch of affidavits vanishes en route; a hearing clock is ticking and Nen recruits the party to fix the gap before a default ruling.
+- Procedural obstacle: The party’s writ lacks a counter‑sign; they must persuade a wary clerk or assemble a substitute affidavit under time pressure.
+- Social opportunity: Post‑concord receptions on the gallery—excellent for introductions, favors, and quiet apologies.
 
 ### Rumors, Secrets, and Risks
 
@@ -72,9 +72,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Festival seasons bring a surge in vendor disputes; clinics extend to the outer steps with pop‑up desks.
+- Crisis/emergency mode: Chambers rotate to triage compensation and temporary accords; Nen’s clinic converts to a rapid‑response drafting line.
+- Planar alignment shift: When storm‑planes press close, oath‑rings spark visibly and truth‑resonance can be read as gentle blue underlines.
 
 ### GM Notes
 

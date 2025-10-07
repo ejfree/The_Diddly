@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### The Tranquil Scale
 
-One‑sentence summary of what this shop is known for.
+Bathhouse and calm lounge—restorative waters, soft lights, and breathing rooms.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Quiet lane near the Flight Lounge and Lecture Hub.
+- Exterior/signage: A scale balanced over a wave; steam curls at dusk.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Pools at varied temperatures; private rooms; nap alcoves
+- Guided breaths and tea; quiet reading shelves
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Somniel Soak—gentle dream‑safe bath
+- Breath‑cradle sessions that reset frazzled nerves
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to late; extended during exams
+- Entry/reservations: Walk‑ins welcomed; rooms by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Steam, herbs, and hush; bells on the half hour
+- Capacity/scale: Mixed sizes; pools, alcoves, and rooms
+- Seating/flow: Check‑in → soak → breathe → tea/nap
+- Map/layout notes: Door, desk, pools, alcoves, rooms
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Quiet voices; no breath except guided
+- Ordering/service flow (e.g., counter, portal chute, omakase): Check‑in → choose soak → optional guide
+- Hazards/environmental notes: Slips; posted temps; attendants guide
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Calm‑wards; bell at back door
+- Wards/anti‑theft: Token tabs; lockers
+- Portal anchors/safeties: Staff pad only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A soak room misbehaves; [Dreaming Adept Somniel](../People/dreaming-adept-somniel.md) wants calm help.
+- Social scene: Quiet tea between soaks—friendships form softly.
+- Complication: A guest disrespects hush—restore kindness.
 
 ### Rumors and Secrets
 

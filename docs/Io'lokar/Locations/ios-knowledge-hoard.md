@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### Io’s Knowledge Hoard
 
-One‑sentence summary of what this shop is known for.
+Serious bookstore with clean cataloging—course texts, rare folios, and field manuals you can actually find.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Lecture promenade; across from the Lecture Hub.
+- Exterior/signage: Topaz sigil of stacked scales and books; window of tidy spines.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Course texts, field manuals, and reference folios
+- Special orders and inter‑shop loans; binding and repair desk
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- The “Topaz Stack”—semester bundles by syllabus
+- Clean, legible reprints of classic rulings and lab guides
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: First bell to evening; exam weeks extended
+- Entry/reservations: Walk‑ins; holds by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Paper, ink, quiet bells; pages whisper in orderly air
+- Capacity/scale: Mixed sizes; wide stacks, low nooks, high perch aisles
+- Seating/flow: Counter → stacks → reference desk → bindery
+- Map/layout notes: Door, counter, stacks, reference desk, bindery
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Clean claws; no open breath; return reshelving carts to aisle ends
+- Ordering/service flow (e.g., counter, portal chute, omakase): Ask → fetch → copy/bind → pay
+- Hazards/environmental notes: Tall ladders; staff retrieves from top bays
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Spine bells on rare cases; door chimes; humidity control
+- Wards/anti‑theft: Ink that fades stolen pages; tag‑runes in spines
+- Portal anchors/safeties: Staff pad for inter‑shop loans
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A mislabeled reprint causes chaos; [Archivist Topaziel](../People/archivist-topaziel.md) wants the source traced.
+- Social scene: Syllabus day rush—good place to meet fellow learners.
+- Complication: A rare folio’s humidity case drifts; fix before pages curl.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Course bundles, field manuals, clean reprints
+- Custom orders/lead times: Special orders 1–7 days; binds while you wait
+- Planar imports/components: Dewglass sleeves; hush‑silk page flags
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Morning contractors; student afternoons; quiet evenings
+- Festival/event mode: Author signings and field‑guide demos
+- Planar alignment shift: Page runes glow clearer; air feels crisply indexed
 
 ### GM Notes
 

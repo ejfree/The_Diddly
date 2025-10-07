@@ -5,49 +5,51 @@ species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "tumult" # if species=dragon (e.g., emerald, copper)
 role: "Chef" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
+pronouns: "he/they" # e.g., she/her, he/him, they/them
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Chef Fervian Talltale
 
-One‑sentence summary of who this citizen is and why they matter.
+Tumult dragon chef who choreographs flavors across planes—joyful, theatrical, and careful with consent.
 
 ### Appearance
 
-...
+Deep carmine with iridescent swirls; tasting spoons on a bandolier; breath‑ward collar at the pass.
 
 ### Personality
 
-...
+Exuberant host with a safety streak; Fervian wants delight without regret and trains staff to read the room.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Planar Delights](docs/Io'lokar/Locations/planar-delights.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Menu design, flight briefs, pass demos, and guest care.
+- University or weyr ties: Guest lectures on cross‑plane palates; collaborates with Aurix on pairings.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Festival caravans and street counters.
+- Notable history: Pioneered consent briefs for memory‑adjacent courses city‑wide.
+- Education/training: Kitchens, storytelling, and breath‑ward craft.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Tumult breath that whips textures and carries scents lightly.
+- Class/CR/Tier: Performance/Artisan with high Performance, Insight, and Cook’s tools.
+- Skills/Strengths: Timing, storytelling, and consent queues.
+- Gear/Hoard highlights: Flight cards, tasting spoons, and warded pass.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Small loft with posters from past flights.
+- Frequent locations: Planar Delights; Celestial Plates; Arcade festivals.
+- Travel/transport habits: Walks; short hops with sample kits.
 
 ### Relationships
 
@@ -58,9 +60,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Source a missing plane‑specific spice before tonight’s flight.
+- Social scene: Counter seats with lively stories and tastes.
+- Complication: A guest chases too much nostalgia; redirect with care.
 
 ### Secrets and Rumors
 
@@ -68,13 +70,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "A good story lands on the tongue."
+- "Delight is a promise—and a duty."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Calm prep; showtime; gentle close.
+- Crisis/emergency mode: Shrinks flights, heightens consent, holds the room.
+- Planar alignment shift: Colors and aromas bloom; flights feel more vivid.
 
 ### Stat Block Notes (Optional)
 

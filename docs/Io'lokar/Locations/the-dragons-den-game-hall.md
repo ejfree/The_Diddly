@@ -8,33 +8,33 @@ steward: ""
 tags: ["iolokar","category:place","subcategory:Recreational Areas","level:L1"]
 updated: 2025-10-06
 ---
-### The Dragon's Den Game Hall
+### The Dragon’s Den Game Hall
 
-One‑sentence description of the place and its purpose.
+Games, challenges, and clever contests—skill nights, puzzle tables, and friendly rivalries.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Non‑wager games, puzzle nights, skill challenges, and friendly tournaments.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: Family‑friendly play; no gambling; safety first.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: Festival promenade near the Arcade; quieter tone.
+- Exterior/architecture: Sign with a smiling dragon over dice; bright, inviting doors.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Puzzle tables, board rows, skill corner, and small stage.
+- Capacity/scale: Medium hall with balcony perches.
+- Accessibility (flight, ramps, portals): Ramps and glide rails; low tables and high bars.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Afternoon to late; weekend tournaments.
+- Procedures/queues/permits: Sign‑ups at the desk; house rules posted.
+- Dependencies (couriers, portals, guard): Deliveries for puzzles and prizes; Aegis on speed bell.
 
 ### Staff and Roles
 
@@ -51,15 +51,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Calm‑wards; noise control; cheat‑flag wards on tables.
+- Safety systems/failsafes: Clear lanes; staff hosts; bell‑tones.
+- Power/portal anchors: Stable power; no portals in the hall.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A puzzle prize goes missing; [Maestro Harlek](../People/maestro-harlek.md) seeks polite sleuths.
+- Procedural obstacle: House rules dispute; mediate fairly.
+- Social opportunity: Team up for a tricky challenge; make friends.
 
 ### Rumors, Secrets, and Risks
 

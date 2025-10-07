@@ -5,49 +5,51 @@ species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "topaz" # if species=dragon (e.g., emerald, copper)
 role: "Audits Inventory" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
+pronouns: "they/them" # e.g., she/her, he/him, they/them
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city
+level_home: "L2" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Examiner Tock
 
-One‑sentence summary of who this citizen is and why they matter.
+Topaz dragon inventory examiner who finds truth in lists—quiet eyes, sharp pencils, and gentle questions.
 
 ### Appearance
 
-...
+Honey‑topaz scales; spectacles with a chain; a pencil tucked behind a horn; breath that smells faintly of paper.
 
 ### Personality
 
-...
+Polite, methodical, and kind. Tock treats errors as puzzles, not crimes—until they aren’t.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Hoard Tax Authority](docs/Io'lokar/Locations/the-hoard-tax-authority.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Audits inventory lists, checks provenance, flags anomalies, and recommends relief or review.
+- University or weyr ties: Helps students build first hoard ledgers; guest at finance workshops.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan tally wagons where fairness kept friends.
+- Notable history: Caught a forged list with a missing carry—saved a family from seizure.
+- Education/training: Accounting, handwriting analysis, and restorative policy.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Drying breath that fixes ink and reveals erasures as bright lines.
+- Class/CR/Tier: Scholar/support with Investigation, Insight, and History.
+- Skills/Strengths: Pattern spotting, gentle interviews, and tidy reports.
+- Gear/Hoard highlights: Stamp set, pencils, and sample ledgers.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Modest loft with tidy shelves and a tea tray.
+- Frequent locations: Tax counters; City Hall bindery; Quill & Scale.
+- Travel/transport habits: Walks with a clipboard; portals only for vault work.
 
 ### Relationships
 

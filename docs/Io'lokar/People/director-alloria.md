@@ -5,49 +5,51 @@ species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "allure" # if species=dragon (e.g., emerald, copper)
 role: "Director" # primary occupation or civic role
 pronouns: "" # e.g., she/her, he/him, they/them
+pronouns: "she/her" # e.g., she/her, he/him, they/them
 rank: "" # e.g., matriarch, guard captain, student
 level_home: "" # L1–L6 or Off‑city
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Director Alloria
 
-One‑sentence summary of who this citizen is and why they matter.
+Allure dragon who coaxes the best from voices and scenes—making the city feel larger, kinder, and more possible.
 
 ### Appearance
 
-...
+Opaline scales that shimmer like velvet under lights; a conductor’s baton tucked behind one horn; breath like warm perfume.
 
 ### Personality
 
-...
+Gracious, demanding, and precise. Alloria trades in honest notes and quiet courage; she believes rehearsal is love.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Celestial Theater](docs/Io'lokar/Locations/the-celestial-theater.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Program seasons, cast shows, run rehearsals, and keep safety and access at the fore.
+- University or weyr ties: Mentors student troupes; exchanges techniques with Nocturne Whisper and Allurienne Vox.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan stages and family story‑fires.
+- Notable history: Calmed a panicked audience with a breath‑softened lullaby during a technical failure; standard today.
+- Education/training: Stagecraft, restorative practice, and event logistics.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Allure breath that steadies nerves and invites trust.
+- Class/CR/Tier: Social/art with high Performance, Persuasion, and Insight.
+- Skills/Strengths: Casting, pacing, and reading rooms.
+- Gear/Hoard highlights: Score library, baton, and hush‑veil shawl.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Backstage suite with scores, teas, and a wall of prompt cards.
+- Frequent locations: The Celestial Theater; Echoes of Eternity; Lecture Hub salons.
+- Travel/transport habits: Walks the promenade; portal hops on opening nights.
 
 ### Relationships
 
@@ -58,9 +60,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A leading actor loses their voice; assemble a fresh understudy in hours.
+- Social scene: Patron lounge where favors are cast like roles.
+- Complication: A safety curtain jams; keep the gala from becoming a hazard.
 
 ### Secrets and Rumors
 
@@ -68,13 +70,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "We rehearse until courage feels like habit."
+- "A soft voice, in the right place, moves mountains."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Brisk days of notes; luminous nights on stage.
+- Crisis/emergency mode: Shrinks to safety and story—everything else waits.
+- Planar alignment shift: Applause carries like starlight; breath steadies crowds.
 
 ### Stat Block Notes (Optional)
 

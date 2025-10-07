@@ -10,37 +10,37 @@ updated: 2025-10-06
 ---
 ### The Ember Hearth
 
-One‑sentence summary of what this shop is known for.
+Hearth‑centric kitchen—smoky grills, braises, and plates that taste like home.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market food row; neighbors the Roaring Buffet.
+- Exterior/signage: An embered hearth sigil; warm glow and steady smoke.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Hearth plates, braises, and grilled skewers
+- Family trays; takeaway packs; chef’s counter for breath‑finishes behind glass
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Emberfork Braise—deep, steady heat that melts worries
+- Brass‑kissed skewers with citrus and herb
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Lunch to late; festival late bells
+- Entry/reservations: Counter and table; chef’s counter by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Smoke, spice, and warm laughter; bells on the hour
+- Capacity/scale: Mixed sizes; chef’s counter, booths, perch‑rail
+- Seating/flow: Queue → plate → seat; chef’s counter briefing
+- Map/layout notes: Door, counter, pass, booths, counter, kitchen
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Breath only at the pass; respect tokens; mind tails
+- Ordering/service flow (e.g., counter, portal chute, omakase): Queue → order → plate → seat
+- Hazards/environmental notes: Hot pans; smoke managed; clear lanes
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Calm‑bell; kitchen bells; back‑door bell
+- Wards/anti‑theft: Token tabs; marked knives and pans
+- Portal anchors/safeties: Staff pad for supplies
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A key braise runs late; [Chef Brazius Emberfork](../People/chef-brazius-emberfork.md) needs a steady hand or a smart swap.
+- Social scene: Counter talk with regulars and cooks—friendly and warm.
+- Complication: A breath‑ward flickers; shield the line without losing service.
 
 ### Rumors and Secrets
 

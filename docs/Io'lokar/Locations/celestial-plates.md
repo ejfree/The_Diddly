@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### Celestial Plates
 
-One‑sentence summary of what this shop is known for.
+Refined plates that balance warmth and light—elegant dining where every dish has a story and a constellation.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Near the promenade’s quiet end; balcony seating with star‑view on clear nights.
+- Exterior/signage: A star‑ringed plate sigil; warm glow from crystal sconces.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Prix‑fixe tasting menus with seasonal pairings
+- A la carte plates; tea and wine flights
+- Chef’s table with live breath‑finishes behind ward glass
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Aurora‑salt smoked fish with dewglass shard
+- Sun‑kissed grain risotto finished with alicorn breath
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late lunch and dinner service; later on festival nights
+- Entry/reservations: Reservations recommended; chef’s table by request
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Citrus, smoke, and star‑metal; low strings, quiet conversation
+- Capacity/scale: Mixed sizes; intimate booths and perch‑balconies
+- Seating/flow: Host stand, dining room, chef’s table corridor, balcony
+- Map/layout notes: Street entrance, host desk, dining hall, breath‑warded pass, balcony seating
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Breath only at the chef’s pass; dress neat; no flash illusions
+- Ordering/service flow (e.g., counter, portal chute, omakase): Host → seat → course cadence; chef’s table has separate briefing
+- Hazards/environmental notes: Hot plates; breath‑finishes behind glass
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Calm‑wards and hush‑veils; bell at back exit
+- Wards/anti‑theft: Marked stemware and knives; cellar lock runes
+- Portal anchors/safeties: Staff pad for deliveries; balcony anchors rated for perches
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A rare ingredient is late; [Chef Aurix Lumens](../People/chef-aurix-lumens.md) seeks a tasteful substitute or a swift rescue
+- Social scene: Tasting with civic luminaries; soft power everywhere
+- Complication: A faulty breath‑ward flickers during service; keep diners safe without ruining the night
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Seasonal pairings, star‑salt, dewglass shards
+- Custom orders/lead times: Private menu planning 3–7 days
+- Planar imports/components: Star‑salt, echo‑quartz stemware, ember‑resins
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet late lunches; glow‑lit dinners; balcony stargazing after hours
+- Festival/event mode: Extended menus and balcony music
+- Planar alignment shift: Star‑salt glitters brighter; breath‑finishes paint aurora threads
 
 ### GM Notes
 

@@ -4,50 +4,50 @@ type: npc/iolokar
 species: "dragon" # dragon | humanoid | construct | outsider | other
 dragon_variant: "solar" # if species=dragon (e.g., emerald, copper)
 role: "Quartermaster" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
+pronouns: "he/him" # e.g., she/her, he/him, they/them
+rank: "Proprietor" # e.g., matriarch, guard captain, student
+level_home: "L1" # L1–L6 or Off‑city
 status: alive # alive | missing | deceased
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Solaryn Dawnlamp
 
-One‑sentence summary of who this citizen is and why they matter.
+A solar dragon who keeps Io’lokar lit safely—balancing brilliance and warmth so study halls and homes shine without scorch.
 
 ### Appearance
 
-...
+Gilded scales with a soft inner glow; lantern‑chain at the throat; eyes like steady sunrise. Smells faintly of citrus and warm metal.
 
 ### Personality
 
-...
+Bright, reassuring, and meticulous. Solaryn believes light should ease, not strain; he measures twice and dims once.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Eternal Glow](docs/Io'lokar/Locations/the-eternal-glow.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Curates light and heat stock, designs installs, audits dorm fixtures, and runs emergency beacon nights.
+- University or weyr ties: Advises lecture halls on glare and caption visibility; supports Flight Lounge study lighting.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Caravan lamplighter line that kept routes safe after dark.
+- Notable history: Designed the Dawnlamp crystal that syncs to city bells.
+- Education/training: Craft guild apprenticeships in optics, wiring, and ward safety.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Gentle solar exhale that stabilizes glow‑crystals and reveals heat leaks as wavering halos.
+- Class/CR/Tier: Artisan with high Investigation, Perception, and Tool (tinker’s).
+- Skills/Strengths: Ergonomic lighting, safe wiring, and quick beacon rigs.
+- Gear/Hoard highlights: Lux meter stones, shock‑ground test rig, and sample arrays.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Sun‑warmed loft over the shop with blackout drapes and a tea nook.
+- Frequent locations: The Eternal Glow; lecture halls; Flight Lounge; market festival lanes at night.
+- Travel/transport habits: Walks with a tool cart; portal pad for fragile shipments.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: Replace failing dorm crystals before an exam; identify counterfeit stock.
+- Social scene: Evening demo of circadian lights drawing wardens and scholars.
+- Complication: A beacon ring overheats; find the faulty batch in time.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Light should help you breathe, not hold your eyes hostage."
+- "If it’s too bright to be kind, it’s wrong."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Brisk mornings, patient afternoons, soft evenings.
+- Crisis/emergency mode: Cuts to beacons and exits; stabilizes rooms, then stories.
+- Planar alignment shift: Solar breath carries farther; halos sharpen around safe paths.
 
 ### Stat Block Notes (Optional)
 

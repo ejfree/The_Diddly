@@ -10,13 +10,13 @@ updated: 2025-10-06
 ---
 ### The Arcane Archive
 
-One‑sentence summary of what this shop is known for.
+Rare and reference arcana—folios, grimoires, and clean copies overseen by a meticulous curator.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Quiet side of the promenade near assay counters.
+- Exterior/signage: An occult sigil stamped in brass over orderly windows.
 
 ### Services and Offerings
 
@@ -37,10 +37,10 @@ One‑sentence summary of what this shop is known for.
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Ink, leather, and quiet bells
+- Capacity/scale: Mixed sizes; low cases and high perches
+- Seating/flow: Counter → stacks → reading room → copy desk
+- Map/layout notes: Door, counter, stacks, reading room, copy/assay desk
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Gloves for rare; no breath; cite copies clearly
+- Ordering/service flow (e.g., counter, portal chute, omakase): Request → retrieve → consult → return → copy
+- Hazards/environmental notes: Volatiles in old inks; masks provided
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Case bells; tag‑runes in spines; drift sensors in reading room
+- Wards/anti‑theft: Fog‑ink on stolen pages; mirror‑wards
+- Portal anchors/safeties: Staff pad for inter‑library loans
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A misquoted ritual spreads; [Curator Ormion Attalus](../People/curator-ormion-attalus.md) wants the source corrected.
+- Social scene: Quiet reading room companions—scholars and cautious mages.
+- Complication: A provenance dispute on a folio; resolve with records.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Ritual folios, grimoires, clean reprints
+- Custom orders/lead times: Copies in 1–7 days; longer for illuminated works
+- Planar imports/components: Dewglass sleeves; hush‑silk flags; sun‑mica inlays
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet afternoons; busy evenings during exams
+- Festival/event mode: Author talks and annotation nights
+- Planar alignment shift: Ink glows; safety notes stand out clearly
 
 ### GM Notes
 

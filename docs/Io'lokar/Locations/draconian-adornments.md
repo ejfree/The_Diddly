@@ -10,37 +10,38 @@ updated: 2025-10-06
 ---
 ### Draconian Adornments
 
-One‑sentence summary of what this shop is known for.
+Formal collars, harness covers, and statement pieces—elegant attire fitted for fangs, frills, and wings.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Fashion row near the Celestial Theater and Fangs & Finery.
+- Exterior/signage: A gold needle crossing a dragon fang; mannequins posed in slow turns.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Bespoke ceremonial collars, harness veils, and parade sets
+- Daywear accents, function‑first work covers, and festival trims
+- Cleaning, repairs, and storage for delicate pieces
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Needleclaw Collar—subtle allure runes woven into hush‑silk
+- Parade harness covers that leave safety hardware accessible
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to evening; later during premieres
+- Entry/reservations: Consults by token; urgent repairs accepted between bells
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Lavender, steam, and the whisper of silk; quiet confidence
+- Capacity/scale: Dragon bays and low salons; mirrored walls and perch platforms
+- Seating/flow: Greet → consult → measure → pin → pick‑up
+- Map/layout notes: Street entrance, salon, fitting bays, workroom, vault
 
 ### Staff and NPCs
 
@@ -53,21 +54,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No open flame; breath off near silk; pins bite
+- Ordering/service flow (e.g., counter, portal chute, omakase): Book → consult → fitting(s) → final pick‑up
+- Hazards/environmental notes: Pins, steam, trailing hems; mind tails
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Wardrobe bells and mirror‑wards reveal disguised theft
+- Wards/anti‑theft: Tag runes in trims; vault runes after hours
+- Portal anchors/safeties: Staff pad for cloth shipments only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A premiere collar is delayed; [Aurifex Needleclaw](../People/aurifex-needleclaw.md) requests a discreet retrieval.
+- Social scene: Salon evening where patrons compare trims and tell stage stories.
+- Complication: A rival claims your fittings block safety harnesses; prove the design works.
 
 ### Rumors and Secrets
 
@@ -80,15 +81,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Hush‑silk collars, parade covers, allure‑rune trims
+- Custom orders/lead times: Bespoke 3–14 days; rush repairs same‑day
+- Planar imports/components: Hush‑silk bolts; moon‑thread; dewglass beads
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet fittings midday; lively salon evenings
+- Festival/event mode: Pop‑up fitting booth outside the theater
+- Planar alignment shift: Trims sparkle; cloaks float sweeter
 
 ### GM Notes
 
