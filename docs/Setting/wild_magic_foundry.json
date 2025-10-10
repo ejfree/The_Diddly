@@ -1,0 +1,1110 @@
+{
+  "name": "Wild Magic Table",
+  "description": "PF2e Wild Magic effects (1\u2013100)",
+  "results": [
+    {
+      "_id": "f211469c-ba96-40d0-a66b-6bd5b004a55b",
+      "type": 0,
+      "text": "1: A dust devil picks up the caster and moves them uncontrollably 60 feet in a random direction.",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e9987278-108c-472c-86bb-8c9192952505",
+      "type": 0,
+      "text": "2: The target grows wings granting it a fly Speed equal to its land Speed for 1 minute. If it already had a fly Speed, it instead gains a +30-foot status bonus to its fly Speed for 1 minute.",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "07c60990-41bc-4a2a-9c51-b69928463220",
+      "type": 0,
+      "text": "3: For 1 minute, the caster can Leap 30 feet horizontally and 15 feet vertically with bursts of air. The caster can choose to Leap when the effect occurs.",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "7056e820-523f-4dd5-947f-db5866cf99a3",
+      "type": 0,
+      "text": "4: A 60-foot line directed from the caster to the target is affected by gust of wind.",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "4ab7a1cb-7f77-48f2-ba74-9a80a10fd3ff",
+      "type": 0,
+      "text": "5: The caster is affected by the shrink spell for 1 hour, becoming Tiny.",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "c370898a-9a5e-4fd8-851a-a2d494584303",
+      "type": 0,
+      "text": "6: The target grows a muscular physique, gaining a +2 status bonus on Athletics checks, Strength-based attack rolls, and Strength-based damage rolls for 10 minutes.",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "92ae66a0-b44e-43c5-b495-035cfa8b315f",
+      "type": 0,
+      "text": "7: The caster is affected by a 4th-rank enlarge for 1 minute, becoming Huge.",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "61e9247e-ce29-44e8-9335-7e43757b562e",
+      "type": 0,
+      "text": "8: Different parts of the target\u2019s body warp and grow asymmetrically, making them clumsy 2 for 1 minute.",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "95a3508b-3461-4f96-9cf4-27d34cc8c809",
+      "type": 0,
+      "text": "9: The caster is blinded for 1 minute, as the world around them fades away leaving nothing but darkness in their sight.",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "797dbe1d-2b46-4152-b93f-aac58cd2a199",
+      "type": 0,
+      "text": "10: The target is surrounded in a shroud of supernatural darkness with a 10-foot emanation for 1 minute; darkvision can\u2019t see through this darkness but the target can (regardless of its vision) and greater darkvision can as well.",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0336bc5b-2156-4fcb-be21-1ad393780332",
+      "type": 0,
+      "text": "11: The caster gains greater darkvision for 1 minute.",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "5a4527b0-69a8-4250-b29b-f2aad3b66192",
+      "type": 0,
+      "text": "12: The target loses any darkvision or greater darkvision it has for 1 hour if it fails a Fortitude save.",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0a91d6e5-4666-4575-8f3a-f2c965d61584",
+      "type": 0,
+      "text": "13: The caster\u2019s life force is leached away and they\u2019re drained 2.",
+      "range": [
+        13,
+        13
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "890b0213-4ea6-4663-95d1-0e726bee7744",
+      "type": 0,
+      "text": "14: The target\u2019s attacks are devastatingly lethal. For 1 minute, all their attacks and abilities gain the death trait and can\u2019t be nonlethal. Additionally, their unarmed attacks gain the deadly d8 trait, unless they already had the deadly trait with a larger die.",
+      "range": [
+        14,
+        14
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "6391a016-9175-4ca8-93a7-5f3108f31414",
+      "type": 0,
+      "text": "15: The caster is protected by a grim veil of void energy. For 1 minute, the caster gains resistance equal to three times the spell rank to void damage and a +4 status bonus to saving throws against void and death effects.",
+      "range": [
+        15,
+        15
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "08a48a68-1fcb-4733-ad1a-784ecd3b16f2",
+      "type": 0,
+      "text": "16: The target is condemned to die by the reaper\u2019s scythe. After 3 rounds, the target takes 2d12 void damage per spell rank with a basic Fortitude save. This is a death effect.",
+      "range": [
+        16,
+        16
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "ed42cf02-437a-47a5-bfb2-78c1f96c81d2",
+      "type": 0,
+      "text": "17: The caster is knocked prone by ongoing tremors, and can only Stand as a two-action activity. They cannot use Kip Up or similar feats to Stand.",
+      "range": [
+        17,
+        17
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "ad1ac780-ff1e-4e0c-ba9e-ef523ded5eba",
+      "type": 0,
+      "text": "18: The target is protected by a rock shield. It gains a +4 circumstance bonus to AC for 1 minute. If the target takes a critical hit before then, the shield is destroyed.",
+      "range": [
+        18,
+        18
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "2c13e586-ac0f-4e3a-904d-92f5a18b3351",
+      "type": 0,
+      "text": "19: The caster\u2019s body becomes as tough as stone. The caster gains resistance to all physical damage except adamantine equal to twice the spell rank for 1 minute.",
+      "range": [
+        19,
+        19
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "af1ad83b-3f13-406f-81e7-dbc50714504d",
+      "type": 0,
+      "text": "20: Tremors in a 20-foot emanation around the target cause all creatures on the ground in the area to become knocked prone unless they succeed at a Reflex save.",
+      "range": [
+        20,
+        20
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "fec97bde-452a-4c7d-b824-c5c99e1d618a",
+      "type": 0,
+      "text": "21: The caster becomes electrically polarized, drawing metal weapons toward them. For 10 minutes, all attacks with metal weapons and electricity effects gain a +1 circumstance bonus against the caster.",
+      "range": [
+        21,
+        21
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "b06488df-6b7e-4c15-a0e5-e15ecc1b11d1",
+      "type": 0,
+      "text": "22: The target\u2019s melee attacks arc like lightning to an additional target for 1 minute, dealing half the Strike\u2019s normal damage as electricity damage.",
+      "range": [
+        22,
+        22
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "8a9f2540-c10b-413e-b429-ac2d4c9d766d",
+      "type": 0,
+      "text": "23: The caster is surrounded by an electric field. Adjacent creatures that hit the caster take electricity damage equal to the spell\u2019s rank and become shocked for 1 round.",
+      "range": [
+        23,
+        23
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "74822f90-ac2f-43cc-b4fd-ccb835b7b557",
+      "type": 0,
+      "text": "24: A lightning bolt strikes in a line between the caster and the target, damaging all creatures in the line except the caster.",
+      "range": [
+        24,
+        24
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "942ddc84-655d-43e4-bcc9-90ba413b873d",
+      "type": 0,
+      "text": "25: The caster spontaneously combusts, suffering 1d4 persistent fire damage per spell rank.",
+      "range": [
+        25,
+        25
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "61c2f8a8-e0a6-443d-ba27-6ac39f632d23",
+      "type": 0,
+      "text": "26: The target\u2019s melee attacks cause explosions for 1 minute, dealing an amount of fire splash damage on a successful attack equal to the spell\u2019s rank.",
+      "range": [
+        26,
+        26
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "ba99b38d-a1b7-41e0-b2b6-825af50e909f",
+      "type": 0,
+      "text": "27: The caster is surrounded by blue flame, with the effects of fire shield of rank 4 or the spell\u2019s rank, whichever is higher.",
+      "range": [
+        27,
+        27
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "14f34152-63b5-4a98-90af-aa693f229d38",
+      "type": 0,
+      "text": "28: A fireball is centered on the target.",
+      "range": [
+        28,
+        28
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "9cc7dc78-f76c-4f32-af12-b02eb4c427b9",
+      "type": 0,
+      "text": "29: For 1 minute, all of the caster\u2019s movements deal force damage equal to 1/5th the distance traveled in feet.",
+      "range": [
+        29,
+        29
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "c5586210-e178-4f99-9913-6bb44cfceeee",
+      "type": 0,
+      "text": "30: For 1 minute, the target\u2019s melee attacks also reposition the attacked creature 5 feet due to threads of force.",
+      "range": [
+        30,
+        30
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e4e009bb-6c44-4aea-8302-9eefcde801df",
+      "type": 0,
+      "text": "31: For 1 minute, the caster gains a force field protecting them from harm. The force field has 10 Hit Points per spell rank.",
+      "range": [
+        31,
+        31
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "d38967a0-4a1b-4dd3-ab08-034c4202667e",
+      "type": 0,
+      "text": "32: The target becomes attached to the caster by strings of force unless it succeeds at a Fortitude save.",
+      "range": [
+        32,
+        32
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "db1931e7-49e3-4a5c-9d69-5a79a03b334c",
+      "type": 0,
+      "text": "33: The caster is frozen in ice, taking a \u201330-foot status penalty to Speeds for 1 minute but gaining +2 AC.",
+      "range": [
+        33,
+        33
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "76a7163d-852d-4de8-a984-3af81531fe61",
+      "type": 0,
+      "text": "34: The target\u2019s melee attacks freeze all they strike for 1 minute, reducing target Speed cumulatively.",
+      "range": [
+        34,
+        34
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "c2991595-342a-443c-9c41-b67d90a207eb",
+      "type": 0,
+      "text": "35: A dreary cloud appears above the caster\u2019s head, swirling flurries of snow in a 5-foot emanation for 1 minute.",
+      "range": [
+        35,
+        35
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "d7ca1d8d-b375-4024-b677-b8786e203735",
+      "type": 0,
+      "text": "36: The target is surrounded in a 3-action howling blizzard of the spell\u2019s rank.",
+      "range": [
+        36,
+        36
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "a2735121-6a81-44a2-becb-e082792455d3",
+      "type": 0,
+      "text": "37: For 10 minutes, whenever an effect causes the caster to recover Hit Points, they recover half as many as normal.",
+      "range": [
+        37,
+        37
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "cbc4c4e5-2264-4cc5-98c6-ffb667670fde",
+      "type": 0,
+      "text": "38: The target\u2019s wounds are instantly healed, affected by a two-action heal of the spell\u2019s rank.",
+      "range": [
+        38,
+        38
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "9f52188f-870f-4d1a-8f34-a268368e2808",
+      "type": 0,
+      "text": "39: The caster gains a swirling buffer of life energy, granting them 6 temporary Hit Points per spell rank for 1 minute.",
+      "range": [
+        39,
+        39
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "f35c343c-630c-4595-b2c7-b2446656d3c9",
+      "type": 0,
+      "text": "40: Horrific cancers, cysts, and polyps grow all over the target\u2019s body, causing sickness depending on a Fortitude save.",
+      "range": [
+        40,
+        40
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "b963a9bb-ff56-4f9a-95f7-d01c829158fd",
+      "type": 0,
+      "text": "41: For 10 minutes, the caster is surrounded in a halo of light that makes them look like a saint or angel but forces them to tell the truth.",
+      "range": [
+        41,
+        41
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "ef4e536a-7b55-4461-bde4-597015cf5cea",
+      "type": 0,
+      "text": "42: Light bends around the target, granting it the effects of a 2nd-rank invisibility.",
+      "range": [
+        42,
+        42
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "4f77d9aa-a573-4bfd-a841-698271c45067",
+      "type": 0,
+      "text": "43: For 1 minute, the caster\u2019s eyes shine with rainbow colors, allowing them to see invisible creatures and counteract illusions.",
+      "range": [
+        43,
+        43
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "892837c3-9600-4e9b-98f3-83d308e7ea4e",
+      "type": 0,
+      "text": "44: For 1 minute, strobing lights surround the target, causing them to be dazzled.",
+      "range": [
+        44,
+        44
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "d4e7e757-e0e6-4b8d-9a18-c631a7b5a3a7",
+      "type": 0,
+      "text": "45: For 1 hour, the caster\u2019s backpack and pouches fill with random junk, making them encumbered.",
+      "range": [
+        45,
+        45
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "838b00dd-6e88-467e-aebe-7aeda8a50e22",
+      "type": 0,
+      "text": "46: For 1 minute, all of the target\u2019s Strikes deal 1 additional damage die and count as adamantine, cold iron, silver, and orichalcum.",
+      "range": [
+        46,
+        46
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "1088a523-f9e4-4c0d-8a00-3cffe96bc1e6",
+      "type": 0,
+      "text": "47: The caster\u2019s body transforms into a metallic version of their normal body for 1 minute, gaining AC bonuses but becoming heavy.",
+      "range": [
+        47,
+        47
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "76eaa2f1-7d8c-4a74-a4c1-c418f9e0f19d",
+      "type": 0,
+      "text": "48: An enormous sword falls from the sky and impales the target, dealing 2d8 piercing damage per spell rank with a basic Reflex save.",
+      "range": [
+        48,
+        48
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "f40b2e17-e134-4d5d-9ff9-8137d2cc2070",
+      "type": 0,
+      "text": "49: The caster\u2019s thoughts appear around them as floating words and images visible to everyone else.",
+      "range": [
+        49,
+        49
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "f41349f7-4571-4068-9383-37555fd5b820",
+      "type": 0,
+      "text": "50: The target\u2019s mind swells with powerful resolve, gaining +2 status bonus to attack rolls, saves, and skill checks for 1 minute.",
+      "range": [
+        50,
+        50
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "57118bbd-bc42-431f-bcfd-8320e985e00e",
+      "type": 0,
+      "text": "51: The caster sees mysterious images that grant subtle clues about a problem or mystery.",
+      "range": [
+        51,
+        51
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "2aae510d-9468-4e35-b8ef-df12a63f7b29",
+      "type": 0,
+      "text": "52: The target begins giggling uncontrollably and is stupefied 2 for 1 minute.",
+      "range": [
+        52,
+        52
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0fa3524d-0da1-45f2-8771-b366029d8558",
+      "type": 0,
+      "text": "53: The caster is accompanied by loud theme music for 1 hour.",
+      "range": [
+        53,
+        53
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "8a3a3cb7-fefc-4453-9582-a954c5dff208",
+      "type": 0,
+      "text": "54: The target becomes absolutely silent for 1 minute unless they choose to make a sound.",
+      "range": [
+        54,
+        54
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "bcdbd93c-b3b1-4cc7-a669-a9749eb2a5b9",
+      "type": 0,
+      "text": "55: A victorious fanfare plays from the caster for 1 minute, granting +1 status bonus to attack and damage rolls to allies.",
+      "range": [
+        55,
+        55
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "28615ab7-e72f-4264-bd36-e8e4d40ede27",
+      "type": 0,
+      "text": "56: The target dances to a jig only it can hear. For 1 minute, it becomes off-guard when it moves and moves at half Speed.",
+      "range": [
+        56,
+        56
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "739caad9-d411-4b18-92c7-ec6c360dbe69",
+      "type": 0,
+      "text": "57: The magic through the caster\u2019s body transforms into venom; they are afflicted by stage 1 wyvern venom.",
+      "range": [
+        57,
+        57
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "7612eea2-9ef8-4de0-a3f9-363be6fcd738",
+      "type": 0,
+      "text": "58: The target\u2019s unarmed attacks deal persistent poison (or acid) damage for 1 minute.",
+      "range": [
+        58,
+        58
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "737bbcda-ad5f-46c0-9a60-fa1b7afa84ad",
+      "type": 0,
+      "text": "59: The caster is purged by medicinal toxins, removing one random affliction (cleanse affliction of rank 2 or spell rank).",
+      "range": [
+        59,
+        59
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "928c6d1e-4eb4-4b86-b1f7-50a770b29317",
+      "type": 0,
+      "text": "60: The target is enfeebled 2 for 1 minute.",
+      "range": [
+        60,
+        60
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "ef8ffd8f-292e-4b27-b20e-d71ff7de6ea2",
+      "type": 0,
+      "text": "61: The caster and the target switch locations.",
+      "range": [
+        61,
+        61
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "8963caab-e719-4084-bf5f-1a301370a23a",
+      "type": 0,
+      "text": "62: For 1 minute, the target can teleport to any location reachable by a single action of their normal movement Speeds.",
+      "range": [
+        62,
+        62
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "fe521bef-dbc1-4e80-bd84-28750b96832f",
+      "type": 0,
+      "text": "63: The caster is affected by flicker of 4th rank or the spell\u2019s rank, whichever is higher.",
+      "range": [
+        63,
+        63
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0681abd4-211d-4640-b1f4-35ebc77d8e5f",
+      "type": 0,
+      "text": "64: The target is teleported 1 mile away in a random direction unless it succeeds on a Will save; this is an incapacitation effect.",
+      "range": [
+        64,
+        64
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "246b0461-23fd-4d27-b603-179b86ceb0e5",
+      "type": 0,
+      "text": "65: The caster\u2019s spirit leaves their body for 1d4 rounds but can continue to cast spells.",
+      "range": [
+        65,
+        65
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "547858d3-30b7-4c45-abd4-3b019d6c3171",
+      "type": 0,
+      "text": "66: The target becomes quasi-corporeal for 1 minute, gaining resistance equal to the spell\u2019s rank to all damage except force, spirit, or void.",
+      "range": [
+        66,
+        66
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "267e19e7-f538-4d87-8cdf-be25b88b0d4a",
+      "type": 0,
+      "text": "67: The caster gains a sixth sense for spiritual beings for 10 minutes.",
+      "range": [
+        67,
+        67
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e267ca1a-ab5a-495b-86db-7d54884d7be2",
+      "type": 0,
+      "text": "68: The target suffers 2d6 spirit damage per spell rank with a basic Fortitude save.",
+      "range": [
+        68,
+        68
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "798dbb07-3ecc-4167-8733-9cb0ba0fd794",
+      "type": 0,
+      "text": "69: The caster vanishes and reappears in 1d4 rounds as they jump forward in time.",
+      "range": [
+        69,
+        69
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "3c6410b2-33d5-445e-a6f6-855096ae09dc",
+      "type": 0,
+      "text": "70: The target gains a glimpse of the future, allowing them to roll one attack, save, or skill check twice and take the better result.",
+      "range": [
+        70,
+        70
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e91c03d6-5ef9-4091-abc1-29bff28161ef",
+      "type": 0,
+      "text": "71: The caster sees visions of possible futures involving themselves and their allies.",
+      "range": [
+        71,
+        71
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "b4c9fe83-261d-4bcf-9fa6-6a0279dfd521",
+      "type": 0,
+      "text": "72: The target is slowed, as by the slow spell.",
+      "range": [
+        72,
+        72
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "291aa270-0f1d-4812-8c63-404dcd0eaa17",
+      "type": 0,
+      "text": "73: The caster is pushed 20 feet by a hydraulic push from a random direction.",
+      "range": [
+        73,
+        73
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "623ffca1-3b14-44db-9874-3b35bc4ba6a3",
+      "type": 0,
+      "text": "74: The target can swim through the air for 1 minute.",
+      "range": [
+        74,
+        74
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "6eca7400-4815-4dd1-a5f9-5820363fa342",
+      "type": 0,
+      "text": "75: The caster is surrounded by a bubble of water for 1 minute granting resistances to acid and fire.",
+      "range": [
+        75,
+        75
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "825206f2-e0a9-405a-93ed-33a5d1fa9e3f",
+      "type": 0,
+      "text": "76: A giant wave carries the caster through a line past the target\u2019s space, dealing 2d6 bludgeoning damage per spell rank.",
+      "range": [
+        76,
+        76
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "8f0ada52-e65d-4127-bcc6-0ff7a0159d85",
+      "type": 0,
+      "text": "77: Vines and plants grow around the caster\u2019s feet, making terrain difficult for them for 1 minute.",
+      "range": [
+        77,
+        77
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0743bc82-4c71-4f41-850e-8d5ee18e3d96",
+      "type": 0,
+      "text": "78: The target grows leaves and can heal by basking in sunlight for 10 minutes.",
+      "range": [
+        78,
+        78
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e9c5c35f-a4ba-4177-96d9-93e9d821833c",
+      "type": 0,
+      "text": "79: A tree grows in a random unoccupied 5-foot square adjacent to the caster.",
+      "range": [
+        79,
+        79
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e3db9e55-6417-4b64-af53-3a8a51b357f2",
+      "type": 0,
+      "text": "80: The plants in an area around the target come to life, creating an entangling aura.",
+      "range": [
+        80,
+        80
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "fb720a5f-6686-43d8-8c04-dc9b4e63bf7a",
+      "type": 0,
+      "text": "81: The caster switches voices with the target.",
+      "range": [
+        81,
+        81
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "32821f03-3e3c-4cc3-ae96-f6eccef7563e",
+      "type": 0,
+      "text": "82: The target and caster switch bodies cosmetically for 1 minute.",
+      "range": [
+        82,
+        82
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "df3ae9e0-d083-48ef-bc11-b65931ef9078",
+      "type": 0,
+      "text": "83: A rainbow changes the caster\u2019s coloration to bright colors for 1 day.",
+      "range": [
+        83,
+        83
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "a11e7307-a3cd-4cec-9ae3-82278c5d2e44",
+      "type": 0,
+      "text": "84: Space distorts in a 30-foot emanation around the target for 1 minute, shortening diagonal distances.",
+      "range": [
+        84,
+        84
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "68964034-a771-4fc2-92b7-06ccb04fc9d2",
+      "type": 0,
+      "text": "85: Whenever the caster speaks, words emerge as rainbow-colored bubbles for 1 minute.",
+      "range": [
+        85,
+        85
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0de38445-88a7-4c30-8a65-06f0b443104e",
+      "type": 0,
+      "text": "86: For 1 hour, the target sees every creature as identical to themselves.",
+      "range": [
+        86,
+        86
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "568a5a9c-241e-423b-92be-ecbdb17b5393",
+      "type": 0,
+      "text": "87: The caster reverts to their child form for 1 hour, possibly changing size category.",
+      "range": [
+        87,
+        87
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "732c2ff5-0259-452d-9e93-ad1679793b0c",
+      "type": 0,
+      "text": "88: The target explodes harmlessly every 1d4 rounds with light and confetti for 10 minutes.",
+      "range": [
+        88,
+        88
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "1f07e7b3-0c80-4e8e-aa83-65babe858003",
+      "type": 0,
+      "text": "89: The caster falls in love with the target for 1 hour (as charm critical failure).",
+      "range": [
+        89,
+        89
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "98c399b9-2a20-449c-93de-cff91dd8b04f",
+      "type": 0,
+      "text": "90: The target becomes paranoid that everything around them is an adversary in disguise for 1 hour.",
+      "range": [
+        90,
+        90
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "e6abe3c3-6d1e-4e31-9b9c-ac858b58f9f8",
+      "type": 0,
+      "text": "91: The caster\u2019s outfit changes to a bizarre or embarrassing style for 1 day.",
+      "range": [
+        91,
+        91
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "4cb37dc7-9e81-4a91-ad8f-9065e9cbc111",
+      "type": 0,
+      "text": "92: For 1 day, the target must speak in pompous and archaic language.",
+      "range": [
+        92,
+        92
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "8ac36561-5ab5-4b86-a21d-8969757c0928",
+      "type": 0,
+      "text": "93: The caster reveals their deepest desire and continues blurting embarrassing secrets for 1 minute.",
+      "range": [
+        93,
+        93
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "6cdbfd27-c6f7-4eb4-a0df-c5a9caf3081d",
+      "type": 0,
+      "text": "94: For 1 hour, the target leaves behind a colorful trail of spectral flower petals.",
+      "range": [
+        94,
+        94
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "80046bda-c7cb-40b5-99fe-5870ad8dcd6f",
+      "type": 0,
+      "text": "95: For 1 day, the caster sees all sapient creatures as talking animals, and talking animals as plant creatures.",
+      "range": [
+        95,
+        95
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "0f338a30-486f-4485-a76e-aab49663b0eb",
+      "type": 0,
+      "text": "96: For 1 hour, the target is followed by a spotlight like in a stage play, changing colors by mood.",
+      "range": [
+        96,
+        96
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "f26cb1bc-05e3-44cc-a62f-d903ac09d5f5",
+      "type": 0,
+      "text": "97: The caster transforms cosmetically to look like the being they most admire for 1 day.",
+      "range": [
+        97,
+        97
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "2d57f489-1ebb-4901-b3d9-cc368ff126a7",
+      "type": 0,
+      "text": "98: The target smells strongly of cinnamon for 1 day, making them easier to track by scent.",
+      "range": [
+        98,
+        98
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "c242fb9f-9c41-4f66-8180-5bd4cb7a127f",
+      "type": 0,
+      "text": "99: The caster talks in rhyming couplets for 1 day.",
+      "range": [
+        99,
+        99
+      ],
+      "weight": 1,
+      "drawn": false
+    },
+    {
+      "_id": "5de27d96-97a8-4520-a013-afe96e02bf88",
+      "type": 0,
+      "text": "100: The spell works normally with double the range, area, and duration. If not a spell, the caster may select a spell they know of that rank or lower.",
+      "range": [
+        100,
+        100
+      ],
+      "weight": 1,
+      "drawn": false
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "img": "icons/magic/control/energy-stream-link-teal.webp"
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "dice": 1,
+    "effect": "A dust devil picks up the caster and moves them uncontrollably 60 feet in a random direction."
+  },
+  {
+    "dice": 2,
+    "effect": "The target grows wings granting it a fly Speed equal to its land Speed for 1 minute. If it already had a fly Speed, it instead gains a +30-foot status bonus to its fly Speed for 1 minute."
+  },
+  {
+    "dice": 3,
+    "effect": "For 1 minute, the caster can Leap 30 feet horizontally and 15 feet vertically with bursts of air. The caster can choose to Leap when the effect occurs."
+  },
+  {
+    "dice": 4,
+    "effect": "A 60-foot line directed from the caster to the target is affected by gust of wind."
+  },
+  {
+    "dice": 5,
+    "effect": "The caster is affected by the shrink spell for 1 hour, becoming Tiny."
+  },
+  {
+    "dice": 6,
+    "effect": "The target grows a muscular physique, gaining a +2 status bonus on Athletics checks, Strength-based attack rolls, and Strength-based damage rolls for 10 minutes."
+  },
+  {
+    "dice": 7,
+    "effect": "The caster is affected by a 4th-rank enlarge for 1 minute, becoming Huge."
+  },
+  {
+    "dice": 8,
+    "effect": "Different parts of the target\u2019s body warp and grow asymmetrically, making them clumsy 2 for 1 minute."
+  },
+  {
+    "dice": 9,
+    "effect": "The caster is blinded for 1 minute, as the world around them fades away leaving nothing but darkness in their sight."
+  },
+  {
+    "dice": 10,
+    "effect": "The target is surrounded in a shroud of supernatural darkness with a 10-foot emanation for 1 minute; darkvision can\u2019t see through this darkness but the target can (regardless of its vision) and greater darkvision can as well."
+  },
+  {
+    "dice": 11,
+    "effect": "The caster gains greater darkvision for 1 minute."
+  },
+  {
+    "dice": 12,
+    "effect": "The target loses any darkvision or greater darkvision it has for 1 hour if it fails a Fortitude save."
+  },
+  {
+    "dice": 13,
+    "effect": "The caster\u2019s life force is leached away and they\u2019re drained 2."
+  },
+  {
+    "dice": 14,
+    "effect": "The target\u2019s attacks are devastatingly lethal. For 1 minute, all their attacks and abilities gain the death trait and can\u2019t be nonlethal. Additionally, their unarmed attacks gain the deadly d8 trait, unless they already had the deadly trait with a larger die."
+  },
+  {
+    "dice": 15,
+    "effect": "The caster is protected by a grim veil of void energy. For 1 minute, the caster gains resistance equal to three times the spell rank to void damage and a +4 status bonus to saving throws against void and death effects."
+  },
+  {
+    "dice": 16,
+    "effect": "The target is condemned to die by the reaper\u2019s scythe. After 3 rounds, the target takes 2d12 void damage per spell rank with a basic Fortitude save. This is a death effect."
+  },
+  {
+    "dice": 17,
+    "effect": "The caster is knocked prone by ongoing tremors, and can only Stand as a two-action activity. They cannot use Kip Up or similar feats to Stand."
+  },
+  {
+    "dice": 18,
+    "effect": "The target is protected by a rock shield. It gains a +4 circumstance bonus to AC for 1 minute. If the target takes a critical hit before then, the shield is destroyed."
+  },
+  {
+    "dice": 19,
+    "effect": "The caster\u2019s body becomes as tough as stone. The caster gains resistance to all physical damage except adamantine equal to twice the spell rank for 1 minute."
+  },
+  {
+    "dice": 20,
+    "effect": "Tremors in a 20-foot emanation around the target cause all creatures on the ground in the area to become knocked prone unless they succeed at a Reflex save."
+  },
+  {
+    "dice": 21,
+    "effect": "The caster becomes electrically polarized, drawing metal weapons toward them. For 10 minutes, all attacks with metal weapons and electricity effects gain a +1 circumstance bonus against the caster."
+  },
+  {
+    "dice": 22,
+    "effect": "The target\u2019s melee attacks arc like lightning to an additional target for 1 minute, dealing half the Strike\u2019s normal damage as electricity damage."
+  },
+  {
+    "dice": 23,
+    "effect": "The caster is surrounded by an electric field. Adjacent creatures that hit the caster take electricity damage equal to the spell\u2019s rank and become shocked for 1 round."
+  },
+  {
+    "dice": 24,
+    "effect": "A lightning bolt strikes in a line between the caster and the target, damaging all creatures in the line except the caster."
+  },
+  {
+    "dice": 25,
+    "effect": "The caster spontaneously combusts, suffering 1d4 persistent fire damage per spell rank."
+  },
+  {
+    "dice": 26,
+    "effect": "The target\u2019s melee attacks cause explosions for 1 minute, dealing an amount of fire splash damage on a successful attack equal to the spell\u2019s rank."
+  },
+  {
+    "dice": 27,
+    "effect": "The caster is surrounded by blue flame, with the effects of fire shield of rank 4 or the spell\u2019s rank, whichever is higher."
+  },
+  {
+    "dice": 28,
+    "effect": "A fireball is centered on the target."
+  },
+  {
+    "dice": 29,
+    "effect": "For 1 minute, all of the caster\u2019s movements deal force damage equal to 1/5th the distance traveled in feet."
+  },
+  {
+    "dice": 30,
+    "effect": "For 1 minute, the target\u2019s melee attacks also reposition the attacked creature 5 feet due to threads of force."
+  },
+  {
+    "dice": 31,
+    "effect": "For 1 minute, the caster gains a force field protecting them from harm. The force field has 10 Hit Points per spell rank."
+  },
+  {
+    "dice": 32,
+    "effect": "The target becomes attached to the caster by strings of force unless it succeeds at a Fortitude save."
+  },
+  {
+    "dice": 33,
+    "effect": "The caster is frozen in ice, taking a \u201330-foot status penalty to Speeds for 1 minute but gaining +2 AC."
+  },
+  {
+    "dice": 34,
+    "effect": "The target\u2019s melee attacks freeze all they strike for 1 minute, reducing target Speed cumulatively."
+  },
+  {
+    "dice": 35,
+    "effect": "A dreary cloud appears above the caster\u2019s head, swirling flurries of snow in a 5-foot emanation for 1 minute."
+  },
+  {
+    "dice": 36,
+    "effect": "The target is surrounded in a 3-action howling blizzard of the spell\u2019s rank."
+  },
+  {
+    "dice": 37,
+    "effect": "For 10 minutes, whenever an effect causes the caster to recover Hit Points, they recover half as many as normal."
+  },
+  {
+    "dice": 38,
+    "effect": "The target\u2019s wounds are instantly healed, affected by a two-action heal of the spell\u2019s rank."
+  },
+  {
+    "dice": 39,
+    "effect": "The caster gains a swirling buffer of life energy, granting them 6 temporary Hit Points per spell rank for 1 minute."
+  },
+  {
+    "dice": 40,
+    "effect": "Horrific cancers, cysts, and polyps grow all over the target\u2019s body, causing sickness depending on a Fortitude save."
+  },
+  {
+    "dice": 41,
+    "effect": "For 10 minutes, the caster is surrounded in a halo of light that makes them look like a saint or angel but forces them to tell the truth."
+  },
+  {
+    "dice": 42,
+    "effect": "Light bends around the target, granting it the effects of a 2nd-rank invisibility."
+  },
+  {
+    "dice": 43,
+    "effect": "For 1 minute, the caster\u2019s eyes shine with rainbow colors, allowing them to see invisible creatures and counteract illusions."
+  },
+  {
+    "dice": 44,
+    "effect": "For 1 minute, strobing lights surround the target, causing them to be dazzled."
+  },
+  {
+    "dice": 45,
+    "effect": "For 1 hour, the caster\u2019s backpack and pouches fill with random junk, making them encumbered."
+  },
+  {
+    "dice": 46,
+    "effect": "For 1 minute, all of the target\u2019s Strikes deal 1 additional damage die and count as adamantine, cold iron, silver, and orichalcum."
+  },
+  {
+    "dice": 47,
+    "effect": "The caster\u2019s body transforms into a metallic version of their normal body for 1 minute, gaining AC bonuses but becoming heavy."
+  },
+  {
+    "dice": 48,
+    "effect": "An enormous sword falls from the sky and impales the target, dealing 2d8 piercing damage per spell rank with a basic Reflex save."
+  },
+  {
+    "dice": 49,
+    "effect": "The caster\u2019s thoughts appear around them as floating words and images visible to everyone else."
+  },
+  {
+    "dice": 50,
+    "effect": "The target\u2019s mind swells with powerful resolve, gaining +2 status bonus to attack rolls, saves, and skill checks for 1 minute."
+  },
+  {
+    "dice": 51,
+    "effect": "The caster sees mysterious images that grant subtle clues about a problem or mystery."
+  },
+  {
+    "dice": 52,
+    "effect": "The target begins giggling uncontrollably and is stupefied 2 for 1 minute."
+  },
+  {
+    "dice": 53,
+    "effect": "The caster is accompanied by loud theme music for 1 hour."
+  },
+  {
+    "dice": 54,
+    "effect": "The target becomes absolutely silent for 1 minute unless they choose to make a sound."
+  },
+  {
+    "dice": 55,
+    "effect": "A victorious fanfare plays from the caster for 1 minute, granting +1 status bonus to attack and damage rolls to allies."
+  },
+  {
+    "dice": 56,
+    "effect": "The target dances to a jig only it can hear. For 1 minute, it becomes off-guard when it moves and moves at half Speed."
+  },
+  {
+    "dice": 57,
+    "effect": "The magic through the caster\u2019s body transforms into venom; they are afflicted by stage 1 wyvern venom."
+  },
+  {
+    "dice": 58,
+    "effect": "The target\u2019s unarmed attacks deal persistent poison (or acid) damage for 1 minute."
+  },
+  {
+    "dice": 59,
+    "effect": "The caster is purged by medicinal toxins, removing one random affliction (cleanse affliction of rank 2 or spell rank)."
+  },
+  {
+    "dice": 60,
+    "effect": "The target is enfeebled 2 for 1 minute."
+  },
+  {
+    "dice": 61,
+    "effect": "The caster and the target switch locations."
+  },
+  {
+    "dice": 62,
+    "effect": "For 1 minute, the target can teleport to any location reachable by a single action of their normal movement Speeds."
+  },
+  {
+    "dice": 63,
+    "effect": "The caster is affected by flicker of 4th rank or the spell\u2019s rank, whichever is higher."
+  },
+  {
+    "dice": 64,
+    "effect": "The target is teleported 1 mile away in a random direction unless it succeeds on a Will save; this is an incapacitation effect."
+  },
+  {
+    "dice": 65,
+    "effect": "The caster\u2019s spirit leaves their body for 1d4 rounds but can continue to cast spells."
+  },
+  {
+    "dice": 66,
+    "effect": "The target becomes quasi-corporeal for 1 minute, gaining resistance equal to the spell\u2019s rank to all damage except force, spirit, or void."
+  },
+  {
+    "dice": 67,
+    "effect": "The caster gains a sixth sense for spiritual beings for 10 minutes."
+  },
+  {
+    "dice": 68,
+    "effect": "The target suffers 2d6 spirit damage per spell rank with a basic Fortitude save."
+  },
+  {
+    "dice": 69,
+    "effect": "The caster vanishes and reappears in 1d4 rounds as they jump forward in time."
+  },
+  {
+    "dice": 70,
+    "effect": "The target gains a glimpse of the future, allowing them to roll one attack, save, or skill check twice and take the better result."
+  },
+  {
+    "dice": 71,
+    "effect": "The caster sees visions of possible futures involving themselves and their allies."
+  },
+  {
+    "dice": 72,
+    "effect": "The target is slowed, as by the slow spell."
+  },
+  {
+    "dice": 73,
+    "effect": "The caster is pushed 20 feet by a hydraulic push from a random direction."
+  },
+  {
+    "dice": 74,
+    "effect": "The target can swim through the air for 1 minute."
+  },
+  {
+    "dice": 75,
+    "effect": "The caster is surrounded by a bubble of water for 1 minute granting resistances to acid and fire."
+  },
+  {
+    "dice": 76,
+    "effect": "A giant wave carries the caster through a line past the target\u2019s space, dealing 2d6 bludgeoning damage per spell rank."
+  },
+  {
+    "dice": 77,
+    "effect": "Vines and plants grow around the caster\u2019s feet, making terrain difficult for them for 1 minute."
+  },
+  {
+    "dice": 78,
+    "effect": "The target grows leaves and can heal by basking in sunlight for 10 minutes."
+  },
+  {
+    "dice": 79,
+    "effect": "A tree grows in a random unoccupied 5-foot square adjacent to the caster."
+  },
+  {
+    "dice": 80,
+    "effect": "The plants in an area around the target come to life, creating an entangling aura."
+  },
+  {
+    "dice": 81,
+    "effect": "The caster switches voices with the target."
+  },
+  {
+    "dice": 82,
+    "effect": "The target and caster switch bodies cosmetically for 1 minute."
+  },
+  {
+    "dice": 83,
+    "effect": "A rainbow changes the caster\u2019s coloration to bright colors for 1 day."
+  },
+  {
+    "dice": 84,
+    "effect": "Space distorts in a 30-foot emanation around the target for 1 minute, shortening diagonal distances."
+  },
+  {
+    "dice": 85,
+    "effect": "Whenever the caster speaks, words emerge as rainbow-colored bubbles for 1 minute."
+  },
+  {
+    "dice": 86,
+    "effect": "For 1 hour, the target sees every creature as identical to themselves."
+  },
+  {
+    "dice": 87,
+    "effect": "The caster reverts to their child form for 1 hour, possibly changing size category."
+  },
+  {
+    "dice": 88,
+    "effect": "The target explodes harmlessly every 1d4 rounds with light and confetti for 10 minutes."
+  },
+  {
+    "dice": 89,
+    "effect": "The caster falls in love with the target for 1 hour (as charm critical failure)."
+  },
+  {
+    "dice": 90,
+    "effect": "The target becomes paranoid that everything around them is an adversary in disguise for 1 hour."
+  },
+  {
+    "dice": 91,
+    "effect": "The caster\u2019s outfit changes to a bizarre or embarrassing style for 1 day."
+  },
+  {
+    "dice": 92,
+    "effect": "For 1 day, the target must speak in pompous and archaic language."
+  },
+  {
+    "dice": 93,
+    "effect": "The caster reveals their deepest desire and continues blurting embarrassing secrets for 1 minute."
+  },
+  {
+    "dice": 94,
+    "effect": "For 1 hour, the target leaves behind a colorful trail of spectral flower petals."
+  },
+  {
+    "dice": 95,
+    "effect": "For 1 day, the caster sees all sapient creatures as talking animals, and talking animals as plant creatures."
+  },
+  {
+    "dice": 96,
+    "effect": "For 1 hour, the target is followed by a spotlight like in a stage play, changing colors by mood."
+  },
+  {
+    "dice": 97,
+    "effect": "The caster transforms cosmetically to look like the being they most admire for 1 day."
+  },
+  {
+    "dice": 98,
+    "effect": "The target smells strongly of cinnamon for 1 day, making them easier to track by scent."
+  },
+  {
+    "dice": 99,
+    "effect": "The caster talks in rhyming couplets for 1 day."
+  },
+  {
+    "dice": 100,
+    "effect": "The spell works normally with double the range, area, and duration. If not a spell, the caster may select a spell they know of that rank or lower."
+  }
+]
