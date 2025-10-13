@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Bookstores"
 level: "L1"
-owner: ""
+owner: "Curator Ormion Attalus"
 tags: ["iolokar","category:shop","subcategory:Bookstores","level:L1"]
 updated: 2025-10-06
 ---
@@ -20,19 +20,19 @@ Rare and reference arcana—folios, grimoires, and clean copies overseen by a me
 
 ### Services and Offerings
 
-- ...
-- ...
+- Reference consultations, supervised folio access, and clean reprints
+- Provenance checks, safe copy/assay services, and inter‑shop loans
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Clean reprints with volatile margins tamed
+- Provenance dossiers bundled with high‑risk texts
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late morning to evening; reading room by appointment after hours
+- Entry/reservations: Counter request; tokens for restricted stacks; appointments for high‑risk folios
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout

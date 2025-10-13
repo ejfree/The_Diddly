@@ -1,15 +1,13 @@
 ---
 title: "Assessor Prime Verdun"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "green" # if species=dragon (e.g., emerald, copper)
-role: "Assessor Prime" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "green"
+role: "Assessor Prime"
+pronouns: "they/he"
+rank: "Assessor Prime"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Exacting, calm, and incorruptible. Verdun believes mercy is a line item you budg
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Quiet rooms above the office with a tea shelf and a tidy desk.
 - Frequent locations: Tax counters; City Hall; Arbitration Spire when needed.
 - Travel/transport habits: Walks with a cart of files; portals for seizures only.
@@ -60,9 +58,9 @@ Exacting, calm, and incorruptible. Verdun believes mercy is a line item you budg
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A predatory lien mill resurfaces with new language; Verdun drafts a stop‑order and needs discreet evidence from three counters.
+ - Social scene: Counter‑kindness tea where clerks trade scripts for hard moments.
+ - Complication: A crowd gathers over a seizure; hold fairness, de‑escalate, and keep the chain clean.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Exacting, calm, and incorruptible. Verdun believes mercy is a line item you budg
 
 ### Quotes
 
-- "..."
+- "Mercy belongs in the ledger."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Mornings for relief reviews; midday counters; evenings for audits.
+ - Crisis/emergency mode: Freeze liens, open relief desk, and post plain notices.
+ - Planar alignment shift: Bad numbers dim; honest sums align themselves.
 
 ### Stat Block Notes (Optional)
 

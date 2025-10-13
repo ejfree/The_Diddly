@@ -1,13 +1,13 @@
 ---
 title: "Allurienne Vox"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "alicorn" # if species=dragon (e.g., emerald, copper)
-role: "Inspiring Lectur" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Lecture Coordinator" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "alicorn"
+role: "Inspiring Lectur"
+pronouns: "she/her"
+rank: "Lecture Coordinator"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Warm, focused, and curious. Allurienne believes every good idea deserves a fair 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy loft near the promenade with a listening wall that replays room acoustics.
 - Frequent locations: Lecture Hub halls; Hoards of Knowledge for study aids; The Tranquil Scale after late events.
 - Travel/transport habits: Walks the promenade; short portal hops with gear crates when weather turns.

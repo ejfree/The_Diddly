@@ -1,53 +1,53 @@
 ---
 title: "Seaguard Shelach"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "sea" # if species=dragon (e.g., emerald, copper)
-role: "Seaguard" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "sea"
+role: "Seaguard"
+pronouns: ""
+rank: "Seaguard"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Seaguard Shelach
 
-One‑sentence summary of who this citizen is and why they matter.
+Sea dragon provision steward who keeps Wyrm’s Stockpile honest—cold lanes, fair weights, and calm queues.
 
 ### Appearance
 
-...
+Sea‑blue scales with pale tide‑lines; oilskin harness; trident‑hook and thermometer stones on a cord.
 
 ### Personality
 
-...
+Patient and even until safety bends; then crisp and commanding. Shelach prizes fairness and cold chain integrity.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Wyrm’s Stockpile](docs/Io'lokar/Locations/wyrms-stockpile.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Oversees cold lanes, certifies storage, audits weights, and keeps queues calm during shortages.
+ - University or weyr ties: Guest talk on food safety; coordinates student pantry drives.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Harbor markets that lived by the tide chart.
+ - Notable history: Caught a scale ring by swapping true stones and watching reactions.
+ - Education/training: Logistics, crowd safety, and weights/measure law.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Cold brine mist that chills pallets evenly and makes spoiled oils curdle.
+ - Class/CR/Tier: Civic/guardian; Athletics, Insight, Investigation.
+ - Skills/Strengths: Queue flow, cheater tells, and vendor diplomacy.
+ - Gear/Hoard highlights: Calibrated stones, seal stamps, and lane flags.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Loft over the weigh‑house with nets of sample goods and seized labels.
+ - Frequent locations: Cold docks, weigh tables, and City Hall code updates.
+ - Travel/transport habits: Walks the lanes; short glides to check canopies.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A perishable convoy misses its slot; reroute and document sabotage proof.
+- Social scene: Tasting alley inspection that doubles as meet‑and‑greet.
+- Complication: Festival surge stresses lanes; open relief paths and cool tempers.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,13 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "You can haggle prices, not weights."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Gentle dawn rounds; brisk midday checks; patient dusk arbitration.
+- Crisis/emergency mode: Snap orders, clear lanes with brine fog, and stabilize temps.
+- Planar alignment shift: Salt runes flash over honest scales; spoilage glows faint.
 
 ### Stat Block Notes (Optional)
 

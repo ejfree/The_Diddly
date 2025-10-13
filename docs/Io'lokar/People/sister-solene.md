@@ -1,15 +1,13 @@
 ---
 title: "Sister Solene"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "bliss" # if species=dragon (e.g., emerald, copper)
-role: "Sister" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "bliss"
+role: "Sister"
+pronouns: "she/her"
+rank: "Sister"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Warm, present, and quietly firm about consent. Solene prefers simple words and p
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Simple rooms over the clinic with a kettle nook and a quiet chair.
 - Frequent locations: The clinic; Flight Lounge; Lecture Hub exam weeks.
 - Travel/transport habits: Walks; short hops with a tea basket.
@@ -60,9 +58,9 @@ Warm, present, and quietly firm about consent. Solene prefers simple words and p
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A mislabeled tonic circulates; organize a gentle recall with tea and swaps.
+- Social scene: Study‑break tea table with small comforts and kind ears.
+- Complication: An anxious crowd forms; set lanes, post clear signs, and soothe.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Warm, present, and quietly firm about consent. Solene prefers simple words and p
 
 ### Quotes
 
-- "..."
+- "Care should be easy to reach."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Dawn prep; midday consults; evening aftercare calls.
+- Crisis/emergency mode: Short words, warm tea, clear choices.
+- Planar alignment shift: Calm settles; labels seem to read themselves.
 
 ### Stat Block Notes (Optional)
 

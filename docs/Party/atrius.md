@@ -10,7 +10,7 @@ tags: []
 Class Rank unknown
 
 Major: Prophecy
-Minor: Eldritch Engineerin
+Minor: Eldritch Engineering
 
 Major Advisor: **Professor Veymorth the Waned
 Dragon Type**: Doom Dragon

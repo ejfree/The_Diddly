@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Aerial Stable/Transport Shops"
 level: "L1"
-owner: ""
+owner: "Captain Indira Gale"
 tags: ["iolokar","category:shop","subcategory:Aerial Stable/Transport Shops","level:L1"]
 updated: 2025-10-06
 ---

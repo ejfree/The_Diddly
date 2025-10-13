@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Furniture & Decoration Shops"
 level: "L1"
-owner: ""
+owner: "Cerulea Highline"
 tags: ["iolokar","category:shop","subcategory:Furniture & Decoration Shops","level:L1"]
 updated: 2025-10-06
 ---
@@ -88,9 +88,9 @@ Dragon‑scale interior design and modular furnishings that make vertical living
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Mornings for measurements; afternoons for deliveries; evenings for installs
+- Festival/event mode: Street showroom with tokened consults
+- Planar alignment shift: Weight feels lighter; check anchors twice before perches.
 
 ### GM Notes
 

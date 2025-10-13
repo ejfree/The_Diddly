@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Restaurants/Cafes"
 level: "L1"
-owner: ""
+owner: "Chef Brazius Emberfork"
 tags: ["iolokar","category:shop","subcategory:Restaurants/Cafes","level:L1"]
 updated: 2025-10-06
 ---
@@ -80,15 +80,15 @@ Hearth‑centric kitchen—smoky grills, braises, and plates that taste like hom
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Braises, skewers, hearth breads, and house sauces
+- Custom orders/lead times: Family trays and crew platters; 1–2 bells
+- Planar imports/components: Ember‑herbs, citrus shards, and surge‑salt
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Warm lunch, steady dinner, late comfort plates
+- Festival/event mode: Street grill with quick skewers; extra bell teams
+- Planar alignment shift: Smokes cling; flavors deepen; watch heat drift at the pass.
 
 ### GM Notes
 

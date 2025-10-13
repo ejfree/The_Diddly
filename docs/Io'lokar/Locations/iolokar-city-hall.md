@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "Io’lokar City Hall"
 type: location/iolokar
 category: "place"
@@ -74,9 +75,9 @@ Administrative heart of Io’lokar—records, edicts, permits, and ceremonies co
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Start‑of‑term surges and festival permits—extra windows, queue stewards, and mobile counters.
+- Crisis/emergency mode: Triage to essentials, open provisional papers desk, deploy Quiet Counters city‑wide.
+- Planar alignment shift: Ink sweats; seals blur—use sand, fans, and double‑stamps for essentials.
 
 ### GM Notes
 

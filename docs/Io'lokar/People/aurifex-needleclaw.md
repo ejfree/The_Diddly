@@ -1,15 +1,13 @@
 ---
 title: "Aurifex Needleclaw"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "gold" # if species=dragon (e.g., emerald, copper)
-role: "Regal Couturier" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "gold"
+role: "Regal Couturier"
+pronouns: "she/her"
+rank: "Regal Couturier"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Gracious, exacting, and protective of clients’ dignity. Aurifex never mocks—
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Salon rooms behind the shop with sketches and a tea cart.
 - Frequent locations: Draconian Adornments; Celestial Theater; promenade salons.
 - Travel/transport habits: Walks with a ribbon case; portal on deadlines.
@@ -60,9 +58,9 @@ Gracious, exacting, and protective of clients’ dignity. Aurifex never mocks—
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A gala harness spec changes day‑of; redesign fast without compromising safety.
+- Social scene: Fitting room tea—coach posture and confidence kindly.
+- Complication: A supplier’s leaf tarnishes; triage repairs and protect clients.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Gracious, exacting, and protective of clients’ dignity. Aurifex never mocks—
 
 ### Quotes
 
-- "..."
+- "Fit first. Shine second."
+- "We flatter truth, not fantasy."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Morning designs; afternoon fittings; evening handoffs.
+- Crisis/emergency mode: Strip to safe lines and secure closures; reschedule embellishments.
+- Planar alignment shift: Highlights bloom; simplify forms so silhouettes read.
 
 ### Stat Block Notes (Optional)
 

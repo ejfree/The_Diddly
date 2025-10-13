@@ -1,15 +1,13 @@
 ---
 title: "Dreaming Adept Somniel"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "dream" # if species=dragon (e.g., emerald, copper)
-role: "Restorative Wate" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/she" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "dream"
+role: "Restorative Warden"
+pronouns: "they/she"
+rank: "Restorative Warden"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Tender, firm, and unhurried. Somniel believes rest is serious work.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small rooms with soft veils and a tea table.
 - Frequent locations: Tranquil Scale; Flight Lounge; Breath of Focus.
 - Travel/transport habits: Walks softly; glides rarely.
@@ -60,9 +58,9 @@ Tender, firm, and unhurried. Somniel believes rest is serious work.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A soak token goes missing during exam week; Somniel asks for calm, quiet help before trust frays.
+- Social scene: Tea between soaks; compare breath practices from Breath of Focus and trade grounding tricks.
+- Complication: A water elemental overheats a pool; cool the room, reset temps, and soothe nervous guests.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Tender, firm, and unhurried. Somniel believes rest is serious work.
 
 ### Quotes
 
-- "..."
+- "Rest is brave work."
+- "We set the water; you set the boundary."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Mornings are soft and slow; afternoons steady and structured; evenings deepen the hush.
+- Crisis/emergency mode: Close most pools; open a single calm lane; breath guidance only—no chatter.
+- Planar alignment shift: Dreams skim the surface; drowsiness rises easily but doesn’t steal alertness.
 
 ### Stat Block Notes (Optional)
 

@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Planar Post"
 type: location/iolokar
 category: "place"
@@ -20,7 +21,7 @@ One‑sentence description of the place and its purpose.
 
 ### Location Details
 
-- Level: L1
+- Level: L2
 - District/adjacency: ...
 - Exterior/architecture: ...
 
@@ -72,9 +73,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Festival mail surge—extra windows, parcel ramps, and route calls on the bell.
+- Crisis/emergency mode: Hold unstable portals; reroute via couriers; priority to medicine and registry posts.
+- Planar alignment shift: Long hops drift; postmarks stamp “alignment cautious”—deliveries slower, safer.
 
 ### GM Notes
 

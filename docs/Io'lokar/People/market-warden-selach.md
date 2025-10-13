@@ -1,13 +1,13 @@
 ---
 title: "Market Warden Selach"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "sea" # if species=dragon (e.g., emerald, copper)
-role: "Market Warden" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Warden of Stalls" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "sea"
+role: "Market Warden"
+pronouns: "he/him"
+rank: "Warden of Stalls"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Pragmatic, even‑tempered until fairness tips—then sharp and fast. Speaks in 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: A compact loft above the weigh‑house, with nets of sample goods and a wall of seized counterfeit labels.
 - Frequent locations: The Draconic Market lanes; Frostfire Couriers’ cold‑dock; Io’lokar City Hall for code updates.
 - Travel/transport habits: Walks the lanes at dawn; takes short glides to check canopies and wind flags before opening.

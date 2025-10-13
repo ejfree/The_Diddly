@@ -1,15 +1,13 @@
 ---
 title: "Vortxel Ferris"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "vortex" # if species=dragon (e.g., emerald, copper)
-role: "Interplanar Trin" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "vortex"
+role: "Interplanar Trin"
+pronouns: "they/he"
+rank: "Interplanar Trin"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Cheerful, blunt about unknowns, and quick to say “I don’t know—yet.”
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small loft above the shop with shelves of “maybe later.”
 - Frequent locations: Curio lane; Molten Memories; Oddities bench.
 - Travel/transport habits: Walks with a satchel of tags; never runs.
@@ -60,9 +58,9 @@ Cheerful, blunt about unknowns, and quick to say “I don’t know—yet.”
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A curio hums louder each day; trace origin and decide display or return.
+ - Social scene: Honest‑card workshop—write what you know and what you don’t.
+ - Complication: A tempting fake with a sob story; refuse kindly and steer to safer joy.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Cheerful, blunt about unknowns, and quick to say “I don’t know—yet.”
 
 ### Quotes
 
-- "..."
+- "Honest cards make happy keepsakes."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Quiet intake; busy browsing; calm closes.
+ - Crisis/emergency mode: Rope the shelf, put up tea, test when safe.
+ - Planar alignment shift: Storm lines dance; fakes fall flat to the touch.
 
 ### Stat Block Notes (Optional)
 

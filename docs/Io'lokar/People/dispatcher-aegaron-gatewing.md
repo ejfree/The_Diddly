@@ -1,15 +1,13 @@
 ---
 title: "Dispatcher Aegaron Gatewing"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "bronze" # if species=dragon (e.g., emerald, copper)
-role: "Dispatcher" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "bronze"
+role: "Dispatcher"
+pronouns: "he/him"
+rank: "Dispatcher"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Punctual, laconic, and fair. Aegaron prefers facts and bell times to promises.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Simple roost over the dispatch bay; a cot and a kettle.
 - Frequent locations: Dispatch pads; Crystal Pantry; The Draconic Market.
 - Travel/transport habits: Walks the bay; short test flights at dawn.

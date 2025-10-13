@@ -1,15 +1,13 @@
 ---
 title: "Chancellor Paradius"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "sovereign" # if species=dragon (e.g., emerald, copper)
-role: "Chancellor" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "sovereign"
+role: "Chancellor"
+pronouns: "he/they"
+rank: "Chancellor"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Smooth, kind, and efficient. Paradius believes clarity is compassion in governan
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Modest suite off the Ceremony Court with a tea cart and quiet desk.
 - Frequent locations: City Hall counters; Arbitration Spire; Lecture Hub.
 - Travel/transport habits: Walks; short portals to archives.
@@ -60,9 +58,9 @@ Smooth, kind, and efficient. Paradius believes clarity is compassion in governan
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A time‑sensitive permit jams in cross‑department review; Paradius needs neutral runners and plain‑speech fixes.
+ - Social scene: Reception after a ceremony—quiet introductions and useful promises.
+ - Complication: A protest and a wedding collide on the steps; keep dignity and safety for both.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Smooth, kind, and efficient. Paradius believes clarity is compassion in governan
 
 ### Quotes
 
-- "..."
+ - "Clarity is compassion."
+ - "Good process makes good neighbors."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Dawn counters; midday meetings; evening ceremonies.
+ - Crisis/emergency mode: Strip to essentials; open provisional desks; walk the lines.
+ - Planar alignment shift: Voices carry farther; post shorter speeches and bigger signs.
 
 ### Stat Block Notes (Optional)
 

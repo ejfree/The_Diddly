@@ -1,15 +1,13 @@
 ---
 title: "Marshal Ser Tarsis"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "sapphire" # if species=dragon (e.g., emerald, copper)
-role: "Marshal" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "sapphire"
+role: "Marshal"
+pronouns: "he/they"
+rank: "Marshal"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Direct, fair, and motivating. Ser Tarsis believes clarity is courage.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Spartan bunk near the yard with a kettlebell and a cot.
 - Frequent locations: Training yard; Beacon Spire; muster halls.
 - Travel/transport habits: Walks; flies to spot checks at dawn.
@@ -60,9 +58,9 @@ Direct, fair, and motivating. Ser Tarsis believes clarity is courage.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: Multi‑weyr drill with mixed crews; fix a missing roster and keep tempo.
+ - Social scene: Post‑drill tea—celebrate quiet excellence and note clean fixes.
+ - Complication: A recruit freezes mid‑call; coach through without shame and preserve safety.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Direct, fair, and motivating. Ser Tarsis believes clarity is courage.
 
 ### Quotes
 
-- "..."
+- "Clarity is courage in motion."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Dawn checks; noon drills; dusk debriefs.
+ - Crisis/emergency mode: Short commands, clear lanes, buddy pairs.
+ - Planar alignment shift: Bell cadence carries; panic sheds like rain.
 
 ### Stat Block Notes (Optional)
 

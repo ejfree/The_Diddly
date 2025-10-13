@@ -1,15 +1,13 @@
 ---
 title: "Harli Quinsong"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "harlequin" # if species=dragon (e.g., emerald, copper)
-role: "Publican" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/she" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "harlequin"
+role: "Publican"
+pronouns: "they/she"
+rank: "Publican"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Playful, kind, and organized. Harli keeps joy on schedule and rivals civil.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Loft with ribbons of festival posters and a comfy chair.
 - Frequent locations: The Draughts; the Arcade; the Goblet for laughs.
 - Travel/transport habits: Walks with a jingling bell‑bracelet; glides late on festivals.
@@ -60,9 +58,9 @@ Playful, kind, and organized. Harli keeps joy on schedule and rivals civil.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A rival poaches quiz night; Harli drafts you to stage a kinder, smarter showcase.
+ - Social scene: Post‑flight banter where new friends trade house jokes.
+ - Complication: A token exploit muddles tabs; fix it fast without souring the room.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Playful, kind, and organized. Harli keeps joy on schedule and rivals civil.
 
 ### Quotes
 
-- "..."
+ - "Fun runs on fairness."
+ - "We laugh loudest when everyone’s in."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Quiet afternoons; lively evenings; roaring late nights.
+ - Crisis/emergency mode: Cut music, lights up, clear lanes, kind voice.
+ - Planar alignment shift: Cheers smear—slow cadence, bigger cues.
 
 ### Stat Block Notes (Optional)
 

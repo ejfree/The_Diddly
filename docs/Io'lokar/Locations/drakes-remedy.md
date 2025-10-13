@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Healers and Apothecaries"
 level: "L1"
-owner: ""
+owner: "Seraphine Frostleaf"
 tags: ["iolokar","category:shop","subcategory:Healers and Apothecaries","level:L1"]
 updated: 2025-10-06
 ---

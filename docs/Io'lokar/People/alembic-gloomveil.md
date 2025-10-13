@@ -1,13 +1,13 @@
 ---
 title: "Alembic Gloomveil"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "underworld" # if species=dragon (e.g., emerald, copper)
-role: "Alchemist" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "underworld"
+role: "Alchemist"
+pronouns: "they/them"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Soft‑spoken, exact, and stubborn about safety. Humor is dry as desiccant. Cele
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small, cool loft over the shop; sparse, organized, and labeled.
 - Frequent locations: The Alchemist’s Corner; Drake’s Remedy; university labs during audits.
 - Travel/transport habits: Walks with a secure kit; avoids crowded festival lanes.

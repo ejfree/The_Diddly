@@ -1,15 +1,13 @@
 ---
 title: "Conductor Celene"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "lunar" # if species=dragon (e.g., emerald, copper)
-role: "Conductor" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "lunar"
+role: "Conductor"
+pronouns: "she/her"
+rank: "Conductor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Calm, precise, and reassuring. Celene favors steady tones and short instructions
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small loft over the Meter Hall with tea and maps.
 - Frequent locations: The Artery; Portal Nexus; Lecture Hub.
 - Travel/transport habits: Walks; portal by clearance only.
@@ -60,9 +58,9 @@ Calm, precise, and reassuring. Celene favors steady tones and short instructions
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A surge day coincides with a festival; Celene needs hands to hold rhythm and keep families together.
+- Social scene: Bell rehearsal—teach travelers the soft‑close cadence.
+- Complication: An off‑tempo bell confuses a queue; retune without stopping flow.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Calm, precise, and reassuring. Celene favors steady tones and short instructions
 
 ### Quotes
 
-- "..."
+- "Breathe with the bells."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Dawn maintenance; noon rush shepherding; night calm closures.
+- Crisis/emergency mode: Short phrases, clear lanes, and paired guides.
+- Planar alignment shift: Gate‑light steadies; footsteps sync to a gentle meter.
 
 ### Stat Block Notes (Optional)
 

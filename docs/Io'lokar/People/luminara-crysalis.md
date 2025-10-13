@@ -1,53 +1,53 @@
 ---
 title: "Luminara Crysalis"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "crystal" # if species=dragon (e.g., emerald, copper)
-role: "Luminous Cafe Ho" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "crystal"
+role: "Luminous Cafe Ho"
+pronouns: ""
+rank: "Luminous Cafe Ho"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Luminara Crysalis
 
-One‑sentence summary of who this citizen is and why they matter.
+Crystal dragon café host who sets rooms aglow with welcome—bright sweets, kind seats, and clean light.
 
 ### Appearance
 
-...
+Prismatic facets; apron with tiny bells; breath like sugar and citrus.
 
 ### Personality
 
-...
+Sunny, attentive, and unflappable. Luminara believes people deserve a place that wants them there.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Hoard Café](docs/Io'lokar/Locations/the-hoard-cafe.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Front‑of‑house flow, display cases, and “bright table” care.
+- University or weyr ties: Festival sweets tables; late study snack runs.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Market sweets stalls and traveling shows.
+- Notable history: Restored a block’s morale after a hard week with free “small joys.”
+- Education/training: Hospitality, display craft, and breath‑safe heat.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Crystal breath that brightens cases and keeps glazes glossy.
+- Class/CR/Tier: Social/support with Performance and Persuasion.
+- Skills/Strengths: Queue flow, kindness, and clean presentation.
+- Gear/Hoard highlights: Display lights, bell set, and sample spoons.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Small loft with a window garden and lamp shelf.
+- Frequent locations: Hoard Café; Gilded Bite; Roaring Buffet festivals.
+- Travel/transport habits: Walks with a sample tray; portals for festival crates.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A delivery window slips; rescue a tasting night with quick favors.
+- Social scene: Bright table mixer where regulars share “wins of the week.”
+- Complication: An impatient patron sparks tension; keep welcome and safety both.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Small joy changes big days."
+- "We seat kindness first, then numbers."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Bright mornings; steady afternoons; celebratory evenings.
+- Crisis/emergency mode: Free water, simple sweets, and quick seating for calm.
+- Planar alignment shift: Light blooms; reduce glare and simplify displays.
 
 ### Stat Block Notes (Optional)
 

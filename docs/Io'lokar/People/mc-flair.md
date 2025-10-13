@@ -1,53 +1,53 @@
 ---
 title: "MC Flair"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "copper" # if species=dragon (e.g., emerald, copper)
-role: "MC" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "copper"
+role: "MC"
+pronouns: ""
+rank: "MC"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### MC Flair
 
-One‑sentence summary of who this citizen is and why they matter.
+Copper dragon hype host who turns a crowded arcade into a party—quick quips, fair cues, and big smiles.
 
 ### Appearance
 
-...
+Penny‑bright scales; mic pin; bell‑bracelets; breath like citrus fizz.
 
 ### Personality
 
-...
+Playful, generous, and sharp on fairness. Flair makes room for shy joy.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Aurora’s Amusement Arcade](docs/Io'lokar/Locations/auroras-amusement-arcade.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Announcements, queue flow, contest rules, and vibe.
+ - University or weyr ties: Student nights and charity streams.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Street busking and school fairs.
+ - Notable history: Hosted a city‑wide co‑op stream for relief.
+ - Education/training: Performance, crowd flow, and mic craft.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Copper spark that adds pop to sound without pain.
+ - Class/CR/Tier: Social/support with Performance and Persuasion.
+ - Skills/Strengths: Timing, kindness, and hype.
+ - Gear/Hoard highlights: Mic charms, bell set, and spare tokens.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Cozy nook with posters and a kettle.
+ - Frequent locations: Arcade; Dragon’s Den; Hoard Café nights.
+ - Travel/transport habits: Walks with a mic case; portals for big gigs.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A charity stream needs acts and safe pacing; curate and keep it kind.
+ - Social scene: Open‑mic evening where shy talents shine.
+ - Complication: A heckler targets a kid; set the room and save the night.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+ - "We hype kindness, not cruelty."
+ - "Everybody gets a turn to shine."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: After‑school buzz; dinner crowd; late‑night wins.
+ - Crisis/emergency mode: Cut music, lights up, clear lanes, calm voice.
+ - Planar alignment shift: Sounds smear; slow cadence and simpler cues.
 
 ### Stat Block Notes (Optional)
 

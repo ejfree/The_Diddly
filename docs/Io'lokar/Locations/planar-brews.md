@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Cafes and Study Lounges"
 level: "L1"
-owner: ""
+owner: "Zephyron Pagewhisper"
 tags: ["iolokar","category:shop","subcategory:Cafes and Study Lounges","level:L1"]
 updated: 2025-10-06
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Sage Verdantis"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "emerald" # if species=dragon (e.g., emerald, copper)
-role: "Inquisitive Know" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Proprietor‑Scholar" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "emerald"
+role: "Inquisitive Know"
+pronouns: "they/them"
+rank: "Proprietor‑Scholar"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Patient, teasing, and relentlessly thorough. Verdantis delights in catalytic que
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: A mezzanine loft over the shop lined with skylights and a tea bench; shelves hold “learning seeds” to sprout lesson plans overnight.
 - Frequent locations: Hoards of Knowledge; Draconic Lecture Hub; The Scaled Scholar for guest critiques.
 - Travel/transport habits: Walks with a satchel of samples; uses courier pickup for bulk orders.

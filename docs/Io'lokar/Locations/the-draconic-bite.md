@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Restaurants/Cafes"
 level: "L1"
-owner: ""
+owner: "Grakkar the Sear"
 tags: ["iolokar","category:shop","subcategory:Restaurants/Cafes","level:L1"]
 updated: 2025-10-06
 ---

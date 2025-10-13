@@ -1,13 +1,13 @@
 ---
 title: "Coldkeeper Hrim"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "white" # if species=dragon (e.g., emerald, copper)
-role: "Coldkeeper" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "white"
+role: "Coldkeeper"
+pronouns: "he/him"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Calm, methodical, and scrupulously fair. Hrim’s humor is dry as winter air; he
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Modest quarters above the cold rooms; neat, spare, and perfectly tempered.
 - Frequent locations: The Crystal Pantry; Draconic Market cold‑lanes; City Hall during audits.
 - Travel/transport habits: Walks the cold‑lane; takes portal hops to verify remote lockers.

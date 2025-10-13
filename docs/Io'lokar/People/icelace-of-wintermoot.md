@@ -1,13 +1,13 @@
 ---
 title: "Icelace of Wintermoot"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "silver" # if species=dragon (e.g., emerald, copper)
-role: "Precise Preserva" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "silver"
+role: "Precise Preserva"
+pronouns: "she/her"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Calm, exact, and quietly proud. Icelace likes labels straight, weights fair, and
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tidy loft chilled a few degrees below the hall; neat, labeled, and calm.
 - Frequent locations: Luminous Larder; Crystal Pantry; City Hall during audits.
 - Travel/transport habits: Walks the cold‑lane; short portal hops for remote checks.

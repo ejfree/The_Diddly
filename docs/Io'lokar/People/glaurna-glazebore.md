@@ -1,15 +1,13 @@
 ---
 title: "Glaurna Glazebore"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "magma" # if species=dragon (e.g., emerald, copper)
-role: "Volcanic Doughsm" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "magma"
+role: "Volcanic Doughsm"
+pronouns: "she/her"
+rank: "Volcanic Doughsm"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Brisk, kind, and no‑nonsense about lines. Glaurna loves a clean fry and a clea
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tiny loft above the shop with a cot and a spice shelf.
 - Frequent locations: The fry pass; market lanes; tavern patios after close.
 - Travel/transport habits: Walks fast; glides only on festival dawns.
@@ -60,9 +58,9 @@ Brisk, kind, and no‑nonsense about lines. Glaurna loves a clean fry and a clea
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: Oil drums test impure on delivery; trace the source while keeping the line fed and safe.
+ - Social scene: Pre‑dawn queue banter—regulars swap kindness and jokes.
+ - Complication: A flash‑flare at the fryer; clear the lane, kill heat, and reset calmly.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Brisk, kind, and no‑nonsense about lines. Glaurna loves a clean fry and a clea
 
 ### Quotes
 
-- "..."
+- "We fry joy, not fingers."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Night mix; dawn proof; brisk morning sell‑out.
+ - Crisis/emergency mode: Shut burners, salt spill, breathe, resume.
+ - Planar alignment shift: Heat sings evenly; bad batches taste flat on approach.
 
 ### Stat Block Notes (Optional)
 

@@ -1,13 +1,13 @@
 ---
 title: "Mediator Faris"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "gold" # if species=dragon (e.g., emerald, copper)
-role: "Mediator" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Pre‑Hearing Mediator" # e.g., matriarch, guard captain, student
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "gold"
+role: "Mediator"
+pronouns: "he/him"
+rank: "Pre‑Hearing Mediator"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Empathic and exact. Faris listens until the heat drops, then speaks only the wor
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Spare rooms on L2 near the Ombuds Hall; tea service always set, chairs sized for humanoids as well as dragons.
 - Frequent locations: The Arbitration Spire mediation rooms; The Tranquil Scale for post‑session decompression; City Hall for filing follow‑ups.
 - Travel/transport habits: Walks between adjacent towers; avoids dramatic entrances.

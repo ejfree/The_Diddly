@@ -1,15 +1,13 @@
 ---
 title: "Forge-Lord Pyrag"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "red" # if species=dragon (e.g., emerald, copper)
-role: "Forge-Lord" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "red"
+role: "Forge-Lord"
+pronouns: "he/him"
+rank: "Forge-Lord"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Blunt, patient, and fair. Pyrag believes security and beauty aren’t rivals—b
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small room off the bench with a cot and a wall of samples.
 - Frequent locations: The Haven; Elemental Refuge; galleries.
 - Travel/transport habits: Walks; pushes a loaded cart like it’s nothing.
@@ -60,9 +58,9 @@ Blunt, patient, and fair. Pyrag believes security and beauty aren’t rivals—b
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A gallery’s mount fails during a private showing; rebuild overnight without blame games.
+- Social scene: Shop tour for donors—hands on with safe mounts.
+- Complication: A temperamental collector demands unsafe angles; negotiate elegance within safe limits.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Blunt, patient, and fair. Pyrag believes security and beauty aren’t rivals—b
 
 ### Quotes
 
-- "..."
+- "If it falls, it wasn’t beautiful."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Heat up early; fabricate midday; finish and test at dusk.
+- Crisis/emergency mode: Quench egos, brace loads, and post clear weights.
+- Planar alignment shift: Metal sings under breath; weak welds show dull.
 
 ### Stat Block Notes (Optional)
 

@@ -4,42 +4,42 @@ type: location/iolokar
 category: "shop"
 subcategory: "Grocery/Provisions Stores"
 level: "L1"
-owner: ""
+owner: "Seaguard Shelach"
 tags: ["iolokar","category:shop","subcategory:Grocery/Provisions Stores","level:L1"]
 updated: 2025-10-06
 ---
 ### Wyrm’s Stockpile
 
-One‑sentence summary of what this shop is known for.
+Bulk staples and fresh basics—fair weights, clear labels, and calm lines.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Market row near Scale & Hearth; close to cold lanes.
+- Exterior/signage: Coiled dragon over bins and barrels; cold‑cellar bell.
 
 ### Services and Offerings
 
-- ...
-- ...
+ - Bulk grains, pulses, oils, and spices
+ - Fresh produce, dairy, and chilled goods
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+ - Fair‑weight bulk kits sized for lair or dorm
+ - Cold‑chain “trust packs” bagged and sealed
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Morning through evening; early stock bell
+- Entry/reservations: Walk‑in aisles; token pickup for pre‑orders
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
+- Vibe and sensory notes: Spice, wood, and cool air from the cellar; steady bell cadence
 - Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
+- Seating/flow: Weigh → bag → seal → pay → pickup
 - Map/layout notes: entrance, counter, storage, private rooms
 
 ### Staff and NPCs
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): No breath in cold room; scoop station etiquette posted
+- Ordering/service flow (e.g., counter, portal chute, omakase): Scoop → weigh → print label → seal
+- Hazards/environmental notes: Wet floors near ice bins; posted temps and allergen flags
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Back‑door bell; cellar alarm
+- Wards/anti‑theft: Tag‑wards on bulk bins; seal checks at exit
+- Portal anchors/safeties: Staff pad for restock only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A seal batch reads wrong; trace a counterfeit labeler before waste spreads.
+- Social scene: Aisle tastings of new spice runs; swap recipes and storage tips.
+- Complication: Cold room drifts warm during rush; triage stock and calm the line.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Grains, pulses, oils, spices, produce, dairy, and ice‑pack refills
+- Custom orders/lead times: Bulk party kits; 1–2 bells; lair stock lists on request
+- Planar imports/components: Surge‑salt, dewglass jars, and echo‑quartz timers
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Early restock calm; midday bustle; evening quick runs
+- Festival/event mode: Street bins and tokened queue ropes; extra cold‑cellar runners
+- Planar alignment shift: Frost lingers; freshness windows lengthen but labels drift—double‑check dates.
 
 ### GM Notes
 

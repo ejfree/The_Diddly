@@ -1,15 +1,13 @@
 ---
 title: "Lady Carmina Carveflame"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "wellspring" # if species=dragon (e.g., emerald, copper)
-role: "Lady" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "wellspring"
+role: "Lady"
+pronouns: "she/her"
+rank: "Lady"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Boisterous, kind, and ruthlessly organized. Carmina believes hospitality is logi
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy rooms behind the hall with a kettle and old festival posters.
 - Frequent locations: Buffet lines; festival square; market lanes.
 - Travel/transport habits: Walks with a carving set and a laugh.
@@ -60,9 +58,9 @@ Boisterous, kind, and ruthlessly organized. Carmina believes hospitality is logi
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: Supply hiccup threatens a festival seating; replan the menu with swaps that still sing.
+ - Social scene: Staff meal with songs—new cooks learn the line by rhythm.
+ - Complication: A guest tries to cut a carvery line; reset flow kindly and firmly.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Boisterous, kind, and ruthlessly organized. Carmina believes hospitality is logi
 
 ### Quotes
 
-- "..."
+- "Hospitality is logistics plus love."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Dawn prep; noon rush; late buffet calm.
+ - Crisis/emergency mode: Shorten menu, widen lanes, and sing the plan.
+ - Planar alignment shift: Heat holds steady; knives sing; lines sway without tangling.
 
 ### Stat Block Notes (Optional)
 

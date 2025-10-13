@@ -1,13 +1,13 @@
 ---
 title: "Master Indivar Hue"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "havoc" # if species=dragon (e.g., emerald, copper)
-role: "Pigments And Liv" # primary occupation or civic role
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "Master Painter" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "havoc"
+role: "Pigments And Liv"
+pronouns: "they/he"
+rank: "Master Painter"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Gentle, curious, and precise. Indivar believes accidents teach—but not on clie
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Light‑warmed studio loft with drying lines and a tea shelf.
 - Frequent locations: Mystic Canvas; theaters; Lecture Hub workshops.
 - Travel/transport habits: Walks with a roll of panels; portal for installs.
@@ -58,9 +58,9 @@ Gentle, curious, and precise. Indivar believes accidents teach—but not on clie
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A mural’s living greens overgrow overnight; prune and reseal before it crowds a stairwell.
+ - Social scene: Pigment tasting—compare binders and teach breath‑safe mixes.
+ - Complication: A cheap aerosol ruins a commission; mediate, repair, and post guidance.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,13 @@ Gentle, curious, and precise. Indivar believes accidents teach—but not on clie
 
 ### Quotes
 
-- "..."
+- "Color should be kind to eyes and walls."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Morning tests; afternoon layers; evening glazes.
+ - Crisis/emergency mode: Seal first, scrape safe, then rework.
+ - Planar alignment shift: Hues hum; harsh contrasts soften at the edges.
 
 ### Stat Block Notes (Optional)
 

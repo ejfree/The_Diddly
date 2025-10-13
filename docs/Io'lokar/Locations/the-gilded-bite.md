@@ -4,42 +4,42 @@ type: location/iolokar
 category: "shop"
 subcategory: "Specialty Food Stores"
 level: "L1"
-owner: ""
+owner: "Candrix Prism"
 tags: ["iolokar","category:shop","subcategory:Specialty Food Stores","level:L1"]
 updated: 2025-10-06
 ---
 ### The Gilded Bite
 
-One‑sentence summary of what this shop is known for.
+Glazed bites and jewel‑bright sweets—small indulgences with a gilded finish.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Festival promenade near the theater and Delights.
+- Exterior/signage: A gilded bite on a skewer; bright window tiers.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Sampler flights, sweets, sauces, and small roasts
+- Party trays and tasting tokens at dusk
 
 ### Signature Items or Specialties
 
-- ...
+- Gloss‑bright caramels and citrus shards
 - ...
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Late breakfast to late night; tasting flights at dusk
+- Entry/reservations: Walk‑up counter; tasting table tokens
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
+- Vibe and sensory notes: Sugar, citrus, and warm light; bell cues
+- Capacity/scale: Mixed sizes; counter, tasting rail, and perch nooks
+- Seating/flow: Browse → taste → order → collect
 - Map/layout notes: entrance, counter, storage, private rooms
 
 ### Staff and NPCs
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+ - Stock highlights: Glazes, sauces, sweets, and bite‑sized roasts
+ - Custom orders/lead times: Party trays; 1–2 bells
+ - Planar imports/components: Ember sugar, surge‑salt, and citrus shards
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+ - Time‑of‑day variation: Late breakfast sweets; hearty midday bites; indulgent dusk flights
+ - Festival/event mode: Street window open with sampler sticks
+ - Planar alignment shift: Caramels hold their gloss; smokes linger; watch for overrich palates.
 
 ### GM Notes
 

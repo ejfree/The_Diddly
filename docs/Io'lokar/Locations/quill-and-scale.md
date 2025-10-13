@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Stationery Shops"
 level: "L1"
-owner: ""
+owner: "Scribe Orich"
 tags: ["iolokar","category:shop","subcategory:Stationery Shops","level:L1"]
 updated: 2025-10-06
 ---
@@ -80,15 +80,15 @@ Stationer and copy desk—forms, ledgers, and seals that make lives legible.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Orich Forms, ledgers, seals, dewglass sleeves, and stamp pads
+- Custom orders/lead times: Custom plates 1–3 days; rush for city notices
+- Planar imports/components: Dewglass, hush‑silk tabs, and anti‑smear sands
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Plate work in the morning; busy counters mid‑day; reconciles at close
+- Festival/event mode: Pop‑up permit desk with plain‑speech help
+- Planar alignment shift: Ink smears; use sands and double‑stamps
 
 ### GM Notes
 

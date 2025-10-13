@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Hoard Tax Authority"
 type: location/iolokar
 category: "place"
@@ -72,9 +73,9 @@ Assesses, records, and collects hoard taxes—clear rules, careful appraisals, a
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Filing week—extended counters, queue stewards, and document triage lanes.
+- Crisis/emergency mode: Hold audits, issue temporary receipts, and seal vault ledgers.
+- Planar alignment shift: Numeric glamours drift; counters audit with physical tallies and anti‑glamour lamps.
 
 ### GM Notes
 

@@ -1,53 +1,53 @@
 ---
 title: "Harbormark Sedge"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "brine" # if species=dragon (e.g., emerald, copper)
-role: "Inbound Provisio" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "brine"
+role: "Inbound Provisio"
+pronouns: ""
+rank: "Inbound Provisio"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Harbormark Sedge
 
-One‑sentence summary of who this citizen is and why they matter.
+Brine dragon inbound‑provisions lead who keeps cold‑chain honest from docks to market lanes.
 
 ### Appearance
 
-...
+Sea‑green scales with salt flecks; coil rope harness; breath cool as dawn surf.
 
 ### Personality
 
-...
+Practical, fair, and steady. Sedge values clean handoffs over clever excuses.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Draconic Market](docs/Io'lokar/Locations/the-draconic-market.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Docks intake, seal checks, route slots, and cold‑lane cadence.
+ - University or weyr ties: Coordinates with labs and dorms for perishables.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Harbor weighhouses and caravan coolers.
+ - Notable history: Broke a counterfeit seal ring by tracing route drift.
+ - Education/training: Logistics, preservation, and portal safety.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Brine breath that reveals spoiled packs and leaky seals.
+ - Class/CR/Tier: Logistician with Perception, Investigation, Vehicles (air/water).
+ - Skills/Strengths: Seal checks, route rhythm, and queue calm.
+ - Gear/Hoard highlights: Seal punches, route bells, dewglass kit.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Loft over the dock office; kettle and charts.
+ - Frequent locations: Docks; Cold‑lane; Wyrm’s Stockpile.
+ - Travel/transport habits: Walks docks; pre‑dawn checks with a cart.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A drift window changes mid‑offload; reroute perishables before they warm.
+ - Social scene: Dock tea at shift change—trade storage tricks.
+ - Complication: A forged seal batch appears; audit lines without panic.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+ - "Cold kept, trust kept."
+ - "Queues are promises with legs."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Dawn manifests; midday lane checks; dusk reconciles.
+ - Crisis/emergency mode: Freeze nonessential carts; priority to medicine and food; widen buffers.
+ - Planar alignment shift: Brine drafts thicken; extend cold lanes and shorten hops.
 
 ### Stat Block Notes (Optional)
 

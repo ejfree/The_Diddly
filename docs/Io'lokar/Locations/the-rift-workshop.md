@@ -4,13 +4,13 @@ type: location/iolokar
 category: "shop"
 subcategory: "Artisan Workshops"
 level: "L1"
-owner: ""
+owner: "Riftwright Pyrrhex"
 tags: ["iolokar","category:shop","subcategory:Artisan Workshops","level:L1"]
 updated: 2025-10-06
 ---
 ### The Rift Workshop
 
-One‑sentence summary of what this shop is known for.
+Planar‑tolerant craft bench—experimental builds, safe tests, and practical repairs.
 
 ### Location Details
 
@@ -20,26 +20,26 @@ One‑sentence summary of what this shop is known for.
 
 ### Services and Offerings
 
-- ...
-- ...
+ - Prototype fittings and planar‑tolerant hardware
+ - Safety retrofits and field repairs
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+ - “Rift‑safe” clamps and seals tested under drift
+ - Surge‑tolerant plates with clear limits
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+ - Hours: Late morning to evening; test bays by appointment
+ - Entry/reservations: Walk‑ins for repairs; tokens for tests
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
+ - Vibe and sensory notes: Ozone, oil, and chalk lines; quiet hum
+ - Capacity/scale: Mixed sizes; bench bays and a test cell
+ - Seating/flow: Intake → bench → test → sign‑off
 - Map/layout notes: entrance, counter, storage, private rooms
 
 ### Staff and NPCs
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+ - House rules (behavior, breath, magic): No loose magic; test rigs only; goggles in bays
+ - Ordering/service flow (e.g., counter, portal chute, omakase): Scope → quote → bench → test/demo
+ - Hazards/environmental notes: Stored charge and drift; posted limits
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+ - Protections/alarms: Test bay alarms; drift sensors
+ - Wards/anti‑theft: Tag‑wards on prototypes; lock racks
+ - Portal anchors/safeties: Staff pad; test tunnel only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A customer’s device misbehaves under alignment—diagnose and fix.
+ - Social scene: Prototype night—compare builds and trade safe‑test practices.
+ - Complication: A surge fries a board; triage repairs and protect the queue.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+ - Stock highlights: Clamps, seals, plates, and test crystals
+ - Custom orders/lead times: Drift‑tolerant kits 2–5 days; rush repairs same‑day
+ - Planar imports/components: Surge‑salt, dewglass, echo‑quartz
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+ - Time‑of‑day variation: Bench mornings; test afternoons; evening handoffs
+ - Festival/event mode: Pop‑up test checks for travel gear
+ - Planar alignment shift: Drift increases; widen safety limits, slower demos.
 
 ### GM Notes
 

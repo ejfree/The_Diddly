@@ -1,53 +1,53 @@
 ---
 title: "Nystra Facetfall"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "amethyst" # if species=dragon (e.g., emerald, copper)
-role: "Lapidary" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "amethyst"
+role: "Lapidary"
+pronouns: ""
+rank: "Lapidary"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Nystra Facetfall
 
-One‑sentence summary of who this citizen is and why they matter.
+Amethyst dragon lapidary whose cuts make stones sing—precise hands, patient eyes, honest valuations.
 
 ### Appearance
 
-...
+Violet facets with smoky undertones; loupe chain; steady, gentle claws; breath hums like a tuning fork.
 
 ### Personality
 
-...
+Meticulous, kind, and quietly proud of craft. Nystra values clarity and hates wasteful bravado.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Glittering Gemstone](docs/Io'lokar/Locations/the-glittering-gemstone.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Stone intake, test cuts, recuts, and setting consultations.
+ - University or weyr ties: Guest demos on crystal acoustics and safe cutting.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Quarry camps and caravan cutters’ rings.
+ - Notable history: Recut a cracked heirloom into three perfect keepsakes.
+ - Education/training: Apprenticeship, trade exams, and gem acoustics study.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Amethyst tone that reveals fault lines and sweet spots.
+ - Class/CR/Tier: Artisan/support with Arcana, Investigation, and Performance (hands).
+ - Skills/Strengths: Steady hands, ear for resonance, fair quotes.
+ - Gear/Hoard highlights: Loupes, saws, pitch bowls, and tuning stones.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Small loft with light table and a plant or two.
+ - Frequent locations: Gemstone benches; Treasured Legacy lamp table; Archive assay desk.
+ - Travel/transport habits: Walks slowly; carries nothing loose.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A patron brings a song‑stone that won’t sing; find the right cut or the right story.
+ - Social scene: Demos of resonance cuts with tea and quiet applause.
+ - Complication: A fault runs unexpected; save the piece or negotiate a graceful change.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+ - "Every facet is a choice. Choose kindly."
+ - "A good cut tells the stone’s own story."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Morning test cuts; afternoon commissions; evening cleanup and reviews.
+ - Crisis/emergency mode: Stop the wheels, sleeve the stones, and call the client.
+ - Planar alignment shift: Overtones strengthen; faults hum louder—easier to hear, harder to ignore.
 
 ### Stat Block Notes (Optional)
 

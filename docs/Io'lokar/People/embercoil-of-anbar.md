@@ -1,15 +1,13 @@
 ---
 title: "Embercoil of Anbar"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "brass" # if species=dragon (e.g., emerald, copper)
-role: "Proprietor" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "brass"
+role: "Proprietor"
+pronouns: "she/her"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Confident, warm, and business‑lean. Embercoil favors handshakes, clear specs, 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Back room office lined with sealed tins and small tools.
 - Frequent locations: Amber & Ember Imports; Celestial Plates; smith row.
 - Travel/transport habits: Walks for tastings; portal for freight.

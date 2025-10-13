@@ -1,13 +1,13 @@
 ---
 title: "Cerulea Highline"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "cerulean" # if species=dragon (e.g., emerald, copper)
-role: "Designer" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "cerulean"
+role: "Designer"
+pronouns: "she/her"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:designer", "level:L1", "rank:proprietor", "variant:cerulean"]
 updated: 2025-10-07
 ---
@@ -88,4 +88,3 @@ Enthused but precise. Cerulea loves constraints and will pepper clients with que
 ### Related Docs
 
 - City Index: docs/Io'lokar/city-location-breakout.md
-

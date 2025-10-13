@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Aether Artery"
 type: location/iolokar
 category: "place"
@@ -72,9 +73,9 @@ Primary portal thoroughfare for the district—timed passages, safe handoffs, an
 
 ### Variants
 
-- Peak activity mode: Bell‑paced lines, surge lanes open, Metronome Golems visible.
-- Crisis/emergency mode: Soft‑close gates; Quiet Queue converts to assistance bay.
-- Planar alignment shift: Cadence bells harmonize; flux feels like a slow tide.
+- Peak activity mode: Bell‑paced lines with surge lanes; Metronome Golems visible and pads clearly marked.
+- Crisis/emergency mode: Soft‑close gates, widen buffers, and convert Quiet Queue to assistance bay.
+- Planar alignment shift: Cadence bells harmonize; flux feels like a slow tide—expand buffers and post more guides.
 
 ### GM Notes
 

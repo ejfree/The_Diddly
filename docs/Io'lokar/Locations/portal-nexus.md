@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "Portal Nexus"
 type: location/iolokar
 category: "place"

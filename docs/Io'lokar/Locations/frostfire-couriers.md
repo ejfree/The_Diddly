@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Courier and Delivery Services"
 level: "L1"
-owner: ""
+owner: "Dispatcher Skadi Icevein"
 tags: ["iolokar","category:shop","subcategory:Courier and Delivery Services","level:L1"]
 updated: 2025-10-06
 ---

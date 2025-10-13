@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Clothiers"
 level: "L1"
-owner: ""
+owner: "Aurifex Needleclaw"
 tags: ["iolokar","category:shop","subcategory:Clothiers","level:L1"]
 updated: 2025-10-06
 ---

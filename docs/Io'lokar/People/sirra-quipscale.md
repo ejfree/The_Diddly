@@ -1,13 +1,13 @@
 ---
 title: "Sirra Quipscale"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "copper" # if species=dragon (e.g., emerald, copper)
-role: "Publican" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Publican" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "copper"
+role: "Publican"
+pronouns: "she/her"
+rank: "Publican"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Witty, generous, and quick with a toast. Sirra defuses bar fights with a joke an
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy loft above the tavern; walls covered in framed toasts and first‑gig posters.
 - Frequent locations: The Laughing Drake; The Draconic Market; nearby festival square.
 - Travel/transport habits: Walks the lanes; rides delivery carts when needed.

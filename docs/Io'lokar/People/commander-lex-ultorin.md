@@ -1,15 +1,13 @@
 ---
 title: "Commander Lex Ultorin"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "edict" # if species=dragon (e.g., emerald, copper)
-role: "Commander" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "edict"
+role: "Commander"
+pronouns: "he/they"
+rank: "Commander"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Measured, just, and untempted by drama. Lex demands clarity and offers it in ret
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Small duty rooms atop the tower; kettle, cot, and clean ledgers.
 - Frequent locations: Muster Hall; Evidence Vault; Beacon Spire.
 - Travel/transport habits: Walks the ramps; portals only for incidents.
@@ -60,9 +58,9 @@ Measured, just, and untempted by drama. Lex demands clarity and offers it in ret
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: Counterfeit permits surface in patrol; Lex needs discreet verification runs before a raid.
+ - Social scene: Open drill at the yard—earn respect or a polite dismissal.
+ - Complication: A crowd tips toward panic; implement soft‑contain and keep evidence clean.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Measured, just, and untempted by drama. Lex demands clarity and offers it in ret
 
 ### Quotes
 
-- "..."
+ - "Calm first. Clarity next. Then resolve."
+ - "A fair call is stronger than a loud one."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Dawn patrol briefs; midday reviews; dusk drills.
+ - Crisis/emergency mode: Soft‑contain, clear lanes, and single‑clause orders.
+ - Planar alignment shift: Drift pings rise; double‑post guides and carry tether lines.
 
 ### Stat Block Notes (Optional)
 

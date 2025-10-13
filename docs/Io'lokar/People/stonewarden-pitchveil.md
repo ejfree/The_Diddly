@@ -1,15 +1,13 @@
 ---
 title: "Stonewarden Pitchveil"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "bionic" # if species=dragon (e.g., emerald, copper)
-role: "Foreman" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "bionic"
+role: "Foreman"
+pronouns: "they/he"
+rank: "Foreman"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Brisk, fair, and allergic to excuses. Pitchveil respects clean work and clearer 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Spartan cot in a mezzanine office overlooking the yard.
 - Frequent locations: MFK counter, dispatch yard, job sites.
 - Travel/transport habits: Walks fast; portal for crews when bells demand.
@@ -60,9 +58,9 @@ Brisk, fair, and allergic to excuses. Pitchveil respects clean work and clearer 
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A recall hits mid‑festival; Pitchveil needs neutral runners to swap unsafe parts quietly.
+- Social scene: Shift‑change tea on the yard stairs—trade fix‑it war stories.
+- Complication: A client demands a shortcut; hold the line on safety and keep the schedule.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Brisk, fair, and allergic to excuses. Pitchveil respects clean work and clearer 
 
 ### Quotes
 
-- "..."
+- "Brace it right or brace it twice."
+- "We don’t sell speed. We sell certainty."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Dawn dispatch; midday site checks; dusk reconciles and recalls.
+- Crisis/emergency mode: Lock the yard, open triage bays, and send brace teams first.
+- Planar alignment shift: Weight feels odd; Pitchveil posts extra anchors and slower lifts.
 
 ### Stat Block Notes (Optional)
 

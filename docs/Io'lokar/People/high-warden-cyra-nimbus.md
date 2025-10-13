@@ -1,13 +1,13 @@
 ---
 title: "High Warden Cyra Nimbus"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "astral" # if species=dragon (e.g., emerald, copper)
-role: "High Warden" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Host Warden" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "astral"
+role: "High Warden"
+pronouns: "she/her"
+rank: "Host Warden"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Serene, attentive, and quietly firm. Cyra believes kindness and structure make b
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small aerie above the lounge with a balcony garden of wind‑chimes.
 - Frequent locations: The Flight Lounge; Lecture Hub; Tranquil Scale.
 - Travel/transport habits: Walks quietly; glides between mezzanines mid‑day.

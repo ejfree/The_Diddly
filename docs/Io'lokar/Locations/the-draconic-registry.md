@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Draconic Registry"
 type: location/iolokar
 category: "place"
@@ -10,31 +11,31 @@ updated: 2025-10-06
 ---
 ### The Draconic Registry
 
-One‑sentence description of the place and its purpose.
+City registry and civil counter—names, marks, lineage, permits, and papers made clear and binding.
 
 ### Function and Purpose
 
-- Core mandate/services: ...
+- Core mandate/services: Identity, lineage, adoption/guardianship, lair residency, permits, and public records.
 - Audience/users: residents | students | faculty | visitors
-- Jurisdiction/scope: ...
+- Jurisdiction/scope: Citywide civil status and documentation with cross‑level recognition.
 
 ### Location Details
 
 - Level: L2
-- District/adjacency: ...
-- Exterior/architecture: ...
+- District/adjacency: L2 civic ridge near City Hall and Aegis Watchtower.
+- Exterior/architecture: Stone terraces with bell‑arches; broad doors and clear lane markers.
 
 ### Interior and Layout
 
-- Notable areas/rooms: ...
-- Capacity/scale: ...
-- Accessibility (flight, ramps, portals): ...
+- Notable areas/rooms: Names and Marks, Lineage Office, Residency Desk, Quiet Counter, Appeals.
+- Capacity/scale: Large counters with mezzanine records; quiet rooms for edge cases.
+- Accessibility (flight, ramps, portals): Wide ramps, glide perches, and a short‑hop pad.
 
 ### Operations
 
-- Hours/open access: ...
-- Procedures/queues/permits: ...
-- Dependencies (couriers, portals, guard): ...
+- Hours/open access: Morning to early evening; Quiet Counter hours posted.
+- Procedures/queues/permits: Tokened queues, window triage, and appointment slots; plain‑speech forms available.
+- Dependencies (couriers, portals, guard): Aegis for disputes; Planar Post/Nexus for seals and archives.
 
 ### Staff and Roles
 
@@ -51,15 +52,15 @@ One‑sentence description of the place and its purpose.
 
 ### Magic, Wards, and Infrastructure
 
-- Standing effects/wards: ...
-- Safety systems/failsafes: ...
-- Power/portal anchors: ...
+- Standing effects/wards: Hush veils at Quiet Counter; anti‑glamour lamps over windows.
+- Safety systems/failsafes: Queue lights, calm bells, and soft‑close shutters for incidents.
+- Power/portal anchors: Stable grid; archive pad for secure transfers.
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Procedural obstacle: ...
-- Social opportunity: ...
+- Plot hook: A forged seal ring slips bad papers into the line—find the source without spooking the floor.
+- Procedural obstacle: A permit clock runs out during a system hiccup—navigate tokens, triage, and exceptions.
+- Social opportunity: Counter tea at the Quiet Counter—help newcomers turn options into choices.
 
 ### Rumors, Secrets, and Risks
 
@@ -72,9 +73,9 @@ One‑sentence description of the place and its purpose.
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Start‑of‑term surges—extra windows, queue stewards, and posted guides.
+- Crisis/emergency mode: Narrow to essentials, open provisional papers desk, and deploy mobile windows.
+- Planar alignment shift: Ink sweats; seals blur—use sand, fans, and double‑stamps for essentials.
 
 ### GM Notes
 

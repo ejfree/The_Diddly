@@ -1,15 +1,13 @@
 ---
 title: "Osman Cloudspur"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "cloud" # if species=dragon (e.g., emerald, copper)
-role: "Airy Transport O" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "cloud"
+role: "Airy Transport O"
+pronouns: "he/they"
+rank: "Airy Transport O"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Playful, kind, and sneakily practical. Osman loves a problem that ends in a grin
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tiny loft over the shop cluttered with prototypes.
 - Frequent locations: The Oddities counter; the Arcade; the Goblet late.
 - Travel/transport habits: Walks with a whirligig in pocket; glides for joy, not speed.
@@ -60,9 +58,9 @@ Playful, kind, and sneakily practical. Osman loves a problem that ends in a grin
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A batch of wind‑spinners whines at unsafe pitch; retune or recall before a festival.
+ - Social scene: Fix‑and‑tell night—customers bring nonsense to make useful.
+ - Complication: A prank gizmo goes off in the Arcade; disarm with a laugh and a lesson.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Playful, kind, and sneakily practical. Osman loves a problem that ends in a grin
 
 ### Quotes
 
-- "..."
+- "Delight works best when it works."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Tinker mornings; playful afternoons; quiet repairs late.
+ - Crisis/emergency mode: Pull the shelf, post a joke, fix the thing.
+ - Planar alignment shift: Gadgets hum; duds go quiet before they fail.
 
 ### Stat Block Notes (Optional)
 

@@ -1,15 +1,13 @@
 ---
 title: "Amberjack Sugartongue"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "amber" # if species=dragon (e.g., emerald, copper)
-role: "Electric Gossip-" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/she" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "amber"
+role: "Electric Gossip-Sweetmaker"
+pronouns: "they/she"
+rank: "Electric Gossip-Sweetmaker"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Chatty, charming, and sharper than they look. Amberjack knows everyone’s sweet
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy rooms above the shop with jars of sample shards.
 - Frequent locations: Treats counter; the Arcade; the Goblet for laughs.
 - Travel/transport habits: Walks with a ribbon‑wrapped sample box.
@@ -60,9 +58,9 @@ Chatty, charming, and sharper than they look. Amberjack knows everyone’s sweet
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A brittle batch won’t set and a rumor is half‑baked; fix both before gossip curdles.
+- Social scene: Gossip‑sweet hour—trade news and kindness with tasting flights.
+- Complication: A knockoff candy chips scales; pull boxes and mend trust.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Chatty, charming, and sharper than they look. Amberjack knows everyone’s sweet
 
 ### Quotes
 
-- "..."
+- "Sweet first, sharp later—if at all."
+- "If you share it, make sure it helps."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: After‑school fizz; evening couples; festival rush.
+- Crisis/emergency mode: Close samples, run core sweets only, and post lot numbers.
+- Planar alignment shift: Sugar sings and colors bloom—dial heat down and portion kinder.
 
 ### Stat Block Notes (Optional)
 

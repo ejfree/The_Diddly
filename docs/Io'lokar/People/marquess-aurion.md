@@ -1,15 +1,13 @@
 ---
 title: "Marquess Aurion"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "allure" # if species=dragon (e.g., emerald, copper)
-role: "Opulent Fashion " # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "allure"
+role: "Opulent Fashion "
+pronouns: "he/they"
+rank: "Opulent Fashion "
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Gracious, exacting, and protective of clients’ dignity. Aurion never mocks—h
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Salon rooms behind the shop with sketches and a tea cart.
 - Frequent locations: Fangs & Finery; Celestial Theater; promenade salons.
 - Travel/transport habits: Walks with a ribbon case; portal on deadlines.
@@ -60,9 +58,9 @@ Gracious, exacting, and protective of clients’ dignity. Aurion never mocks—h
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A high‑profile fitting risks unsafe harness access—salvage the look without sacrificing safety.
+- Social scene: Salon sampling of fabrics; discuss comfort vs. spectacle with patrons.
+- Complication: A rush order arrives with counterfeit trims; source true stock before the bell.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Gracious, exacting, and protective of clients’ dignity. Aurion never mocks—h
 
 ### Quotes
 
-- "..."
+- "Elegance serves comfort, never the other way."
+- "We edit clothes, not people."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Morning consults; afternoon fittings; evening handoffs for galas.
+- Crisis/emergency mode: Cut to essentials, secure access points, and send clients out calm and polished.
+- Planar alignment shift: Glamours thicken; lines need simplifying so details read true.
 
 ### Stat Block Notes (Optional)
 

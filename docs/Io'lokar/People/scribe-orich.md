@@ -1,15 +1,13 @@
 ---
 title: "Scribe Orich"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "edict" # if species=dragon (e.g., emerald, copper)
-role: "Scribe" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "edict"
+role: "Scribe"
+pronouns: "they/he"
+rank: "Scribe"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Patient, precise, and quietly funny. Orich believes clear paperwork saves lives.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Little loft above the shop with a tea shelf and tidy desk.
 - Frequent locations: Quill & Scale; City Hall counters; Aegis Intake Desk.
 - Travel/transport habits: Walks with a satchel and spare sleeves.
@@ -60,9 +58,9 @@ Patient, precise, and quietly funny. Orich believes clear paperwork saves lives.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A permit change drops mid‑term; Orich needs runners to update forms across counters before chaos spreads.
+- Social scene: Tea at the press—learn to trim a form to what matters.
+- Complication: A counterfeit stamp batch appears; trace its maker and secure honest plates.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Patient, precise, and quietly funny. Orich believes clear paperwork saves lives.
 
 ### Quotes
 
-- "..."
+- "Plain words, clean stamps, calm rooms."
+- "If you can’t explain it, it isn’t fair."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Quiet mornings for plates; brisk midday counters; evening reconciles.
+- Crisis/emergency mode: Lock plates, issue provisional forms, and open a help table.
+- Planar alignment shift: Ink smears; Orich sands pages and double‑stamps essentials.
 
 ### Stat Block Notes (Optional)
 

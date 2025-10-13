@@ -1,53 +1,53 @@
 ---
 title: "Tallier Prism"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "crystal" # if species=dragon (e.g., emerald, copper)
-role: "Rent Rolls And S" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "crystal"
+role: "Rent Rolls And S"
+pronouns: ""
+rank: "Rent Rolls And S"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Tallier Prism
 
-One‑sentence summary of who this citizen is and why they matter.
+Crystal market tallier who keeps stalls flowing—rent rolls, route slots, and token fairness at the Draconic Market.
 
 ### Appearance
 
-...
+Clear‑edged crystal plates that throw soft rainbows; a clicker counter; bandolier of tokens and chalks.
 
 ### Personality
 
-...
+Upbeat and decisive. Prism celebrates good hustle and hates line‑cutting.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Draconic Market](docs/Io'lokar/Locations/the-draconic-market.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Assigns slots, tallies rent, opens relief lanes, and posts fair rotation rules.
+ - University or weyr ties: Hosts vendor math nights; interns learn crowd flow.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Token tables at festival circuits.
+ - Notable history: Designed a color‑token system that smoothed rush hours.
+ - Education/training: Counting, signage, and dispute basics.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Prism breath that marks lanes with gentle glow and highlights gaps.
+ - Class/CR/Tier: Civic/support; Perception, Insight, and Athletics.
+ - Skills/Strengths: Counting fast, seeing flow, and friendly authority.
+ - Gear/Hoard highlights: Token tins, chalks, queue flags, and bell whistle.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Tiny loft over the token booth with a cot and ledger shelf.
+ - Frequent locations: Token booth, lane paints, and Arbitration Table.
+ - Travel/transport habits: Walks; hops onto crates for visibility.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A ticket hoarder skews fairness; redesign rules mid‑market.
+- Social scene: Vendor shout‑outs—celebrate good neighbor behavior.
+- Complication: A lane collapse; re‑stripe and re‑route on the fly.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,13 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Flow fair, trade fair."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Dawn setup; noon surge; dusk settle.
+- Crisis/emergency mode: Halt, breathe, re‑chalk; reopen in pulses.
+- Planar alignment shift: Colors drift; gaps gleam; bottlenecks dim.
 
 ### Stat Block Notes (Optional)
 

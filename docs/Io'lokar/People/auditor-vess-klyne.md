@@ -1,15 +1,13 @@
 ---
 title: "Auditor Vess Klyne"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "bronze" # if species=dragon (e.g., emerald, copper)
-role: "Auditor" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "bronze"
+role: "Auditor"
+pronouns: "they/he"
+rank: "Auditor"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Patient, skeptical, and fair. Vess asks for facts and timestamps, not speeches.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Small mezzanine room over the vault with a kettle and neat shelves.
 - Frequent locations: Evidence Vault; Intake Desk; City Hall records.
 - Travel/transport habits: Walks with a cart; portals for vault transfers only.
@@ -75,9 +73,9 @@ Patient, skeptical, and fair. Vess asks for facts and timestamps, not speeches.
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Mornings favor intake audits and chain checks; afternoons handle viewing appointments; late evenings are for quiet reconciliations.
+- Crisis/emergency mode: Lock the vault, freeze movements, and open a single intake lane; all items sleeved and logged before discussion.
+- Planar alignment shift: Residual glamours film the air like oil; Vess’s breath shows tampering as a cold sheen.
 
 ### Stat Block Notes (Optional)
 

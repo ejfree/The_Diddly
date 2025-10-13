@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "General Stores"
 level: "L1"
-owner: ""
+owner: "Quartermaster Grellix Ledgergreen"
 tags: ["iolokar","category:shop","subcategory:General Stores","level:L1"]
 updated: 2025-10-06
 ---

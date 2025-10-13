@@ -1,13 +1,13 @@
 ---
 title: "Nocturne Whisper"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "nightmare" # if species=dragon (e.g., emerald, copper)
-role: "Impresario" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Impresario" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "nightmare"
+role: "Impresario"
+pronouns: "they/them"
+rank: "Impresario"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Gentle, inviting, and piercingly insightful. Nocturne prefers questions to comma
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Backstage suite with velvet hush and a small tea table; walls hung with past posters.
 - Frequent locations: Echoes of Eternity; Lecture Hub salons; the Tranquil Scale after midnight.
 - Travel/transport habits: Walks softly; prefers back alleys and skywalks.

@@ -1,15 +1,13 @@
 ---
 title: "Sourfen Mirebrew"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "black" # if species=dragon (e.g., emerald, copper)
-role: "Barkeep" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "black"
+role: "Barkeep"
+pronouns: "he/they"
+rank: "Barkeep"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Sardonic, steady, and fair. Sourfen feeds folks who need feeding and growls at t
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tiny room behind the bar with a clean cot and a locked drawer.
 - Frequent locations: The Grundle; Goblet; Market.
 - Travel/transport habits: Walks those who need walking home.
@@ -60,9 +58,9 @@ Sardonic, steady, and fair. Sourfen feeds folks who need feeding and growls at t
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A rumor worth coin lands wet—Sourfen wants it dried into facts before sharing.
+- Social scene: Dart night where insults are seasoning; win respect by laughing right.
+- Complication: A slick rival tries to poach regulars with fake tabs; expose the trick without a brawl.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Sardonic, steady, and fair. Sourfen feeds folks who need feeding and growls at t
 
 ### Quotes
 
-- "..."
+- "Eat first. Then talk."
+- "If you can’t stand a little salt, order water."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Quiet prep afternoons; loud dart evenings; soft close with regulars.
+- Crisis/emergency mode: Kitchen goes soup and bread only; tabs pause; tempers cool or leave.
+- Planar alignment shift: Air gets heavy and jokes get meaner—Sourfen dials lights up and pours more water.
 
 ### Stat Block Notes (Optional)
 

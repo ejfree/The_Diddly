@@ -1,15 +1,13 @@
 ---
 title: "Merrith Caskringer"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "copper" # if species=dragon (e.g., emerald, copper)
-role: "Publican" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "copper"
+role: "Publican"
+pronouns: "she/her"
+rank: "Publican"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Warm, witty, and watchful. Merrith notices tension before it boils and solves mo
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Loft over the bar with a wall of gifted mugs and first‑gig coasters.
 - Frequent locations: The Goblet; market lanes; the Flight Lounge after hours.
 - Travel/transport habits: Walks the lanes; rides delivery carts when needed.

@@ -1,15 +1,13 @@
 ---
 title: "Curator Ormion Attalus"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "occult" # if species=dragon (e.g., emerald, copper)
-role: "Curator" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "occult"
+role: "Curator"
+pronouns: "he/they"
+rank: "Senior Curator"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Dry humor, strict ethics, and patient explanations. Ormion values clarity over m
 
 ### Residences and Haunts
 
-- Home level: L?
+ - Home level: L1
 - Lair/Home description: Sparse loft of shelves and a tea cart.
 - Frequent locations: Archive stacks; Lecture Hub; Celestial Atlas assay bench.
 - Travel/transport habits: Walks with folio cart; portal loans by appointment.
@@ -60,9 +58,9 @@ Dry humor, strict ethics, and patient explanations. Ormion values clarity over m
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A provenance chain splits—two donors claim the same codex; Ormion needs impartial eyes and polite persistence.
+- Social scene: Annotation night with tea; share marginalia traditions and argue footnotes kindly.
+- Complication: A reader triggers a sleepy ward; reset the room and reassure patrons without shame.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Dry humor, strict ethics, and patient explanations. Ormion values clarity over m
 
 ### Quotes
 
-- "..."
+- "Clarity is the best ward."
+- "We read bravely and safely—or not at all."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Quiet mornings for cataloging; afternoons for consultations; evenings for community study.
+- Crisis/emergency mode: Close volatile stacks; sleeves on all items; consultations by appointment only.
+- Planar alignment shift: Margins whisper; Ormion’s hush breath dims hungry notes and stabilizes inks.
 
 ### Stat Block Notes (Optional)
 

@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "Aurora’s Amusement Arcade"
 type: location/iolokar
 category: "place"

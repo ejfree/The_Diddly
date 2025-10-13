@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Grocery/Provisions Stores"
 level: "L1"
-owner: ""
+owner: "Coldkeeper Hrim"
 tags: ["iolokar","category:shop","subcategory:Grocery/Provisions Stores","level:L1"]
 updated: 2025-10-06
 ---

@@ -1,15 +1,13 @@
 ---
 title: "Nexus Master Wells"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "wellspring" # if species=dragon (e.g., emerald, copper)
-role: "Nexus Master" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "wellspring"
+role: "Nexus Master"
+pronouns: "he/they"
+rank: "Nexus Master"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Patient, grounded, and decisive in crisis. Wells trusts procedures and people.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Spartan quarters behind Anchor Hall; kettle and cot.
 - Frequent locations: Nexus rings; Aether Artery; City Hall codes desk.
 - Travel/transport habits: Walks; portals only on duty.
@@ -60,9 +58,9 @@ Patient, grounded, and decisive in crisis. Wells trusts procedures and people.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: An anchor’s hum drifts off‑key; Wells needs steady hands to re‑tune before rush.
+ - Social scene: Student tour—show how anchors breathe and why soft‑close matters.
+ - Complication: Customs jam at a ring; keep lines fair while clearing a bad manifest.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Patient, grounded, and decisive in crisis. Wells trusts procedures and people.
 
 ### Quotes
 
-- "..."
+- "Steady anchors make brave journeys."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Dawn checks; midday pulses; twilight soft‑closes.
+ - Crisis/emergency mode: Freeze non‑essential travel, pair guides, and post clear bells.
+ - Planar alignment shift: Rings glow even; drift pockets show as gentle eddies.
 
 ### Stat Block Notes (Optional)
 

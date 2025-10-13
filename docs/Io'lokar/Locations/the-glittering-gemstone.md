@@ -4,13 +4,13 @@ type: location/iolokar
 category: "shop"
 subcategory: "Gem Merchants"
 level: "L1"
-owner: ""
+owner: "Nystra Facetfall"
 tags: ["iolokar","category:shop","subcategory:Gem Merchants","level:L1"]
 updated: 2025-10-06
 ---
 ### The Glittering Gemstone
 
-One‑sentence summary of what this shop is known for.
+Buying, cutting, and setting—quiet deals and honest assessments.
 
 ### Location Details
 
@@ -20,26 +20,26 @@ One‑sentence summary of what this shop is known for.
 
 ### Services and Offerings
 
-- ...
-- ...
+ - Appraisals, buying, and recuts
+ - Setting consultations and gentle restorations
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+ - Resonance‑tested cuts that make stones sing
+ - Discreet purchase desk for sellers
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+ - Hours: Late morning to early evening; appointments for recuts
+ - Entry/reservations: Walk‑ins for IDs; tokens for bench work
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
+ - Vibe and sensory notes: Bright lamps, soft cloth, and hush bells
+ - Capacity/scale: Mixed sizes; bench bays and consult table
+ - Seating/flow: Counter → lamp → consult → sleeve/lockbox
 - Map/layout notes: entrance, counter, storage, private rooms
 
 ### Staff and NPCs
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+ - House rules (behavior, breath, magic): No loose breath at the bench; gloves on request
+ - Ordering/service flow (e.g., counter, portal chute, omakase): Intake → lamp → notes → result
+ - Hazards/environmental notes: Fragile mounts; posted weights
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+ - Protections/alarms: Case bells; door chime
+ - Wards/anti‑theft: Tag‑wards; lock boxes
+ - Portal anchors/safeties: Staff pad for secure transfers
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A disputed stone needs neutral ears; keep tempers cool.
+ - Social scene: Resonance demo with tea and soft claps.
+ - Complication: A counterfeit floods the street; trace the maker.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+ - Stock highlights: Sleeves, oils, loupe kits, and display cases
+ - Custom orders/lead times: Recut windows 1–3 days; settings 2–7
+ - Planar imports/components: Dewglass, hush‑silk, and warded lock cores
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+ - Time‑of‑day variation: Quiet mornings; active afternoons; evening appointments
+ - Festival/event mode: Pop‑up ID desk; schedule bench work later
+ - Planar alignment shift: Facets sparkle; illusions risk flattering fakes—test slower.
 
 ### GM Notes
 

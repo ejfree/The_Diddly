@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Student Services"
 level: "L1"
-owner: ""
+owner: "Allurienne Vox"
 tags: ["iolokar","category:shop","subcategory:Student Services","level:L1"]
 updated: 2025-10-06
 ---

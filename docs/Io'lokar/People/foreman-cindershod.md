@@ -1,13 +1,13 @@
 ---
 title: "Foreman Cindershod"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "underworld" # if species=dragon (e.g., emerald, copper)
-role: "Foreman" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Shop Foreman" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "underworld"
+role: "Foreman"
+pronouns: "he/him"
+rank: "Shop Foreman"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Blunt, fair, and practical. Cindershod likes plans that fit and bolts that bite.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: A compact bay off the workshop with a cot and a wall of sample anchors.
 - Frequent locations: The shop floor; retrofit sites; Skyline Furnishings for joint designs.
 - Travel/transport habits: Walks or rides the freight pad; flies only when scouting.

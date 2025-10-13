@@ -1,15 +1,13 @@
 ---
 title: "Director Vermia"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "vermillion" # if species=dragon (e.g., emerald, copper)
-role: "Director" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "vermillion"
+role: "Director"
+pronouns: "she/her"
+rank: "Director"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Exuberant, kind, and ruthlessly organized. Vermia believes fun is safer when rul
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Loft above the arcade with a trophy wall of retired tokens.
 - Frequent locations: Arcade floor; festival square; prize vendors.
 - Travel/transport habits: Skates through crowds; flies only after close.

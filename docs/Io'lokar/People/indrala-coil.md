@@ -1,15 +1,13 @@
 ---
 title: "Indrala Coil"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "indigo" # if species=dragon (e.g., emerald, copper)
-role: "Components Merchant" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "indigo"
+role: "Components Merchant"
+pronouns: "she/they"
+rank: "Components Merchant"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Exuberant, patient, and practical. Indrala believes most problems have a safe wo
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy loft above the counter with a tea kettle and a chalk wall.
 - Frequent locations: Elemental Essentials; Lecture Hub; Alchemist’s Corner.
 - Travel/transport habits: Walks; portal for crates; waves at everyone.
@@ -60,9 +58,9 @@ Exuberant, patient, and practical. Indrala believes most problems have a safe wo
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A bad “swap list” circulates; Indrala asks for help correcting cards city‑wide without shaming novices.
+ - Social scene: Swap‑school bench—learn three safe substitutions and when not to.
+ - Complication: A budget run empties key jars; triage kits so the most people can learn safely.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Exuberant, patient, and practical. Indrala believes most problems have a safe wo
 
 ### Quotes
 
-- "..."
+- "There’s almost always a safe swap."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Calm opens; busy midday demos; quiet evening restocks.
+ - Crisis/emergency mode: Lock risky swaps, post red cards, and set a help table.
+ - Planar alignment shift: Jars hum; safe pairings glow faintly when close.
 
 ### Stat Block Notes (Optional)
 

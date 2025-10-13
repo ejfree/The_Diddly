@@ -10,7 +10,7 @@ tags: []
 Major: History
 Minor: Archano Mechanics
 
-Major Advisor:
+Major Advisor: Dean Argentius
 
 Summon to  Oathen Claw - The First Tussle Invite.
 Have the tussle

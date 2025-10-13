@@ -1,53 +1,53 @@
 ---
 title: "Mistress Azura Canticle"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "paradise" # if species=dragon (e.g., emerald, copper)
-role: "Mistress" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "paradise"
+role: "Mistress"
+pronouns: ""
+rank: "Mistress"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Mistress Azura Canticle
 
-One‑sentence summary of who this citizen is and why they matter.
+Paradise dragon spa mistress who pairs gracious hosting with restorative soaks—quiet voices, soft lights, and care that lasts.
 
 ### Appearance
 
-...
+Iridescent paradise scales; soft linen wraps; a tray of oils; voice tuned to hush rooms gently.
 
 ### Personality
 
-...
+Warm, attentive, and boundary‑wise. Azura makes care feel luxurious without pressure.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Scale Spa](docs/Io'lokar/Locations/the-scale-spa.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Curates soaks, trains staff, sets consent scripts, and maintains safety with heat and herbs.
+ - University or weyr ties: Offers student nights; teaches care that carries home.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Caravan bath tents that healed road‑tired bodies kindly.
+ - Notable history: Wrote the city’s consent‑first spa standard.
+ - Education/training: Hydrotherapy, herbalism, and hosting.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Paradise aura that softens soreness and slows room tempo.
+ - Class/CR/Tier: Social/support; Medicine, Insight, and Performance.
+ - Skills/Strengths: Boundaries, de‑escalation, and comfort design.
+ - Gear/Hoard highlights: Scent stones, temperature beads, and spare robes.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Calm apartment with plants, a kettle, and quiet chairs.
+ - Frequent locations: Spa pools, herb room, and the towel wall.
+ - Travel/transport habits: Walks softly; carries spare mint leaves.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: An overheated pool risks harm; cool, explain, and restore trust.
+ - Social scene: Scent‑blending night—guests craft take‑home teas.
+ - Complication: A guest breaks boundaries; uphold staff and keep the room safe.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,13 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Consent is the cornerstone of care."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Morning resets; midday gentle flow; twilight lullabies.
+ - Crisis/emergency mode: Cool, dim, quiet; clear words and exits.
+ - Planar alignment shift: Steam curls in slow patterns; voices fall to hush.
 
 ### Stat Block Notes (Optional)
 

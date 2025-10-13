@@ -1,15 +1,13 @@
 ---
 title: "Zephyron Pagewhisper"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "bronze" # if species=dragon (e.g., emerald, copper)
-role: "Lounge Keeper" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "bronze"
+role: "Lounge Keeper"
+pronouns: "he/they"
+rank: "Lounge Keeper"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Gentle, wry, and attentive. Zephyron values quiet joy and unhurried talk.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small rooms over the lounge; shelf of favorites; a comfy chair.
 - Frequent locations: Planar Brews; Flight Lounge; Lecture Hub salons.
 - Travel/transport habits: Walks; glides at dusk.
@@ -60,9 +58,9 @@ Gentle, wry, and attentive. Zephyron values quiet joy and unhurried talk.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A visiting poet’s set runs long; keep the room kind while rebalancing flights and seats.
+- Social scene: Quiet tasting—pair poems with teas and soft lights.
+- Complication: A loud group ignores hush cards; reset tone without humiliation.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Gentle, wry, and attentive. Zephyron values quiet joy and unhurried talk.
 
 ### Quotes
 
-- "..."
+- "We pour quiet on purpose."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Morning prep; afternoon study; evening salons.
+- Crisis/emergency mode: Dim lights, slow music, and soft‑voice service.
+- Planar alignment shift: Steam curls in readable lines; whispers carry just enough.
 
 ### Stat Block Notes (Optional)
 

@@ -1,13 +1,13 @@
 ---
 title: "Broker Salteras"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "brine" # if species=dragon (e.g., emerald, copper)
-role: "Broker" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Exchange Broker" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "brine"
+role: "Broker"
+pronouns: "they/them"
+rank: "Exchange Broker"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Reserved, precise, and utterly dependable. Salteras keeps their tone low and the
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Spartan loft with lockboxes for sensitive manifests.
 - Frequent locations: Exchange counters; courier pads; City Hall for tariff updates.
 - Travel/transport habits: Walks and short portal hops; avoids grand entrances.

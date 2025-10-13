@@ -1,53 +1,53 @@
 ---
 title: "Warder Gant"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "bronze" # if species=dragon (e.g., emerald, copper)
-role: "Incident Respons" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "bronze"
+role: "Incident Respons"
+pronouns: ""
+rank: "Incident Respons"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Warder Gant
 
-One‑sentence summary of who this citizen is and why they matter.
+Bronze warder who bridges Portal Nexus and Aegis Watch—incident response with calm commands and clean handoffs.
 
 ### Appearance
 
-...
+Polished bronze scales; whistle cord and flag set; breath like cool brass and ink.
 
 ### Personality
 
-...
+Unflappable, fair, and concise. Gant gives single‑clause orders people can follow under stress.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Portal Nexus](docs/Io'lokar/Locations/portal-nexus.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Incident triage, lane closures, reroute coordination, and post‑mortems with Aegis.
+- University or weyr ties: Drills with student couriers and lecture‑hall evacuation practice.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Caravan waygates and storm‑season rescues.
+ - Notable history: Cleared a cascading drift by widening buffers and posting clear guides.
+ - Education/training: Logistics, de‑escalation, and incident command.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Bronze tone that carries instructions evenly; calms heckling and panic.
+ - Class/CR/Tier: Social/support with Insight, Persuasion, and Athletics.
+ - Skills/Strengths: Clear calls, buffer math, and quick reroutes.
+ - Gear/Hoard highlights: Flags, bells, sand clocks, and a pocket kettle.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Spartan loft with clock wall and folded flags.
+ - Frequent locations: Nexus pads; Aegis Watchtower intake; Aether Artery drills.
+ - Travel/transport habits: Walks pads; portal hops on schedule only.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A beacon glitch threatens a festival; Gant needs runners to post and guide calm detours.
+ - Social scene: Shift‑change tea—trade patience tricks and reroute lore.
+ - Complication: A VIP demands priority; keep fairness and safety intact.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+ - "Buffers are kindness."
+ - "Say it once. Say it clearly."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Calm opens; noisy midday; focused finals bell.
+ - Crisis/emergency mode: Soft‑close pads, open aid tables, single‑clause commands.
+ - Planar alignment shift: Flux thickens; widen buffers; post more guides.
 
 ### Stat Block Notes (Optional)
 

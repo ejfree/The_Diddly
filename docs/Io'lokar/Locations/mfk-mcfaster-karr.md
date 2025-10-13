@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Building Supplies"
 level: "L1"
-owner: ""
+owner: "Stonewarden Pitchveil"
 tags: ["iolokar","category:shop","subcategory:Building Supplies","level:L1"]
 updated: 2025-10-06
 ---

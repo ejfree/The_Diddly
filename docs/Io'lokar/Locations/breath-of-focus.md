@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Recreational Areas"
 level: "L1"
-owner: ""
+owner: "High Prior Aerion"
 tags: ["iolokar","category:shop","subcategory:Recreational Areas","level:L1"]
 updated: 2025-10-06
 ---

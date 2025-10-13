@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Curiosity Shops"
 level: "L1"
-owner: ""
+owner: "Vortxel Ferris"
 tags: ["iolokar","category:shop","subcategory:Curiosity Shops","level:L1"]
 updated: 2025-10-06
 ---

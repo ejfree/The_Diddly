@@ -1,15 +1,13 @@
 ---
 title: "Advocate Mel"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "court" # if species=dragon (e.g., emerald, copper)
-role: "Advocate" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "court"
+role: "Advocate"
+pronouns: "she/they"
+rank: "Advocate"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Kind, firm, and relentlessly practical. Mel measures courage in signatures, not 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Small office with a kettle and a shelf of thank‑you notes.
 - Frequent locations: Tax counters; Arbitration Spire; City Hall.
 - Travel/transport habits: Walks with a satchel of forms.
@@ -60,9 +58,9 @@ Kind, firm, and relentlessly practical. Mel measures courage in signatures, not 
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A debtor’s file disappears mid‑review; Mel needs a lawful workaround before interest crushes them.
+ - Social scene: Clinic evening where volunteers practice plain‑speech explanations.
+ - Complication: A predatory clause lurks in a standard form; excise it and fix the lot.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Kind, firm, and relentlessly practical. Mel measures courage in signatures, not 
 
 ### Quotes
 
-- "..."
+ - "Mercy is a schedule you can keep."
+ - "Plain speech makes fair deals."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Morning filings; afternoon negotiations; evening clinics.
+ - Crisis/emergency mode: Freeze penalties; issue temporary accords; reopen when calm.
+ - Planar alignment shift: Tempers soften; post shorter forms and bigger signs.
 
 ### Stat Block Notes (Optional)
 

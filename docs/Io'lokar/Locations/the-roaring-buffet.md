@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Restaurants/Cafes"
 level: "L1"
-owner: ""
+owner: "Lady Carmina Carveflame"
 tags: ["iolokar","category:shop","subcategory:Restaurants/Cafes","level:L1"]
 updated: 2025-10-06
 ---
@@ -80,15 +80,15 @@ Feasting hall for big appetites—roaring service, carved platters, and festival
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Carveflame roasts, festival stews, ember‑breads, and barrel teas.
+- Custom orders/lead times: Feast trays for crews and wardens; 1–2 bells for hot platters; large tables by token.
+- Planar imports/components: Ember‑herbs, surge‑salt, and echo‑quartz timers for course bells.
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Lunch rush loud and lively; steady early dinner; late plates for performers.
+- Festival/event mode: Overflows to street lanes with tokened queue ropes; carver chorus keeps lines moving.
+- Planar alignment shift: Smokes cling longer; flavors deepen; heat control needs closer watching.
 
 ### GM Notes
 

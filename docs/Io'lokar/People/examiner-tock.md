@@ -1,15 +1,13 @@
 ---
 title: "Examiner Tock"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "topaz" # if species=dragon (e.g., emerald, copper)
-role: "Audits Inventory" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "topaz"
+role: "Audits Inventory"
+pronouns: "they/them"
+rank: "Audits Inventory"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Polite, methodical, and kind. Tock treats errors as puzzles, not crimes—until 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Modest loft with tidy shelves and a tea tray.
 - Frequent locations: Tax counters; City Hall bindery; Quill & Scale.
 - Travel/transport habits: Walks with a clipboard; portals only for vault work.
@@ -60,9 +58,9 @@ Polite, methodical, and kind. Tock treats errors as puzzles, not crimes—until 
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A ledger goes missing between counters; Tock needs quiet retrieval before harm lands wrong.
+ - Social scene: Tea over sample ledgers—learn to read lists like stories.
+ - Complication: A forged line hides a theft; fix the harm without breaking trust.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Polite, methodical, and kind. Tock treats errors as puzzles, not crimes—until 
 
 ### Quotes
 
-- "..."
+ - "Every list tells a story. We make it true."
+ - "Kind audits keep neighbors neighbors."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Morning audits; noon interviews; dusk reconciles.
+ - Crisis/emergency mode: Hold seizures; issue receipts; tally before talk.
+ - Planar alignment shift: Ink sweats and erasures show bright—verify twice.
 
 ### Stat Block Notes (Optional)
 

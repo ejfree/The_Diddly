@@ -1,15 +1,13 @@
 ---
 title: "Maestro Harlek"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "harlequin" # if species=dragon (e.g., emerald, copper)
-role: "Maestro" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "harlequin"
+role: "Maestro"
+pronouns: "he/they"
+rank: "Maestro"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Witty, fair, and welcoming. Harlek enforces house rules with a smile.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tiny loft with shelves of games and a comfy chair.
 - Frequent locations: The Den; the Arcade; the Goblet on quiz nights.
 - Travel/transport habits: Walks; glides home late with a quiet smile.
@@ -60,9 +58,9 @@ Witty, fair, and welcoming. Harlek enforces house rules with a smile.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: Rumors of a rigged bracket; Harlek asks for a transparent re‑seed before finals.
+ - Social scene: Rules clinic—teach three games fast with kind demos.
+ - Complication: A tie sparks tempers; defuse and design a fair tiebreak.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Witty, fair, and welcoming. Harlek enforces house rules with a smile.
 
 ### Quotes
 
-- "..."
+- "Rules protect the fun."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Quiet opens; lively afternoons; championship nights.
+ - Crisis/emergency mode: Pause play, clarify, and restart with smiles.
+ - Planar alignment shift: Odds even out; show the math on the wall.
 
 ### Stat Block Notes (Optional)
 

@@ -1,13 +1,13 @@
 ---
 title: "Master Rhexis Vol"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "blue" # if species=dragon (e.g., emerald, copper)
-role: "Meticulous Reage" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "blue"
+role: "Meticulous Reage"
+pronouns: "he/him"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Precise, dryly funny, and quietly kind. Rhexis prefers data to drama and will re
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Sparse loft with a tidy tea shelf and a wall of calibrated weights.
 - Frequent locations: The Celestial Atlas; Alchemist’s Corner; Lecture Hub workshops.
 - Travel/transport habits: Walks with a sample case; courier for bulk.

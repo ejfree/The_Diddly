@@ -1,15 +1,13 @@
 ---
 title: "Captain Indira Gale"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "indigo" # if species=dragon (e.g., emerald, copper)
-role: "Captain" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "indigo"
+role: "Captain"
+pronouns: "she/her"
+rank: "Captain"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Upbeat, steady, and protective. Indira loves first flights and careful thrills; 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy loft with a wind window and a wall of photos.
 - Frequent locations: Ethereal Escapes; Flight Lounge; promenade.
 - Travel/transport habits: Walks the promenade; glides for fun, not speed.

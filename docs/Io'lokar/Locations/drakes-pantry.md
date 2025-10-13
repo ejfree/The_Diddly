@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Grocery/Provisions Stores"
 level: "L1"
-owner: ""
+owner: "Whiteclaw of the Fell"
 tags: ["iolokar","category:shop","subcategory:Grocery/Provisions Stores","level:L1"]
 updated: 2025-10-06
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Seraphine Frostleaf"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "silver" # if species=dragon (e.g., emerald, copper)
-role: "Alchemist" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "silver"
+role: "Alchemist"
+pronouns: "she/her"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Warm bedside manner, clinical mind. Speaks softly and precisely; expects consent
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: A tidy loft over the dispensary with a winter herb garden under cool lamps.
 - Frequent locations: Drake’s Remedy; The Draconic Market; Frostfire Couriers’ depot.
 - Travel/transport habits: Prefers footpaths and portal chutes to keep temperatures stable; uses insulated satchels.

@@ -1,13 +1,13 @@
 ---
 title: "Advocate Nen"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "blue" # if species=dragon (e.g., emerald, copper)
-role: "Advocate" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Court Advocate" # e.g., matriarch, guard captain, student
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "blue"
+role: "Advocate"
+pronouns: "they/them"
+rank: "Court Advocate"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Crisp, patient, and exacting. Nen prefers questions to statements and trims spee
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: A narrow L2 aerie lined with pigeonholes of precedents and “case‑maps” strung like constellations between shelving.
 - Frequent locations: The Arbitration Spire (intake desk, gallery perches); Draconic Lecture Hub (guest seminars); The Crystal Pantry (bribes for overworked scribes).
 - Travel/transport habits: Glides between towers when weather is fair; otherwise takes timed portal tokens to arrive exactly when bell‑chimes change.

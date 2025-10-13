@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Lair Customization"
 level: "L1"
-owner: ""
+owner: "Umbralia Veilstone"
 tags: ["iolokar","category:shop","subcategory:Lair Customization","level:L1"]
 updated: 2025-10-06
 ---

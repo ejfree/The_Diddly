@@ -1,53 +1,53 @@
 ---
 title: "Registrar Lapis Thurn"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "topaz" # if species=dragon (e.g., emerald, copper)
-role: "Registrar" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "topaz"
+role: "Registrar"
+pronouns: ""
+rank: "Registrar"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Registrar Lapis Thurn
 
-One‑sentence summary of who this citizen is and why they matter.
+Topaz registrar who specializes in edge cases—calm lanes for complicated lives.
 
 ### Appearance
 
-...
+Clear amber scales with a soft lamp brooch; neat stamp cord; breath like paper and rain.
 
 ### Personality
 
-...
+Patient, precise, and protective of dignity. Lapis believes clarity is care.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Io’lokar City Hall](docs/Io'lokar/Locations/iolokar-city-hall.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Name changes, guardianship, adoptions, and unusual proofs.
+ - University or weyr ties: Clinics for international students and new residents.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Waystation record desks under drift and bad weather.
+ - Notable history: Built the “quiet counter” model many offices copied.
+ - Education/training: Administration, mediation, and trauma‑informed practice.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Topaz hush that steadies hands and speech for forms.
+ - Class/CR/Tier: Social/support with Insight and Persuasion.
+ - Skills/Strengths: Edge‑case literacy, gentle boundary setting, and documentation audits.
+ - Gear/Hoard highlights: Seal set, privacy screens, and tea kit.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Tiny loft with tidy files and a kettle.
+ - Frequent locations: City Hall quiet counter; Aegis Intake; Registry annex.
+ - Travel/transport habits: Walks counters; portals for archive pulls.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A family’s paperwork stalled by a missing stamp; retrieve or rebuild the chain kindly.
+ - Social scene: Tea at the quiet counter—translate options into choices.
+ - Complication: An examiner demands an impossible proof; find a lawful alternative.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+ - "We are the counter where breaths slow."
+ - "Dignity is a line item."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Calm opens; complex cases midday; reconciles at close.
+ - Crisis/emergency mode: Open quiet lanes only; issue provisional papers; post helpers.
+ - Planar alignment shift: Ink bleeds; use sand and fans; double‑seal essentials.
 
 ### Stat Block Notes (Optional)
 

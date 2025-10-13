@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Mental Wellness Services"
 level: "L1"
-owner: ""
+owner: "Dreaming Adept Somniel"
 tags: ["iolokar","category:shop","subcategory:Mental Wellness Services","level:L1"]
 updated: 2025-10-06
 ---
@@ -80,15 +80,15 @@ Bathhouse and calm lounge—restorative waters, soft lights, and breathing rooms
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Herbal soak salts, hush veils, bell bracelets, and calming tea blends.
+- Custom orders/lead times: Exam‑week group slots and private breath‑cradle sessions; 1–3 days notice.
+- Planar imports/components: Dream‑safe herbs, echo‑quartz timers, and hush‑silk veils.
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Late mornings are gentlest; afternoons add structure; evenings deepen hush and candlelight.
+- Festival/event mode: Converts to a respite lounge open late; token caps guard quiet.
+- Planar alignment shift: Water surface shimmers softly; short naps restore quickly but remain shallow.
 
 ### GM Notes
 

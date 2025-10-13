@@ -1,15 +1,13 @@
 ---
 title: "Noctis Ashminder"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "void" # if species=dragon (e.g., emerald, copper)
-role: "Curator" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/he" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "void"
+role: "Curator"
+pronouns: "they/he"
+rank: "Curator"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Quiet, steady, and unsentimental. Noctis offers kindness without theatrics and r
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Spare rooms behind the shop; shelves of books and a teapot.
 - Frequent locations: Molten Memories; Celestial Theater archives; Lecture Hub salons.
 - Travel/transport habits: Walks softly; arrives early; leaves last.

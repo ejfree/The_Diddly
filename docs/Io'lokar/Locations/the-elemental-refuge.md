@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Lair-Specific Decorators"
 level: "L1"
-owner: ""
+owner: "Warden Cloudwhorl"
 tags: ["iolokar","category:shop","subcategory:Lair-Specific Decorators","level:L1"]
 updated: 2025-10-06
 ---

@@ -1,15 +1,13 @@
 ---
 title: "Director Alloria"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "allure" # if species=dragon (e.g., emerald, copper)
-role: "Director" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "allure"
+role: "Director"
+pronouns: "she/her"
+rank: "Director"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Gracious, demanding, and precise. Alloria trades in honest notes and quiet coura
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Backstage suite with scores, teas, and a wall of prompt cards.
 - Frequent locations: The Celestial Theater; Echoes of Eternity; Lecture Hub salons.
 - Travel/transport habits: Walks the promenade; portal hops on opening nights.

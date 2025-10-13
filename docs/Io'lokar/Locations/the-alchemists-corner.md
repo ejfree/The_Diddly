@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Alchemy Labs"
 level: "L1"
-owner: ""
+owner: "Alembic Gloomveil"
 tags: ["iolokar","category:shop","subcategory:Alchemy Labs","level:L1"]
 updated: 2025-10-06
 ---

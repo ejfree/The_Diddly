@@ -1,8 +1,12 @@
 ---
-title: Bandos
-updated: 2025-10-04
-tags: []
-
+owner: "Zil'ora"
+title: "Bando's"
+type: location/iolokar
+category: "shop"
+subcategory: "Restaurants/Cafes"
+level: "L1"
+tags: ["iolokar","category:shop","subcategory:Restaurants/Cafes","level:L1"]
+updated: 2025-10-06
 ---
 
 # Bandos
@@ -29,4 +33,3 @@ Description**: The stall is an eclectic mix of wood and metal, reflecting both t
 
 **Specialties**: Every full moon, Zil'ora offers the *Flaming Moon Skysquirrel*: a special dish where the squirrel meat is marinated overnight in a peri-peri sauce mixed with moonberries, giving it an extra kick and a slight magical buzz.
 Whether it's for the thrill of trying something new, the tantalizing flavors, or just the joy of dining high above the streets of Sharn with a breathtaking view, Peri-Peri Skysquirrel promises a culinary adventure unlike any other in the City of Towers.
-

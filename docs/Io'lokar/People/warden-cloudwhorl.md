@@ -1,13 +1,13 @@
 ---
 title: "Warden Cloudwhorl"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "cloud" # if species=dragon (e.g., emerald, copper)
-role: "Warden" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Lair Warden" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "cloud"
+role: "Warden"
+pronouns: "they/them"
+rank: "Lair Warden"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Gentle, patient, and exact. Cloudwhorl listens first, tweaks second, and believe
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: A breezy loft with plants that show airflow by how they sway.
 - Frequent locations: The Elemental Refuge; Skyline Furnishings; Breath of Focus.
 - Travel/transport habits: Glides between mezzanines; portal for bulky stock.

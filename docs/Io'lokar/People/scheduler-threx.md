@@ -1,53 +1,53 @@
 ---
 title: "Scheduler Threx"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "topaz" # if species=dragon (e.g., emerald, copper)
-role: "Charts Throughpu" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "topaz"
+role: "Charts Throughpu"
+pronouns: ""
+rank: "Charts Throughpu"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Scheduler Threx
 
-One‑sentence summary of who this citizen is and why they matter.
+Topaz dragon throughput‑planner who keeps the Aether Artery on beat—slots, buffers, and calm redirects.
 
 ### Appearance
 
-...
+Amber scales with grid‑line glints; bell‑tab; clipboard ring; breath like cool ink.
 
 ### Personality
 
-...
+Even, focused, and stubbornly kind. Threx believes a good schedule is a public kindness.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [The Aether Artery](docs/Io'lokar/Locations/the-aether-artery.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+- Authorities/responsibilities: Slotting portal hops, buffer management, and drift reroute coordination.
+- University or weyr ties: Term‑start capacity planning; guest lectures on practical logistics.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+- Origin: Waystation bells and caravan timetables.
+- Notable history: Ended a chronic bottleneck by shifting buffer windows and adding visible cues.
+- Education/training: Logistics, portal safety, and restorative practice.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+- Breath/Signature magic: Topaz cadence that synchronizes flows and eases impatience.
+- Class/CR/Tier: Social/support with Insight, Investigation, and Persuasion.
+- Skills/Strengths: Queue design, buffer math, and calm directions.
+- Gear/Hoard highlights: Bells, charts, and chalk lights.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+- Lair/Home description: Quiet loft with a timetable wall and a tea cart.
+- Frequent locations: Aether Artery pads; Planar Post; Aegis Watchtower during drills.
+- Travel/transport habits: Walks pads; short‑hops only on cleared slots.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A surge wave threatens to cascade delays; Threx needs runners to post and guide redirects.
+- Social scene: Shift‑change tea on the pad—share travel stories and patience tricks.
+- Complication: An impatient VIP tries to cut the queue; keep fairness and safety intact.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "Buffers are kindness."
+- "We don’t hurry people; we smooth their path."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Calm opens; busy midday slots; steady evening clear‑outs.
+- Crisis/emergency mode: Post delays loudly; open aid tables; reroute to couriers and safe pads.
+- Planar alignment shift: Drift widens; widen buffers and slow cadence; post more guides.
 
 ### Stat Block Notes (Optional)
 

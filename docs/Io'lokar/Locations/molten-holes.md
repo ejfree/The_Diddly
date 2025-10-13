@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Specialty Food Stores"
 level: "L1"
-owner: ""
+owner: "Glaurna Glazebore"
 tags: ["iolokar","category:shop","subcategory:Specialty Food Stores","level:L1"]
 updated: 2025-10-06
 ---

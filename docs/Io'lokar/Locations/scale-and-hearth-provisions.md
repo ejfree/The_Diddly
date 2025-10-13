@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Grocery/Provisions Stores"
 level: "L1"
-owner: ""
+owner: "Bronzegrub Tallytongue"
 tags: ["iolokar","category:shop","subcategory:Grocery/Provisions Stores","level:L1"]
 updated: 2025-10-06
 ---
@@ -80,15 +80,15 @@ Daily staples and household goods for mixed‑size homes—fair weights, sturdy 
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Starter kits, cookware, pantry basics, and repair parts
+- Custom orders/lead times: Move‑in bundles; same‑day for most
+- Planar imports/components: Surge‑salt, dewglass jars, and hush‑silk wraps
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Busy mornings for move‑ins; steady afternoons; evening top‑ups
+- Festival/event mode: Orientation tents with kit fitting and discounts
+- Planar alignment shift: Food keeps a touch longer; labels blur—post clear dates.
 
 ### GM Notes
 

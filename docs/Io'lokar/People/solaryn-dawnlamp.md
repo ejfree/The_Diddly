@@ -1,13 +1,13 @@
 ---
 title: "Solaryn Dawnlamp"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "solar" # if species=dragon (e.g., emerald, copper)
-role: "Quartermaster" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "solar"
+role: "Quartermaster"
+pronouns: "he/him"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Bright, reassuring, and meticulous. Solaryn believes light should ease, not stra
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Sun‑warmed loft over the shop with blackout drapes and a tea nook.
 - Frequent locations: The Eternal Glow; lecture halls; Flight Lounge; market festival lanes at night.
 - Travel/transport habits: Walks with a tool cart; portal pad for fragile shipments.

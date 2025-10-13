@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Taverns/Breweries"
 level: "L1"
-owner: ""
+owner: "Sourfen Mirebrew"
 tags: ["iolokar","category:shop","subcategory:Taverns/Breweries","level:L1"]
 updated: 2025-10-06
 ---
@@ -80,15 +80,15 @@ Low‑ceiling tavern with swampy charm—muddy ales, pickles, and sarcasm served
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+- Stock highlights: Mirebrew, briny pickles, fried odds, and darts
+- Custom orders/lead times: Party jars and trays; 1 bell
+- Planar imports/components: Surge‑salt and dewglass mugs
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+- Time‑of‑day variation: Quiet early grumbles; loud dart nights; mellow closes
+- Festival/event mode: Spill‑out stools and pickle spears to go
+- Planar alignment shift: Ale tastes saltier; post water and take it slower.
 
 ### GM Notes
 

@@ -1,15 +1,13 @@
 ---
 title: "Grakkar the Sear"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "red" # if species=dragon (e.g., emerald, copper)
-role: "Chef-Proprietor" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "red"
+role: "Chef-Proprietor"
+pronouns: "he/him"
+rank: "Chef-Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Blunt, proud, and surprisingly kind to the hungry. Grakkar respects speed and ha
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Spartan rooms above the grill with a cot and a spice rack.
 - Frequent locations: The Draconic Bite; market stalls; Ember & Amber demos.
 - Travel/transport habits: Walks fast; glides rarely; never late for the bell.

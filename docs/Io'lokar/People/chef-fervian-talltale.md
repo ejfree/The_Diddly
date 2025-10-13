@@ -1,15 +1,13 @@
 ---
 title: "Chef Fervian Talltale"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "tumult" # if species=dragon (e.g., emerald, copper)
-role: "Chef" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "tumult"
+role: "Chef"
+pronouns: "he/they"
+rank: "Chef"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Exuberant host with a safety streak; Fervian wants delight without regret and tr
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small loft with posters from past flights.
 - Frequent locations: Planar Delights; Celestial Plates; Arcade festivals.
 - Travel/transport habits: Walks; short hops with sample kits.

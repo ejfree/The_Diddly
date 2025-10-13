@@ -1,15 +1,13 @@
 ---
 title: "Umbralia Veilstone"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "umbral" # if species=dragon (e.g., emerald, copper)
-role: "Shadow-Chic Lair" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "umbral"
+role: "Shadow-Chic Lair"
+pronouns: "she/they"
+rank: "Shadow-Chic Lair"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Soft‑spoken, discerning, and practical. Umbralia values comfort and safety ove
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Quiet loft with layered veils and a tea table.
 - Frequent locations: Etherial Elements; theater salons; Breath of Focus.
 - Travel/transport habits: Walks softly; portal for panels.
@@ -60,9 +58,9 @@ Soft‑spoken, discerning, and practical. Umbralia values comfort and safety ove
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A venue’s veil plan risks blocking exits; Umbralia asks for help to redesign under a brutal deadline.
+- Social scene: Quiet showroom walk‑through—compare light, fabric, and sound with calming tea.
+- Complication: A client insists on unsafe glamour; keep beauty and safety without burning the bridge.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Soft‑spoken, discerning, and practical. Umbralia values comfort and safety ove
 
 ### Quotes
 
-- "..."
+- "Comfort first. Beauty follows."
+- "A good veil hides nothing important."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Morning mockups; afternoon installs; evening checks in lived light.
+- Crisis/emergency mode: Drop heavy drapes, raise beacons, and cut glamour to guide sightlines.
+- Planar alignment shift: Shadows thicken; her glow‑stone reads truer contrast for safe paths.
 
 ### Stat Block Notes (Optional)
 

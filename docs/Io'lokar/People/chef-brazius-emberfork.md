@@ -1,15 +1,13 @@
 ---
 title: "Chef Brazius Emberfork"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "brass" # if species=dragon (e.g., emerald, copper)
-role: "Chef" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "brass"
+role: "Chef"
+pronouns: "he/him"
+rank: "Chef"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Warm, efficient, and unflappable. Brazius solves problems with food and timing.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tight rooms behind the kitchen with a cot and a kettle.
 - Frequent locations: Ember Hearth; Roaring Buffet; market stalls.
 - Travel/transport habits: Walks with a tray and a grin; glides never.
@@ -60,9 +58,9 @@ Warm, efficient, and unflappable. Brazius solves problems with food and timing.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A festival braise threatens to miss its bell; source missing herbs or pivot the menu without breaking hearts.
+- Social scene: Counter tasting of new sauces—regulars and newcomers weigh in with friendly ribbing.
+- Complication: A supply hand tries breath‑finishes in the open; shield the line and retrain without shame.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Warm, efficient, and unflappable. Brazius solves problems with food and timing.
 
 ### Quotes
 
-- "..."
+- "Hot plates, warm hearts."
+- "We season for courage as much as taste."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Lunch sizzles fast; dinner holds steady; late bells soothe.
+- Crisis/emergency mode: Strip to braise and bread; open a tea lane; keep folks fed and calm.
+- Planar alignment shift: Smokes linger longer; reduce fire a notch and extend rests.
 
 ### Stat Block Notes (Optional)
 

@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Artisan Workshops"
 level: "L1"
-owner: ""
+owner: "Master Indivar Hue"
 tags: ["iolokar","category:shop","subcategory:Artisan Workshops","level:L1"]
 updated: 2025-10-06
 ---

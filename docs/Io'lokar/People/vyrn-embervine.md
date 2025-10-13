@@ -1,13 +1,13 @@
 ---
 title: "Vyrn Embervine"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "vermillion" # if species=dragon (e.g., emerald, copper)
-role: "Tapmaster" # primary occupation or civic role
-pronouns: "they/she" # e.g., she/her, he/him, they/them
-rank: "Tapmaster" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "vermillion"
+role: "Tapmaster"
+pronouns: "they/she"
+rank: "Tapmaster"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Flamboyant, warm, and meticulous about safety. Vyrn delights in delight—but ne
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Cozy rooms over the bar with a shelf of gifted mugs.
 - Frequent locations: The Elemental Mug; the Arcade; festival lanes.
 - Travel/transport habits: Walks the square; short glides only after close.

@@ -1,15 +1,13 @@
 ---
 title: "Lady Aurumina Giltwing"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "gold" # if species=dragon (e.g., emerald, copper)
-role: "Lady" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "gold"
+role: "Lady"
+pronouns: "she/her"
+rank: "Lady"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Courteous, precise, and principled. Aurumina values provenance and comfort as hi
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small salon room with sketches and a tea cart.
 - Frequent locations: Shop floor; theater salons; promenade showcases.
 - Travel/transport habits: Walks with a velvet case and a list.
@@ -60,9 +58,9 @@ Courteous, precise, and principled. Aurumina values provenance and comfort as hi
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A showcase piece tests allergic on stage; refit the setting mid‑program without drama.
+ - Social scene: Fitting salon—teach comfort checks and clasp safety.
+ - Complication: A provenance dispute at the counter; calm the room while verifying the chain.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Courteous, precise, and principled. Aurumina values provenance and comfort as hi
 
 ### Quotes
 
-- "..."
+- "Beauty should never pinch."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Morning appraisals; afternoon fittings; evening events.
+ - Crisis/emergency mode: Case closed, air clear, facts first.
+ - Planar alignment shift: True stones sing; flawed mounts look dull at the edges.
 
 ### Stat Block Notes (Optional)
 

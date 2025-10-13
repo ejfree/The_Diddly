@@ -1,15 +1,13 @@
 ---
 title: "High Prior Aerion"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "time" # if species=dragon (e.g., emerald, copper)
-role: "High Prior" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "time"
+role: "High Prior"
+pronouns: "he/they"
+rank: "High Prior"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Calm, precise, and compassionate. Aerion favors simple cues over lofty lectures 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Simple rooms off the hall with a tiny garden of bells and herbs.
 - Frequent locations: Breath of Focus; Flight Lounge; Lecture Hub.
 - Travel/transport habits: Walks slowly; glides only to ring a bell on time.

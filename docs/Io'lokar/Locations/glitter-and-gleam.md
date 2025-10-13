@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Jewelry & Accessories"
 level: "L1"
-owner: ""
+owner: "Lady Aurumina Giltwing"
 tags: ["iolokar","category:shop","subcategory:Jewelry & Accessories","level:L1"]
 updated: 2025-10-06
 ---

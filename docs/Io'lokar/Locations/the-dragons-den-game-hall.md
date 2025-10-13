@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Dragon's Den Game Hall"
 type: location/iolokar
 category: "place"
@@ -72,9 +73,9 @@ Games, challenges, and clever contests—skill nights, puzzle tables, and friend
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Tournament bells—tables full, prize desk humming, house announcer keeps cadence.
+- Crisis/emergency mode: Pause matches, lock prize cabinet, and migrate to casual play until cleared.
+- Planar alignment shift: Randomness trends streaky; house posts variant rules to keep games fair.
 
 ### GM Notes
 

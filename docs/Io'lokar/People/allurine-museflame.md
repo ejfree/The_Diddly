@@ -1,15 +1,13 @@
 ---
 title: "Allurine Museflame"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "allure" # if species=dragon (e.g., emerald, copper)
-role: "Inspiring Patiss" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "allure"
+role: "Inspiring Patiss"
+pronouns: "she/her"
+rank: "Inspiring Patiss"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Warm, precise, and unflappable. Allurine believes sweetness should be shared and
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Tiny flat above the shop with a wall of cake sketches.
 - Frequent locations: The counter; Arcade festivals; Celestial Plates.
 - Travel/transport habits: Walks with a cake box and a list.
@@ -60,9 +58,9 @@ Warm, precise, and unflappable. Allurine believes sweetness should be shared and
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A showcase cake loses its glaze; source a safe substitute and keep spirits high.
+ - Social scene: Tasting flight night—swap favorite pairings and stories.
+ - Complication: A rival undercuts with unsafe samples; educate kindly and protect guests.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Warm, precise, and unflappable. Allurine believes sweetness should be shared and
 
 ### Quotes
 
-- "..."
+ - "Sweetness shared is sweetness doubled."
+ - "We schedule joy—and keep it on time."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Early prep calm; lively afternoons; soft evening pickups.
+ - Crisis/emergency mode: Cut to core menu; open donation box; keep lines kind.
+ - Planar alignment shift: Glazes shine longer; reduce heat and watch for over‑sweet.
 
 ### Stat Block Notes (Optional)
 

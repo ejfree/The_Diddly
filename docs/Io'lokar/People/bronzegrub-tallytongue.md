@@ -1,15 +1,13 @@
 ---
 title: "Bronzegrub Tallytongue"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "brine" # if species=dragon (e.g., emerald, copper)
-role: "Pragmatic Provis" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "brine"
+role: "Pragmatic Provis"
+pronouns: "he/they"
+rank: "Pragmatic Provis"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Practical, friendly, and intolerant of gouging. Bronzegrub remembers repeat cust
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Modest loft over the shop; tidy, warm, and labeled.
 - Frequent locations: Scale & Hearth; All‑Scales; Market Wardens’ weighhouse.
 - Travel/transport habits: Walks with a handcart, waves at everyone.
@@ -60,9 +58,9 @@ Practical, friendly, and intolerant of gouging. Bronzegrub remembers repeat cust
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A staple shipment arrives damp and suspect; Bronzegrub asks you to help triage, reroute, and keep prices fair during exam week.
+- Social scene: Sampling a new kit line at the counter—students and wardens weigh in on what “enough” looks like.
+- Complication: A market‑stall scale dispute turns heated; calm the queue, test the weights, and settle accounts.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Practical, friendly, and intolerant of gouging. Bronzegrub remembers repeat cust
 
 ### Quotes
 
-- "..."
+- "Fair weight, fair price—fair world."
+- "We don’t upsell panic. We sell calm and enough."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Mornings stock and sort; midday queues; evenings for quiet kit consults.
+- Crisis/emergency mode: Ration caps, posted limits, and community boxes for those short on coin.
+- Planar alignment shift: Salt breath prickles toward spoiled sacks; perishables risk staling faster without attention.
 
 ### Stat Block Notes (Optional)
 

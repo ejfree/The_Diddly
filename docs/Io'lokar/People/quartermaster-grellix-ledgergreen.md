@@ -1,13 +1,13 @@
 ---
 title: "Quartermaster Grellix Ledgergreen"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "green" # if species=dragon (e.g., emerald, copper)
-role: "Quartermaster" # primary occupation or civic role
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "green"
+role: "Quartermaster"
+pronouns: "they/them"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Measured, courteous, and meticulous. Grellix values clarity over charm and will 
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small mezzanine above the shop, arranged like a diagram.
 - Frequent locations: The All‑Scales Emporium; Draconic Market counters; City Hall standards office.
 - Travel/transport habits: Walks the lanes with a small handcart for fittings.

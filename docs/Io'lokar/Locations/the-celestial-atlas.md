@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Magical Supplies"
 level: "L1"
-owner: ""
+owner: "Master Rhexis Vol"
 tags: ["iolokar","category:shop","subcategory:Magical Supplies","level:L1"]
 updated: 2025-10-06
 ---

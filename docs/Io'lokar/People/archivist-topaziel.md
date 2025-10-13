@@ -1,15 +1,13 @@
 ---
 title: "Archivist Topaziel"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "topaz" # if species=dragon (e.g., emerald, copper)
-role: "Archivist" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "they/them" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "topaz"
+role: "Archivist"
+pronouns: "they/them"
+rank: "Archivist"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Calm, crisp, and unsentimental. Topaziel values accuracy over anecdotes and kind
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Modest loft of neat shelves and a tea chest.
 - Frequent locations: The Hoard; Lecture Hub; Celestial Atlas for assays.
 - Travel/transport habits: Walks with a cart; portal for folio loans.
@@ -60,9 +58,9 @@ Calm, crisp, and unsentimental. Topaziel values accuracy over anecdotes and kind
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A forged citation starts spreading; trace the bad copy and teach the fix kindly.
+- Social scene: Tea at the index desk—swap tricks for finding the right page fast.
+- Complication: A patron insists on a wrong source; preserve dignity while correcting the record.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Calm, crisp, and unsentimental. Topaziel values accuracy over anecdotes and kind
 
 ### Quotes
 
-- "..."
+- "Accuracy is kindness to the future."
+- "If it isn’t findable, it isn’t knowledge yet."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Quiet cataloging mornings; brisk lending afternoons; calm reconciles at close.
+- Crisis/emergency mode: Lock rare stacks; issue quick guides; open a help counter.
+- Planar alignment shift: Ink dries oddly; sand pages and double‑sleeve fragile texts.
 
 ### Stat Block Notes (Optional)
 

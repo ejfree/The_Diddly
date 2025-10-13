@@ -1,13 +1,13 @@
 ---
 title: "Chef Aurix Lumens"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "alicorn" # if species=dragon (e.g., emerald, copper)
-role: "Chef" # primary occupation or civic role
-pronouns: "he/him" # e.g., she/her, he/him, they/them
-rank: "Chef‑Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "alicorn"
+role: "Chef"
+pronouns: "he/him"
+rank: "Chef‑Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Graceful, exacting, and quietly kind. Aurix believes hospitality is a civic art;
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Simple quarters near the balcony with a telescope and a tea set.
 - Frequent locations: Celestial Plates; Crystal Pantry; Lecture Hub for speaker dinners.
 - Travel/transport habits: Walks; short portal hops for markets.

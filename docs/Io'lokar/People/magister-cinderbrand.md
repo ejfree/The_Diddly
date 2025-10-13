@@ -1,15 +1,13 @@
 ---
 title: "Magister Cinderbrand"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "magma" # if species=dragon (e.g., emerald, copper)
-role: "Master" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/they" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "magma"
+role: "Master"
+pronouns: "she/they"
+rank: "Master"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Direct, proud of good work, and allergic to mystique. Cinderbrand explains the w
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Loft over the forge with a wall of retired proofs.
 - Frequent locations: The Arcano‑Forge; Hoardsmith’s Haven; stages at festival time.
 - Travel/transport habits: Walks or pushes a cart; flies only for joy.
@@ -60,9 +58,9 @@ Direct, proud of good work, and allergic to mystique. Cinderbrand explains the w
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A bridge guardrail fails inspection; retrofit overnight before morning traffic.
+ - Social scene: Open bench night—citizens watch proofs and learn why it matters.
+ - Complication: A client insists on unsafe flair; redesign beauty within safe specs.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,13 @@ Direct, proud of good work, and allergic to mystique. Cinderbrand explains the w
 
 ### Quotes
 
-- "..."
+- "Proof beats promise."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Heat early; inlay midday; proofs at dusk.
+ - Crisis/emergency mode: Quench first, talk later; log every fix.
+ - Planar alignment shift: True seams glow; bad bonds refuse to hold.
 
 ### Stat Block Notes (Optional)
 

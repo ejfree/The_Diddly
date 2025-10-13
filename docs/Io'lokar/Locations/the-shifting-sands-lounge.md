@@ -4,43 +4,43 @@ type: location/iolokar
 category: "shop"
 subcategory: "Entertainment Venues"
 level: "L1"
-owner: ""
+owner: "Sovereign Neskara"
 tags: ["iolokar","category:shop","subcategory:Entertainment Venues","level:L1"]
 updated: 2025-10-06
 ---
 ### The Shifting Sands Lounge
 
-One‑sentence summary of what this shop is known for.
+Plush lounge with dune‑beds and soft lights—slow conversations, gentle music, and hush upheld kindly.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+- District/adjacency: Quiet lane near the theater and salons.
+- Exterior/signage: A crescent dune and lantern; soft glow at dusk.
 
 ### Services and Offerings
 
-- ...
-- ...
+- Dune‑beds, mint tea, light bites; soft sets on stage nights
+- Private dunes by token; reading veils and scent stones
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+- Lantern‑lit dune soaks with cooling herbs
+- “Hush hour” with velvet‑voiced host and gentle standards
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+- Hours: Afternoon to late; sand‑soak at dusk
+- Entry/reservations: Walk‑ins; private dunes by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
-- Map/layout notes: entrance, counter, storage, private rooms
+- Vibe and sensory notes: Sand warmth, mint, and low strings; soft footsteps
+- Capacity/scale: Mixed sizes; dunes, alcoves, and a small stage
+- Seating/flow: Door → host → dune/alcove → tea
+- Map/layout notes: entrance, host desk, dunes, alcoves, stage, back lounge
 
 ### Staff and NPCs
 
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+- House rules (behavior, breath, magic): Quiet voices; no open breath; phones and cantrips off
+- Ordering/service flow (e.g., counter, portal chute, omakase): Host seats → tea → dune/alcove → show nights by bell
+- Hazards/environmental notes: Sand shift and steps—attendants guide
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+- Protections/alarms: Calm‑bells; soft light cues
+- Wards/anti‑theft: Token tabs; veil tags
+- Portal anchors/safeties: Staff pad only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A hush‑veil misbehaves before a showcase; steady the room.
+- Social scene: Quiet set where regulars trade low‑voiced news.
+- Complication: A loud guest defies hush—restore kindness without spectacle.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+ - Stock highlights: Sand‑soak beds, mint tea, and hush veils
+ - Custom orders/lead times: Group dunes; 1–2 bells
+ - Planar imports/components: Desert glass, surge‑salt, and scent resins
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+ - Time‑of‑day variation: Bright afternoons for social lounging; hushed dusk for slow rests
+ - Festival/event mode: Outdoor dune patches with lanterns; token caps to keep hush
+ - Planar alignment shift: Sand ripples hold longer; heat disperses slower—post time limits.
 
 ### GM Notes
 

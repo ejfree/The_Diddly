@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Bookstores"
 level: "L1"
-owner: ""
+owner: "Archivist Topaziel"
 tags: ["iolokar","category:shop","subcategory:Bookstores","level:L1"]
 updated: 2025-10-06
 ---

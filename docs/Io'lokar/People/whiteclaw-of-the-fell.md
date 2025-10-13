@@ -1,13 +1,13 @@
 ---
 title: "Whiteclaw of the Fell"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "white" # if species=dragon (e.g., emerald, copper)
-role: "Hard-Nosed Survi" # primary occupation or civic role
-pronouns: "he/they" # e.g., she/her, he/him, they/them
-rank: "Proprietor" # e.g., matriarch, guard captain, student
-level_home: "L1" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "white"
+role: "Hard-Nosed Survi"
+pronouns: "he/they"
+rank: "Proprietor"
+level_home: "L1"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Blunt, fair, and practical. Whiteclaw dislikes waste and speeches; respects anyo
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L1
 - Lair/Home description: Small loft over the pantry with a cot and a clean ledger.
 - Frequent locations: The Pantry; All‑Scales; market lanes.
 - Travel/transport habits: Walks; glides only for rooftop checks.
@@ -58,9 +58,9 @@ Blunt, fair, and practical. Whiteclaw dislikes waste and speeches; respects anyo
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A ration wagon goes missing before a cold snap; find it fast and keep the line calm.
+- Social scene: Chalk‑board cooking tips—teach “enough” with what you have.
+- Complication: A reseller tries to game weights; expose it without punishing the hungry.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,14 @@ Blunt, fair, and practical. Whiteclaw dislikes waste and speeches; respects anyo
 
 ### Quotes
 
-- "..."
+- "Enough, done right."
+- "Carry first. Talk later."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Dawn prep; noon lines; dusk checks for tomorrow’s cold.
+- Crisis/emergency mode: Close chatter; open extra lanes; simple rations, fast.
+- Planar alignment shift: Frost holds; portions stretch a little further—post fair limits.
 
 ### Stat Block Notes (Optional)
 

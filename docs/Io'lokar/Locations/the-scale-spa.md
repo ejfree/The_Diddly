@@ -4,13 +4,13 @@ type: location/iolokar
 category: "shop"
 subcategory: "Mental Wellness Services"
 level: "L1"
-owner: ""
+owner: "Mistress Azura Canticle"
 tags: ["iolokar","category:shop","subcategory:Mental Wellness Services","level:L1"]
 updated: 2025-10-06
 ---
 ### The Scale Spa
 
-One‑sentence summary of what this shop is known for.
+Soaks, steams, and soft lights—restorative scales and calm minds.
 
 ### Location Details
 
@@ -31,15 +31,15 @@ One‑sentence summary of what this shop is known for.
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+ - Hours: Late morning to late; extended during exams
+ - Entry/reservations: Walk‑ins welcomed; rooms by token
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
+ - Vibe and sensory notes: Steam, herbs, and hush; bells on the half hour
+ - Capacity/scale: Mixed sizes; pools, alcoves, and rooms
+ - Seating/flow: Check‑in → soak → breathe → tea/nap
 - Map/layout notes: entrance, counter, storage, private rooms
 
 ### Staff and NPCs
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+ - House rules (behavior, breath, magic): Quiet voices; no breath except guided
+ - Ordering/service flow (e.g., counter, portal chute, omakase): Check‑in → choose soak → optional guide
+ - Hazards/environmental notes: Slips; posted temps; attendants guide
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+ - Protections/alarms: Calm‑wards; bell at back door
+ - Wards/anti‑theft: Token tabs; lockers
+ - Portal anchors/safeties: Staff pad only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A soak room misbehaves; staff want calm help.
+ - Social scene: Quiet tea between soaks—friendships form softly.
+ - Complication: A guest disrespects hush—restore kindness.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+ - Stock highlights: Towels, oils, teas, hush veils
+ - Custom orders/lead times: Group soaks and private rooms; tokens
+ - Planar imports/components: Dewglass lamps; hush‑silk veils
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+ - Time‑of‑day variation: Late mornings are gentlest; afternoons structured; evenings deepen hush
+ - Festival/event mode: Open rest lounge; token caps guard quiet
+ - Planar alignment shift: Water shimmers; short naps restore quickly but stay light.
 
 ### GM Notes
 

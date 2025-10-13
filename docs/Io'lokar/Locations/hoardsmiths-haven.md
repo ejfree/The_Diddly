@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Hoardsmiths"
 level: "L1"
-owner: ""
+owner: "Forge-Lord Pyrag"
 tags: ["iolokar","category:shop","subcategory:Hoardsmiths","level:L1"]
 updated: 2025-10-06
 ---

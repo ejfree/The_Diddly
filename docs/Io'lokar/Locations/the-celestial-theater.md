@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Celestial Theater"
 type: location/iolokar
 category: "place"
@@ -72,9 +73,9 @@ Grand hall for plays, concerts, and dream‑arts—performance polished to a sta
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Premiere nights—full house, orchestra at strength, glamour lightly layered; extra ushers and cue marshals.
+- Crisis/emergency mode: Soft‑stop the scene, house lights to half, and guide a calm exit or reset; acoustic fallback if grid falters.
+- Planar alignment shift: Dream‑arts brighten and hold; illusions feel thicker; tempos need firmer cues to avoid smear.
 
 ### GM Notes
 

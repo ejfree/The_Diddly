@@ -1,13 +1,13 @@
 ---
 title: "Magistrate Cyrilla"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "court" # if species=dragon (e.g., emerald, copper)
-role: "Magistrate" # primary occupation or civic role
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "Presiding Magistrate" # e.g., matriarch, guard captain, student
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "court"
+role: "Magistrate"
+pronouns: "she/her"
+rank: "Presiding Magistrate"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -44,7 +44,7 @@ Reserved, direct, and fair. She values preparation, plain speech, and consequenc
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Chambers on L2 with a modest perch‑garden and a wall of sealed precedents.
 - Frequent locations: The Arbitration Spire; Io’lokar City Hall for inter‑office harmonization.
 - Travel/transport habits: Moves by interior ramps; arrives five minutes before the bell.

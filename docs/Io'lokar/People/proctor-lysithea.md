@@ -1,15 +1,13 @@
 ---
 title: "Proctor Lysithea"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "court" # if species=dragon (e.g., emerald, copper)
-role: "Proctor" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-pronouns: "she/her" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-level_home: "L2" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "court"
+role: "Proctor"
+pronouns: "she/her"
+rank: "Proctor"
+level_home: "L2"
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
@@ -46,7 +44,7 @@ Patient, firm, and respectful. Lysithea values dignity and clear consequences.
 
 ### Residences and Haunts
 
-- Home level: L?
+- Home level: L2
 - Lair/Home description: Quiet rooms with a kettle and soft chairs.
 - Frequent locations: Intake Desk; City Hall Petitioners’ Hall; Tranquil Scale.
 - Travel/transport habits: Walks; portals for long days only.
@@ -60,9 +58,9 @@ Patient, firm, and respectful. Lysithea values dignity and clear consequences.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A restitution plan stalls; Lysithea asks the party to broker workable terms.
+ - Social scene: Tea after a workshop—practice “arguing well” with humor.
+ - Complication: A hot‑headed patron tries to turn a lesson into a spectacle; keep dignity for all.
 
 ### Secrets and Rumors
 
@@ -70,13 +68,14 @@ Patient, firm, and respectful. Lysithea values dignity and clear consequences.
 
 ### Quotes
 
-- "..."
+ - "We repair harm without breaking people."
+ - "Kindness with boundaries is justice."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+ - Mood/time‑of‑day shift: Calm mornings; brisk afternoons; soft‑spoken evenings.
+ - Crisis/emergency mode: Short sentences, clear choices, cool room.
+ - Planar alignment shift: Tempers rise slower; practice longer pauses and clearer options.
 
 ### Stat Block Notes (Optional)
 

@@ -1,4 +1,5 @@
 ---
+owner: "Unknown"
 title: "The Aegis Watchtower"
 type: location/iolokar
 category: "place"
@@ -74,9 +75,9 @@ City guard’s L2 anchor—patrol command, armory, and incident response with a 
 
 ### Variants
 
-- Peak activity mode: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Peak activity mode: Beacon‑lit incidents stack; muster floors full; triage lanes and evidence intake under watch.
+- Crisis/emergency mode: Seal armory, elevate beacons, and deploy wings; Intake Desk switches to essential disputes only.
+- Planar alignment shift: Drift pings increase; Sentinels double spire watch; patrols carry tether lines.
 
 ### GM Notes
 

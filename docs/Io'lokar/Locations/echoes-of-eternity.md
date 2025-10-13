@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Entertainment Venues"
 level: "L1"
-owner: ""
+owner: "Nocturne Whisper"
 tags: ["iolokar","category:shop","subcategory:Entertainment Venues","level:L1"]
 updated: 2025-10-06
 ---

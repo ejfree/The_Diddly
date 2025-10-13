@@ -1,53 +1,53 @@
 ---
 title: "Sapphiron Vell"
 type: npc/iolokar
-species: "dragon" # dragon | humanoid | construct | outsider | other
-dragon_variant: "sapphire" # if species=dragon (e.g., emerald, copper)
-role: "Wardwright" # primary occupation or civic role
-pronouns: "" # e.g., she/her, he/him, they/them
-rank: "" # e.g., matriarch, guard captain, student
-level_home: "" # L1–L6 or Off‑city
-status: alive # alive | missing | deceased
+species: "dragon"
+dragon_variant: "sapphire"
+role: "Wardwright"
+pronouns: ""
+rank: "Wardwright"
+level_home: ""
+status: alive
 tags: ["iolokar", "role:", "level:", "rank:", "variant:"]
 updated: 2025-10-06
 ---
 ### Sapphiron Vell
 
-One‑sentence summary of who this citizen is and why they matter.
+Sapphire wardwright and exacting shopkeeper who makes arcane basics safe—clear limits, clean demos, and tools that teach.
 
 ### Appearance
 
-...
+Deep sapphire facets with fine ward‑lines; apron with wand loops; a pinboard of safety cards.
 
 ### Personality
 
-...
+Exact, kind, and proudly practical. Vell prefers wands that teach their user not to need them soon.
 
 ### Role and Duties
 
 - Day job/mandate: Based at [Wands & Wonders](docs/Io'lokar/Locations/wands-and-wonders.md).
-- Authorities/responsibilities: ...
-- University or weyr ties: ...
+ - Authorities/responsibilities: Crafts and certifies beginner wands, posts hazard cards, runs recall swaps, and audits demos.
+ - University or weyr ties: Supplies lab wands; co‑writes starter syllabi.
 
 ### Background
 
-- Origin: ...
-- Notable history: ...
-- Education/training: ...
+ - Origin: Workshop stall that repaired broken toys and dangerous novelties.
+ - Notable history: Pulled a flashy line after a near‑miss and published the fix.
+ - Education/training: Wardwork, ergonomics, and child‑safe design.
 
 ### Abilities and Resources
 
-- Breath/Signature magic: ...
-- Class/CR/Tier: ...
-- Skills/Strengths: ...
-- Gear/Hoard highlights: ...
+ - Breath/Signature magic: Sapphire hum that stabilizes foci and dampens surges.
+ - Class/CR/Tier: Artisan/support; Arcana, Investigation, and Insight.
+ - Skills/Strengths: Failure mode thinking, user testing, and plain speech.
+ - Gear/Hoard highlights: Test jigs, ward inks, soft‑grip blanks, and recall chits.
 
 ### Residences and Haunts
 
 - Home level: L?
-- Lair/Home description: ...
-- Frequent locations: ...
-- Travel/transport habits: ...
+ - Lair/Home description: Neat room above the shop with a drawer of thank‑you doodles.
+ - Frequent locations: Shop bench, demo table, and university supply dock.
+ - Travel/transport habits: Walks with sample cases; never rushes.
 
 ### Relationships
 
@@ -58,9 +58,9 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Hooks and Encounter Ideas
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+- Plot hook: A shipment of uncertified wands surfaces at a festival; swap them quietly for safe ones.
+- Social scene: Starter‑wand fitting night with gentle lessons and cocoa.
+- Complication: A recall rush crowds the shop; keep the mood kind and moving.
 
 ### Secrets and Rumors
 
@@ -68,13 +68,13 @@ One‑sentence summary of who this citizen is and why they matter.
 
 ### Quotes
 
-- "..."
+- "A good wand tells you when to stop."
 
 ### Variants
 
-- Mood/time‑of‑day shift: ...
-- Crisis/emergency mode: ...
-- Planar alignment shift: ...
+- Mood/time‑of‑day shift: Morning builds; afternoon fittings; evening repairs.
+- Crisis/emergency mode: Lock flashy demos; issue loaners; post clear signs.
+- Planar alignment shift: Wards sing softly; miscast edges blur harmlessly.
 
 ### Stat Block Notes (Optional)
 

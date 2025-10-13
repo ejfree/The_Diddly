@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Dragon-Sized Tailors"
 level: "L1"
-owner: ""
+owner: "Marquess Aurion"
 tags: ["iolokar","category:shop","subcategory:Dragon-Sized Tailors","level:L1"]
 updated: 2025-10-06
 ---

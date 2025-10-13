@@ -4,7 +4,7 @@ type: location/iolokar
 category: "shop"
 subcategory: "Taverns/Breweries"
 level: "L1"
-owner: ""
+owner: "Merrith Caskringer"
 tags: ["iolokar","category:shop","subcategory:Taverns/Breweries","level:L1"]
 updated: 2025-10-06
 ---

@@ -4,42 +4,42 @@ type: location/iolokar
 category: "shop"
 subcategory: "Magical Supplies"
 level: "L1"
-owner: ""
+owner: "Sapphiron Vell"
 tags: ["iolokar","category:shop","subcategory:Magical Supplies","level:L1"]
 updated: 2025-10-06
 ---
 ### Wands & Wonders
 
-One‑sentence summary of what this shop is known for.
+Arcane basics done safely—wands, focuses, and components with clear limits and clean demos.
 
 ### Location Details
 
 - Level: L1
-- District/adjacency: ...
-- Exterior/signage: ...
+ - District/adjacency: Near the Lecture Hub and Enchantment Emporium.
+ - Exterior/signage: A wand and star in a ring; demo lights shimmer softly.
 
 ### Services and Offerings
 
-- ...
-- ...
+ - Wands, focuses, components, and safe primers
+ - Demo desk and tuning bench
 
 ### Signature Items or Specialties
 
-- ...
-- ...
+ - “Pocket safe” wands with fixed output
+ - Focus kits for beginners with plain‑speech guides
 
 ### Pricing and Access
 
 - Price tier: cheap | moderate | upscale | luxury
-- Hours: ...
-- Entry/reservations: ...
+ - Hours: Morning to evening; extended before exams
+ - Entry/reservations: Walk‑ins; tuning tokens for the bench
 - Discounts: student | faculty | weyr members
 
 ### Atmosphere and Layout
 
-- Vibe and sensory notes: ...
-- Capacity/scale: dragon‑sized? mixed sizes?
-- Seating/flow: ...
+ - Vibe and sensory notes: Ozone and varnish; chime cues for demos
+ - Capacity/scale: Mixed sizes; counter, demo bench, and tuning nook
+ - Seating/flow: Browse → demo → tune → purchase
 - Map/layout notes: entrance, counter, storage, private rooms
 
 ### Staff and NPCs
@@ -53,21 +53,21 @@ One‑sentence summary of what this shop is known for.
 
 ### Mechanics and Rules
 
-- House rules (behavior, breath, magic): ...
-- Ordering/service flow (e.g., counter, portal chute, omakase): ...
-- Hazards/environmental notes: ...
+ - House rules (behavior, breath, magic): No live casting beyond demo bench; obey chimes
+ - Ordering/service flow (e.g., counter, portal chute, omakase): Intake → match → demo → tune
+ - Hazards/environmental notes: Stored charge; safe discharge jars; clear signage
 
 ### Security and Wards
 
-- Protections/alarms: ...
-- Wards/anti‑theft: ...
-- Portal anchors/safeties: ...
+ - Protections/alarms: Demo trip bell; counter wards
+ - Wards/anti‑theft: Tag‑wards on high‑value stock; locked cases
+ - Portal anchors/safeties: Staff pad only
 
 ### Hooks and Encounters
 
-- Plot hook: ...
-- Social scene: ...
-- Complication: ...
+ - Plot hook: A batch of focuses hum off‑key; trace the faulty shard lot.
+ - Social scene: Beginner clinic—pair newcomers with patient mentors.
+ - Complication: A show‑off tries a live spell in the aisle; de‑escalate and teach.
 
 ### Rumors and Secrets
 
@@ -80,15 +80,15 @@ One‑sentence summary of what this shop is known for.
 
 ### Inventory and Capabilities
 
-- Stock highlights: ...
-- Custom orders/lead times: ...
-- Planar imports/components: ...
+ - Stock highlights: Wands, focuses, primer kits, and safe components
+ - Custom orders/lead times: Tuning 1–2 days; custom focuses 3–7
+ - Planar imports/components: Surge‑salt, dewglass cores, and hush‑silk wraps
 
 ### Variants
 
-- Time‑of‑day variation: ...
-- Festival/event mode: ...
-- Planar alignment shift: ...
+ - Time‑of‑day variation: Quiet opens; busy mid‑day; calm evening tunings
+ - Festival/event mode: Street demo table with safe wands
+ - Planar alignment shift: Charge holds longer; reduce outputs in demos.
 
 ### GM Notes
 
