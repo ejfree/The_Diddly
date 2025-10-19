@@ -1,42 +1,79 @@
 ---
 title: Draconic Ages
-updated: 2025-10-04
+updated: 2025-10-16
 tags: []
 ---
 
 # Draconic Ages
 
-1st Age - The Creation
-    use Eberron founding theory.
-According to myth, the three <u>[Progenitor Wyrms](https://eberron.fandom.com/wiki/Progenitor_Dragons)</u> created reality itself, weaving the thirteen planes into existence, each a concept founding the material plane. The three were alleged to create (or discover) the Draconic Prophecy. Though, eventually Khyber sought to claim dominion over the reality that she and her siblings had created and a battle ensued. She struck Siberys unprovoked, tearing the dragon apart. Eberron, knowing she could not defeat Khyber in battle, wrapper her coils around Khyber, becoming a living prison that would forever contain the wyrm's evil.
-In the aftermath, Sibery's shattered body became the golden ring of <u>[dragonshards](https://eberron.fandom.com/wiki/Dragonshard)</u> that wrap around the planet; Eberron became the world, the source of all natural life; and Khyber became the Underdark, the source of many evils to come
+This chronology frames draconic history through the lens of the Draconic Prophecy and major interventions that reshaped the world. It preserves Eberron-inspired mythic motifs while grounding them in current events (the Mourning and the Eldrich Temple).
 
-2nd Age - The Overcoming -
-    Closing off gf Khyber and leads up to the Dragon Giant war. Realizing the mistake of meddling in lesser races, they seclude themselves on Argonessen.
+## First Age — The Creation
 
-3rd Age - The Reclusion
-    is this the current era? Or did we just have a change in eras. This does NOT mean no interaction. Dragons purposefully caused the mournland.
+According to myth, the three Progenitor Wyrms created reality itself, weaving the thirteen planes into existence as facets of the material. Together they set (or discovered) the Draconic Prophecy. Khyber coveted dominion and struck Siberys, shattering the dragon of sky. Eberron bound Khyber in living coils, becoming a world-prison. In the aftermath, Siberys’s remains formed the golden ring of dragonshards; Eberron became the world and source of natural life; Khyber became the deep underworld, brood of future evils.
 
-Result of draconic intervention into human affairs. Cyre scientists discovered a “magic atom bomb” This had been closely tracked by the Draconic Council. When it was determined that action was required, the DC decided to proactively cleanse the area to prevent a very problematic arc in the Draconic Prophecy. The council voted 42 in favor, 5 against, and 3 abstentions from the weyrs. Since this passed the 80% threshold for “war footing” the Wymperor at the time agreed.
+Themes
+- Origins of the Prophecy and planar design
+- The first schism: constraint vs. domination
 
-5 against
-Apocalypse
-Rift
-White
-Nightmare
-Black
+## Second Age — The Overcoming
 
-3 abstentions
-Etheric
-Lunar
-Occult
+Draconic cultures coalesced into weyrs and councils. They sealed known rents into Khyber’s depths and prosecuted the Dragon–Giant wars that set boundaries between elder powers. Realizing rampant meddling curdled fate, the great flights withdrew to Argonessen and codified the Seclusion Doctrine: Observe the lesser world; intervene only against existential divergences in the Prophecy.
 
-The mourning was really the opening of a positive energy rift and negative energy rift into Cyre. Each pulses every other round dealing 2d6 of that damage type. However, there  is a potion available that allows you to exist in the environment for 24 hours.
+Key Beats
+- Founding of the Draconic Council and the office of the Wymperor
+- The Seclusion Doctrine (Prophecy preservation over dominion)
 
-Professor Tombkeeper has a strong theory that draconic intervention means we are in a new age. Based on the threat, he calls this new age….
+## Third Age — The Reclusion
 
-4th Age - The Redemption? This is now? Or are we still in the seclusion.
-    Dragons taking positive steps to save the world from the idiots that inhabit in. In some view that does include removal of some/all existing sentient species and repopulating.
+Dragons watched from a distance while lesser civilizations rose and fell. Seclusion did not mean absence: silent corrections were made to preserve critical lines of fate. The most infamous correction ended the nation of Cyre.
 
-This IS actually happening in the mournland. Someone (LoB) is rebuilding the nuclear infrastructure to kill flesh types.
+The Mourning (Cyre Cataclysm)
+- Trigger: Cyre scientists approached a runaway arc in the Prophecy (“the magic atom”) capable of ending sapience.
+- Deliberation: The Draconic Council deemed it an existential divergence and invoked War Footing protocols.
+- Vote: 42 in favor, 5 against, 3 abstentions among the weyrs. Threshold passed; the Wymperor authorized action.
+- Dissenting Weyrs (5 against): Apocalypse, Rift, White, Nightmare, Black.
+- Abstaining Weyrs (3): Etheric, Lunar, Occult.
+- Method: A controlled overlay opened both a positive and a negative energy rift over Cyre, scrubbing the arc. Each rift pulses on alternating beats; exposure deals 2d6 of the respective type each pulse.
+- Aftermath: The “Mourning” fog stabilized around the interference pattern. Specialized elixirs allow 24‑hour safe passage.
 
+Consequences
+- Seclusion Doctrine fractured in practice; many dragons now argue for proactive stewardship.
+- Mortal scholarship (e.g., Professor Tombkeeper) marks this as the end of Reclusion and the birth of a new Age.
+
+## Fourth Age — The Redemption (current)
+
+Name in dispute: “Redemption” among draconic reformers; “Reckoning” among mortals who suffered the Mourning. Regardless, the Age is characterized by calculated draconic stewardship to prevent civilization-ending divergences—and by escalating planar interference.
+
+Defining Features
+- War Footing remains on a low simmer; the Council authorizes targeted strikes and covert guidance.
+- Planar thin places proliferate; Xoriat static appears in sites like the Eldrich Temple.
+- Radical factions propose culling corrupted lineages to “reset” the Prophecy’s course.
+
+Ongoing Threads
+- The Mournland arms race: an unknown actor (widely suspected to be the Lord of Blades) rebuilds pre‑Mourning superweapons tuned to exterminate flesh. Dragons debate direct interdiction vs. containment.
+- Lolth’s shadow play (GM secret): external manipulation seeks to use Xoriat to drive draconic minds insane, collapsing draconic governance from within.
+
+Adventure Hooks
+- Recover Council minutes or dissenting weyr correspondence from Argonessen caches (Knowledge DCs scale by rarity).
+- Track Mournland pulse nodes to shut down energy lighthouses before they synchronize.
+- Expose or thwart cults amplifying Xoriat resonance in temple sites.
+
+## Fifth Age — The Convergence (hypothesized)
+
+If Xoriat’s resonance cascades through draconic songlines, an Age of Convergence (“Mad Chorus”) may superimpose onto reality. Prophecy lines become unreadable, and authority—draconic and mortal—fractures.
+
+Early Signs
+- Increased “chorus” phenomena among dragons (echoed speech, mirrored behaviors, antipathy to bells and mirrors)
+- Fracture patterns (eight‑point motifs) appearing in failed wards
+
+Preventative Strategies
+- Harmonics research using eldershard matrices to dampen resonance
+- Surgical silence: removing signal‑boosting artifacts from the world before they choir
+
+---
+
+Design Notes (for the GM)
+- Use Ages as chapter frames for campaigns: Creation (myth), Overcoming (ancients), Reclusion (cold war), Redemption (current), Convergence (threat clock).
+- Treat the Mourning’s dual rifts as environmental hazards and timers; the elixir enables time‑boxed forays.
+- The vote ledger (42/5/3) can seed political intrigue within Argonessen: who led the opposition, and why?
