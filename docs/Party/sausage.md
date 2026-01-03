@@ -10,16 +10,43 @@ tags: []
 **Sausage the Giant Shadow Weasel
 Type:** Animal in Aberration
 
-**Height**: 5’ currently will grow to 3 meters (almost 4 with tail)
+**Shadow-Level (5th) Glow-Up:** His auburn coat has deepened to near-black with oil-slick iridescence, his belly stripe now silvery-violet, and his eyes burn ember-orange. Wisps of shadow trail his limbs like grasping fingers, letting him grip weapons with inky tendrils.
 
-**Fur**: Sooty auburn with a silvery belly stripe
-
-**Eyes**: Intelligent, amber-hued
-
+**Height**: 5’3" currently will grow to 3 meters (almost 4 with tail)
 **Disposition**: Loyal, hyper-aware, emotionally complicated
+**Alignment** N; **Size** Medium animal (shadow-touched)
+**Perception** +14; darkvision; scent (imprecise) 60 ft.
+**Languages** understands Common, Elven, Undercommon (can’t speak)
+**Skills** Acrobatics +13, Athletics +15, Stealth +14, Survival +12, Intimidation +10
+**Str** +5, **Dex** +3, **Con** +4, **Int** -1, **Wis** +2, **Cha** +1
+**Items** ring of holding (contains 2 drow hand crossbows and 2 +1 striking venomous drow sawtooth sabers sized for Medium users)
 
-**Backstory: “The Long Burrow”
-Sausage was born not of a litter, but of a ritual.**
+**AC** 23; **Fort** +15, **Ref** +13, **Will** +11
+**HP** 95; **Resistances** cold 5, negative 5
+**Speed** 40 ft, climb 10 ft (shadow-grip)
+
+### Melee
+**Jaws** +15 (reach 10 ft, magical), **Damage** 2d8+7 piercing plus Knockdown
+**Claw** +15 (agile, magical), **Damage** 2d6+7 slashing
+
+### Ranged
+**Hand Crossbow** +13 (range increment 60 ft, reload 1, shadow-hand, magical), **Damage** 1d6+4 piercing plus drow sleep poison if loaded; draws from ring of holding as part of the Strike.
+
+### Shadow Weapon Aptitude (concentrate, manipulate, shadow)
+Sausage can wield one-handed weapons or hand crossbows sized for Medium creatures using shadowy tendrils. He can draw or stow such a weapon as a free action once per round and is treated as having a free hand for reloading hand crossbows.
+
+### Shadow Pounce (move, shadow, teleportation)  (1 action)
+If Sausage is in dim light or darkness, he Steps up to 20 feet and makes a Jaws or weapon Strike at the end of the movement. This movement doesn’t trigger reactions triggered by movement.
+
+### Pack Hunter
+Sausage gains a +2 circumstance bonus to attack rolls against a creature that is within reach of one of his allies.
+
+### Howl of Dread (auditory, emotion, fear, mental, primal)  (2 actions)
+Sausage unleashes a shadow-backed howl in a 30-foot emanation. Each enemy in the area must succeed at a DC 22 Will save or become frightened 1 (or frightened 2 on a critical failure). Creatures frightened by this howl are also flat-footed to Sausage until the end of his next turn.
+
+## Backstory: “The Long Burrow”
+
+Sausage was born not of a litter, but of a **ritual.**
 Deep inside the Vault od the Crow, an enclave of **dark elves** known as the **$DrowFamily** experimented with a forbidden fusion of alchemy and shadowcraft. Obsessed with creating beasts of war that could tunnel through stone and flesh alike, they turned to the DNA of giant weasels—predators already suited for stealth, speed, and fury.
 
 Sausage—known to them as **Specimen IX-Rideth**—was the most promising. Engineered with enhanced synaptic reflexes and an elongated spine wrapped in shadow-threaded sinew, he was meant to serve as a **scout-beast for the coming war against the surface folk**, with a nose for buried secrets and a mouth for silencing sentries. But something went wrong.
@@ -174,4 +201,3 @@ Trait**: *Bound Gourmand* (Rare, Mental, Magical, Weasel-only)
 Eventually, Xiltharn may fully awaken. He has no desire to leave Sausage—he finds his current form **cozy**, **adored**, and **full of snacks**. But should the PCs ever need to **negotiate with ancient dream entities**, **access a forgotten dragonic library**, or **pass the Trials of Appetite in the Vaults of Taste**, Sausage may become **a vessel of insight and flavor unmatched**.
 
 Would you like a short in-universe journal entry where one of the PCs reflects on discovering “there’s someone else in Sausage”? Or perhaps a Sivi’s-exclusive menu item named *“Xiltharn’s Whisper”*?
-

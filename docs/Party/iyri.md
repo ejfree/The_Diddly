@@ -20,6 +20,15 @@ Minor Grades 27 B+s
 Alchemy Club - 25 gets a D4 of poison.
 Sausage 22 (good)
 
+End Soph Semester Grades
+Major: C , 24 on 25
+Minor: C , 24 on 25
+Alchemy Club - 22 on a 15
+Sausage: 27,
+
+
+
+
 Sophomore Classes:
 ELBD 240 – Ethics of Elemental Enslavement
 Professor Quorim Fluxthread (Gold Dragon)

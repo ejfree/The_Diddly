@@ -2,7 +2,6 @@
 title: Nara
 updated: 2025-10-04
 tags: []
-
 ---
 
 # Nara
@@ -16,6 +15,13 @@ Mid Term Grades:
 Major Grades: 16 - C+
 Minor Grades:  21 on 20 B
 Dead Student Secrets:  28 on 25.
+
+End Soph Semester Grades
+Major: 29, crit Sucesss A+
+Minor: 28, Success A-
+Dead Student Secrets: 30, Success
+
+
 
 Activity 1
 Activity 2

@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dff5ff"/>
+      <stop offset="100%" stop-color="#b6e4d1"/>
+    </linearGradient>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd27f" stop-opacity="0.28"/>
+      <stop offset="80%" stop-color="#ffbb55" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hedge" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#4a7a52"/>
+      <circle cx="10" cy="10" r="6" fill="#538d5f"/>
+    </pattern>
+    <pattern id="sand" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="18" height="18" fill="#f5e7cf"/>
+      <circle cx="6" cy="7" r="1.5" fill="#e5d6b8"/>
+      <circle cx="12" cy="11" r="1.2" fill="#e5d6b8"/>
+      <circle cx="4" cy="14" r="1" fill="#e5d6b8"/>
+    </pattern>
+    <pattern id="water" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="#8bd2f4"/>
+      <path d="M0 20 Q10 16 20 20 T40 20" stroke="#bdf" stroke-width="3" fill="none"/>
+      <path d="M0 30 Q10 26 20 30 T40 30" stroke="#9cc" stroke-width="2" fill="none"/>
+    </pattern>
+  </defs>
+  <rect width="1800" height="1200" fill="url(#bg)"/>
+  <rect x="140" y="140" width="1520" height="920" rx="60" fill="url(#sand)" stroke="#d2b48c" stroke-width="8"/>
+  <circle cx="900" cy="600" r="360" fill="url(#centerGlow)"/>
+  <!-- hedge boundaries -->
+  <rect x="120" y="120" width="1560" height="40" fill="url(#hedge)"/>
+  <rect x="120" y="1040" width="1560" height="40" fill="url(#hedge)"/>
+  <rect x="120" y="160" width="40" height="880" fill="url(#hedge)"/>
+  <rect x="1640" y="160" width="40" height="880" fill="url(#hedge)"/>
+  <!-- snack stalls -->
+  <g id="stalls" stroke="#6b3c1f" stroke-width="4">
+    <rect x="230" y="180" width="180" height="120" rx="12" fill="#f6c57b"/>
+    <rect x="1390" y="180" width="180" height="120" rx="12" fill="#f6c57b"/>
+    <rect x="230" y="900" width="180" height="120" rx="12" fill="#f6c57b"/>
+    <rect x="1390" y="900" width="180" height="120" rx="12" fill="#f6c57b"/>
+  </g>
+  <!-- shallow reflecting pool -->
+  <ellipse cx="900" cy="1020" rx="280" ry="70" fill="url(#water)" stroke="#4c97b3" stroke-width="5" opacity="0.75"/>
+  <!-- seating tiers -->
+  <g id="tiers" fill="#e9d9c0" stroke="#c7b299" stroke-width="4" opacity="0.9">
+    <path d="M160 320 Q900 180 1640 320 L1640 360 Q900 220 160 360 Z"/>
+    <path d="M160 840 Q900 980 1640 840 L1640 800 Q900 940 160 800 Z"/>
+  </g>
+  <!-- prize stations -->
+  <g id="stations" stroke="#2b3a67" stroke-width="5">
+    <rect x="780" y="160" width="240" height="80" rx="12" fill="#d8e4ff"/>
+    <rect x="780" y="960" width="240" height="80" rx="12" fill="#d8e4ff"/>
+  </g>
+  <!-- roaming horde-trees (small) -->
+  <g id="small-trees" stroke="#3c2a16" stroke-width="5" stroke-linecap="round">
+    <g transform="translate(380,520)">
+      <rect x="-28" y="20" width="56" height="60" rx="12" fill="#5c432a"/>
+      <circle cx="0" cy="0" r="55" fill="#367c3b"/>
+      <circle cx="-18" cy="-12" r="10" fill="#ffcf33"/>
+      <circle cx="22" cy="12" r="12" fill="#ff6f3c"/>
+    </g>
+    <g transform="translate(620,340)">
+      <rect x="-28" y="20" width="56" height="60" rx="12" fill="#5c432a"/>
+      <circle cx="0" cy="0" r="50" fill="#2f6f35"/>
+      <circle cx="16" cy="-8" r="11" fill="#7fd1ff"/>
+      <circle cx="-20" cy="10" r="9" fill="#ffcf33"/>
+    </g>
+    <g transform="translate(1200,420)">
+      <rect x="-28" y="20" width="56" height="60" rx="12" fill="#5c432a"/>
+      <circle cx="0" cy="0" r="52" fill="#3a7f42"/>
+      <circle cx="-16" cy="-12" r="10" fill="#ff6f3c"/>
+      <circle cx="18" cy="8" r="12" fill="#7fd1ff"/>
+    </g>
+    <g transform="translate(1240,720)">
+      <rect x="-28" y="20" width="56" height="60" rx="12" fill="#5c432a"/>
+      <circle cx="0" cy="0" r="50" fill="#2c6b38"/>
+      <circle cx="-14" cy="-10" r="11" fill="#ffcf33"/>
+      <circle cx="18" cy="12" r="10" fill="#ff6f3c"/>
+    </g>
+  </g>
+  <!-- boss tree: grand prize horde-tree -->
+  <g id="boss-tree" transform="translate(900,600)">
+    <ellipse cx="0" cy="130" rx="120" ry="50" fill="#6b4b2b" opacity="0.7"/>
+    <rect x="-65" y="40" width="130" height="190" rx="24" fill="#79522f" stroke="#593b21" stroke-width="7"/>
+    <circle cx="0" cy="0" r="140" fill="#2f7036" stroke="#1f4d24" stroke-width="8"/>
+    <circle cx="-50" cy="-40" r="22" fill="#ffcf33" stroke="#c49b1a" stroke-width="4"/>
+    <circle cx="60" cy="20" r="28" fill="#ff6f3c" stroke="#c54f1b" stroke-width="4"/>
+    <circle cx="10" cy="-70" r="18" fill="#7fd1ff" stroke="#4aa1c7" stroke-width="4"/>
+    <path d="M-90 40 Q-120 90 -160 80" stroke="#4d3c26" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <path d="M90 40 Q120 90 160 80" stroke="#4d3c26" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <text x="0" y="190" text-anchor="middle" font-family="Helvetica" font-size="26" fill="#f4ede1">Grand Prize Horde-Tree</text>
+  </g>
+  <!-- labels -->
+  <g font-family="Helvetica" font-size="30" fill="#1d1d1d" stroke="#f6f6f6" stroke-width="4" paint-order="stroke" text-anchor="middle">
+    <text x="900" y="120">Solstice Horde-Tree Bonk Arena (No Grid)</text>
+    <text x="900" y="230">Prize Redemption</text>
+    <text x="900" y="1040">Reflecting Pool</text>
+    <text x="320" y="260">Snack Stall</text>
+    <text x="1480" y="260">Snack Stall</text>
+    <text x="320" y="980">Snack Stall</text>
+    <text x="1480" y="980">Snack Stall</text>
+  </g>
+  <!-- legend -->
+  <g id="legend" transform="translate(1500,420)" font-family="Helvetica" font-size="20" fill="#111" stroke="#f7f7f7" stroke-width="3" paint-order="stroke">
+    <rect x="-120" y="-20" width="240" height="240" rx="16" fill="#fdf7ec" stroke="#c7b299" stroke-width="4"/>
+    <g fill="#3a7f42" stroke="#2b4d2f" stroke-width="4">
+      <rect x="-90" y="10" width="28" height="50" rx="8" fill="#5c432a" stroke="#4d321c"/>
+      <circle cx="-76" cy="-10" r="26"/>
+    </g>
+    <text x="-30" y="-2">Roaming Horde-Tree</text>
+    <rect x="-90" y="40" width="50" height="30" fill="#f6c57b" stroke="#6b3c1f" stroke-width="4"/>
+    <text x="-10" y="64">Snack Stall</text>
+    <rect x="-90" y="80" width="60" height="30" fill="#d8e4ff" stroke="#2b3a67" stroke-width="4"/>
+    <text x="-2" y="104">Prize Booth</text>
+    <rect x="-90" y="120" width="60" height="30" fill="#8bd2f4" stroke="#4c97b3" stroke-width="4"/>
+    <text x="-2" y="144">Shallow Pool</text>
+    <circle cx="-60" cy="180" r="32" fill="#2f7036" stroke="#1f4d24" stroke-width="6"/>
+    <text x="0" y="188">Grand Prize Horde-Tree</text>
+  </g>
+</svg>

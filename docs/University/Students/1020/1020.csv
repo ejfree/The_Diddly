@@ -1,0 +1,502 @@
+Name,Short Name,Type,Family,Tradition,General Personality,major_id,Major Name,floor_id,Wing,Room,Class Schedule,Wing Name,Flight Name,RezCode,Residence
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,8,Political Intrigue and Diplomacy,11,Sunfire,,,,,10,Boudlerfall Enclave
+,,Gold,metallic,divine,wise counselor and leader,4,Economic Dominance and Resource Management,14,Elysium,,,,,10,Boudlerfall Enclave
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,2,Dragon History,17,Nightshade,,,,,10,Boudlerfall Enclave
+,,Red,chromatic,arcane,proud and arrogant,1,Prophecy,13,Nova,,,,,10,Boudlerfall Enclave
+,,Indigo,wild,arcane,party going revelers,11,Arcanomechanics,10,Echo,,,,,10,Boudlerfall Enclave
+,,Underworld,imperial,arcane,natural alchemists and hoarders,3,Ancient Relics and Artifacts: ,9,Nexus,,,,,1,Emberfall Heights
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,2,Dragon History,10,Echo,,,,,1,Emberfall Heights
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,14,Elysium,,,,,1,Emberfall Heights
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,10,Eldritch Engineering,16,Wildfire,,,,,1,Emberfall Heights
+,,Green,chromatic,arcane,obessive and meticulous scholars,9,Magical Theory and Application,15,Seraphic,,,,,1,Emberfall Heights
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,7,Planar Studies,6,Eclipse,,,,,17,Cirrus Vale
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,12,Elemental Binding,20,Whisper,,,,,17,Cirrus Vale
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",12,Elemental Binding,1,Exalted,,,,,17,Cirrus Vale
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,4,Economic Dominance and Resource Management,19,Shadow,,,,,17,Cirrus Vale
+,,Copper,metallic,arcane,prankster & hedonist,4,Economic Dominance and Resource Management,10,Echo,,,,,17,Cirrus Vale
+,,White,chromatic,arcane,brutish and predatory survivalists,2,Dragon History,20,Whisper,,,,,3,Pyre Crest
+,,Red,chromatic,arcane,proud and arrogant,10,Eldritch Engineering,19,Shadow,,,,,3,Pyre Crest
+,,Green,chromatic,arcane,obessive and meticulous scholars,3,Ancient Relics and Artifacts: ,6,Eclipse,,,,,3,Pyre Crest
+,,Gold,metallic,divine,wise counselor and leader,1,Prophecy,8,Wraith,,,,,3,Pyre Crest
+,,Red,chromatic,arcane,proud and arrogant,8,Political Intrigue and Diplomacy,20,Whisper,,,,,3,Pyre Crest
+,,Green,chromatic,arcane,obessive and meticulous scholars,4,Economic Dominance and Resource Management,14,Elysium,,,,,10,Boudlerfall Enclave
+,,Copper,metallic,arcane,prankster & hedonist,4,Economic Dominance and Resource Management,14,Elysium,,,,,10,Boudlerfall Enclave
+,,Copper,metallic,arcane,prankster & hedonist,6,Arcane Artifice and Enchantment Studies,6,Eclipse,,,,,10,Boudlerfall Enclave
+,,Green,chromatic,arcane,obessive and meticulous scholars,10,Eldritch Engineering,5,Nebula,,,,,10,Boudlerfall Enclave
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,7,Planar Studies,5,Nebula,,,,,10,Boudlerfall Enclave
+,,Gold,metallic,divine,wise counselor and leader,6,Arcane Artifice and Enchantment Studies,10,Echo,,,,,99,Graveyard
+,,Red,chromatic,arcane,proud and arrogant,11,Arcanomechanics,6,Eclipse,,,,,99,Graveyard
+,,Vortex,outer,arcane,interplanetary messengers,8,Political Intrigue and Diplomacy,6,Eclipse,,,,,99,Graveyard
+,,Green,chromatic,arcane,obessive and meticulous scholars,6,Arcane Artifice and Enchantment Studies,15,Seraphic,,,,,99,Graveyard
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,9,Nexus,,,,,99,Graveyard
+,,Red,chromatic,arcane,proud and arrogant,9,Magical Theory and Application,14,Elysium,,,,,13,Pearl Current Row
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",7,Planar Studies,17,Nightshade,,,,,13,Pearl Current Row
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",12,Elemental Binding,2,Empyrean,,,,,13,Pearl Current Row
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,13,Pearl Current Row
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",11,Arcanomechanics,3,Stellar,,,,,13,Pearl Current Row
+,,Sea,imperial,arcane,ind & fickle,1,Prophecy,8,Wraith,,,,,99,Graveyard
+,,Harlequin,wild,arcane,clever and insightful jesters,5,Mineral Extraction & Refinement,14,Elysium,,,,,99,Graveyard
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,7,Planar Studies,10,Echo,,,,,99,Graveyard
+,,Red,chromatic,arcane,proud and arrogant,9,Magical Theory and Application,14,Elysium,,,,,99,Graveyard
+,,Sapphire,jewel,Occult,Militaristic and warlike,2,Dragon History,6,Eclipse,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",10,Eldritch Engineering,12,Whirlwind,,,,,19,Whirlwind Rise
+,,White,chromatic,arcane,brutish and predatory survivalists,10,Eldritch Engineering,14,Elysium,,,,,19,Whirlwind Rise
+,,Brass,metallic,arcane,curious & short attention span,4,Economic Dominance and Resource Management,19,Shadow,,,,,19,Whirlwind Rise
+,,Lunar,outer,arcane,nosy interplanetary people watchers,10,Eldritch Engineering,3,Stellar,,,,,19,Whirlwind Rise
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,7,Planar Studies,16,Wildfire,,,,,19,Whirlwind Rise
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,7,Planar Studies,16,Wildfire,,,,,9,Terrashield Keep
+,,Umbral,primal,primal,malicious hunters of the undead,5,Mineral Extraction & Refinement,5,Nebula,,,,,9,Terrashield Keep
+,,Copper,metallic,arcane,prankster & hedonist,9,Magical Theory and Application,14,Elysium,,,,,9,Terrashield Keep
+,,Green,chromatic,arcane,obessive and meticulous scholars,10,Eldritch Engineering,11,Sunfire,,,,,9,Terrashield Keep
+,,Gold,metallic,divine,wise counselor and leader,12,Elemental Binding,8,Wraith,,,,,9,Terrashield Keep
+,,Copper,metallic,arcane,prankster & hedonist,5,Mineral Extraction & Refinement,2,Empyrean,,,,,4,Crystalmount Rise
+,,Red,chromatic,arcane,proud and arrogant,7,Planar Studies,14,Elysium,,,,,4,Crystalmount Rise
+,,Red,chromatic,arcane,proud and arrogant,4,Economic Dominance and Resource Management,11,Sunfire,,,,,4,Crystalmount Rise
+,,Red,chromatic,arcane,proud and arrogant,10,Eldritch Engineering,9,Nexus,,,,,4,Crystalmount Rise
+,,White,chromatic,arcane,brutish and predatory survivalists,6,Arcane Artifice and Enchantment Studies,14,Elysium,,,,,4,Crystalmount Rise
+,,Cerulean,wild,arcane,explorers and adventurers,11,Arcanomechanics,12,Whirlwind,,,,,99,Graveyard
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,1,Prophecy,18,Enigma,,,,,99,Graveyard
+,,Soverign,imperial,Occult,"subtle manipulators, negotiators",6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,99,Graveyard
+,,Void,outer,arcane,corrupted destroyers,1,Prophecy,9,Nexus,,,,,99,Graveyard
+,,Copper,metallic,arcane,prankster & hedonist,10,Eldritch Engineering,8,Wraith,,,,,99,Graveyard
+,,Forest,imperial,primal,guardians of nature,12,Elemental Binding,19,Shadow,,,,,9,Terrashield Keep
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,6,Arcane Artifice and Enchantment Studies,1,Exalted,,,,,9,Terrashield Keep
+,,Topaz,jewel,arcane,selfish and unsociable,11,Arcanomechanics,15,Seraphic,,,,,9,Terrashield Keep
+,,Brass,metallic,arcane,curious & short attention span,7,Planar Studies,8,Wraith,,,,,9,Terrashield Keep
+,,Etheric,esoteric,Occult,pragmatic survivalists,6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,9,Terrashield Keep
+,,Magma,primal,primal,"brash, unpredictable, & violent",6,Arcane Artifice and Enchantment Studies,19,Shadow,,,,,99,Graveyard
+,,Cerulean,wild,arcane,explorers and adventurers,3,Ancient Relics and Artifacts: ,7,Starlight,,,,,99,Graveyard
+,,Cerulean,wild,arcane,explorers and adventurers,11,Arcanomechanics,19,Shadow,,,,,99,Graveyard
+,,Umbral,primal,primal,malicious hunters of the undead,4,Economic Dominance and Resource Management,14,Elysium,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",5,Mineral Extraction & Refinement,8,Wraith,,,,,99,Graveyard
+,,Topaz,jewel,arcane,selfish and unsociable,7,Planar Studies,12,Whirlwind,,,,,12,Mistwood Shoals
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,1,Prophecy,17,Nightshade,,,,,12,Mistwood Shoals
+,,White,chromatic,arcane,brutish and predatory survivalists,5,Mineral Extraction & Refinement,10,Echo,,,,,12,Mistwood Shoals
+,,Amber,wild,arcane,gossip & information broker,6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,12,Mistwood Shoals
+,,Cloud,primal,primal,wander & exlpore,5,Mineral Extraction & Refinement,13,Nova,,,,,12,Mistwood Shoals
+,,Brass,metallic,arcane,curious & short attention span,8,Political Intrigue and Diplomacy,9,Nexus,,,,,17,Cirrus Vale
+,,Brass,metallic,arcane,curious & short attention span,2,Dragon History,10,Echo,,,,,17,Cirrus Vale
+,,Sapphire,jewel,Occult,Militaristic and warlike,2,Dragon History,13,Nova,,,,,17,Cirrus Vale
+,,White,chromatic,arcane,brutish and predatory survivalists,1,Prophecy,11,Sunfire,,,,,17,Cirrus Vale
+,,Brine,primal,primal,rigid courtsey & discipline,5,Mineral Extraction & Refinement,1,Exalted,,,,,17,Cirrus Vale
+,,Red,chromatic,arcane,proud and arrogant,11,Arcanomechanics,9,Nexus,,,,,99,Graveyard
+,,Umbral,primal,primal,malicious hunters of the undead,10,Eldritch Engineering,8,Wraith,,,,,99,Graveyard
+,,Green,chromatic,arcane,obessive and meticulous scholars,5,Mineral Extraction & Refinement,9,Nexus,,,,,99,Graveyard
+,,Crystal,primal,primal,build beautiful homes,2,Dragon History,11,Sunfire,,,,,99,Graveyard
+,,Gold,metallic,divine,wise counselor and leader,3,Ancient Relics and Artifacts: ,13,Nova,,,,,99,Graveyard
+,,Brine,primal,primal,rigid courtsey & discipline,3,Ancient Relics and Artifacts: ,9,Nexus,,,,,13,Pearl Current Row
+,,Gold,metallic,divine,wise counselor and leader,5,Mineral Extraction & Refinement,9,Nexus,,,,,13,Pearl Current Row
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,4,Economic Dominance and Resource Management,2,Empyrean,,,,,13,Pearl Current Row
+,,Copper,metallic,arcane,prankster & hedonist,8,Political Intrigue and Diplomacy,3,Stellar,,,,,13,Pearl Current Row
+,,Harlequin,wild,arcane,clever and insightful jesters,12,Elemental Binding,11,Sunfire,,,,,13,Pearl Current Row
+,,Underworld,imperial,arcane,natural alchemists and hoarders,4,Economic Dominance and Resource Management,5,Nebula,,,,,2,Cinderwalk Court
+,,Sky,imperial,divine,religious traditionalist,9,Magical Theory and Application,3,Stellar,,,,,2,Cinderwalk Court
+,,Underworld,imperial,arcane,natural alchemists and hoarders,3,Ancient Relics and Artifacts: ,9,Nexus,,,,,2,Cinderwalk Court
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,10,Eldritch Engineering,12,Whirlwind,,,,,2,Cinderwalk Court
+,,Emerald,jewel,arcane,"inquisitive, knowledgeable sage",7,Planar Studies,6,Eclipse,,,,,2,Cinderwalk Court
+,,Amber,wild,arcane,gossip & information broker,8,Political Intrigue and Diplomacy,14,Elysium,,,,,5,Ashspire Hollow
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,6,Arcane Artifice and Enchantment Studies,5,Nebula,,,,,5,Ashspire Hollow
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",12,Elemental Binding,17,Nightshade,,,,,5,Ashspire Hollow
+,,Solar,outer,arcane,uber arrogant,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,5,Ashspire Hollow
+,,Magma,primal,primal,"brash, unpredictable, & violent",7,Planar Studies,15,Seraphic,,,,,5,Ashspire Hollow
+,,Amber,wild,arcane,gossip & information broker,5,Mineral Extraction & Refinement,14,Elysium,,,,,18,Galeholm Fields
+,,Gold,metallic,divine,wise counselor and leader,5,Mineral Extraction & Refinement,18,Enigma,,,,,18,Galeholm Fields
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,6,Arcane Artifice and Enchantment Studies,6,Eclipse,,,,,18,Galeholm Fields
+,,Brass,metallic,arcane,curious & short attention span,3,Ancient Relics and Artifacts: ,17,Nightshade,,,,,18,Galeholm Fields
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,6,Arcane Artifice and Enchantment Studies,5,Nebula,,,,,18,Galeholm Fields
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,5,Mineral Extraction & Refinement,3,Stellar,,,,,19,Whirlwind Rise
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,3,Ancient Relics and Artifacts: ,1,Exalted,,,,,19,Whirlwind Rise
+,,White,chromatic,arcane,brutish and predatory survivalists,2,Dragon History,15,Seraphic,,,,,19,Whirlwind Rise
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,4,Economic Dominance and Resource Management,12,Whirlwind,,,,,19,Whirlwind Rise
+,,Apocolypse,planar,divine,despoiler & destroyer,3,Ancient Relics and Artifacts: ,7,Starlight,,,,,19,Whirlwind Rise
+,,Cloud,primal,primal,wander & exlpore,10,Eldritch Engineering,14,Elysium,,,,,3,Pyre Crest
+,,Green,chromatic,arcane,obessive and meticulous scholars,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,3,Pyre Crest
+,,Occult,esoteric,Occult,eclectic seekers,7,Planar Studies,16,Wildfire,,,,,3,Pyre Crest
+,,Red,chromatic,arcane,proud and arrogant,11,Arcanomechanics,5,Nebula,,,,,3,Pyre Crest
+,,Copper,metallic,arcane,prankster & hedonist,3,Ancient Relics and Artifacts: ,11,Sunfire,,,,,3,Pyre Crest
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,20,Whisper,,,,,14,Stormbay Landing
+,,Copper,metallic,arcane,prankster & hedonist,9,Magical Theory and Application,13,Nova,,,,,14,Stormbay Landing
+,,Underworld,imperial,arcane,natural alchemists and hoarders,5,Mineral Extraction & Refinement,12,Whirlwind,,,,,14,Stormbay Landing
+,,Brass,metallic,arcane,curious & short attention span,8,Political Intrigue and Diplomacy,9,Nexus,,,,,14,Stormbay Landing
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,8,Political Intrigue and Diplomacy,14,Elysium,,,,,14,Stormbay Landing
+,,Havoc,planar,divine,passionate artists,9,Magical Theory and Application,4,Wisp,,,,,3,Pyre Crest
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",10,Eldritch Engineering,20,Whisper,,,,,3,Pyre Crest
+,,Brine,primal,primal,rigid courtsey & discipline,4,Economic Dominance and Resource Management,14,Elysium,,,,,3,Pyre Crest
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,1,Prophecy,10,Echo,,,,,3,Pyre Crest
+,,Brass,metallic,arcane,curious & short attention span,1,Prophecy,7,Starlight,,,,,3,Pyre Crest
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,9,Magical Theory and Application,18,Enigma,,,,,2,Cinderwalk Court
+,,Cerulean,wild,arcane,explorers and adventurers,1,Prophecy,15,Seraphic,,,,,2,Cinderwalk Court
+,,Brass,metallic,arcane,curious & short attention span,2,Dragon History,9,Nexus,,,,,2,Cinderwalk Court
+,,Green,chromatic,arcane,obessive and meticulous scholars,6,Arcane Artifice and Enchantment Studies,8,Wraith,,,,,2,Cinderwalk Court
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,2,Cinderwalk Court
+,,Nightmare,esoteric,Occult,artists of terror,9,Magical Theory and Application,6,Eclipse,,,,,15,Moonwater Falls
+,,rift,planar,divine,rampagers who break things,3,Ancient Relics and Artifacts: ,9,Nexus,,,,,15,Moonwater Falls
+,,Brine,primal,primal,rigid courtsey & discipline,3,Ancient Relics and Artifacts: ,7,Starlight,,,,,15,Moonwater Falls
+,,Moonstone,jewel,divine,wise and gentle storytellers and teachers,6,Arcane Artifice and Enchantment Studies,14,Elysium,,,,,15,Moonwater Falls
+,,Copper,metallic,arcane,prankster & hedonist,2,Dragon History,17,Nightshade,,,,,15,Moonwater Falls
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",6,Arcane Artifice and Enchantment Studies,8,Wraith,,,,,8,Crystal Mantle
+,,Brass,metallic,arcane,curious & short attention span,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,8,Crystal Mantle
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,6,Arcane Artifice and Enchantment Studies,5,Nebula,,,,,8,Crystal Mantle
+,,Gold,metallic,divine,wise counselor and leader,1,Prophecy,17,Nightshade,,,,,8,Crystal Mantle
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,1,Prophecy,19,Shadow,,,,,8,Crystal Mantle
+,,Red,chromatic,arcane,proud and arrogant,2,Dragon History,4,Wisp,,,,,9,Terrashield Keep
+,,Void,outer,arcane,corrupted destroyers,7,Planar Studies,15,Seraphic,,,,,9,Terrashield Keep
+,,Brass,metallic,arcane,curious & short attention span,6,Arcane Artifice and Enchantment Studies,6,Eclipse,,,,,9,Terrashield Keep
+,,Lunar,outer,arcane,nosy interplanetary people watchers,12,Elemental Binding,15,Seraphic,,,,,9,Terrashield Keep
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,4,Wisp,,,,,9,Terrashield Keep
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,1,Prophecy,6,Eclipse,,,,,8,Crystal Mantle
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,10,Eldritch Engineering,20,Whisper,,,,,8,Crystal Mantle
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,7,Planar Studies,11,Sunfire,,,,,8,Crystal Mantle
+,,Red,chromatic,arcane,proud and arrogant,4,Economic Dominance and Resource Management,9,Nexus,,,,,8,Crystal Mantle
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",8,Political Intrigue and Diplomacy,20,Whisper,,,,,8,Crystal Mantle
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",4,Economic Dominance and Resource Management,13,Nova,,,,,18,Galeholm Fields
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",7,Planar Studies,11,Sunfire,,,,,18,Galeholm Fields
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,11,Arcanomechanics,6,Eclipse,,,,,18,Galeholm Fields
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",1,Prophecy,6,Eclipse,,,,,18,Galeholm Fields
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",3,Ancient Relics and Artifacts: ,1,Exalted,,,,,18,Galeholm Fields
+,,Copper,metallic,arcane,prankster & hedonist,1,Prophecy,17,Nightshade,,,,,11,Tidepool Grotto
+,,Green,chromatic,arcane,obessive and meticulous scholars,12,Elemental Binding,10,Echo,,,,,11,Tidepool Grotto
+,,Copper,metallic,arcane,prankster & hedonist,4,Economic Dominance and Resource Management,9,Nexus,,,,,11,Tidepool Grotto
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,8,Political Intrigue and Diplomacy,2,Empyrean,,,,,11,Tidepool Grotto
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",1,Prophecy,2,Empyrean,,,,,11,Tidepool Grotto
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,3,Ancient Relics and Artifacts: ,15,Seraphic,,,,,7,Verdant Hollow
+,,Harlequin,wild,arcane,clever and insightful jesters,8,Political Intrigue and Diplomacy,14,Elysium,,,,,7,Verdant Hollow
+,,Green,chromatic,arcane,obessive and meticulous scholars,4,Economic Dominance and Resource Management,12,Whirlwind,,,,,7,Verdant Hollow
+,,Occult,esoteric,Occult,eclectic seekers,10,Eldritch Engineering,18,Enigma,,,,,7,Verdant Hollow
+,,White,chromatic,arcane,brutish and predatory survivalists,8,Political Intrigue and Diplomacy,19,Shadow,,,,,7,Verdant Hollow
+,,Red,chromatic,arcane,proud and arrogant,8,Political Intrigue and Diplomacy,1,Exalted,,,,,5,Ashspire Hollow
+,,Red,chromatic,arcane,proud and arrogant,4,Economic Dominance and Resource Management,6,Eclipse,,,,,5,Ashspire Hollow
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,3,Stellar,,,,,5,Ashspire Hollow
+,,Copper,metallic,arcane,prankster & hedonist,12,Elemental Binding,17,Nightshade,,,,,5,Ashspire Hollow
+,,Green,chromatic,arcane,obessive and meticulous scholars,9,Magical Theory and Application,2,Empyrean,,,,,5,Ashspire Hollow
+,,Copper,metallic,arcane,prankster & hedonist,9,Magical Theory and Application,7,Starlight,,,,,13,Pearl Current Row
+,,Vermillion,wild,arcane,thrill seekers who love to tell tall tales,12,Elemental Binding,18,Enigma,,,,,13,Pearl Current Row
+,,White,chromatic,arcane,brutish and predatory survivalists,12,Elemental Binding,17,Nightshade,,,,,13,Pearl Current Row
+,,Cloud,primal,primal,wander & exlpore,4,Economic Dominance and Resource Management,8,Wraith,,,,,13,Pearl Current Row
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,11,Arcanomechanics,7,Starlight,,,,,13,Pearl Current Row
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,12,Elemental Binding,9,Nexus,,,,,7,Verdant Hollow
+,,Brass,metallic,arcane,curious & short attention span,12,Elemental Binding,16,Wildfire,,,,,7,Verdant Hollow
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,9,Magical Theory and Application,20,Whisper,,,,,7,Verdant Hollow
+,,Gold,metallic,divine,wise counselor and leader,10,Eldritch Engineering,6,Eclipse,,,,,7,Verdant Hollow
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,11,Arcanomechanics,7,Starlight,,,,,7,Verdant Hollow
+,,Red,chromatic,arcane,proud and arrogant,12,Elemental Binding,16,Wildfire,,,,,7,Verdant Hollow
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,5,Mineral Extraction & Refinement,8,Wraith,,,,,7,Verdant Hollow
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,9,Magical Theory and Application,14,Elysium,,,,,7,Verdant Hollow
+,,Solar,outer,arcane,uber arrogant,10,Eldritch Engineering,11,Sunfire,,,,,7,Verdant Hollow
+,,Copper,metallic,arcane,prankster & hedonist,5,Mineral Extraction & Refinement,18,Enigma,,,,,7,Verdant Hollow
+,,Crypt,planar,divine,independent & decisive,7,Planar Studies,17,Nightshade,,,,,99,Graveyard
+,,Infernal,planar,divine,tyranical deal brokers,3,Ancient Relics and Artifacts: ,2,Empyrean,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",8,Political Intrigue and Diplomacy,5,Nebula,,,,,99,Graveyard
+,,Lunar,outer,arcane,nosy interplanetary people watchers,6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,99,Graveyard
+,,Emerald,jewel,arcane,"inquisitive, knowledgeable sage",9,Magical Theory and Application,5,Nebula,,,,,99,Graveyard
+,,Vermillion,wild,arcane,thrill seekers who love to tell tall tales,5,Mineral Extraction & Refinement,10,Echo,,,,,99,Graveyard
+,,Indigo,wild,arcane,party going revelers,8,Political Intrigue and Diplomacy,1,Exalted,,,,,99,Graveyard
+,,Cerulean,wild,arcane,explorers and adventurers,9,Magical Theory and Application,11,Sunfire,,,,,99,Graveyard
+,,Vermillion,wild,arcane,thrill seekers who love to tell tall tales,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,99,Graveyard
+,,Red,chromatic,arcane,proud and arrogant,3,Ancient Relics and Artifacts: ,14,Elysium,,,,,99,Graveyard
+,,Emerald,jewel,arcane,"inquisitive, knowledgeable sage",1,Prophecy,12,Whirlwind,,,,,20,Aetherwell Terrace
+,,Dream,esoteric,Occult," wanderers, hunters, masters, and guardians of the Dreamland",1,Prophecy,9,Nexus,,,,,20,Aetherwell Terrace
+,,Brass,metallic,arcane,curious & short attention span,12,Elemental Binding,18,Enigma,,,,,20,Aetherwell Terrace
+,,Brass,metallic,arcane,curious & short attention span,6,Arcane Artifice and Enchantment Studies,6,Eclipse,,,,,20,Aetherwell Terrace
+,,Copper,metallic,arcane,prankster & hedonist,9,Magical Theory and Application,19,Shadow,,,,,20,Aetherwell Terrace
+,,Gold,metallic,divine,wise counselor and leader,11,Arcanomechanics,14,Elysium,,,,,15,Moonwater Falls
+,,Gold,metallic,divine,wise counselor and leader,6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,15,Moonwater Falls
+,,Moonstone,jewel,divine,wise and gentle storytellers and teachers,6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,15,Moonwater Falls
+,,Indigo,wild,arcane,party going revelers,1,Prophecy,12,Whirlwind,,,,,15,Moonwater Falls
+,,Time,outer,arcane,patient watchers and guardians of history,3,Ancient Relics and Artifacts: ,5,Nebula,,,,,15,Moonwater Falls
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,12,Elemental Binding,1,Exalted,,,,,4,Crystalmount Rise
+,,Soverign,imperial,Occult,"subtle manipulators, negotiators",1,Prophecy,9,Nexus,,,,,4,Crystalmount Rise
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,4,Crystalmount Rise
+,,Brine,primal,primal,rigid courtsey & discipline,9,Magical Theory and Application,17,Nightshade,,,,,4,Crystalmount Rise
+,,Green,chromatic,arcane,obessive and meticulous scholars,4,Economic Dominance and Resource Management,2,Empyrean,,,,,4,Crystalmount Rise
+,,Indigo,wild,arcane,party going revelers,12,Elemental Binding,1,Exalted,,,,,17,Cirrus Vale
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,12,Elemental Binding,15,Seraphic,,,,,17,Cirrus Vale
+,,Sky,imperial,divine,religious traditionalist,2,Dragon History,16,Wildfire,,,,,17,Cirrus Vale
+,,rift,planar,divine,rampagers who break things,6,Arcane Artifice and Enchantment Studies,1,Exalted,,,,,17,Cirrus Vale
+,,White,chromatic,arcane,brutish and predatory survivalists,3,Ancient Relics and Artifacts: ,10,Echo,,,,,17,Cirrus Vale
+,,Green,chromatic,arcane,obessive and meticulous scholars,7,Planar Studies,16,Wildfire,,,,,1,Emberfall Heights
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,2,Dragon History,12,Whirlwind,,,,,1,Emberfall Heights
+,,Gold,metallic,divine,wise counselor and leader,9,Magical Theory and Application,19,Shadow,,,,,1,Emberfall Heights
+,,Crystal,primal,primal,build beautiful homes,7,Planar Studies,12,Whirlwind,,,,,1,Emberfall Heights
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,4,Economic Dominance and Resource Management,2,Empyrean,,,,,1,Emberfall Heights
+,,Green,chromatic,arcane,obessive and meticulous scholars,9,Magical Theory and Application,2,Empyrean,,,,,20,Aetherwell Terrace
+,,Gold,metallic,divine,wise counselor and leader,2,Dragon History,15,Seraphic,,,,,20,Aetherwell Terrace
+,,Soverign,imperial,Occult,"subtle manipulators, negotiators",3,Ancient Relics and Artifacts: ,13,Nova,,,,,20,Aetherwell Terrace
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,11,Arcanomechanics,16,Wildfire,,,,,20,Aetherwell Terrace
+,,Bliss,planar,divine,serene healers,12,Elemental Binding,19,Shadow,,,,,20,Aetherwell Terrace
+,,Toadstool,leshy,primal,communal gourmands,3,Ancient Relics and Artifacts: ,12,Whirlwind,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",3,Ancient Relics and Artifacts: ,13,Nova,,,,,99,Graveyard
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,7,Planar Studies,18,Enigma,,,,,99,Graveyard
+,,Sea,imperial,arcane,ind & fickle,4,Economic Dominance and Resource Management,9,Nexus,,,,,99,Graveyard
+,,Brass,metallic,arcane,curious & short attention span,3,Ancient Relics and Artifacts: ,12,Whirlwind,,,,,99,Graveyard
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,9,Magical Theory and Application,7,Starlight,,,,,4,Crystalmount Rise
+,,Cerulean,wild,arcane,explorers and adventurers,5,Mineral Extraction & Refinement,14,Elysium,,,,,4,Crystalmount Rise
+,,Brass,metallic,arcane,curious & short attention span,11,Arcanomechanics,14,Elysium,,,,,4,Crystalmount Rise
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,1,Prophecy,1,Exalted,,,,,4,Crystalmount Rise
+,,Green,chromatic,arcane,obessive and meticulous scholars,3,Ancient Relics and Artifacts: ,17,Nightshade,,,,,4,Crystalmount Rise
+,,Moonstone,jewel,divine,wise and gentle storytellers and teachers,7,Planar Studies,19,Shadow,,,,,14,Stormbay Landing
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,4,Economic Dominance and Resource Management,2,Empyrean,,,,,14,Stormbay Landing
+,,Brass,metallic,arcane,curious & short attention span,7,Planar Studies,8,Wraith,,,,,14,Stormbay Landing
+,,White,chromatic,arcane,brutish and predatory survivalists,5,Mineral Extraction & Refinement,16,Wildfire,,,,,14,Stormbay Landing
+,,White,chromatic,arcane,brutish and predatory survivalists,3,Ancient Relics and Artifacts: ,8,Wraith,,,,,14,Stormbay Landing
+,,Brine,primal,primal,rigid courtsey & discipline,12,Elemental Binding,19,Shadow,,,,,6,Stoneheart Halls
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,11,Arcanomechanics,15,Seraphic,,,,,6,Stoneheart Halls
+,,White,chromatic,arcane,brutish and predatory survivalists,7,Planar Studies,5,Nebula,,,,,6,Stoneheart Halls
+,,Vermillion,wild,arcane,thrill seekers who love to tell tall tales,5,Mineral Extraction & Refinement,15,Seraphic,,,,,6,Stoneheart Halls
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",3,Ancient Relics and Artifacts: ,1,Exalted,,,,,6,Stoneheart Halls
+,,White,chromatic,arcane,brutish and predatory survivalists,4,Economic Dominance and Resource Management,20,Whisper,,,,,99,Graveyard
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,8,Political Intrigue and Diplomacy,4,Wisp,,,,,99,Graveyard
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,3,Ancient Relics and Artifacts: ,16,Wildfire,,,,,99,Graveyard
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,7,Planar Studies,10,Echo,,,,,99,Graveyard
+,,Time,outer,arcane,patient watchers and guardians of history,5,Mineral Extraction & Refinement,19,Shadow,,,,,99,Graveyard
+,,Copper,metallic,arcane,prankster & hedonist,3,Ancient Relics and Artifacts: ,9,Nexus,,,,,14,Stormbay Landing
+,,Gold,metallic,divine,wise counselor and leader,7,Planar Studies,17,Nightshade,,,,,14,Stormbay Landing
+,,Gold,metallic,divine,wise counselor and leader,1,Prophecy,2,Empyrean,,,,,14,Stormbay Landing
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,11,Arcanomechanics,5,Nebula,,,,,14,Stormbay Landing
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,3,Ancient Relics and Artifacts: ,6,Eclipse,,,,,14,Stormbay Landing
+,,Green,chromatic,arcane,obessive and meticulous scholars,12,Elemental Binding,16,Wildfire,,,,,99,Graveyard
+,,Red,chromatic,arcane,proud and arrogant,5,Mineral Extraction & Refinement,20,Whisper,,,,,99,Graveyard
+,,Umbral,primal,primal,malicious hunters of the undead,7,Planar Studies,11,Sunfire,,,,,99,Graveyard
+,,Solar,outer,arcane,uber arrogant,8,Political Intrigue and Diplomacy,1,Exalted,,,,,99,Graveyard
+,,Gold,metallic,divine,wise counselor and leader,9,Magical Theory and Application,11,Sunfire,,,,,99,Graveyard
+,,Gold,metallic,divine,wise counselor and leader,8,Political Intrigue and Diplomacy,19,Shadow,,,,,14,Stormbay Landing
+,,Sky,imperial,divine,religious traditionalist,10,Eldritch Engineering,20,Whisper,,,,,14,Stormbay Landing
+,,Forest,imperial,primal,guardians of nature,10,Eldritch Engineering,14,Elysium,,,,,14,Stormbay Landing
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",6,Arcane Artifice and Enchantment Studies,7,Starlight,,,,,14,Stormbay Landing
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,7,Planar Studies,15,Seraphic,,,,,14,Stormbay Landing
+,,Brass,metallic,arcane,curious & short attention span,1,Prophecy,9,Nexus,,,,,8,Crystal Mantle
+,,Bliss,planar,divine,serene healers,7,Planar Studies,19,Shadow,,,,,8,Crystal Mantle
+,,Brass,metallic,arcane,curious & short attention span,3,Ancient Relics and Artifacts: ,11,Sunfire,,,,,8,Crystal Mantle
+,,Umbral,primal,primal,malicious hunters of the undead,4,Economic Dominance and Resource Management,12,Whirlwind,,,,,8,Crystal Mantle
+,,White,chromatic,arcane,brutish and predatory survivalists,3,Ancient Relics and Artifacts: ,2,Empyrean,,,,,8,Crystal Mantle
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,10,Eldritch Engineering,8,Wraith,,,,,18,Galeholm Fields
+,,Sky,imperial,divine,religious traditionalist,7,Planar Studies,15,Seraphic,,,,,18,Galeholm Fields
+,,Green,chromatic,arcane,obessive and meticulous scholars,3,Ancient Relics and Artifacts: ,1,Exalted,,,,,18,Galeholm Fields
+,,Harlequin,wild,arcane,clever and insightful jesters,4,Economic Dominance and Resource Management,8,Wraith,,,,,18,Galeholm Fields
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,12,Elemental Binding,19,Shadow,,,,,18,Galeholm Fields
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,8,Political Intrigue and Diplomacy,5,Nebula,,,,,10,Boudlerfall Enclave
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,10,Eldritch Engineering,13,Nova,,,,,10,Boudlerfall Enclave
+,,White,chromatic,arcane,brutish and predatory survivalists,10,Eldritch Engineering,11,Sunfire,,,,,10,Boudlerfall Enclave
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",5,Mineral Extraction & Refinement,16,Wildfire,,,,,10,Boudlerfall Enclave
+,,Gold,metallic,divine,wise counselor and leader,9,Magical Theory and Application,15,Seraphic,,,,,10,Boudlerfall Enclave
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,2,Dragon History,13,Nova,,,,,4,Crystalmount Rise
+,,Copper,metallic,arcane,prankster & hedonist,5,Mineral Extraction & Refinement,20,Whisper,,,,,4,Crystalmount Rise
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,5,Mineral Extraction & Refinement,10,Echo,,,,,4,Crystalmount Rise
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",3,Ancient Relics and Artifacts: ,4,Wisp,,,,,4,Crystalmount Rise
+,,Vortex,outer,arcane,interplanetary messengers,12,Elemental Binding,15,Seraphic,,,,,4,Crystalmount Rise
+,,Sea,imperial,arcane,ind & fickle,8,Political Intrigue and Diplomacy,5,Nebula,,,,,5,Ashspire Hollow
+,,Soverign,imperial,Occult,"subtle manipulators, negotiators",9,Magical Theory and Application,9,Nexus,,,,,5,Ashspire Hollow
+,,Brass,metallic,arcane,curious & short attention span,12,Elemental Binding,2,Empyrean,,,,,5,Ashspire Hollow
+,,Copper,metallic,arcane,prankster & hedonist,10,Eldritch Engineering,12,Whirlwind,,,,,5,Ashspire Hollow
+,,White,chromatic,arcane,brutish and predatory survivalists,8,Political Intrigue and Diplomacy,18,Enigma,,,,,5,Ashspire Hollow
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,5,Mineral Extraction & Refinement,18,Enigma,,,,,99,Graveyard
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,1,Prophecy,17,Nightshade,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",1,Prophecy,6,Eclipse,,,,,99,Graveyard
+,,Red,chromatic,arcane,proud and arrogant,8,Political Intrigue and Diplomacy,10,Echo,,,,,99,Graveyard
+,,Cloud,primal,primal,wander & exlpore,11,Arcanomechanics,19,Shadow,,,,,99,Graveyard
+,,Edict,planar,divine,"planner, order bringer, & corruption purger",9,Magical Theory and Application,16,Wildfire,,,,,13,Pearl Current Row
+,,Indigo,wild,arcane,party going revelers,12,Elemental Binding,15,Seraphic,,,,,13,Pearl Current Row
+,,Brass,metallic,arcane,curious & short attention span,10,Eldritch Engineering,9,Nexus,,,,,13,Pearl Current Row
+,,Brass,metallic,arcane,curious & short attention span,1,Prophecy,15,Seraphic,,,,,13,Pearl Current Row
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",7,Planar Studies,10,Echo,,,,,13,Pearl Current Row
+,,Cloud,primal,primal,wander & exlpore,12,Elemental Binding,5,Nebula,,,,,4,Crystalmount Rise
+,,Copper,metallic,arcane,prankster & hedonist,6,Arcane Artifice and Enchantment Studies,18,Enigma,,,,,4,Crystalmount Rise
+,,White,chromatic,arcane,brutish and predatory survivalists,12,Elemental Binding,17,Nightshade,,,,,4,Crystalmount Rise
+,,Cloud,primal,primal,wander & exlpore,4,Economic Dominance and Resource Management,8,Wraith,,,,,4,Crystalmount Rise
+,,Red,chromatic,arcane,proud and arrogant,10,Eldritch Engineering,7,Starlight,,,,,4,Crystalmount Rise
+,,Topaz,jewel,arcane,selfish and unsociable,6,Arcane Artifice and Enchantment Studies,3,Stellar,,,,,6,Stoneheart Halls
+,,Copper,metallic,arcane,prankster & hedonist,4,Economic Dominance and Resource Management,3,Stellar,,,,,6,Stoneheart Halls
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",6,Arcane Artifice and Enchantment Studies,8,Wraith,,,,,6,Stoneheart Halls
+,,Forest,imperial,primal,guardians of nature,10,Eldritch Engineering,18,Enigma,,,,,6,Stoneheart Halls
+,,Magma,primal,primal,"brash, unpredictable, & violent",5,Mineral Extraction & Refinement,13,Nova,,,,,6,Stoneheart Halls
+,,Copper,metallic,arcane,prankster & hedonist,7,Planar Studies,16,Wildfire,,,,,16,Zephyr Arcades
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,8,Political Intrigue and Diplomacy,7,Starlight,,,,,16,Zephyr Arcades
+,,Moonstone,jewel,divine,wise and gentle storytellers and teachers,12,Elemental Binding,8,Wraith,,,,,16,Zephyr Arcades
+,,Green,chromatic,arcane,obessive and meticulous scholars,8,Political Intrigue and Diplomacy,1,Exalted,,,,,16,Zephyr Arcades
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,11,Arcanomechanics,3,Stellar,,,,,16,Zephyr Arcades
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",3,Ancient Relics and Artifacts: ,15,Seraphic,,,,,99,Graveyard
+,,White,chromatic,arcane,brutish and predatory survivalists,7,Planar Studies,13,Nova,,,,,99,Graveyard
+,,Amethyst,jewel,arcane/divine,deception and stealth,11,Arcanomechanics,18,Enigma,,,,,99,Graveyard
+,,Vermillion,wild,arcane,thrill seekers who love to tell tall tales,4,Economic Dominance and Resource Management,20,Whisper,,,,,99,Graveyard
+,,Type,Family,Tradition,General Personality,10,Eldritch Engineering,9,Nexus,,,,,99,Graveyard
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,8,Political Intrigue and Diplomacy,7,Starlight,,,,,6,Stoneheart Halls
+,,White,chromatic,arcane,brutish and predatory survivalists,2,Dragon History,1,Exalted,,,,,6,Stoneheart Halls
+,,Red,chromatic,arcane,proud and arrogant,3,Ancient Relics and Artifacts: ,12,Whirlwind,,,,,6,Stoneheart Halls
+,,Gold,metallic,divine,wise counselor and leader,7,Planar Studies,10,Echo,,,,,6,Stoneheart Halls
+,,Gold,metallic,divine,wise counselor and leader,1,Prophecy,18,Enigma,,,,,6,Stoneheart Halls
+,,Gold,metallic,divine,wise counselor and leader,12,Elemental Binding,7,Starlight,,,,,12,Mistwood Shoals
+,,Crypt,planar,divine,independent & decisive,7,Planar Studies,3,Stellar,,,,,12,Mistwood Shoals
+,,Green,chromatic,arcane,obessive and meticulous scholars,1,Prophecy,19,Shadow,,,,,12,Mistwood Shoals
+,,White,chromatic,arcane,brutish and predatory survivalists,7,Planar Studies,1,Exalted,,,,,12,Mistwood Shoals
+,,Red,chromatic,arcane,proud and arrogant,6,Arcane Artifice and Enchantment Studies,13,Nova,,,,,12,Mistwood Shoals
+,,Sapphire,jewel,Occult,Militaristic and warlike,1,Prophecy,6,Eclipse,,,,,11,Tidepool Grotto
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,4,Economic Dominance and Resource Management,5,Nebula,,,,,11,Tidepool Grotto
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,7,Planar Studies,20,Whisper,,,,,11,Tidepool Grotto
+,,Tumult,planar,divine,capricious seekers of change,1,Prophecy,15,Seraphic,,,,,11,Tidepool Grotto
+,,Paradise,planar,divine,defender and champion of righteousnous,1,Prophecy,7,Starlight,,,,,11,Tidepool Grotto
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,7,Planar Studies,20,Whisper,,,,,99,Graveyard
+,,Vortex,outer,arcane,interplanetary messengers,8,Political Intrigue and Diplomacy,18,Enigma,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",11,Arcanomechanics,13,Nova,,,,,99,Graveyard
+,,Gold,metallic,divine,wise counselor and leader,8,Political Intrigue and Diplomacy,1,Exalted,,,,,99,Graveyard
+,,Amber,wild,arcane,gossip & information broker,3,Ancient Relics and Artifacts: ,5,Nebula,,,,,99,Graveyard
+,,Emerald,jewel,arcane,"inquisitive, knowledgeable sage",6,Arcane Artifice and Enchantment Studies,18,Enigma,,,,,3,Pyre Crest
+,,Red,chromatic,arcane,proud and arrogant,11,Arcanomechanics,11,Sunfire,,,,,3,Pyre Crest
+,,Crystal,primal,primal,build beautiful homes,4,Economic Dominance and Resource Management,17,Nightshade,,,,,3,Pyre Crest
+,,Green,chromatic,arcane,obessive and meticulous scholars,10,Eldritch Engineering,3,Stellar,,,,,3,Pyre Crest
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,12,Elemental Binding,1,Exalted,,,,,3,Pyre Crest
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,16,Zephyr Arcades
+,,Green,chromatic,arcane,obessive and meticulous scholars,4,Economic Dominance and Resource Management,19,Shadow,,,,,16,Zephyr Arcades
+,,Gold,metallic,divine,wise counselor and leader,11,Arcanomechanics,4,Wisp,,,,,16,Zephyr Arcades
+,,Crystal,primal,primal,build beautiful homes,10,Eldritch Engineering,4,Wisp,,,,,16,Zephyr Arcades
+,,Magma,primal,primal,"brash, unpredictable, & violent",6,Arcane Artifice and Enchantment Studies,9,Nexus,,,,,16,Zephyr Arcades
+,,Topaz,jewel,arcane,selfish and unsociable,5,Mineral Extraction & Refinement,8,Wraith,,,,,10,Boudlerfall Enclave
+,,Amethyst,jewel,arcane/divine,deception and stealth,11,Arcanomechanics,11,Sunfire,,,,,10,Boudlerfall Enclave
+,,Amethyst,jewel,arcane/divine,deception and stealth,3,Ancient Relics and Artifacts: ,20,Whisper,,,,,10,Boudlerfall Enclave
+,,Forest,imperial,primal,guardians of nature,9,Magical Theory and Application,20,Whisper,,,,,10,Boudlerfall Enclave
+,,Harlequin,wild,arcane,clever and insightful jesters,4,Economic Dominance and Resource Management,18,Enigma,,,,,10,Boudlerfall Enclave
+,,Brass,metallic,arcane,curious & short attention span,3,Ancient Relics and Artifacts: ,8,Wraith,,,,,16,Zephyr Arcades
+,,Green,chromatic,arcane,obessive and meticulous scholars,6,Arcane Artifice and Enchantment Studies,2,Empyrean,,,,,16,Zephyr Arcades
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,7,Planar Studies,3,Stellar,,,,,16,Zephyr Arcades
+,,Copper,metallic,arcane,prankster & hedonist,7,Planar Studies,7,Starlight,,,,,16,Zephyr Arcades
+,,Amethyst,jewel,arcane/divine,deception and stealth,4,Economic Dominance and Resource Management,3,Stellar,,,,,16,Zephyr Arcades
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,6,Arcane Artifice and Enchantment Studies,20,Whisper,,,,,2,Cinderwalk Court
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,5,Mineral Extraction & Refinement,12,Whirlwind,,,,,2,Cinderwalk Court
+,,Apocolypse,planar,divine,despoiler & destroyer,12,Elemental Binding,20,Whisper,,,,,2,Cinderwalk Court
+,,Green,chromatic,arcane,obessive and meticulous scholars,1,Prophecy,19,Shadow,,,,,2,Cinderwalk Court
+,,Brass,metallic,arcane,curious & short attention span,11,Arcanomechanics,15,Seraphic,,,,,2,Cinderwalk Court
+,,White,chromatic,arcane,brutish and predatory survivalists,1,Prophecy,3,Stellar,,,,,15,Moonwater Falls
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",6,Arcane Artifice and Enchantment Studies,18,Enigma,,,,,15,Moonwater Falls
+,,Havoc,planar,divine,passionate artists,6,Arcane Artifice and Enchantment Studies,15,Seraphic,,,,,15,Moonwater Falls
+,,Sea,imperial,arcane,ind & fickle,4,Economic Dominance and Resource Management,6,Eclipse,,,,,15,Moonwater Falls
+,,Copper,metallic,arcane,prankster & hedonist,8,Political Intrigue and Diplomacy,5,Nebula,,,,,15,Moonwater Falls
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,2,Dragon History,17,Nightshade,,,,,1,Emberfall Heights
+,,Astral,esoteric,Occult,private & proud,8,Political Intrigue and Diplomacy,1,Exalted,,,,,1,Emberfall Heights
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",9,Magical Theory and Application,8,Wraith,,,,,1,Emberfall Heights
+,,Red,chromatic,arcane,proud and arrogant,3,Ancient Relics and Artifacts: ,18,Enigma,,,,,1,Emberfall Heights
+,,Red,chromatic,arcane,proud and arrogant,12,Elemental Binding,6,Eclipse,,,,,1,Emberfall Heights
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,2,Dragon History,17,Nightshade,,,,,99,Graveyard
+,,Brass,metallic,arcane,curious & short attention span,2,Dragon History,12,Whirlwind,,,,,99,Graveyard
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,4,Economic Dominance and Resource Management,11,Sunfire,,,,,99,Graveyard
+,,Crystal,primal,primal,build beautiful homes,7,Planar Studies,18,Enigma,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",11,Arcanomechanics,11,Sunfire,,,,,99,Graveyard
+,,Green,chromatic,arcane,obessive and meticulous scholars,2,Dragon History,18,Enigma,,,,,11,Tidepool Grotto
+,,Umbral,primal,primal,malicious hunters of the undead,11,Arcanomechanics,10,Echo,,,,,11,Tidepool Grotto
+,,Sea,imperial,arcane,ind & fickle,7,Planar Studies,16,Wildfire,,,,,11,Tidepool Grotto
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,1,Prophecy,2,Empyrean,,,,,11,Tidepool Grotto
+,,Soverign,imperial,Occult,"subtle manipulators, negotiators",9,Magical Theory and Application,11,Sunfire,,,,,11,Tidepool Grotto
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,8,Political Intrigue and Diplomacy,15,Seraphic,,,,,11,Tidepool Grotto
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,13,Nova,,,,,11,Tidepool Grotto
+,,Gold,metallic,divine,wise counselor and leader,5,Mineral Extraction & Refinement,8,Wraith,,,,,11,Tidepool Grotto
+,,White,chromatic,arcane,brutish and predatory survivalists,7,Planar Studies,17,Nightshade,,,,,11,Tidepool Grotto
+,,Green,chromatic,arcane,obessive and meticulous scholars,5,Mineral Extraction & Refinement,11,Sunfire,,,,,11,Tidepool Grotto
+,,Brass,metallic,arcane,curious & short attention span,5,Mineral Extraction & Refinement,6,Eclipse,,,,,12,Mistwood Shoals
+,,White,chromatic,arcane,brutish and predatory survivalists,1,Prophecy,7,Starlight,,,,,12,Mistwood Shoals
+,,Indigo,wild,arcane,party going revelers,2,Dragon History,10,Echo,,,,,12,Mistwood Shoals
+,,Dream,esoteric,Occult," wanderers, hunters, masters, and guardians of the Dreamland",7,Planar Studies,13,Nova,,,,,12,Mistwood Shoals
+,,Gold,metallic,divine,wise counselor and leader,2,Dragon History,10,Echo,,,,,12,Mistwood Shoals
+,,Brass,metallic,arcane,curious & short attention span,12,Elemental Binding,19,Shadow,,,,,18,Galeholm Fields
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,11,Arcanomechanics,16,Wildfire,,,,,18,Galeholm Fields
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,3,Ancient Relics and Artifacts: ,12,Whirlwind,,,,,18,Galeholm Fields
+,,White,chromatic,arcane,brutish and predatory survivalists,3,Ancient Relics and Artifacts: ,13,Nova,,,,,18,Galeholm Fields
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,8,Political Intrigue and Diplomacy,13,Nova,,,,,18,Galeholm Fields
+,,White,chromatic,arcane,brutish and predatory survivalists,5,Mineral Extraction & Refinement,1,Exalted,,,,,99,Graveyard
+,,Green,chromatic,arcane,obessive and meticulous scholars,12,Elemental Binding,10,Echo,,,,,99,Graveyard
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,9,Magical Theory and Application,4,Wisp,,,,,99,Graveyard
+,,Edict,planar,divine,"planner, order bringer, & corruption purger",1,Prophecy,15,Seraphic,,,,,99,Graveyard
+,,Gold,metallic,divine,wise counselor and leader,2,Dragon History,11,Sunfire,,,,,99,Graveyard
+,,White,chromatic,arcane,brutish and predatory survivalists,6,Arcane Artifice and Enchantment Studies,12,Whirlwind,,,,,9,Terrashield Keep
+,,Brass,metallic,arcane,curious & short attention span,8,Political Intrigue and Diplomacy,5,Nebula,,,,,9,Terrashield Keep
+,,Green,chromatic,arcane,obessive and meticulous scholars,4,Economic Dominance and Resource Management,2,Empyrean,,,,,9,Terrashield Keep
+,,Red,chromatic,arcane,proud and arrogant,8,Political Intrigue and Diplomacy,5,Nebula,,,,,9,Terrashield Keep
+,,Time,outer,arcane,patient watchers and guardians of history,6,Arcane Artifice and Enchantment Studies,1,Exalted,,,,,9,Terrashield Keep
+,,Vermillion,wild,arcane,thrill seekers who love to tell tall tales,8,Political Intrigue and Diplomacy,6,Eclipse,,,,,99,Graveyard
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,1,Prophecy,3,Stellar,,,,,99,Graveyard
+,,Green,chromatic,arcane,obessive and meticulous scholars,7,Planar Studies,7,Starlight,,,,,99,Graveyard
+,,White,chromatic,arcane,brutish and predatory survivalists,8,Political Intrigue and Diplomacy,13,Nova,,,,,99,Graveyard
+,,Green,chromatic,arcane,obessive and meticulous scholars,3,Ancient Relics and Artifacts: ,8,Wraith,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",6,Arcane Artifice and Enchantment Studies,12,Whirlwind,,,,,19,Whirlwind Rise
+,,Green,chromatic,arcane,obessive and meticulous scholars,7,Planar Studies,17,Nightshade,,,,,19,Whirlwind Rise
+,,Copper,metallic,arcane,prankster & hedonist,12,Elemental Binding,11,Sunfire,,,,,19,Whirlwind Rise
+,,Red,chromatic,arcane,proud and arrogant,5,Mineral Extraction & Refinement,1,Exalted,,,,,19,Whirlwind Rise
+,,Gold,metallic,divine,wise counselor and leader,7,Planar Studies,19,Shadow,,,,,19,Whirlwind Rise
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,6,Arcane Artifice and Enchantment Studies,17,Nightshade,,,,,20,Aetherwell Terrace
+,,White,chromatic,arcane,brutish and predatory survivalists,8,Political Intrigue and Diplomacy,5,Nebula,,,,,20,Aetherwell Terrace
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",4,Economic Dominance and Resource Management,19,Shadow,,,,,20,Aetherwell Terrace
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,11,Arcanomechanics,16,Wildfire,,,,,20,Aetherwell Terrace
+,,Underworld,imperial,arcane,natural alchemists and hoarders,7,Planar Studies,8,Wraith,,,,,20,Aetherwell Terrace
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,10,Eldritch Engineering,7,Starlight,,,,,1,Emberfall Heights
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,1,Prophecy,19,Shadow,,,,,1,Emberfall Heights
+,,Amber,wild,arcane,gossip & information broker,3,Ancient Relics and Artifacts: ,3,Stellar,,,,,1,Emberfall Heights
+,,Forest,imperial,primal,guardians of nature,12,Elemental Binding,17,Nightshade,,,,,1,Emberfall Heights
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,1,Prophecy,5,Nebula,,,,,1,Emberfall Heights
+,,White,chromatic,arcane,brutish and predatory survivalists,1,Prophecy,11,Sunfire,,,,,2,Cinderwalk Court
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,11,Arcanomechanics,11,Sunfire,,,,,2,Cinderwalk Court
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,9,Magical Theory and Application,18,Enigma,,,,,2,Cinderwalk Court
+,,Void,outer,arcane,corrupted destroyers,7,Planar Studies,8,Wraith,,,,,2,Cinderwalk Court
+,,Copper,metallic,arcane,prankster & hedonist,11,Arcanomechanics,18,Enigma,,,,,2,Cinderwalk Court
+,,Green,chromatic,arcane,obessive and meticulous scholars,3,Ancient Relics and Artifacts: ,18,Enigma,,,,,7,Verdant Hollow
+,,Astral,esoteric,Occult,private & proud,11,Arcanomechanics,16,Wildfire,,,,,7,Verdant Hollow
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,12,Elemental Binding,16,Wildfire,,,,,7,Verdant Hollow
+,,Red,chromatic,arcane,proud and arrogant,12,Elemental Binding,13,Nova,,,,,7,Verdant Hollow
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,2,Dragon History,16,Wildfire,,,,,7,Verdant Hollow
+,,Red,chromatic,arcane,proud and arrogant,3,Ancient Relics and Artifacts: ,18,Enigma,,,,,6,Stoneheart Halls
+,,Paradise,planar,divine,defender and champion of righteousnous,5,Mineral Extraction & Refinement,13,Nova,,,,,6,Stoneheart Halls
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,6,Arcane Artifice and Enchantment Studies,16,Wildfire,,,,,6,Stoneheart Halls
+,,Copper,metallic,arcane,prankster & hedonist,8,Political Intrigue and Diplomacy,13,Nova,,,,,6,Stoneheart Halls
+,,Harlequin,wild,arcane,clever and insightful jesters,12,Elemental Binding,4,Wisp,,,,,6,Stoneheart Halls
+,,Black,chromatic,arcane,loaners with mean streaks & like swamps,1,Prophecy,6,Eclipse,,,,,8,Crystal Mantle
+,,Nightmare,esoteric,Occult,artists of terror,2,Dragon History,13,Nova,,,,,8,Crystal Mantle
+,,Red,chromatic,arcane,proud and arrogant,7,Planar Studies,4,Wisp,,,,,8,Crystal Mantle
+,,White,chromatic,arcane,brutish and predatory survivalists,5,Mineral Extraction & Refinement,1,Exalted,,,,,8,Crystal Mantle
+,,Brass,metallic,arcane,curious & short attention span,5,Mineral Extraction & Refinement,4,Wisp,,,,,8,Crystal Mantle
+,,Amber,wild,arcane,gossip & information broker,8,Political Intrigue and Diplomacy,16,Wildfire,,,,,8,Crystal Mantle
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,3,Ancient Relics and Artifacts: ,10,Echo,,,,,8,Crystal Mantle
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",9,Magical Theory and Application,10,Echo,,,,,8,Crystal Mantle
+,,Gold,metallic,divine,wise counselor and leader,9,Magical Theory and Application,7,Starlight,,,,,8,Crystal Mantle
+,,Crystal,primal,primal,build beautiful homes,3,Ancient Relics and Artifacts: ,1,Exalted,,,,,8,Crystal Mantle
+,,Copper,metallic,arcane,prankster & hedonist,7,Planar Studies,16,Wildfire,,,,,12,Mistwood Shoals
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,3,Ancient Relics and Artifacts: ,4,Wisp,,,,,12,Mistwood Shoals
+,,Copper,metallic,arcane,prankster & hedonist,2,Dragon History,5,Nebula,,,,,12,Mistwood Shoals
+,,Gold,metallic,divine,wise counselor and leader,12,Elemental Binding,17,Nightshade,,,,,12,Mistwood Shoals
+,,Gold,metallic,divine,wise counselor and leader,1,Prophecy,5,Nebula,,,,,12,Mistwood Shoals
+,,White,chromatic,arcane,brutish and predatory survivalists,11,Arcanomechanics,6,Eclipse,,,,,5,Ashspire Hollow
+,,Tumult,planar,divine,capricious seekers of change,9,Magical Theory and Application,16,Wildfire,,,,,5,Ashspire Hollow
+,,Gold,metallic,divine,wise counselor and leader,3,Ancient Relics and Artifacts: ,10,Echo,,,,,5,Ashspire Hollow
+,,Green,chromatic,arcane,obessive and meticulous scholars,6,Arcane Artifice and Enchantment Studies,7,Starlight,,,,,5,Ashspire Hollow
+,,Etheric,esoteric,Occult,pragmatic survivalists,2,Dragon History,10,Echo,,,,,5,Ashspire Hollow
+,,Brass,metallic,arcane,curious & short attention span,8,Political Intrigue and Diplomacy,17,Nightshade,,,,,1,Emberfall Heights
+,,Brass,metallic,arcane,curious & short attention span,12,Elemental Binding,7,Starlight,,,,,1,Emberfall Heights
+,,White,chromatic,arcane,brutish and predatory survivalists,2,Dragon History,3,Stellar,,,,,1,Emberfall Heights
+,,Infernal,planar,divine,tyranical deal brokers,3,Ancient Relics and Artifacts: ,7,Starlight,,,,,1,Emberfall Heights
+,,Gold,metallic,divine,wise counselor and leader,3,Ancient Relics and Artifacts: ,13,Nova,,,,,1,Emberfall Heights
+,,Brass,metallic,arcane,curious & short attention span,4,Economic Dominance and Resource Management,3,Stellar,,,,,19,Whirlwind Rise
+,,White,chromatic,arcane,brutish and predatory survivalists,9,Magical Theory and Application,12,Whirlwind,,,,,19,Whirlwind Rise
+,,Green,chromatic,arcane,obessive and meticulous scholars,11,Arcanomechanics,3,Stellar,,,,,19,Whirlwind Rise
+,,Brass,metallic,arcane,curious & short attention span,6,Arcane Artifice and Enchantment Studies,7,Starlight,,,,,19,Whirlwind Rise
+,,Sapphire,jewel,Occult,Militaristic and warlike,10,Eldritch Engineering,13,Nova,,,,,19,Whirlwind Rise
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",9,Magical Theory and Application,10,Echo,,,,,20,Aetherwell Terrace
+,,Red,chromatic,arcane,proud and arrogant,4,Economic Dominance and Resource Management,12,Whirlwind,,,,,20,Aetherwell Terrace
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,3,Ancient Relics and Artifacts: ,12,Whirlwind,,,,,20,Aetherwell Terrace
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,2,Dragon History,4,Wisp,,,,,20,Aetherwell Terrace
+,,Red,chromatic,arcane,proud and arrogant,1,Prophecy,7,Starlight,,,,,20,Aetherwell Terrace
+,,Gold,metallic,divine,wise counselor and leader,6,Arcane Artifice and Enchantment Studies,4,Wisp,,,,,15,Moonwater Falls
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,9,Magical Theory and Application,12,Whirlwind,,,,,15,Moonwater Falls
+,,Red,chromatic,arcane,proud and arrogant,8,Political Intrigue and Diplomacy,4,Wisp,,,,,15,Moonwater Falls
+,,Gold,metallic,divine,wise counselor and leader,6,Arcane Artifice and Enchantment Studies,3,Stellar,,,,,15,Moonwater Falls
+,,Red,chromatic,arcane,proud and arrogant,2,Dragon History,4,Wisp,,,,,15,Moonwater Falls
+,,White,chromatic,arcane,brutish and predatory survivalists,1,Prophecy,7,Starlight,,,,,99,Graveyard
+,,Brass,metallic,arcane,curious & short attention span,11,Arcanomechanics,4,Wisp,,,,,99,Graveyard
+,,Magma,primal,primal,"brash, unpredictable, & violent",6,Arcane Artifice and Enchantment Studies,4,Wisp,,,,,99,Graveyard
+,,Blue,chromatic,arcane,poised cosmopolitan manipulators,10,Eldritch Engineering,3,Stellar,,,,,99,Graveyard
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",6,Arcane Artifice and Enchantment Studies,3,Stellar,,,,,99,Graveyard
+,,Sky,imperial,divine,religious traditionalist,2,Dragon History,4,Wisp,,,,,16,Zephyr Arcades
+,,Magma,primal,primal,"brash, unpredictable, & violent",9,Magical Theory and Application,3,Stellar,,,,,16,Zephyr Arcades
+,,Bronze,metallic,arcane,stoic scholars and guardians of lore,4,Economic Dominance and Resource Management,3,Stellar,,,,,16,Zephyr Arcades
+,,Toadstool,leshy,primal,communal gourmands,1,Prophecy,4,Wisp,,,,,16,Zephyr Arcades
+,,Silver,metallic,divine,"chivalrous champions of justice, guardians and guides of goodly societies",1,Prophecy,4,Wisp,,,,,16,Zephyr Arcades
+,,Brass,metallic,arcane,curious & short attention span,2,Dragon History,4,Wisp,,,,,17,Cirrus Vale
+,,White,chromatic,arcane,brutish and predatory survivalists,6,Arcane Artifice and Enchantment Studies,3,Stellar,,,,,17,Cirrus Vale
+,,Green,chromatic,arcane,obessive and meticulous scholars,1,Prophecy,4,Wisp,,,,,17,Cirrus Vale
+,,Red,chromatic,arcane,proud and arrogant,11,Arcanomechanics,4,Wisp,,,,,17,Cirrus Vale
+,,Gold,metallic,divine,wise counselor and leader,9,Magical Theory and Application,4,Wisp,,,,,17,Cirrus Vale
+,,Brass,metallic,arcane,curious & short attention span,2,Dragon History,N/A,#N/A,,,,,,

@@ -18,6 +18,11 @@ Minor: 29 A
 Father: 17
 Alchemy - low roll
 
+End Soph Semester Grades
+Major: B, 21 on a 20
+Minor: A-, 32 on a 25
+Father: 28 on a 15, Gave her Astral Breeze as a lead.
+
 Sophomore Classes:
 ELBD 236 – Heart of the Storm: Lightning Elementals
 Professor Voltikar Skyrake (Blue Dragon)

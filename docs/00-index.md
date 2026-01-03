@@ -49,6 +49,7 @@
 - [Council Of Houses](Adventures/Gap Year/Drow/council-of-houses.md)
 - [Drow War City Development Thread](Adventures/Gap Year/Drow/drow-war-city-development-thread.md)
 - [Map Info](Adventures/Gap Year/Drow/map-info.md)
+- [Shardscale Choir — Kobold War-Legion](Adventures/Gap Year/Drow/kobold-insanity-legion.md)
 - [Gdq Dev](Adventures/Gap Year/Giants/gdq-dev.md)
 - [G1 Upper Level](Adventures/Gap Year/Giants/g1-upper-level.md)
 - [G1 Lower](Adventures/Gap Year/Giants/g1-lower.md)

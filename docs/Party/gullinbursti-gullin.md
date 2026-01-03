@@ -22,6 +22,14 @@ Major: C-
 Minor: C+
 Archeology: THA
 
+End Soph Semester Grades
+Major: 22, Sucesss B
+Minor: 12, Fail D
+Place they came from: 25..
+
+
+
+
 Activity 1
 Activity 2
 

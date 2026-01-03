@@ -1,6 +1,6 @@
 ---
 title: Lamannia Enthusiasts Society
-updated: 2025-10-04
+updated: 2025-12-18
 tags: []
 ---
 
@@ -10,8 +10,8 @@ At Dragon University, the *Lamannia Enthusiasts Society* AKA Lamas… is a thriv
 
 ### Officers of the *Lamannia Enthusiasts Society*:
 
-1. **Elder Hydra: Swampclaw**
-   A powerful green dragon who named themselves after the legendary Thunderclaw Tiger of Lamannia. Known for their deep knowledge of both flora and fauna, they often lead expeditions into Lamannia-inspired wildlands and teach other dragons the harmony between beast and nature.
+1. **Elder Hydra: Mirecrown**
+   A bronze dragon who took their name from the many-headed Mirecrown Hydra—an infamous Lamannian marsh predator said to “remember every bite.” Mirecrown leads field expeditions, teaches wilderness ethics, and can track almost anything through bog, brush, or bramble.
 
 2. **Elder Equinal: Tempestfang**
    This tempest dragon took their name from the ferocious Tempest Fang Wolf, an apex predator of Lamannia. They are fiercely devoted to preserving natural habitats and specialize in primal magics, often leading discussions on the natural balance of life and death in the wild.
@@ -22,8 +22,8 @@ At Dragon University, the *Lamannia Enthusiasts Society* AKA Lamas… is a thriv
 4. **Elder Behir: Featherbreeze**
    A swift and elegant paradise dragon who took their name from the Featherbreeze Griffin, known for its grace in the air. Featherbreeze handles all the communication for the club, organizing meetings, and making sure that every dragon stays informed about upcoming events and seminars.
 
-5. **Elder Rhemoraz: Roarkfang**
-   This infernal dragon is named after the Roarkfang Serpent, a mythical beast of Lamannia known for its cunning and unpredictable nature. Roarkfang coordinates all the club's events, from plane-themed festivals to Lamannia-inspired survival challenges.
+5. **Elder Rhemoraz: Cinderburrow**
+   A magma dragon named after the Cinderburrow Rhemoraz, a Lamannian tunnel-stalker that hunts by heat and vibration. Cinderburrow coordinates club events and survival challenges, and they’re the reason every excursion has an evacuation route, a headcount, and a backup plan.
 
 Together, these officers ensure that the *Lamannia Enthusiasts Society* continues to nurture the primal energy of the wild, attracting dragons who feel the call of nature’s untamed power.
 
