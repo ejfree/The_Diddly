@@ -78,7 +78,7 @@ End result:
 
 ## Running The Event: Semi-Feral Baby Dragon Mini-Games
 
-Treat these as quick 1–2 action problems happening during initiative. Each mini-game is a chance to earn **Fundraiser Points**, prevent injuries, or weaken the boss.
+Treat these as quick 1–2 action problems happening during initiative. Each mini-game is a chance to earn **Fundraiser Points**, prevent injuries, or weaken the boss for later.
 
 PF2e note: set DCs to **standard DC by level** (party level) unless noted.
 

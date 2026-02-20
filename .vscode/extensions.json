@@ -4,7 +4,6 @@
     "streetsidesoftware.code-spell-checker",
     "yzhang.markdown-all-in-one",
     "esbenp.prettier-vscode",
-    "DavidAnson.vscode-markdownlint",
-    "OpenAI.chatgpt"
+    "DavidAnson.vscode-markdownlint"
   ]
 }
