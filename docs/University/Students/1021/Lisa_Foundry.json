@@ -1,0 +1,460 @@
+{
+  "name": "Lisa Siviridion",
+  "type": "character",
+  "img": "icons/creatures/dragons/dragon-horns-green.webp",
+  "system": {
+    "abilities": {
+      "str": { "mod": 2 },
+      "dex": { "mod": 6 },
+      "con": { "mod": 3 },
+      "int": { "mod": 4 },
+      "wis": { "mod": 1 },
+      "cha": { "mod": 0 }
+    },
+    "attributes": {
+      "hp": {
+        "value": 195,
+        "max": 195,
+        "temp": 0
+      },
+      "speed": {
+        "value": 25,
+        "otherSpeeds": [
+          { "type": "fly", "value": 25 }
+        ]
+      },
+      "heroPoints": {
+        "value": 1,
+        "max": 3
+      },
+      "initiative": {
+        "statistic": "perception"
+      }
+    },
+    "details": {
+      "level": {
+        "value": 15
+      },
+      "ancestry": { "value": "Dragon (Emerald)" },
+      "heritage": { "value": "Emerald Dragon" },
+      "background": { "value": "Artisan" },
+      "class": { "value": "Fighter" },
+      "alignment": { "value": "N" },
+      "age": { "value": "Young Adult" },
+      "gender": { "value": "Female" },
+      "biography": {
+        "value": "<p>Lisa Siviridion approaches the battlefield as she approaches everything: as a problem to be solved. Her twin katanas, Theorem and Proof, are custom-engineered masterworks fitted with precision-machined volatile charge housings of her own design. She keeps meticulous notes on every engagement.</p><p><em>\"The battlefield is a formula. I have solved it.\"</em></p>",
+        "public": ""
+      },
+      "xp": {
+        "value": 0,
+        "min": 0,
+        "max": 1000
+      }
+    },
+    "saves": {
+      "fortitude": { "rank": 4 },
+      "reflex": { "rank": 3 },
+      "will": { "rank": 3 }
+    },
+    "perception": { "rank": 4 },
+    "skills": {
+      "acr": { "rank": 2 },
+      "arc": { "rank": 0 },
+      "ath": { "rank": 3 },
+      "cra": { "rank": 4 },
+      "dec": { "rank": 2 },
+      "dip": { "rank": 0 },
+      "itm": { "rank": 1 },
+      "med": { "rank": 0 },
+      "nat": { "rank": 0 },
+      "occ": { "rank": 2 },
+      "prf": { "rank": 0 },
+      "rel": { "rank": 0 },
+      "soc": { "rank": 0 },
+      "ste": { "rank": 1 },
+      "sur": { "rank": 1 },
+      "thi": { "rank": 0 }
+    },
+    "martial": {
+      "simple": { "rank": 4 },
+      "martial": { "rank": 4 },
+      "advanced": { "rank": 4 },
+      "unarmed": { "rank": 4 },
+      "light": { "rank": 3 },
+      "medium": { "rank": 3 },
+      "heavy": { "rank": 2 },
+      "unarmored": { "rank": 3 }
+    },
+    "traits": {
+      "languages": {
+        "value": ["common", "draconic", "abyssal", "aklo", "sylvan"]
+      },
+      "senses": [
+        { "type": "darkvision" }
+      ],
+      "dr": [
+        { "type": "sonic", "value": 5 }
+      ],
+      "size": "med"
+    },
+    "currency": {
+      "pp": 5,
+      "gp": 350,
+      "sp": 20,
+      "cp": 0
+    }
+  },
+  "items": [
+    {
+      "name": "Theorem (+3 Greater Striking Katana — Innovation)",
+      "type": "weapon",
+      "img": "systems/pf2e/icons/equipment/weapons/katana.webp",
+      "system": {
+        "description": {
+          "value": "<p>Lisa's primary Innovation weapon. A precision-engineered katana fitted with a volatile charge housing. The blade hums faintly with alchemical resonance.</p>"
+        },
+        "quantity": 1,
+        "equipped": { "carryType": "held", "handsHeld": 1, "inSlot": true },
+        "usage": { "value": "held-in-one-hand" },
+        "category": "advanced",
+        "group": "sword",
+        "baseItem": "katana",
+        "damage": {
+          "damageType": "slashing",
+          "die": "d6",
+          "dice": 3
+        },
+        "bonusDamage": { "value": 0 },
+        "splashDamage": { "value": 0 },
+        "range": null,
+        "reload": { "value": "" },
+        "traits": {
+          "value": ["deadly-d8", "versatile-p", "two-hand-d10"],
+          "rarity": "uncommon"
+        },
+        "potencyRune": { "value": 3 },
+        "strikingRune": { "value": "greaterStriking" },
+        "propertyRune1": { "value": "wounding" },
+        "propertyRune2": { "value": "" },
+        "propertyRune3": { "value": "" },
+        "propertyRune4": { "value": "" },
+        "weight": { "value": "1" },
+        "price": { "value": { "gp": 2000 } },
+        "level": { "value": 13 },
+        "identification": {
+          "status": "identified"
+        }
+      }
+    },
+    {
+      "name": "Proof (+2 Striking Katana)",
+      "type": "weapon",
+      "img": "systems/pf2e/icons/equipment/weapons/katana.webp",
+      "system": {
+        "description": {
+          "value": "<p>Lisa's off-hand katana. Twin to Theorem, machined to the same tolerances. Shares rune effects via Blazons of Shared Power.</p>"
+        },
+        "quantity": 1,
+        "equipped": { "carryType": "held", "handsHeld": 1, "inSlot": true },
+        "usage": { "value": "held-in-one-hand" },
+        "category": "advanced",
+        "group": "sword",
+        "baseItem": "katana",
+        "damage": {
+          "damageType": "slashing",
+          "die": "d6",
+          "dice": 2
+        },
+        "traits": {
+          "value": ["deadly-d8", "versatile-p", "two-hand-d10"],
+          "rarity": "uncommon"
+        },
+        "potencyRune": { "value": 2 },
+        "strikingRune": { "value": "striking" },
+        "propertyRune1": { "value": "" },
+        "weight": { "value": "1" },
+        "price": { "value": { "gp": 450 } },
+        "level": { "value": 10 },
+        "identification": {
+          "status": "identified"
+        }
+      }
+    },
+    {
+      "name": "+2 Resilient Studded Leather Armor",
+      "type": "armor",
+      "img": "systems/pf2e/icons/equipment/armor/studded-leather-armor.webp",
+      "system": {
+        "description": {
+          "value": "<p>Lightweight armor allowing full DEX contribution to AC. Fitted with custom-tooled scale motifs.</p>"
+        },
+        "quantity": 1,
+        "equipped": { "carryType": "worn", "inSlot": true },
+        "usage": { "value": "wornarmor" },
+        "category": "light",
+        "group": "leather",
+        "baseItem": "studded-leather-armor",
+        "acBonus": 2,
+        "checkPenalty": -1,
+        "speedPenalty": 0,
+        "dexCap": { "value": 5 },
+        "strength": { "value": 12 },
+        "traits": {
+          "value": [],
+          "rarity": "common"
+        },
+        "potencyRune": { "value": 2 },
+        "resiliencyRune": { "value": "greaterResilient" },
+        "propertyRune1": { "value": "" },
+        "weight": { "value": "1" },
+        "price": { "value": { "gp": 1060 } },
+        "level": { "value": 14 },
+        "identification": {
+          "status": "identified"
+        }
+      }
+    },
+    {
+      "name": "Blazons of Shared Power",
+      "type": "equipment",
+      "img": "systems/pf2e/icons/equipment/held-items/blazons-of-shared-power.webp",
+      "system": {
+        "description": {
+          "value": "<p>These matched sigils inscribed on both katanas allow them to share property runes. Dramatically reduces the cost of runing both weapons.</p>"
+        },
+        "quantity": 2,
+        "equipped": { "carryType": "worn", "inSlot": true },
+        "usage": { "value": "etched-onto-weapon" },
+        "traits": { "value": ["magical", "transmutation"] },
+        "weight": { "value": "0" },
+        "price": { "value": { "gp": 350 } },
+        "level": { "value": 10 },
+        "identification": { "status": "identified" }
+      }
+    },
+    {
+      "name": "Boots of Speed",
+      "type": "equipment",
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/boots-of-speed.webp",
+      "system": {
+        "description": {
+          "value": "<p>Grants a +10-foot item bonus to Speed. Activate 1 minute: triple your Speed for 1 minute.</p>"
+        },
+        "quantity": 1,
+        "equipped": { "carryType": "worn", "inSlot": true },
+        "usage": { "value": "wornboots" },
+        "traits": { "value": ["magical", "transmutation"] },
+        "weight": { "value": "L" },
+        "price": { "value": { "gp": 900 } },
+        "level": { "value": 11 },
+        "identification": { "status": "identified" }
+      }
+    },
+    {
+      "name": "Double Slice",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p><strong>Requirements</strong> You are wielding two weapons, each in a different hand.<br>You lunge with both weapons at once. Make two Strikes, one with each weapon, each using your current multiple attack penalty. If both attacks hit the same creature, combine their damage for the purpose of resistances and weaknesses. If the second weapon has the agile trait, its MAP is the same as the first weapon.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 1 },
+        "traits": { "value": ["fighter", "flourish"] },
+        "actionType": { "value": "action" },
+        "actions": { "value": 2 },
+        "prerequisites": { "value": [] }
+      }
+    },
+    {
+      "name": "Twin Parry",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 4 },
+        "traits": { "value": ["fighter"] },
+        "actionType": { "value": "action" },
+        "actions": { "value": 1 },
+        "prerequisites": { "value": [] }
+      }
+    },
+    {
+      "name": "Agile Grace",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>Your graceful moves with agile weapons are beyond compare. Your multiple attack penalty with agile weapons is –3 on your second attack and –6 on each subsequent attack.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 6 },
+        "traits": { "value": ["fighter"] },
+        "prerequisites": { "value": [] }
+      }
+    },
+    {
+      "name": "Advanced Weapon Training",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>Choose a weapon group. You gain proficiency with all advanced weapons of that group at the same rank as martial weapons of that group. (Sword group — Katana.)</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 8 },
+        "traits": { "value": ["fighter"] },
+        "prerequisites": { "value": [] }
+      }
+    },
+    {
+      "name": "Combat Reflexes",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>You gain an additional reaction at the start of each of your turns that you can use only for an Attack of Opportunity.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 10 },
+        "traits": { "value": ["fighter"] },
+        "prerequisites": { "value": [] }
+      }
+    },
+    {
+      "name": "Two-Weapon Flurry",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p><strong>Requirements</strong> You are wielding two weapons, each in a different hand.<br>Using the momentum of your prior attack, you lash out with both your weapons in a sudden frenzy. Strike twice, once with each weapon.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 12 },
+        "traits": { "value": ["fighter", "flourish", "press"] },
+        "actionType": { "value": "action" },
+        "actions": { "value": 1 },
+        "prerequisites": { "value": [{ "value": "Double Slice" }] }
+      }
+    },
+    {
+      "name": "Graceful Poise",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>You enter a stance of fluid two-weapon grace. While in this stance, when you make your second attack with an agile one-handed weapon in your off-hand, it doesn't take the multiple attack penalty.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 14 },
+        "traits": { "value": ["fighter", "stance"] },
+        "actionType": { "value": "action" },
+        "actions": { "value": 1 },
+        "prerequisites": { "value": [{ "value": "Double Slice" }] }
+      }
+    },
+    {
+      "name": "Inventor Dedication",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>You become trained in Crafting and inventor class DC. You gain the Inventor skill feat. Choose an innovation (Weapon Innovation — Katana). You gain that innovation, though you don't gain other abilities that modify it such as modifications or Explode.</p>"
+        },
+        "featType": { "value": "archetype" },
+        "level": { "value": 2 },
+        "traits": { "value": ["archetype", "dedication"] },
+        "prerequisites": { "value": [{ "value": "Intelligence 14" }] }
+      }
+    },
+    {
+      "name": "Explosion (Inventor Archetype)",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>You gain the Explode action. You intentionally take your innovation beyond normal safety limits, dealing 2d6 fire damage (+ 1d6 per level above 1st, so 16d6 at level 15) in a 5-foot emanation. Basic Reflex save vs your inventor class DC. Unstable: DC 13 flat check (Legendary Crafting) or innovation malfunctions.</p>"
+        },
+        "featType": { "value": "archetype" },
+        "level": { "value": 6 },
+        "traits": { "value": ["archetype"] },
+        "prerequisites": { "value": [{ "value": "Basic Breakthrough" }] }
+      }
+    },
+    {
+      "name": "Explode",
+      "type": "action",
+      "img": "systems/pf2e/icons/default-icons/action.svg",
+      "system": {
+        "description": {
+          "value": "<p>You intentionally take Theorem (your Innovation) beyond normal safety limits. All creatures in a 5-foot emanation take <strong>16d6 fire damage</strong> (basic Reflex save vs Inventor Class DC). Unstable: Attempt DC 13 flat check (Legendary Crafting) after applying effects. On failure, innovation can't be used for further unstable actions until 10 minutes of retuning. On critical failure, take fire damage equal to half your level (8).</p><p>If you have Revolutionary Innovation: choose 5-ft, 10-ft, or 15-ft emanation.</p>"
+        },
+        "actionType": { "value": "action" },
+        "actions": { "value": 2 },
+        "traits": { "value": ["unstable", "inventor", "fire", "manipulate"] },
+        "requirements": { "value": "Theorem (innovation weapon) is held" }
+      }
+    },
+    {
+      "name": "Attack of Opportunity",
+      "type": "action",
+      "img": "systems/pf2e/icons/actions/Reaction.webp",
+      "system": {
+        "description": {
+          "value": "<p><strong>Trigger</strong> A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.<br>Make a melee Strike against the triggering creature. If the attack hits and the trigger was a manipulate action, disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.</p>"
+        },
+        "actionType": { "value": "reaction" },
+        "actions": { "value": null },
+        "traits": { "value": ["fighter"] }
+      }
+    },
+    {
+      "name": "Draconic Breath (Sonic Cone)",
+      "type": "action",
+      "img": "systems/pf2e/icons/default-icons/action.svg",
+      "system": {
+        "description": {
+          "value": "<p>Lisa exhales a keening wail of focused sonic energy in a 30-foot cone. Creatures in the area take sonic damage (scales with level — see Battlezoo rules for exact value). Basic Reflex save vs your class DC or spell DC. Recharge: Once per 1d4 rounds (or per the Battlezoo rules for your level).</p><p><em>The emerald dragon's breath is a precisely tuned resonance, not a roar — a frequency calculated to shatter armor plating and stun nervous systems.</em></p>"
+        },
+        "actionType": { "value": "action" },
+        "actions": { "value": 2 },
+        "traits": { "value": ["sonic", "dragon", "evocation", "arcane"] }
+      }
+    },
+    {
+      "name": "Specialty Crafting (Weapons)",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>Your background as an artisan gives you exceptional crafting ability. When you Craft items of a particular type (weapons), you gain a +1 circumstance bonus to your Crafting checks, and you reduce the number of days to Craft by 1 (min 1).</p>"
+        },
+        "featType": { "value": "skill" },
+        "level": { "value": 1 },
+        "traits": { "value": ["general", "skill"] },
+        "prerequisites": { "value": [{ "value": "trained in Crafting" }] }
+      }
+    },
+    {
+      "name": "Combat Flexibility",
+      "type": "feat",
+      "img": "systems/pf2e/icons/default-icons/feat.svg",
+      "system": {
+        "description": {
+          "value": "<p>Through constant refinement, you're prepared for any combat. During your daily preparations, you can gain one fighter feat of 8th level or lower that you don't already have. You can use that feat until your next daily preparations.</p>"
+        },
+        "featType": { "value": "class" },
+        "level": { "value": 15 },
+        "traits": { "value": ["fighter"] },
+        "prerequisites": { "value": [] }
+      }
+    }
+  ],
+  "flags": {
+    "notes": "IMPORTANT: This character requires the Battlezoo Ancestries: Dragons module for Foundry VTT to be installed and active. Ancestry feats (Draconic Senses, Scaled Hide, Draconic Breath, Dragon Wings) and the Emerald heritage must be added from that compendium. The Inventor Dedication feat tree should be added from the Guns & Gears compendium. Weapon Innovation (Theorem) should be flagged as the Innovation item. All feats above are rough descriptors — replace with proper compendium items for full automation."
+  }
+}

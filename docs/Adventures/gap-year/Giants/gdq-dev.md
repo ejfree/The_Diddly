@@ -6,10 +6,23 @@ tags: []
 
 # GDQ Dev
 
-Located in Sarlona. ??
-G1 Forest of Lurking Shadows
-G2 Eska Mountains
-G3 Broken Blade Mountains
+Located in Arenal, Sarlona.
+
+**G1 — Steading of the Hill Giant Chief**
+Foothills of the Sundering Peaks, Arenal. The steading sits in a temperate highland valley where the mountains begin to rise.
+
+**G2 — Glacial Rift of the Frost Giant Jarl**
+Some dozens of leagues to the north and west of G1, amidst the tallest peaks of the Sundering Peaks. High glacial terrain; bitterly cold. The party is not told where G2 is — they learn its location from intel gathered at G1.
+
+**G3 — Hall of the Fire Giant King**
+A volcanic region geographically distinct from the glacial peaks of G2 — likely a southern or eastern spur of the Sundering Peaks where tectonic activity dominates. The party is not told where G3 is from the outset; its location is discovered through prisoners, documents, or interrogation inside G2. Roughly a two-week overland journey from G2 through the mountains.
+
+**G3 → D1 Transition: Descent into Khyber**
+The lower dungeon level of the Hall contains passages descending into the earth — ancient lava tubes and collapsed magma chambers that open into the vast cavern systems of Khyber beneath Arenal. This is the entrance to the D series, and it is on Arenal/Sarlona.
+
+The fire giants are unwitting (or knowing) instruments of the drow: evidence found in G3's lower halls — correspondence, a drow emissary, captive slaves bearing house marks — reveals that someone in the depths has been directing the giant alliance from below. This is the narrative hook that drives the party downward.
+
+The volcanic geology makes the transition physically plausible: the Hall sits atop an ancient magma system whose lower chambers vent into Khyber proper. D1 begins at the base of these shafts, where the heat fades and the true Underdark opens up.
 
 G1 Random Monsters
 01-05 1 Bear, Cave
@@ -31,6 +44,7 @@ G1 Random Monsters
 
 G1 1st Floor Wandering
 Western Sections (West **of** Great Hall): encounter **1** in **10**
+
 1. *4-12* orcs rushing to get shields for platters.
 
 *2. 2* hill giants from Room 11 going to sleep off a drunk.

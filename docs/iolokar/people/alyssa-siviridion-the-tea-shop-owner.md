@@ -29,6 +29,16 @@ Food is served omakase style. There are approximately 15 courses. But these are 
 
 Food is delivered to the booths  automatically by their illusionary Sammy the samovar. .
 
+## Midjourney Portraits
+
+### The Viridian Salon
+
+> Portrait of an ancient emerald dragon matriarch, elegant and grandmotherly, standing in the entrance of an opulent tea salon inspired by the Russian Tea Room, warm jewel-toned decor in deep greens and gold, ornate chandeliers casting soft amber light, plush velvet seating visible behind her, she holds a delicate gilded teapot with both clawed hands, wearing a refined silk hostess gown in forest green and gold trim, deep emerald scales with a subtle iridescent sheen, warm knowing eyes, a gracious dignified smile, garden gnomes visible on decorative shelves in the background, fine art portrait, high fantasy illustration, cinematic lighting, editorial style --ar 2:3 --style raw
+
+### Professor of Prophecy
+
+> Portrait of an ancient emerald dragon professor of prophecy, seated at a grand stone lectern in a vaulted academic hall, wearing deep green and gold academic robes with a mortarboard, surrounded by floating prophetic orbs, star charts, and unfurled scrolls covered in arcane runes, misty visions of possible futures swirl in the air around her, her deep emerald scales glint under soft magical candlelight, silver-streaked frills framing a face that radiates ancient wisdom and sharp intellect, one claw raised as if mid-lecture, rows of awed student desks receding into shadow behind her, fine art portrait, high fantasy illustration, mystical atmosphere --ar 2:3 --style raw
+
 —
 In my dragon university, imaging an ancient emerald dragon who runs a tea shop. She should be the epitome of the dragon grandmother.
 

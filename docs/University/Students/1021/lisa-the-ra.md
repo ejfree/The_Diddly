@@ -11,10 +11,10 @@ updated: 2025-10-04
 **Major**:
 
 ### Personality
-(Describe demeanor, quirks, interaction style.)
+Lisa loves fighting, specifically samurai style sword fighting.
 
 ### Description
-(Physical details, unique traits.)
+lisa's scales shimmer in various shades of green, ranging from deep forest to bright lime, catching the light as she moves. Despite her large, imposing size, she has a gentle demeanor and a warm, engaging smile that puts the students at ease.
 
 # Lisa Siviridion
 
@@ -58,7 +58,7 @@ Lisa's dorm room at Dragon University now reflects her fascination with samurai 
 
 4. **Comfort and Functionality:**
    - **Tatami Area:** There’s a comfortable corner with tatami mats and a low table, where Lisa can sit and relax or enjoy tea. This area also includes zabuton cushions and a shoji screen for added privacy.
-   - **Efficient Storage:** Her room is well-organized with plenty of storage solutions, including under-bed drawers and multi-functional furniture to keep the space tidy and functional.
+   - **Efficient Storage:** Her room is well-organized with plenty of storage solutions, including under-bed drawers and multi-functional furniture to keep thece tidy and functional.
 
 5. **Color Scheme:**
    - The room predominantly features earthy tones, such as browns, greens, and blacks, with accents of red and gold to reflect the traditional samurai aesthetics.
@@ -67,3 +67,8 @@ Overall, Lisa’s dorm room is a perfect blend of her love for samurai culture a
 
 ### Room Details
 (Dorm vibe, decorations, magical features.)
+
+### Role in Drow War
+During the drow war, Lisa has actually taken over the local snirbliven city. She escaped a drow patrol. A large war party ambushed them and killed the others. She escaped us every dirty trick possible. She found the under dark gnome city after being on the run. She hit for the first month. She has turned herself into a drow, specifically a fighter, she would be a level 14 equivalent dragon build
+
+She has undermined it completely in a year via
