@@ -1,0 +1,27 @@
+{
+  "name": "G1→G2 Zone 1 — Highland Approach Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 1 (Days 1–2): Temperate-to-alpine. Still inhabited. Giants have been through here. Wildlife is present. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d4 Hill Giants (returning south from a raiding trip) [PF2e Lvl 7 each]", "img": "", "weight": 6, "range": [1, 6], "drawn": false },
+    { "type": 0, "text": "2d6 Orcs (G1-allied; spotted the party leaving the Steading) [PF2e Lvl 1 each]", "img": "", "weight": 7, "range": [7, 13], "drawn": false },
+    { "type": 0, "text": "1 Cave Bear (territorial, den nearby) [PF2e Lvl 4]", "img": "", "weight": 7, "range": [14, 20], "drawn": false },
+    { "type": 0, "text": "2d4 Dire Wolves [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [21, 26], "drawn": false },
+    { "type": 0, "text": "1d6 Mountain Lions [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [27, 32], "drawn": false },
+    { "type": 0, "text": "2d6 Goblins (G1 tributaries, foraging) [PF2e Lvl –1 each]", "img": "", "weight": 6, "range": [33, 38], "drawn": false },
+    { "type": 0, "text": "1d4 Ogres (G1 work crew heading to the Steading) [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [39, 44], "drawn": false },
+    { "type": 0, "text": "1 Wyvern (circling above; attacks if the party seems weak) [PF2e Lvl 6]", "img": "", "weight": 8, "range": [45, 52], "drawn": false },
+    { "type": 0, "text": "2d4 Bugbears (independent band, not G1-aligned) [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [53, 58], "drawn": false },
+    { "type": 0, "text": "1 Giant Eagle (not hostile; circles and watches) [PF2e Lvl 4]", "img": "", "weight": 6, "range": [59, 64], "drawn": false },
+    { "type": 0, "text": "1d6 Trolls (mountain variety; hunting in a loose pack) [PF2e Lvl 5 each]", "img": "", "weight": 6, "range": [65, 70], "drawn": false },
+    { "type": 0, "text": "2d6 Mountain Dwarves (Mror Holds patrol; neutral, suspicious) [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [71, 76], "drawn": false },
+    { "type": 0, "text": "1 Manticore [PF2e Lvl 6]", "img": "", "weight": 6, "range": [77, 82], "drawn": false },
+    { "type": 0, "text": "1d4 Stone Giants (traveling through; neutral; know where the Rift is) [PF2e Lvl 9 each]", "img": "", "weight": 6, "range": [83, 88], "drawn": false },
+    { "type": 0, "text": "1d6 Hippogriffs (flock, territorial over a stretch of ridgeline) [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [89, 94], "drawn": false },
+    { "type": 0, "text": "1 Roc (hunting; PCs are prey-sized) [PF2e Lvl 13 — flee]", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "HAZARD — Rockslide: DC 16 Reflex or 4d6 bludgeoning + pinned (DC 20 Athletics to free)", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "G1 1st Floor — Great Hall to Room 11 Wandering (1-in-8)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for the Great Hall to Room 11 corridor in G1. Encounter frequency: 1 in 8. Roll 1d8; on a 1, roll 1d3 on this table.",
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1–4 hill giants heading for Room 13 from Room 11", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "1 cloud giant from Room 11 heading for front gate", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "2 stone giants from Room 11 heading for front gate", "img": "", "weight": 1, "range": [3, 3], "drawn": false }
+  ]
+}

@@ -52,7 +52,7 @@ Defining Features
 
 Ongoing Threads
 - The Mournland arms race: an unknown actor (widely suspected to be the Lord of Blades) rebuilds pre‑Mourning superweapons tuned to exterminate flesh. Dragons debate direct interdiction vs. containment.
-- Lolth’s shadow play (GM secret): external manipulation seeks to use Xoriat to drive draconic minds insane, collapsing draconic governance from within.
+- Lolth’s shadow play (GM secret): external manipulation seeks to use Xoriat to drive draconic minds insane, collapsing draconic governance from within. Lolth is attempting to free Tiamat who is imprsioned in Argonesses. Lolth is upset because her partner in the divine card game has been missing and she cant play. Plus it seems like a good time. And ... my drow need to be thinned out a little. Let the stong survive.
 
 Adventure Hooks
 - Recover Council minutes or dissenting weyr correspondence from Argonessen caches (Knowledge DCs scale by rarity).

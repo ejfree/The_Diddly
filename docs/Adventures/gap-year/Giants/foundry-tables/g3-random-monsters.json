@@ -1,0 +1,26 @@
+{
+  "name": "G3 — Random Monsters (Hall of the Fire Giant King Exterior)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Random encounter table for the volcanic terrain and exterior of the Hall of the Fire Giant King (G3). Southern/eastern spur of the Sundering Peaks where tectonic activity dominates.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "11–20 Bugbears", "img": "", "weight": 10, "range": [1, 10], "drawn": false },
+    { "type": 0, "text": "11–20 Cavemen", "img": "", "weight": 5, "range": [11, 15], "drawn": false },
+    { "type": 0, "text": "1 Chimera", "img": "", "weight": 5, "range": [16, 20], "drawn": false },
+    { "type": 0, "text": "1 Dragon, young red", "img": "", "weight": 3, "range": [21, 23], "drawn": false },
+    { "type": 0, "text": "1–4 Firedrakes", "img": "", "weight": 10, "range": [24, 33], "drawn": false },
+    { "type": 0, "text": "1–6 Firenewts", "img": "", "weight": 5, "range": [34, 38], "drawn": false },
+    { "type": 0, "text": "1–6 Fire Toads", "img": "", "weight": 5, "range": [39, 43], "drawn": false },
+    { "type": 0, "text": "1–6 Giants, fire", "img": "", "weight": 10, "range": [44, 53], "drawn": false },
+    { "type": 0, "text": "1 Giant, storm", "img": "", "weight": 2, "range": [54, 55], "drawn": false },
+    { "type": 0, "text": "10–40 Goblins", "img": "", "weight": 5, "range": [56, 60], "drawn": false },
+    { "type": 0, "text": "2–12 Hell Hounds", "img": "", "weight": 5, "range": [61, 65], "drawn": false },
+    { "type": 0, "text": "1–10 Ogres", "img": "", "weight": 5, "range": [66, 70], "drawn": false },
+    { "type": 0, "text": "10–40 Orcs", "img": "", "weight": 5, "range": [71, 75], "drawn": false },
+    { "type": 0, "text": "1 Pyrolisk", "img": "", "weight": 10, "range": [76, 85], "drawn": false },
+    { "type": 0, "text": "1–4 Trolls", "img": "", "weight": 5, "range": [86, 90], "drawn": false },
+    { "type": 0, "text": "1–2 Giant Trolls", "img": "", "weight": 10, "range": [91, 100], "drawn": false }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "G1→G2 Zone 3 — The Glacial Approach Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 3 (Days 5–6): Glacier, crevasse fields, permanent ice. G2 territory. The Rift is visible. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d4 Frost Giants (perimeter patrol from the Rift; alert) [PF2e Lvl 9 each]", "img": "", "weight": 8, "range": [1, 8], "drawn": false },
+    { "type": 0, "text": "2d4 Winter Wolves (frost giant hunting pack, off-leash) [PF2e Lvl 5 each]", "img": "", "weight": 8, "range": [9, 16], "drawn": false },
+    { "type": 0, "text": "1d3 Ice Trolls [PF2e Lvl 6 each]", "img": "", "weight": 7, "range": [17, 23], "drawn": false },
+    { "type": 0, "text": "1 Frost Giant Jarl's Guard (elite patrol) [PF2e Lvl 11]", "img": "", "weight": 7, "range": [24, 30], "drawn": false },
+    { "type": 0, "text": "1d4 Woolly Mammoths (glacial herd; not hostile unless cornered) [PF2e Lvl 7 each]", "img": "", "weight": 7, "range": [31, 37], "drawn": false },
+    { "type": 0, "text": "2d4 Yetis [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [38, 44], "drawn": false },
+    { "type": 0, "text": "1 Remorhaz, Adult (hunts the crevasse fields) [PF2e Lvl 10]", "img": "", "weight": 8, "range": [45, 52], "drawn": false },
+    { "type": 0, "text": "2d6 Bugbears (serving the Jarl; armed with G2-made cold-iron weapons) [PF2e Lvl 3 each]", "img": "", "weight": 7, "range": [53, 59], "drawn": false },
+    { "type": 0, "text": "1 Young Adult White Dragon (serves the Jarl; will attempt to report the party) [PF2e Lvl 10]", "img": "", "weight": 7, "range": [60, 66], "drawn": false },
+    { "type": 0, "text": "1d4 Crag Linnorms [PF2e Lvl 8 each]", "img": "", "weight": 7, "range": [67, 73], "drawn": false },
+    { "type": 0, "text": "2d6 Goblins (G2 scouts; will flee and report rather than fight) [PF2e Lvl –1 each]", "img": "", "weight": 6, "range": [74, 79], "drawn": false },
+    { "type": 0, "text": "1d4 Frost Giant Sub-Chiefs (returning from a raid; loaded with loot) [PF2e Lvl 10 each]", "img": "", "weight": 6, "range": [80, 85], "drawn": false },
+    { "type": 0, "text": "HAZARD — Crevasse: DC 20 Perception to spot; failure means 1d4 members fall (DC 18 Reflex) — depth 2d8 × 10 feet", "img": "", "weight": 5, "range": [86, 90], "drawn": false },
+    { "type": 0, "text": "1 Adult White Dragon (senior; guards the outer glacier approaches to the Rift) [PF2e Lvl 12 — very dangerous]", "img": "", "weight": 5, "range": [91, 95], "drawn": false },
+    { "type": 0, "text": "2d4 Frost Giant Scouts on captured hippogriffs (aerial patrol; advantage on Perception) [PF2e Lvl 9 each]", "img": "", "weight": 3, "range": [96, 98], "drawn": false },
+    { "type": 0, "text": "HAZARD — Glacial Calving: a section of the glacier breaks away; DC 22 Reflex or swept 60 feet and 6d6 bludgeoning; creates impassable terrain", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

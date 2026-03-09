@@ -1,0 +1,28 @@
+{
+  "name": "G2 — Random Monsters (Glacial Rift Exterior)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Random encounter table for the outdoor approach and glacial terrain around the Glacial Rift of the Frost Giant Jarl (G2). High glacial terrain; bitterly cold.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1–3 Bears, Cave", "img": "", "weight": 5, "range": [1, 5], "drawn": false },
+    { "type": 0, "text": "11–20 Bugbears", "img": "", "weight": 5, "range": [6, 10], "drawn": false },
+    { "type": 0, "text": "11–20 Cavemen", "img": "", "weight": 5, "range": [11, 15], "drawn": false },
+    { "type": 0, "text": "1 Dragon, adult white", "img": "", "weight": 1, "range": [16, 16], "drawn": false },
+    { "type": 0, "text": "10–40 Dwarves, mountain", "img": "", "weight": 5, "range": [17, 21], "drawn": false },
+    { "type": 0, "text": "1–6 Giants, frost", "img": "", "weight": 10, "range": [22, 31], "drawn": false },
+    { "type": 0, "text": "1–4 Giants, hill", "img": "", "weight": 10, "range": [32, 41], "drawn": false },
+    { "type": 0, "text": "1–3 Giants, mountain", "img": "", "weight": 10, "range": [42, 51], "drawn": false },
+    { "type": 0, "text": "1 Giant, storm", "img": "", "weight": 1, "range": [52, 52], "drawn": false },
+    { "type": 0, "text": "10–40 Goblins", "img": "", "weight": 5, "range": [53, 57], "drawn": false },
+    { "type": 0, "text": "1–4 Lions, mountain", "img": "", "weight": 5, "range": [58, 62], "drawn": false },
+    { "type": 0, "text": "1–4 Mammoths", "img": "", "weight": 5, "range": [63, 67], "drawn": false },
+    { "type": 0, "text": "1–10 Ogres", "img": "", "weight": 10, "range": [68, 77], "drawn": false },
+    { "type": 0, "text": "10–40 Orcs", "img": "", "weight": 5, "range": [78, 82], "drawn": false },
+    { "type": 0, "text": "1–3 Rhinoceros, woolly", "img": "", "weight": 5, "range": [83, 87], "drawn": false },
+    { "type": 0, "text": "1–8 Trolls", "img": "", "weight": 5, "range": [88, 92], "drawn": false },
+    { "type": 0, "text": "1–6 Trolls, Ice", "img": "", "weight": 5, "range": [93, 97], "drawn": false },
+    { "type": 0, "text": "1–2 Wolverines, giant", "img": "", "weight": 3, "range": [98, 100], "drawn": false }
+  ]
+}

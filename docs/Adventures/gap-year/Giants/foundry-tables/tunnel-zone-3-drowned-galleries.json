@@ -1,0 +1,27 @@
+{
+  "name": "Tunnel Zone 3 — The Drowned Galleries Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 3 (Days 11–14): Seasonal flood zone, dwarven ruins, underground waterways. Wet, treacherous, and inhabited by things that prefer it that way. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "2d6 Giant Frogs (in flooded chambers, ambush from below) [PF2e Lvl 1 each]", "img": "", "weight": 6, "range": [1, 6], "drawn": false },
+    { "type": 0, "text": "1d4 Merrow (aquatic ogres; territorial in the deeper channels) [PF2e Lvl 4 each]", "img": "", "weight": 7, "range": [7, 13], "drawn": false },
+    { "type": 0, "text": "1 Chuul (in a submerged arch, reaches through) [PF2e Lvl 7]", "img": "", "weight": 7, "range": [14, 20], "drawn": false },
+    { "type": 0, "text": "2d6 Drowned Dwarf Zombies (from the old survey teams) [PF2e Lvl 1 each]", "img": "", "weight": 6, "range": [21, 26], "drawn": false },
+    { "type": 0, "text": "1 Sea Hag (living in a flooded dwarven vault, hoard of survey tools) [PF2e Lvl 4]", "img": "", "weight": 6, "range": [27, 32], "drawn": false },
+    { "type": 0, "text": "1d6 Giant Eels [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [33, 38], "drawn": false },
+    { "type": 0, "text": "1d4 Kuo-Toa Monitors (D1/D2 preview; scouting this far forward) [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [39, 44], "drawn": false },
+    { "type": 0, "text": "1 Water Elemental, Medium (loose from a flooded binding circle in the ruins) [PF2e Lvl 5]", "img": "", "weight": 8, "range": [45, 52], "drawn": false },
+    { "type": 0, "text": "1d6 Draugr (ancient dwarven dead, awakened by the flooding) [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [53, 58], "drawn": false },
+    { "type": 0, "text": "1 Bog Mummy (preserved in mineral water for centuries) [PF2e Lvl 5]", "img": "", "weight": 6, "range": [59, 64], "drawn": false },
+    { "type": 0, "text": "2d4 Giant Crabs [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [65, 70], "drawn": false },
+    { "type": 0, "text": "1 Cave Troll + flooding — troll drives party into rising water (Athletics DC 18 to cross before it fills) [PF2e Lvl 5]", "img": "", "weight": 6, "range": [71, 76], "drawn": false },
+    { "type": 0, "text": "1 Aboleth (in a deep pool; does not pursue beyond water but casts from depth) [PF2e Lvl 12 — flee or negotiate]", "img": "", "weight": 6, "range": [77, 82], "drawn": false },
+    { "type": 0, "text": "1d4 Kuo-Toa Whips (further scouts; will tail the party and report to D1) [PF2e Lvl 4 each]", "img": "", "weight": 6, "range": [83, 88], "drawn": false },
+    { "type": 0, "text": "HAZARD — Partial collapse: DC 20 Reflex or trapped under rubble (DC 22 Athletics or 1 minute to free); blocks one corridor", "img": "", "weight": 6, "range": [89, 94], "drawn": false },
+    { "type": 0, "text": "1 Water Orm (ancient, vast, fills the main flooded channel) [PF2e Lvl 8 — circumvent, don't fight]", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "HAZARD — Flash flood: DC 22 Athletics to reach high ground; failure means 60 feet swept back, 4d6 bludgeoning", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

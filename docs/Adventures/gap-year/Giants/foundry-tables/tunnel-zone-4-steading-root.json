@@ -1,0 +1,26 @@
+{
+  "name": "Tunnel Zone 4 — Steading Root Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 4 (Days 15–17): The giants' own territory. Controlled, patrolled, smells of the Steading. Stealth is now the primary tool. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d4 Hill Giants (standard patrol, torches) [PF2e Lvl 7 each]", "img": "", "weight": 8, "range": [1, 8], "drawn": false },
+    { "type": 0, "text": "1d6+2 Ogres (work crew moving timber or provisions) [PF2e Lvl 3 each]", "img": "", "weight": 8, "range": [9, 16], "drawn": false },
+    { "type": 0, "text": "1 Cave Troll (chained to a post as a guard; chain is 30 feet) [PF2e Lvl 5]", "img": "", "weight": 7, "range": [17, 23], "drawn": false },
+    { "type": 0, "text": "2d6 Dire Wolves (hunting pack, loose from the Wolf Yard above) [PF2e Lvl 3 each]", "img": "", "weight": 7, "range": [24, 30], "drawn": false },
+    { "type": 0, "text": "1 Verbeeg + 2 Ogres (verbeeg gives the orders) [PF2e Lvl 6 / Lvl 3]", "img": "", "weight": 7, "range": [31, 37], "drawn": false },
+    { "type": 0, "text": "2 Hill Giants arguing loudly (DC 24 Stealth to pass unseen) [PF2e Lvl 7 each]", "img": "", "weight": 7, "range": [38, 44], "drawn": false },
+    { "type": 0, "text": "1d6 Cave Bears (giant pets; 60% chance on a chain, 40% loose) [PF2e Lvl 4 each]", "img": "", "weight": 7, "range": [45, 51], "drawn": false },
+    { "type": 0, "text": "2d6 Orc Slaves (fleeing from above; panicked, not hostile; have intel about upper level) [PF2e Lvl –1 each]", "img": "", "weight": 7, "range": [52, 58], "drawn": false },
+    { "type": 0, "text": "1 Hill Giant + 1d4 Dire Wolves on leash (inspection patrol) [PF2e Lvl 7 / Lvl 3]", "img": "", "weight": 7, "range": [59, 65], "drawn": false },
+    { "type": 0, "text": "2d4 Bugbears (giant-allied; acting as outriders and scouts) [PF2e Lvl 3 each]", "img": "", "weight": 7, "range": [66, 72], "drawn": false },
+    { "type": 0, "text": "1 Stone Giant (visiting the Steading for the alliance; curious, not immediately hostile) [PF2e Lvl 9]", "img": "", "weight": 6, "range": [73, 78], "drawn": false },
+    { "type": 0, "text": "3 Ogres + 1 Ogre Spider (spider pulls the supply cart) [PF2e Lvl 3 / Lvl 6]", "img": "", "weight": 6, "range": [79, 84], "drawn": false },
+    { "type": 0, "text": "1 Hill Giant Chief's Guard (elite; doing a perimeter check) [PF2e Lvl 9]", "img": "", "weight": 6, "range": [85, 90], "drawn": false },
+    { "type": 0, "text": "Giant Fire Beetles loose in the tunnel (escaped from storage; no combat, but light draws another roll in 10 minutes) [PF2e Lvl 1 each]", "img": "", "weight": 5, "range": [91, 95], "drawn": false },
+    { "type": 0, "text": "HAZARD — Alarm trip: crude giant-made tripwire of bones and pots; DC 22 Perception to spot; if triggered roll 01–08 on this table immediately", "img": "", "weight": 3, "range": [96, 98], "drawn": false },
+    { "type": 0, "text": "BOSS — The Keeper's Inspection: the Keeper himself (Room 27) walking the tunnel; if combat, gong from Room 26 is struck on his second round", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

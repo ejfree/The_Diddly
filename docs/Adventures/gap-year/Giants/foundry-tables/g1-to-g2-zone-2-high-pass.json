@@ -1,0 +1,26 @@
+{
+  "name": "G1→G2 Zone 2 — The High Pass Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 2 (Days 3–4): Above the treeline. No shelter. Cold. Giant cairn-road. Traffic thins but what remains is dangerous. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d3 Frost Giants (patrol from G2, heading back to the Rift) [PF2e Lvl 9 each]", "img": "", "weight": 7, "range": [1, 7], "drawn": false },
+    { "type": 0, "text": "1d4 Winter Wolves [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [8, 14], "drawn": false },
+    { "type": 0, "text": "2d4 Yetis [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [15, 21], "drawn": false },
+    { "type": 0, "text": "1 Young White Dragon (sub-adult; aggressive; hungry) [PF2e Lvl 8]", "img": "", "weight": 7, "range": [22, 28], "drawn": false },
+    { "type": 0, "text": "2d6 Gnoll Hunters (high-altitude scavengers) [PF2e Lvl 2 each]", "img": "", "weight": 7, "range": [29, 35], "drawn": false },
+    { "type": 0, "text": "1d4 Giant Owls (hunting at dusk/night; not hostile unless threatened) [PF2e Lvl 4 each]", "img": "", "weight": 7, "range": [36, 42], "drawn": false },
+    { "type": 0, "text": "1 Frost Giant Scout (alone; returning to G2 with a report — carries a written message) [PF2e Lvl 9]", "img": "", "weight": 8, "range": [43, 50], "drawn": false },
+    { "type": 0, "text": "2d4 Crag Linnorms (young; nesting in the rocky faces) [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [51, 57], "drawn": false },
+    { "type": 0, "text": "1d6 Ice Trolls [PF2e Lvl 6 each]", "img": "", "weight": 7, "range": [58, 64], "drawn": false },
+    { "type": 0, "text": "1d4 Hill Giants (lagging G1 contingent, surprised to see the party) [PF2e Lvl 7 each]", "img": "", "weight": 7, "range": [65, 71], "drawn": false },
+    { "type": 0, "text": "1 Remorhaz, Juvenile (hunting under the snowpack; first sign is snow melting from below) [PF2e Lvl 7]", "img": "", "weight": 6, "range": [72, 77], "drawn": false },
+    { "type": 0, "text": "HAZARD — Mountain Goat Stampede: DC 14 Reflex or knocked prone and 2d6 bludgeoning", "img": "", "weight": 6, "range": [78, 83], "drawn": false },
+    { "type": 0, "text": "3 Frost Giant Sub-Chiefs (off-duty hunting expedition; boisterous, not immediately hostile) [PF2e Lvl 10 each]", "img": "", "weight": 6, "range": [84, 89], "drawn": false },
+    { "type": 0, "text": "1 Adult White Dragon (territorial; claims this pass) [PF2e Lvl 12 — flee or negotiate]", "img": "", "weight": 5, "range": [90, 94], "drawn": false },
+    { "type": 0, "text": "HAZARD — Blizzard: visibility drops to 10 feet; Navigation DC becomes 26; all movement difficult terrain for 1d4 hours", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "HAZARD — Avalanche: DC 20 Reflex or buried (DC 25 Athletics to escape; 6d6 bludgeoning per round while buried)", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

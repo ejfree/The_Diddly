@@ -24,7 +24,7 @@ Excellent — let’s make each house feel like a **living faction** by giving i
 
 *Shadowfire mages and demon-binders.*
 
-* **Matron Mother Veythrae Thalara (Lvl 17 Wizard/Cleric hybrid)**Rules through sorcery and divine favor, leader of arcane supremacy.
+* **Matron Mother Thalara Veythrae (Lvl 17 Wizard/Cleric hybrid)**Rules through sorcery and divine favor, leader of arcane supremacy.
 
 * **Archmage Sybrynn Veythrae (Lvl 12 Wizard, Evocation focus)**Directs the Shadowfire Cadres, battlefield spellcasters.
 

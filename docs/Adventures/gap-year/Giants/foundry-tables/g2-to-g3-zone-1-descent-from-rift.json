@@ -1,0 +1,26 @@
+{
+  "name": "G2→G3 Zone 1 — Descent from the Rift Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 1 (Days 1–2): Still cold, but the glacial terrain is behind you. Frost giant patrols reach this far. Watchful. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d3 Frost Giants (southern patrol, armed and alert) [PF2e Lvl 9 each]", "img": "", "weight": 7, "range": [1, 7], "drawn": false },
+    { "type": 0, "text": "2d4 Winter Wolves (ranging south from the Rift) [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [8, 14], "drawn": false },
+    { "type": 0, "text": "1d4 Yetis [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [15, 21], "drawn": false },
+    { "type": 0, "text": "1d6 Ice Trolls [PF2e Lvl 6 each]", "img": "", "weight": 7, "range": [22, 28], "drawn": false },
+    { "type": 0, "text": "2d6 Bugbears (G2-allied outriders) [PF2e Lvl 3 each]", "img": "", "weight": 7, "range": [29, 35], "drawn": false },
+    { "type": 0, "text": "1 Frost Giant Sub-Chief (returning from a solo hunting trip; has sealed mail for the Jarl) [PF2e Lvl 10]", "img": "", "weight": 7, "range": [36, 42], "drawn": false },
+    { "type": 0, "text": "1d4 Woolly Mammoths (migrating; not hostile unless cornered) [PF2e Lvl 7 each]", "img": "", "weight": 8, "range": [43, 50], "drawn": false },
+    { "type": 0, "text": "1 Young White Dragon (Jarl's aerial scout) [PF2e Lvl 10]", "img": "", "weight": 7, "range": [51, 57], "drawn": false },
+    { "type": 0, "text": "2d6 Mountain Dwarves (Mror Holds survey team; heading north away from the Rift) [PF2e Lvl 2 each]", "img": "", "weight": 7, "range": [58, 64], "drawn": false },
+    { "type": 0, "text": "1d4 Stone Giants (neutral; passing through; know the Burning Road route) [PF2e Lvl 9 each]", "img": "", "weight": 7, "range": [65, 71], "drawn": false },
+    { "type": 0, "text": "1d3 Crag Linnorms (hunting the col passes) [PF2e Lvl 8 each]", "img": "", "weight": 6, "range": [72, 77], "drawn": false },
+    { "type": 0, "text": "2d4 Ice Trolls (pack hunting) [PF2e Lvl 6 each]", "img": "", "weight": 6, "range": [78, 83], "drawn": false },
+    { "type": 0, "text": "1 Frost Giant Messenger (carrying sealed correspondence toward G3; alone and moving fast) [PF2e Lvl 9]", "img": "", "weight": 6, "range": [84, 89], "drawn": false },
+    { "type": 0, "text": "1d6 Giant Wolverines [PF2e Lvl 4 each]", "img": "", "weight": 5, "range": [90, 94], "drawn": false },
+    { "type": 0, "text": "HAZARD — Ice storm: visibility 5 feet; all ranged attacks impossible; difficult terrain; lasts 1d4 hours", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "1 Adult White Dragon (the Jarl's primary aerial guardian; patrolling the southern routes) [PF2e Lvl 12]", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

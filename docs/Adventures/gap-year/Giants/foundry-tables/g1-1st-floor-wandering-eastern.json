@@ -1,0 +1,14 @@
+{
+  "name": "G1 1st Floor — Eastern Section Wandering (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for the eastern section of G1 1st Floor. Encounter frequency: 1 in 12. Roll 1d12; on a 1, roll 1d4 on this table.",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "The giantess coming from Room 11 to get her cave bear in Room 7", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "1 hill giant with 1–4 dire wolves from Room 22 going to Room 4", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "The chief and 2 ogres going to get some trophies from Room 6 to show off in the Great Hall", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "2–8 young giants from Room 3 heading through Room 22 to raid the pantry (Room 18)", "img": "", "weight": 1, "range": [4, 4], "drawn": false }
+  ]
+}

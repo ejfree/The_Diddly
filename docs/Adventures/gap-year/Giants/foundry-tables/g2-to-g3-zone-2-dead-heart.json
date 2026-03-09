@@ -1,0 +1,26 @@
+{
+  "name": "G2→G3 Zone 2 — The Dead Heart Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 2 (Days 3–4): Interior mountain passes. Nothing permanent lives here. What passes through is moving between one place and another — and so is the party. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "2d4 Stone Giants (traveling north toward G2; neutral; suspicious) [PF2e Lvl 9 each]", "img": "", "weight": 6, "range": [1, 6], "drawn": false },
+    { "type": 0, "text": "1d4 Hill Giants (G1 stragglers heading south toward fire giant territory) [PF2e Lvl 7 each]", "img": "", "weight": 7, "range": [7, 13], "drawn": false },
+    { "type": 0, "text": "1 Frost Giant Scout (moving fast; carries a sealed report or message tube) [PF2e Lvl 9]", "img": "", "weight": 7, "range": [14, 20], "drawn": false },
+    { "type": 0, "text": "1d6 Barghests (pack; hunting anything that moves) [PF2e Lvl 4 each]", "img": "", "weight": 7, "range": [21, 27], "drawn": false },
+    { "type": 0, "text": "1d3 Chimeras (nested in the high crags; territorial) [PF2e Lvl 8 each]", "img": "", "weight": 7, "range": [28, 34], "drawn": false },
+    { "type": 0, "text": "2d4 Mountain Trolls [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [35, 41], "drawn": false },
+    { "type": 0, "text": "1 Duergar Patrol — 8 duergar with 1 duergar commander (mercenary supply run toward G3) [PF2e Lvl 2 / Lvl 6]", "img": "", "weight": 7, "range": [42, 48], "drawn": false },
+    { "type": 0, "text": "1d6 Manticores [PF2e Lvl 6 each]", "img": "", "weight": 7, "range": [49, 55], "drawn": false },
+    { "type": 0, "text": "1 Fire Giant Messenger (moving north toward G2 with a report; alone; formidable) [PF2e Lvl 10]", "img": "", "weight": 7, "range": [56, 62], "drawn": false },
+    { "type": 0, "text": "2d6 Gnoll Hunters (scavenging the dead road) [PF2e Lvl 2 each]", "img": "", "weight": 7, "range": [63, 69], "drawn": false },
+    { "type": 0, "text": "1d4 Basilisks (cluster near a collapsed section; petrified travelers scattered around) [PF2e Lvl 5 each]", "img": "", "weight": 6, "range": [70, 75], "drawn": false },
+    { "type": 0, "text": "1 Roc (nesting on a high peak; party is prey-sized if visible from above) [PF2e Lvl 13 — flee]", "img": "", "weight": 6, "range": [76, 81], "drawn": false },
+    { "type": 0, "text": "1d3 Cloud Giants (traveling; not hostile; find the party amusing) [PF2e Lvl 11 each]", "img": "", "weight": 6, "range": [82, 87], "drawn": false },
+    { "type": 0, "text": "HAZARD — Mountain gale: all movement halved; ranged attacks impossible; DC 18 Athletics or pushed 10 feet per round; lasts 2d4 hours", "img": "", "weight": 6, "range": [88, 93], "drawn": false },
+    { "type": 0, "text": "1 Drow Courier Party (4 drow moving between G2 and G3; will flee rather than fight; carry sealed correspondence) [PF2e Lvl 5–7]", "img": "", "weight": 4, "range": [94, 97], "drawn": false },
+    { "type": 0, "text": "An Ancient Thing — a creature of immense age has emerged from a deep crevasse to investigate the road. It is not hostile. It is also not safe. [GM's discretion — Lvl 15+]", "img": "", "weight": 3, "range": [98, 100], "drawn": false }
+  ]
+}

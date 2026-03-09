@@ -1,0 +1,26 @@
+{
+  "name": "G2→G3 Zone 4 — The Broken Blade Spur Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 4 (Days 7–8): Inside the fire giant kingdom's outer territory. Heat is constant. Patrols are real. Stealth is survival. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d4 Fire Giants (armed patrol; torches unnecessary in the ambient heat) [PF2e Lvl 10 each]", "img": "", "weight": 8, "range": [1, 8], "drawn": false },
+    { "type": 0, "text": "3d6 Hell Hounds (loose pack, territorial) [PF2e Lvl 5 each]", "img": "", "weight": 8, "range": [9, 16], "drawn": false },
+    { "type": 0, "text": "1d4 Firedrakes (nesting near the lava flows) [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [17, 23], "drawn": false },
+    { "type": 0, "text": "1 Fire Giant Sub-Chief + 2 Fire Giants (commanding officer inspection) [PF2e Lvl 12 / Lvl 10]", "img": "", "weight": 7, "range": [24, 30], "drawn": false },
+    { "type": 0, "text": "2d6 Salamanders (gathering ore near a vent; not hostile unless attacked) [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [31, 37], "drawn": false },
+    { "type": 0, "text": "1d3 Young Red Dragons (fire giant auxiliaries; aggressive by nature) [PF2e Lvl 10 each]", "img": "", "weight": 7, "range": [38, 44], "drawn": false },
+    { "type": 0, "text": "2d8 Orcs + 2 Ogres (work crew clearing a lava obstruction from the road) [PF2e Lvl 1 / Lvl 3]", "img": "", "weight": 7, "range": [45, 51], "drawn": false },
+    { "type": 0, "text": "1d6 Fire Trolls [PF2e Lvl 7 each]", "img": "", "weight": 7, "range": [52, 58], "drawn": false },
+    { "type": 0, "text": "1 Fire Giant + 2d6 Hell Hounds on chains (handler patrol) [PF2e Lvl 10 / Lvl 5]", "img": "", "weight": 7, "range": [59, 65], "drawn": false },
+    { "type": 0, "text": "2d4 Firenewts mounted on Giant Striders (cavalry scouts) [PF2e Lvl 4 each]", "img": "", "weight": 7, "range": [66, 72], "drawn": false },
+    { "type": 0, "text": "1d4 Efreeti (envoys from the City of Brass; visiting King Snurre on business) [PF2e Lvl 12 each]", "img": "", "weight": 6, "range": [73, 78], "drawn": false },
+    { "type": 0, "text": "3 Fire Giants (off-duty; arguing; notice the party on a DC 20 Stealth failure) [PF2e Lvl 10 each]", "img": "", "weight": 6, "range": [79, 84], "drawn": false },
+    { "type": 0, "text": "1 Fire Giant Champion (King Snurre's personal guard, running a perimeter inspection) [PF2e Lvl 14]", "img": "", "weight": 6, "range": [85, 90], "drawn": false },
+    { "type": 0, "text": "HAZARD — Minor volcanic eruption: ash cloud reduces visibility to 20 feet for 1d8 hours; DC 18 Fortitude or dazzled; fire magic used nearby triggers a patrol alarm", "img": "", "weight": 5, "range": [91, 95], "drawn": false },
+    { "type": 0, "text": "HAZARD — Fresh lava flow crossing the route; DC 22 Athletics to leap across or find a bypass (2 hours lost; DC 24 Stealth to bypass without a patrol check)", "img": "", "weight": 3, "range": [96, 98], "drawn": false },
+    { "type": 0, "text": "BOSS — King Snurre's Champion: a legendary fire giant fighter patrolling the outer perimeter; if combat, a signal horn sounds on his second round", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

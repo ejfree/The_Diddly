@@ -1,0 +1,26 @@
+{
+  "name": "G2→G3 Zone 3 — Volcanic Approach Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 3 (Days 5–6): The mountain breathes. Heat replaces cold. Fire-adapted creatures appear. Frost giant patrols have been replaced by fire giant ones. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d4 Fire Giants (perimeter patrol heading north from G3) [PF2e Lvl 10 each]", "img": "", "weight": 7, "range": [1, 7], "drawn": false },
+    { "type": 0, "text": "2d8 Hell Hounds [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [8, 14], "drawn": false },
+    { "type": 0, "text": "1d3 Chimeras (fire-adapted sub-species; partially fire-resistant) [PF2e Lvl 8 each]", "img": "", "weight": 7, "range": [15, 21], "drawn": false },
+    { "type": 0, "text": "1d6 Firenewts + 1 Firenewt Warrior Leader [PF2e Lvl 2 / Lvl 4]", "img": "", "weight": 7, "range": [22, 28], "drawn": false },
+    { "type": 0, "text": "1 Young Red Dragon (G3's aerial presence; allied with fire giants) [PF2e Lvl 10]", "img": "", "weight": 7, "range": [29, 35], "drawn": false },
+    { "type": 0, "text": "2d6 Goblins (G3 tributaries; fleeing from something south of them) [PF2e Lvl –1 each]", "img": "", "weight": 7, "range": [36, 42], "drawn": false },
+    { "type": 0, "text": "2d4 Fire Trolls (volcanic variant; fire does not stop regeneration) [PF2e Lvl 7 each]", "img": "", "weight": 8, "range": [43, 50], "drawn": false },
+    { "type": 0, "text": "1d4 Salamanders (semi-intelligent; may be spoken with; not initially hostile) [PF2e Lvl 5 each]", "img": "", "weight": 7, "range": [51, 57], "drawn": false },
+    { "type": 0, "text": "3 Ogres + 1 Ogre Mage (G3 supply detachment heading north with provisions) [PF2e Lvl 3 / Lvl 8]", "img": "", "weight": 7, "range": [58, 64], "drawn": false },
+    { "type": 0, "text": "2d6 Orcs (G3-allied; manning a forward campsite) [PF2e Lvl 1 each]", "img": "", "weight": 7, "range": [65, 71], "drawn": false },
+    { "type": 0, "text": "1d4 Firedrakes (nesting in the geothermal vents) [PF2e Lvl 5 each]", "img": "", "weight": 6, "range": [72, 77], "drawn": false },
+    { "type": 0, "text": "1 Fire Giant + 2d4 Hell Hounds (escort patrol; aggressive) [PF2e Lvl 10 / Lvl 5]", "img": "", "weight": 6, "range": [78, 83], "drawn": false },
+    { "type": 0, "text": "1 Efreeti (lost, irritable, traveling; not interested in the party unless provoked) [PF2e Lvl 12]", "img": "", "weight": 6, "range": [84, 89], "drawn": false },
+    { "type": 0, "text": "HAZARD — Lava surge: a channel cracks open; DC 20 Reflex or 6d6 fire damage; creates a 20-foot barrier until cooled (1d4 hours)", "img": "", "weight": 5, "range": [90, 94], "drawn": false },
+    { "type": 0, "text": "1 Fire Giant Sub-Chief (on a solo inspection; knows the party does not belong here) [PF2e Lvl 12]", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "1d3 Adult Red Dragons (patrolling the volcanic approaches; fire giant allies) [PF2e Lvl 14 each — flee]", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

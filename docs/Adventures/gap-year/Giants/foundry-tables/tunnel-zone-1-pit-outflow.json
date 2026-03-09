@@ -1,0 +1,27 @@
+{
+  "name": "Tunnel Zone 1 — Pit Outflow Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 1 (Days 1–5): Deep Khyber outer reaches. Raw limestone, wet clay, absolute dark. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1d4 Cave Fishers (ceiling ambush) [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [1, 6], "drawn": false },
+    { "type": 0, "text": "2d6 Darkmantles [PF2e Lvl 1 each]", "img": "", "weight": 7, "range": [7, 13], "drawn": false },
+    { "type": 0, "text": "1d6 Grimlocks [PF2e Lvl 2 each]", "img": "", "weight": 7, "range": [14, 20], "drawn": false },
+    { "type": 0, "text": "1 Otyugh (in a refuse chamber) [PF2e Lvl 5]", "img": "", "weight": 6, "range": [21, 26], "drawn": false },
+    { "type": 0, "text": "1d4 Shadows (no light source nearby) [PF2e Lvl 4 each]", "img": "", "weight": 6, "range": [27, 32], "drawn": false },
+    { "type": 0, "text": "1 Cloaker (disguised as a rock formation) [PF2e Lvl 5]", "img": "", "weight": 6, "range": [33, 38], "drawn": false },
+    { "type": 0, "text": "2d4 Dero Strangers [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [39, 44], "drawn": false },
+    { "type": 0, "text": "1d6 Giant Centipedes [PF2e Lvl 1 each]", "img": "", "weight": 8, "range": [45, 52], "drawn": false },
+    { "type": 0, "text": "1 Gelatinous Cube (perfectly silent, fills corridor) [PF2e Lvl 3]", "img": "", "weight": 6, "range": [53, 58], "drawn": false },
+    { "type": 0, "text": "1d4 Cave Trolls [PF2e Lvl 5 each]", "img": "", "weight": 6, "range": [59, 64], "drawn": false },
+    { "type": 0, "text": "2d6 Troglodytes [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [65, 70], "drawn": false },
+    { "type": 0, "text": "1 Roper (stalagmite-shaped, motionless until close) [PF2e Lvl 10]", "img": "", "weight": 6, "range": [71, 76], "drawn": false },
+    { "type": 0, "text": "1d4 Giant Spiders [PF2e Lvl 1 each]", "img": "", "weight": 6, "range": [77, 82], "drawn": false },
+    { "type": 0, "text": "1 Xorn (wants minerals, not hostile unless threatened) [PF2e Lvl 7]", "img": "", "weight": 6, "range": [83, 88], "drawn": false },
+    { "type": 0, "text": "2d4 Morlocks [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [89, 94], "drawn": false },
+    { "type": 0, "text": "1 Intellect Devourer (attached to a corpse it's been driving) [PF2e Lvl 5]", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "HAZARD — Khyber Tremor: no combat; DC 18 Reflex or knocked prone, 3d6 falling rocks (DC 20 Reflex for half)", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

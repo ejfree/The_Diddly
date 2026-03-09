@@ -1,0 +1,27 @@
+{
+  "name": "Tunnel Zone 2 — The Karst Road Wandering Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Zone 2 (Days 6–10): Wider tunnels, bioluminescent fungi, evidence of regular giant traffic. More organized creatures moving in. Check frequency: once per 8 hours of travel, once per 8 hours of rest.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "2d6 Bugbear Thugs [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [1, 6], "drawn": false },
+    { "type": 0, "text": "1d6+2 Ghouls (drawn to the giant campsites) [PF2e Lvl 2 each]", "img": "", "weight": 7, "range": [7, 13], "drawn": false },
+    { "type": 0, "text": "1 Ogre (lone scout, carrying a message for the Steading) [PF2e Lvl 3]", "img": "", "weight": 7, "range": [14, 20], "drawn": false },
+    { "type": 0, "text": "2d4 Troglodytes with 1 Troglodyte King [PF2e Lvl 2 / Lvl 5]", "img": "", "weight": 6, "range": [21, 26], "drawn": false },
+    { "type": 0, "text": "1 Wyvern (nested in a high chamber, hunting) [PF2e Lvl 6]", "img": "", "weight": 6, "range": [27, 32], "drawn": false },
+    { "type": 0, "text": "1 Cave Bear (territorial, not aggressive if given space) [PF2e Lvl 4]", "img": "", "weight": 6, "range": [33, 38], "drawn": false },
+    { "type": 0, "text": "2d6 Giant Bats (disturbed by torchlight) [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [39, 44], "drawn": false },
+    { "type": 0, "text": "1 Basilisk (petrified prey scattered around it) [PF2e Lvl 5]", "img": "", "weight": 8, "range": [45, 52], "drawn": false },
+    { "type": 0, "text": "1 Doppelganger (impersonating a recently dead traveler) [PF2e Lvl 3]", "img": "", "weight": 6, "range": [53, 58], "drawn": false },
+    { "type": 0, "text": "1 Will-o'-Wisp (leads party toward Zone 1 hazards) [PF2e Lvl 6]", "img": "", "weight": 6, "range": [59, 64], "drawn": false },
+    { "type": 0, "text": "1 Troll + 1d4 Ogres (troll leads a raiding pack) [PF2e Lvl 5 / Lvl 3]", "img": "", "weight": 6, "range": [65, 70], "drawn": false },
+    { "type": 0, "text": "1 Mimic (door-shaped, blocking a junction) [PF2e Lvl 4]", "img": "", "weight": 6, "range": [71, 76], "drawn": false },
+    { "type": 0, "text": "1d6 Grimlocks armed with giant-made weapons [PF2e Lvl 2 each]", "img": "", "weight": 6, "range": [77, 82], "drawn": false },
+    { "type": 0, "text": "1 Animated Giant Skeleton (remains of a hill giant, risen) [PF2e Lvl 7]", "img": "", "weight": 6, "range": [83, 88], "drawn": false },
+    { "type": 0, "text": "3 Ogres (returning to Steading, drunk on fermented something) [PF2e Lvl 3 each]", "img": "", "weight": 6, "range": [89, 94], "drawn": false },
+    { "type": 0, "text": "1 Stone Giant (lost; neutral; knows the Steading exists) [PF2e Lvl 9]", "img": "", "weight": 4, "range": [95, 98], "drawn": false },
+    { "type": 0, "text": "HAZARD — Fungal Bloom: spores fill a 60-foot section; DC 16 Fortitude or stupefied 1 for 24 hours", "img": "", "weight": 2, "range": [99, 100], "drawn": false }
+  ]
+}

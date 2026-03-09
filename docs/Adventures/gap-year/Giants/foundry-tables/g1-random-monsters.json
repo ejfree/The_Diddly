@@ -1,0 +1,26 @@
+{
+  "name": "G1 — Random Monsters (Outdoor / Approach)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Random encounter table for the outdoor approach and wilderness around the Steading of the Hill Giant Chief (G1). Roll when the party is traveling overland near the steading.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "1 Bear, Cave", "img": "", "weight": 5, "range": [1, 5], "drawn": false },
+    { "type": 0, "text": "1–10 Bugbears", "img": "", "weight": 5, "range": [6, 10], "drawn": false },
+    { "type": 0, "text": "10–40 Cavemen", "img": "", "weight": 10, "range": [11, 20], "drawn": false },
+    { "type": 0, "text": "2–12 Dogs, wild", "img": "", "weight": 10, "range": [21, 30], "drawn": false },
+    { "type": 0, "text": "11–20 Dwarves, mountain", "img": "", "weight": 5, "range": [31, 35], "drawn": false },
+    { "type": 0, "text": "1 Giant, cloud", "img": "", "weight": 1, "range": [36, 36], "drawn": false },
+    { "type": 0, "text": "1–6 Giants, hill", "img": "", "weight": 15, "range": [37, 51], "drawn": false },
+    { "type": 0, "text": "1–2 Giants, mountain", "img": "", "weight": 5, "range": [52, 56], "drawn": false },
+    { "type": 0, "text": "1–2 Giants, stone", "img": "", "weight": 5, "range": [57, 61], "drawn": false },
+    { "type": 0, "text": "1–2 Lions, mountain", "img": "", "weight": 3, "range": [62, 64], "drawn": false },
+    { "type": 0, "text": "1 Manticore", "img": "", "weight": 1, "range": [65, 65], "drawn": false },
+    { "type": 0, "text": "1–10 Ogres", "img": "", "weight": 15, "range": [66, 80], "drawn": false },
+    { "type": 0, "text": "10–40 Orcs", "img": "", "weight": 5, "range": [81, 85], "drawn": false },
+    { "type": 0, "text": "1 Prospector", "img": "", "weight": 5, "range": [86, 90], "drawn": false },
+    { "type": 0, "text": "10–40 Tribesmen", "img": "", "weight": 5, "range": [91, 95], "drawn": false },
+    { "type": 0, "text": "1–4 Trolls", "img": "", "weight": 5, "range": [96, 100], "drawn": false }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "G1 Dungeon — Non-Natural Areas Wandering (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for all non-natural areas of the G1 dungeon level. Encounter frequency: 1 in 12. Roll 1d12; on a 1, roll 1d3 on this table. For natural areas (Rooms 19–21): check 1 in 20; in 19–20, 1d4 subterranean lizards from area 21; in 21, 1d3 carrion crawlers coming up from the sinkholes.",
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "4 ogres (hp 23, 22, 20, 27) seeking some orcs", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "The Keeper and his pet (from Room 2) out inspecting", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "12 orcs (hp 7 each), two with heavy crossbows with poisoned bolts (Dmg 2–5 + poison), out raiding for food", "img": "", "weight": 1, "range": [3, 3], "drawn": false }
+  ]
+}

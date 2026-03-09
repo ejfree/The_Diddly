@@ -1,0 +1,14 @@
+{
+  "name": "G1 1st Floor — Western Sections Wandering (1-in-10)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for the western sections of G1 1st Floor (west of the Great Hall). Encounter frequency: 1 in 10. Roll 1d10; on a 1, roll 1d4 on this table.",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "4–12 orcs rushing to get shields for platters", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "2 hill giants from Room 11 going to sleep off a drunk", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "3 ogres from Room 11 going to get one of the guards", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "1 hill giant from Room 11 taking a stroll", "img": "", "weight": 1, "range": [4, 4], "drawn": false }
+  ]
+}
