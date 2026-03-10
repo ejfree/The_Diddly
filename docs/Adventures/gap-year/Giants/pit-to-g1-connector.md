@@ -9,9 +9,21 @@ tags: ["arc2.5", "arc3", "giants", "connector", "arenal", "khyber"]
 **From:** The base of the Pit (Zanaya's Well, Arc 2.5 — Seven Dooms of Sandpoint endpoint)
 **To:** Room 36 — Subterranean Lake, G1 Lower Level (far eastern shore)
 **Distance:** Approximately 200 miles underground
-**Travel Time:** 24–30 days on foot through hostile terrain
+**Travel Time:** 20 days at normal pace (10 miles/day); 40 days at half pace (+5 stealth); 10 days at double pace (−5 stealth, greater encounter chance)
 **Route Map:** ![Route map: Pit to G1 to G2 to G3](../../../../assets/images/import/path-pit-G2-G2-G3.png)
 **Terrain Type:** Outer Khyber — natural limestone caverns, carved trade tunnels, collapsed dwarven workings, underground river channels
+
+---
+
+### Travel Pace
+
+| Pace | Speed | Effect |
+| --- | --- | --- |
+| Half pace | 5 miles/day | +5 to Stealth checks; 40 days total |
+| Normal pace | 10 miles/day | No modifier; 20 days total |
+| Double pace | 20 miles/day | −5 to Stealth checks; greater encounter frequency (roll wandering monster checks every 4 hours instead of 8); 10 days total |
+
+**Greater encounter frequency:** At double pace, roll on the wandering monster table every 4 hours of travel instead of every 8. Rest checks remain once per 8 hours.
 
 ---
 
@@ -19,11 +31,11 @@ tags: ["arc2.5", "arc3", "giants", "connector", "arenal", "khyber"]
 
 The bottom of the Pit does not end. It opens.
 
-Below the final layer of Zanaya's Well, the worked stone gives way to raw limestone — a natural throat descending into Khyber's outer reaches beneath Arenal. The evidence is immediate: giant bootprints in the mud, gnawed animal bones, the faint smell of rancid fat from old torches. Something large has been using these tunnels regularly, traveling north toward the Sundering Peaks.
+Below the final layer of Zanaya's Well, the worked stone gives way to raw limestone — a natural throat descending into Khyber's outer reaches beneath Arenal. The evidence is immediate: giant bootprints in the mud, gnawed animal bones, the faint smell of rancid fat from old torches. Something large has been using these tunnels regularly, traveling south toward the Sundering Peaks.
 
 The party follows the trail. It is not subtle. Hill giants are not careful travelers.
 
-The journey is approximately 200 miles as the tunnels run — longer by surface reckoning, as the route winds through the karst and follows the contours of underground river systems. At a sustainable underground pace with rest, this is 24–30 days. The party emerges in the subterranean lake (Room 36) beneath the Steading, surfacing on the eastern shore from a natural passage the giants use as a back-road into their own dungeon.
+The journey is approximately 200 miles as the tunnels run — longer by surface reckoning, as the route winds through the karst and follows the contours of underground river systems. At normal pace (10 miles per day) with rest, this is 20 days. The party emerges in the subterranean lake (Room 36) beneath the Steading, surfacing on the eastern shore from a natural passage the giants use as a back-road into their own dungeon.
 
 ---
 
@@ -31,13 +43,13 @@ The journey is approximately 200 miles as the tunnels run — longer by surface 
 
 Throughout the journey, the party observes signs of giant activity that build toward G1:
 
-- **Days 1–7 (Pit Outflow):** Raw tunnel, barely shaped. Boot impressions in wet clay. Discarded bones, cracked open for marrow. Crude arrows scratched into the stone at junctions — the giants' own trail markers, in simple Jotun pictographs. A dead ogre, killed by something in the dark, partially eaten. His belt pouch holds 80 gp and a broken clay token stamped with a crude hill — the mark of the Steading.
+- **Days 1–5 (Pit Outflow):** Raw tunnel, barely shaped. Boot impressions in wet clay. Discarded bones, cracked open for marrow. Crude arrows scratched into the stone at junctions — the giants' own trail markers, in simple Jotun pictographs. A dead ogre, killed by something in the dark, partially eaten. His belt pouch holds 80 gp and a broken clay token stamped with a crude hill — the mark of the Steading.
 
-- **Days 8–14 (The Karst Road):** The tunnel widens into a natural karst highway — a former underground river, now dry, 40 feet wide with a flat gravel floor. Bioluminescent fungal colonies line the upper walls (dim light, 20-foot radius). This is old Khyber, shaped by water over millennia. The party passes through two abandoned campsites — fire rings sized for giant frames, scattered with carcass bones (elk, cave bear) and broken pottery jugs. One site has a crude skin stretched between stalagmites with what appears to be a hunting tally scratched into it: 23 marks, the last few still fresh.
+- **Days 6–10 (The Karst Road):** The tunnel widens into a natural karst highway — a former underground river, now dry, 40 feet wide with a flat gravel floor. Bioluminescent fungal colonies line the upper walls (dim light, 20-foot radius). This is old Khyber, shaped by water over millennia. The party passes through two abandoned campsites — fire rings sized for giant frames, scattered with carcass bones (elk, cave bear) and broken pottery jugs. One site has a crude skin stretched between stalagmites with what appears to be a hunting tally scratched into it: 23 marks, the last few still fresh.
 
-- **Days 15–20 (The Drowned Galleries):** The karst road floods seasonally. This section is currently passable but the walls and ceiling are watermarked 15 feet up. Pale, eyeless fish flicker in channels underfoot. A collapsed dwarven mining gallery cuts across the route — ancient, predating the current giant occupation by centuries. The dwarven stonework is finely dressed but cracked by seismic stress. Among the rubble: old tool marks, a shattered ore cart, and one wall panel still bearing a carved Khyber Survey seal in Old Dethek. The seal names this as *Survey Station 14-E, Sundering Range Underlode Project.* The date has been obliterated.
+- **Days 11–16 (The Drowned Galleries):** The karst road floods seasonally. This section is currently passable but the walls and ceiling are watermarked 15 feet up. Pale, eyeless fish flicker in channels underfoot. A collapsed dwarven mining gallery cuts across the route — ancient, predating the current giant occupation by centuries. The dwarven stonework is finely dressed but cracked by seismic stress. Among the rubble: old tool marks, a shattered ore cart, and one wall panel still bearing a carved Khyber Survey seal in Old Dethek. The seal names this as *Survey Station 14-E, Sundering Range Underlode Project.* The date has been obliterated.
 
-- **Days 21–26 (Approach to the Steading Root):** The smell changes. Giant-smell — rancid fat, unwashed bodies, old meat — intensifies. The tunnel becomes worked at intervals: crude iron brackets for torches (most empty), patches of floor leveled with rough mortar. This is the giants' actual access road. Bones and refuse increase. The party begins to hear, in the far distance, the muffled thunder of activity above them — the Steading is overhead, its weight pressing down through the rock. A side passage to the south is barred with a crude iron gate and smells strongly of troll.
+- **Days 17–20 (Approach to the Steading Root):** The smell changes. Giant-smell — rancid fat, unwashed bodies, old meat — intensifies. The tunnel becomes worked at intervals: crude iron brackets for torches (most empty), patches of floor leveled with rough mortar. This is the giants' actual access road. Bones and refuse increase. The party begins to hear, in the far distance, the muffled thunder of activity above them — the Steading is overhead, its weight pressing down through the rock. A side passage to the south is barred with a crude iron gate and smells strongly of troll.
 
 ---
 
@@ -49,10 +61,10 @@ Check frequency: once per day of travel. On a failure, apply the listed conseque
 
 | Zone | Days | Navigation DC | Forage DC | Detect Ambush DC | Exhaustion Threshold |
 | --- | --- | --- | --- | --- | --- |
-| Pit Outflow | 1–7 | 18 | 22 | 20 | 3 failed days |
-| Karst Road | 8–14 | 14 | 18 | 16 | 4 failed days |
-| Drowned Galleries | 15–20 | 20 | 24 | 18 | 2 failed days |
-| Steading Root | 21–26 | 16 | 26 | 22 | 2 failed days |
+| Pit Outflow | 1–5 | 18 | 22 | 20 | 3 failed days |
+| Karst Road | 6–10 | 14 | 18 | 16 | 4 failed days |
+| Drowned Galleries | 11–16 | 20 | 24 | 18 | 2 failed days |
+| Steading Root | 17–20 | 16 | 26 | 22 | 2 failed days |
 
 **Navigation failure:** Party takes a wrong passage and loses half a day backtracking. On a critical failure, a wandering monster check occurs immediately.
 
@@ -74,7 +86,7 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 ---
 
-#### Zone 1 — Pit Outflow (Days 1–7)
+#### Zone 1 — Pit Outflow (Days 1–5)
 
 *Deep Khyber outer reaches. Raw limestone, wet clay, absolute dark.*
 
@@ -100,7 +112,7 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 ---
 
-#### Zone 2 — The Karst Road (Days 8–14)
+#### Zone 2 — The Karst Road (Days 6–10)
 
 *Wider tunnels, bioluminescent fungi, evidence of regular giant traffic. More organized creatures moving in.*
 
@@ -126,7 +138,7 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 ---
 
-#### Zone 3 — The Drowned Galleries (Days 15–20)
+#### Zone 3 — The Drowned Galleries (Days 11–16)
 
 *Seasonal flood zone, dwarven ruins, underground waterways. Wet, treacherous, and inhabited by things that prefer it that way.*
 
@@ -152,7 +164,7 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 ---
 
-#### Zone 4 — Steading Root (Days 21–26)
+#### Zone 4 — Steading Root (Days 17–20)
 
 *The giants' own territory. Controlled, patrolled, smells of the Steading. Stealth is now the primary tool.*
 
@@ -181,28 +193,28 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 These are designed to be run as brief scenes during the travel montage. Use 1–3 over the journey, scaling to party fatigue and pacing needs.
 
-**1. The Toll Gate (Days 6–9)**
+**1. The Toll Gate (Days 4–6)**
 A narrow squeeze in the tunnel — 8 feet wide, 6 feet tall — has been fitted with a crude tollgate by a gang of four cave trolls who demand "shiny or blood." They are not smart but they are territorial and have been here long enough to have a treasure pile: 600 gp in mixed coin, a stolen handaxe *+1*, and a crude map scratched on hide that confirms the Steading is north. The trolls will not pursue beyond their territory (a clear scratch-line on the floor marks it).
 
-**2. The Khyber Fragment (Days 10–13)**
+**2. The Khyber Fragment (Days 7–9)**
 A fissure in the karst wall pulses with faint aberrant light — deep purple, rhythmic, like a slow heartbeat. A Khyber dragonshard the size of a fist is half-embedded in the stone, grown into the wall over centuries. DC 20 Arcana or Occultism identifies it as a resonance shard — it is not dangerous on its own, but it has been *singing* faintly, and any character who slept within 30 feet of it last night had the same dream: a vast dark city far below, and white-haired figures moving through its streets. This is the first bleed of the drow connection — the shard is tuned to Xoriat, and the dream is a fragment of Lolth's influence leaking upward through Khyber.
 
-**3. The Dead Scouting Party (Days 14–17)**
+**3. The Dead Scouting Party (Days 10–12)**
 Six bodies in a collapsed side passage — dwarven scouts, killed within the last two weeks. Their equipment is intact (they were not looted, which is unusual). Cause of death: crush injuries from above, as though something massive sat on them. One survives, barely — a dwarf named Brekka, Lvl 3, one leg broken and pinned under a boulder. If freed, she tells the party she was part of a Mror Holds survey team investigating the old Sundering Range underlode. They were tracking giant movement when something *big* came through the passage from the north at speed, running, and didn't stop. She never saw what it was. Brekka can be a recurring NPC; she has a partial map of the karst road ahead (Days 13–16).
 
-**4. The Giant Returning Home (Days 20–23)**
+**4. The Giant Returning Home (Days 15–18)**
 A lone hill giant heading back toward the Steading from a surface raid — this one is behind schedule and moving fast, carrying a bulging sack over one shoulder and a struggling goat under one arm. The tunnel is wide enough for him to pass but not for the party to hide easily (DC 18 Stealth). If detected, he will shout and try to flee toward the Steading rather than fight — he is already frightened of *something* he saw on the surface. If captured and interrogated (he speaks only Giant), he describes in panicked fragments a group of "little ones with claws" — dragon-kin — burning and destroying. He does not know the PCs are those same creatures. His sack contains 400 gp in looted coin, a fine silver mirror (200 gp), and a halfling-sized boot. He has no information about the drow but knows there are "dark visitors" in the Keeper's black room below. The goat is unharmed.
 
-**5. Survey Station 14-E (Days 15–19)**
+**5. Survey Station 14-E (Days 12–15)**
 The dwarven survey station referenced on the wall panel is real and partially intact — a side chamber, sealed behind a stone door stamped with the Mror Holds survey sigil (DC 16 Society or Lore: Dwarven to identify). The door is locked (DC 22 Thievery) but the lock mechanism is old and can also be defeated with DC 24 Athletics to force. Inside: a stone table with survey instruments (alidade, measuring chains, specimen jars — total value 180 gp to the right buyer), a cot, a lantern with 3 hours of oil, and a leather-bound survey journal. The journal is in Old Dethek but contains a detailed map of the Drowned Galleries ahead, including the location of the flooded binding circle (Zone 3 wandering table, water elemental), safe high ground for camping, and a cryptic final entry: *"Day 47. We hear them in the lower shafts again. The white-haired ones. They are not here for ore."* The station also contains a sealed crate of Mror rations (still edible, enough for four people for three days) and a *potion of water breathing* — whoever stocked this station knew the galleries could flood.
 
-**6. The Ogre War Party (Days 21–24)**
+**6. The Ogre War Party (Days 17–20)**
 Not a patrol — a *deployment*. Twelve ogres moving in tight column, each carrying a massive bundle of supplies (barrels, sacks, crates) strapped to their backs, heading down from the Steading into the tunnels on an errand. They are supervised by a single hill giant at the rear who moves slowly and is clearly irritated. The party has two rounds of warning from the sound and torchlight before the column rounds a corner. The tunnel here is 30 feet wide — not enough to hide in without actively pressing into a side alcove or extinguishing light (DC 20 Stealth with no light, DC 26 Stealth with light). If the party is detected, the hill giant supervisor does not immediately attack — he demands, in Giant, to know who they are and what they are doing in the Steading's road. He assumes they are some kind of allied creature (bugbears, perhaps) who took a wrong turn. A DC 20 Deception or a convincing gesture buys time. The supplies are headed to a cache two days south — the hill giant alliance is pre-positioning resources. One of the crates, if examined later (from a dropped bundle), contains written orders in Giant, signed with the chief's mark: a list of surface targets and raid schedules for the next two months.
 
-**7. The Rival Group (Days 9–14)**
-The party is not the only thing following the giant trail. Three days into the Karst Road, the party finds evidence of a camp made recently by a group of human-sized creatures: bedrolls, a small fire ring, a discarded waterskin. DC 18 Survival reveals five or six individuals, light-footed, moving north — ahead of the party. DC 22 Survival identifies one set of tracks as distinctly non-human: three-toed, clawed, digitigrade. The group stays one day ahead throughout the Karst Road and disappears entirely somewhere in the Drowned Galleries. The party may catch up if they push hard (forgoing the extended rest bonus). If they do, they find a group of four: two human mercenaries, one half-elf sorcerer, and a lizardfolk ranger named Skarrath who was a prisoner of the giants and escaped the Steading through a side shaft two weeks ago. They are trying to get home. Skarrath knows the dungeon level intimately — she spent three months in the prison pits (Room 37). She will trade everything she knows about G1 lower in exchange for the party's protection to the surface. She has also seen the drow — one visited the Keeper's room while she was a prisoner, wearing no house markings she recognized.
+**7. The Rival Group (Days 6–10)**
+The party is not the only thing following the giant trail. Two days into the Karst Road, the party finds evidence of a camp made recently by a group of human-sized creatures: bedrolls, a small fire ring, a discarded waterskin. DC 18 Survival reveals five or six individuals, light-footed, moving north — ahead of the party. DC 22 Survival identifies one set of tracks as distinctly non-human: three-toed, clawed, digitigrade. The group stays one day ahead throughout the Karst Road and disappears entirely somewhere in the Drowned Galleries. The party may catch up if they push hard (forgoing the extended rest bonus). If they do, they find a group of four: two human mercenaries, one half-elf sorcerer, and a lizardfolk ranger named Skarrath who was a prisoner of the giants and escaped the Steading through a side shaft two weeks ago. They are trying to get home. Skarrath knows the dungeon level intimately — she spent three months in the prison pits (Room 37). She will trade everything she knows about G1 lower in exchange for the party's protection to the surface. She has also seen the drow — one visited the Keeper's room while she was a prisoner, wearing no house markings she recognized.
 
-**8. Something Large Feeds Ahead (Days 11–14)**
+**8. Something Large Feeds Ahead (Days 7–9)**
 The party rounds a bend and stops. Twenty feet ahead, filling the passage, a roper is feeding — it has a hill giant pinned in four tentacles and is methodically pulling it apart. The giant is already dead. The roper is enormous and completely occupied. The tunnel is 40 feet wide; the roper's body takes up 15 feet of it. Passing requires either waiting (1d4 hours for it to finish and withdraw) or sneaking past (DC 22 Stealth; failure triggers the roper, which still has four free tentacles). The giant's equipment is scattered around the roper's base: a sack of 600 gp in mixed coin, a *belt of giant strength* (minor, +2 item bonus to Athletics), and a folded piece of hide with crude directions to the Steading — three days north. The belt can be grabbed only if the party either waits for the roper to withdraw or deals with it. The roper will not pursue beyond this section of tunnel; it is sessile here.
 
 ---

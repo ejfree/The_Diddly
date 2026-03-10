@@ -26,7 +26,7 @@ tags: ["drow", "xilthraen", "politics", "arc3"]
 - **Second:** First Sword Captain Veynar (Lvl 12 Fighter with Champion dedication) — field commander
 - **Third:** Logistics Mistress Shynrae (Lvl 10 Cleric with Investigator dedication) — supply chains, slaves, provisions
 - **Company:** *The Black Blades* — 650 drow + 900 auxiliaries (see reconciled TOE in house file)
-- **Council Stance:** Expansionist. Constant surface raids, prioritizing logistics and supply lines
+- **Council Stance:** Expansionist. Constant surface raids, prioritizing logistics and supply lines. The public position is holy war and drow supremacy. The personal position is simpler: Vel'dryn had a long, catastrophic entanglement with the royalty of Arenal — on again, off again, on again, off again — and she wants them destroyed. Lolth approves of a personal vendetta that fuels a genuine conquest.
 - **Allies:** Dravun (rely on beasts), Zhaelor (fanatic zealots)
 - **Rivals:** Veythrae (arcane supremacy vs. military doctrine)
 - **Doctrine:** Anvil (Blades) + hammer (Quaggoths) under covering poison volleys. Weakness: if Void-Archers neutralized, advances stall.

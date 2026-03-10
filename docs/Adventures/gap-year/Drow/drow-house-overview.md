@@ -107,7 +107,7 @@ House Xilrath (Matron House – War Doctrine)**
 
 * **Role in War:** They’ve overseen the stockpiling of supplies for two decades — fungus farms, rothé herds, and slave-trains are all tied to Xilrath’s economic web.
 
-* **Personality:** Pragmatic but ruthless. Matron Mother Xilrath believes victory on the surface will cement her house as the undisputed rulers of the region.
+* **Personality:** Pragmatic but consumed by personal fury. The war is real — two decades of logistics back it — but the engine underneath it is the Matron's scorched relationship with the royalty of Arenal. An on-again/off-again entanglement that ended badly. Repeatedly. She wants them dead. Lolth approves.
 
 * **Rivalry:** Secretly despises the magical supremacy of House Veythrae.
 
