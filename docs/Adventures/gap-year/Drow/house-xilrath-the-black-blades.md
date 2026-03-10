@@ -4,7 +4,7 @@ updated: 2026-03-09
 tags: ["drow", "xilthraen", "house-xilrath", "arc3"]
 ---
 
-# House Xilrath — "The Black Blades"
+## House Xilrath — "The Black Blades"
 
 The war engine of Xilthraen. Two decades of preparation, a stockpile of logistics no other house can match, and a Matron who wants to burn the surface to the ground — not for Lolth's glory alone, but for deeply personal reasons she does not hide.
 
@@ -12,11 +12,23 @@ The war engine of Xilthraen. Two decades of preparation, a stockpile of logistic
 
 ## Why the War
 
-Matron Mother Xilrath Vel'dryn has had a long, catastrophic entanglement with the royalty of Arenal. On again. Off again. On again. Off again. Whatever it was — alliance, negotiation, something more, something less — it ended badly. Repeatedly. The royalty of Arenal made her look foolish, and nothing is more dangerous than a drow matron who has been made to feel foolish.
+The war was twenty years in the making — logistics, theology, politics, a slow mobilization that the houses had been feeding for two decades. That war was coming regardless. What changed was the timing.
 
-She does not frame it as personal. She calls it holy war. She calls it Lolth's will. But every priestess in the house knows: the Matron wants Arenal's rulers dead, their bloodline ended, and their memory ground to ash. The war against the surface is real. The logistics are real. The army is real. And underneath all of it is a woman who got her heart broken one too many times and decided to respond at scale.
+For over a year, Vel'dryn had been meeting privately with a figure she believed was **Lady Aelindra of House Silaen**, a diplomatic envoy from Aerenal's Undying Court. The meetings were discreet, conducted at a neutral waystation in the upper passages. In those meetings — outside the performance of her role, away from the houses and the council and Lolth's watching priests — Vel'dryn permitted herself something she rarely allowed: honesty. The relationship became, in her understanding, romantic.
 
-Lolth approves entirely. A personal vendetta that fuels a genuine conquest is exactly the kind of mortal impulse she delights in.
+Aelindra was not Aelindra. She was **Lisa Siviridion**, a Diddly intelligence operative running a collection mission — getting close to Xilthraen's command to gather intelligence on war plans and house politics. No manipulation, no agenda beyond listening and reporting. The relationship that developed was not part of the plan.
+
+House Thalmyr's investigators found the discrepancy. Their surface informants produced a description of the real Aelindra that did not match. Vel'dryn was informed.
+
+She sat with it for three days. Then she issued the war order — not the phased mobilization. The actual order: *now*. She gave no extended explanation to the council. She sent a war party into the upper passages to find whoever had been wearing Aelindra's face.
+
+The war rationale, delivered afterward, was Lolth's mandate and two decades of readiness. No one asked about Aelindra. The houses had watched Vel'dryn long enough to read the timing.
+
+The operative — five of whose flight companions died in the manhunt — escaped. Vel'dryn does not know she is alive, does not know she was a dragon, and does not know she is currently three passages away in a deep gnome city.
+
+Lolth approves entirely. A personal wound that accelerates a genuine conquest is exactly the kind of mortal impulse she delights in.
+
+See [lisa-spy-operation-arenal.md](lisa-spy-operation-arenal.md) for the full operation record.
 
 ---
 

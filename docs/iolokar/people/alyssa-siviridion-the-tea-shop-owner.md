@@ -29,6 +29,32 @@ Food is served omakase style. There are approximately 15 courses. But these are 
 
 Food is delivered to the booths  automatically by their illusionary Sammy the samovar. .
 
+## The Trust
+
+The Viridian Salon is not only a restaurant. It is the primary operations hub of **the Trust** — a gnomish intelligence network of significant age and reach, running through commercial cover: couriers, Sivis message stations, scribes, merchant contacts, restaurant staff, academic connections. It does not formally exist. Its members know they work for something. Most do not know what it is called or who leads it.
+
+Alyssa has run the Trust's inner circle for longer than most of its members have been alive. The SCIF room in the Salon — the one private space she can monitor in real time by means undetectable except by divine intervention — is where she reads the Trust's most sensitive traffic. Sammy the Samovar and the illusory delivery system mean no staff ever enter that room. Guests who request it believe they are simply getting privacy. They are.
+
+The Trust's reach into the Underdark is limited but not absent: gnomish merchant contacts with duergar traders, svirfneblin waystation operators, and surface scouts monitoring Underdark approach tunnels all feed intelligence upward through commercial cover. It was through this network that the Trust detected **Lady Aelindra of House Silaen's** tentative diplomatic contact with Xilthraen drow scouts. Alyssa read the intercept herself within two days of the first exchange and immediately understood what it offered.
+
+## Prophecy and What She Did
+
+Alyssa holds the Adjunct Chair of Prophetic Studies at the Diddly — a position she accepted not for the salary but for the access and standing to research the Black Coil and Whispered Scale fragments seriously. She has cross-referenced them against decades of Trust intelligence and developed an interpretation the Chamber of Dragons has not reached.
+
+Her conclusion: the "Young Wings" in the prophecy are not metaphorical. They refer to a specific flight of young dragons at the specific moment when Lolth's chain-fulfillment attempt aligns with their position. She identified Lisa's flight as the candidate. She began watching.
+
+When the Trust surfaced the Aelindra channel, she saw the whole sequence: the drow war preparations were already advanced, the plague had begun as Lolth's first move, the giant chain would activate when the war went hot. She arranged for Lisa to run the infiltration — telling her it was a sanctioned Diddly collection mission. It was not. It was Alyssa's operation, run through the Trust, with Lisa as the operative.
+
+She needed the operation to run long enough to become personal. She needed the war to launch in response to the deception rather than on its own timeline. She needed Lisa's flight in the upper passages when the war party came — close enough to flee down rather than retreat to the surface.
+
+Five members of the flight died in the ambush. She received word within hours. She sent a single-word warning through Lisa's handler: *run*. It arrived six hours too late.
+
+She knows Lisa survived — Trust assets confirmed a lone survivor fleeing into the lower passages. She does not know where Lisa is now. She has been looking. She is still teaching. She is not sleeping well. She has not told anyone what she did.
+
+She believes — she has to believe — that the operation placed Lisa exactly where the prophecy required, and that the five deaths were the cost of a war that was coming regardless.
+
+She is not certain she believes it.
+
 ## Midjourney Portraits
 
 ### The Viridian Salon
