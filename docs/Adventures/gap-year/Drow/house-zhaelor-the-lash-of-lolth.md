@@ -1,61 +1,95 @@
 ---
-title: House Zhaelor The Lash Of Lolth
-updated: 2025-10-04
-tags: []
+title: House Zhaelor — The Lash of Lolth
+updated: 2026-03-10
+tags: ["drow", "xilthraen", "house-zhaelor", "arc3"]
 ---
 
-# House Zhaelor — “The Lash of Lolth”
+## House Zhaelor — "The Lash of Lolth"
 
-#
+The zealot house. Zhaelor controls Lolth's formal religious apparatus in Xilthraen — not the household shrines, but the great temple, the inquisitions, and the public ceremonies that keep the city in fear of divine punishment. Their military force is the smallest on the council, but no house challenges them directly, because Zhaelor decides what is heresy and who answers for it. Every Matron Mother has, at some point, needed Zhaelor's theological cover for a decision that would otherwise be politically untenable.
 
-- ****Matron Mother Zarila Zhaelor (Lvl 14 Warpriest/Champion)****
+Matron Zarila's inquisitors currently operate in the outer passages (Sector G2 on the D1-2 hex map), hunting a theological infraction that has not yet been specified publicly. The houses assume this is political positioning. They may be right.
 
-- ****Zealot Commander Rhazek Zhaelor (Lvl 9 Champion/Warpriest)****
+---
 
-- ****Firebrand Cleric Syrris Zhaelor (Lvl 7 Cleric/Destruction)****
+## Politics & Council Position
 
-- ****Company:**** **The Lash of Lolth** — 100 zealots, 30 clerics, 150 indoctrinated slaves.
+Zhaelor votes for war without reservation. For Zarila, the surface campaign is genuinely Lolth's mandate — not a pretext, not a political calculation. She believes. This sincerity is more unsettling to the other Matrons than cynicism would be, because it means she cannot be bought off with trade concessions or intelligence access.
 
-**### House Zhaelor — “The Lash of Lolth”**
+The house's leverage is theological, not military. Every other Matron requires Zhaelor's blessing for major rituals, succession ceremonies, and any action that requires Lolth's public sanction. That dependence is not acknowledged aloud, but it shapes every council session.
 
-- ****Total Drow:**** ~250
+**Council Stance:** Immediate and total war. Any delay is theological failure.
 
-- ****Auxiliaries:**** ~200 fanatics
+**Allies:** Xilrath (Zarila's aggression aligns with Vel'dryn's; shared "now" timeline), Dravun (quaggoth units committed for Zhaelor's shock assault column)
 
-- ****Forces:****
-  - 100 zealots
-  - 30 clerics
-  - 150–200 indoctrinated slave-fanatics
+**Rivals:** Veythrae (Thalara's magical supremacy politics conflict with Zhaelor's divine supremacy politics; each claims to be Lolth's truest instrument)
 
-Perfect — here’s the full **TOE (Table of Organization & Equipment)** for the **four minor houses**. Each is smaller than Xilrath or Veythrae, but they’re specialists, each controlling a vital piece of the city’s war machine.
+---
 
-## **House Zhaelor — TOE**
+## Command
 
-*“The Lash of Lolth”* (Fanatics)
+| Name | Title | Level | Role |
+| --- | --- | --- | --- |
+| Zarila Zhaelor | Matron Mother | Lvl 14 Cleric (Warpriest) with Champion dedication | Firebrand high priestess; leads from the front in battle |
+| Rhazek Zhaelor | Zealot Commander | Lvl 9 Champion with Cleric dedication | Commands the Zealot Warband; delivers battlefield sermons |
+| Syrris Zhaelor | Firebrand Cleric | Lvl 7 Cleric (Warpriest) | Inspires fanatic mobs; manages the slave-devotee program |
 
-**Total Strength**
+---
 
-* **Drow Personnel:** ~250
+## Table of Organization & Equipment (Reconciled TOE)
 
-* **Auxiliaries:** ~200 indoctrinated slave-fanatics
+Grand Total: 450 — 250 drow + 200 auxiliaries
 
-**Command Tier**
+### Drow Personnel — 250
 
-* **Matron Mother Zarila Zhaelor (Lvl 14 Warpriest/Champion)** — Firebrand zealot
+| Unit | Count | Notes |
+| --- | --- | --- |
+| Command | 3 | Matron, Zealot Commander, Firebrand Cleric |
+| Clerical Core | 30 | Warpriests and clerics, Lvl 5–9; battlefield divine support and mass-morale |
+| Zealot Warband | 150 | Fighter/Cleric fanatics, Lvl 3–6; shock assault trained |
+| Temple Guard | 40 | Elite bodyguards for the command tier; Lvl 5–7 |
+| Inquisitors | 27 | Heresy-hunters; operate independently in outer passages and within the city |
 
-* **Zealot Commander Rhazek Zhaelor (Lvl 9 Champion/Warpriest)** — Leads battlefield sermons
+**Math:** 3 + 30 + 150 + 40 + 27 = **250**
 
-* **Firebrand Cleric Syrris Zhaelor (Lvl 7 Cleric/Destruction Domain)** — Inspires fanatic mobs
+### Auxiliaries — 200
 
-**Battle Formations**
+| Unit | Count | Notes |
+| --- | --- | --- |
+| Indoctrinated Fanatics | 150 | Humans, goblins, and quaggoths; religiously conditioned to fight in berserk frenzy |
+| Thrall Devotees | 50 | Temple servants; armed and willing to die; used in mass-casualty shock attacks |
 
-* **Zealot Warband**: 100 drow fanatics (Lvl 3–6 fighters/clerics)
+**Math:** 150 + 50 = **200**
 
-* **Clerical Core**: 30 warpriests and clerics (Lvl 5–9)
+---
 
-* **Fanatic Slaves**: ~150–200 indoctrinated humans/goblins; fight in berserk frenzy
+## Doctrine
 
-**Special Tactics:** Inspire divine frenzy, sacrifice themselves for greater power, “holy” shock attacks.
+**Holy shock. Mass frenzy. Sacrifice as weapon.**
 
-**Weakness:** Burn out quickly; low staying power without allies.
+The Zealot Warband charges first, inspired by Rhazek's battlefield sermons and Lolth's divine fury. The Indoctrinated Fanatics follow in the second wave — expendable, berserk, and designed to absorb counter-attack while the Warband pushes through. The Clerical Core supports from the rear with mass-morale effects, divine curses on enemy command, and emergency healing for the drow (not the thralls).
 
+The house burns hot and exhausts fast. They are effective for the opening assault of a battle and significantly less effective if the fighting lasts more than two hours.
+
+**Weakness:** Low staying power without allied support. Once the fanatics are spent and the Warband's divine fury fades, Zhaelor has little left. Zarila knows this and plans her assaults for targets that can be broken quickly.
+
+**Darkness Tactics:** Zhaelor does not emphasize darkness tactics. They fight in it like all drow, but their doctrine relies on sound — the sermons, the war-chants, the drums — which works in any light condition. The noise is also psychological: the fanatic mob sounds larger than it is.
+
+---
+
+## Personality & Politics
+
+Zarila is the council member no one mocks behind her back, even in private. Her belief is total, her conviction is genuine, and she has demonstrated on at least two occasions that she will personally execute a Matron who opposes Lolth's mandate too visibly. She does not do this for political effect. She does it because she is certain it is correct.
+
+Rhazek shares his mother's faith and has added a layer of strategic competence that makes him more dangerous. He can deliver a battlefield sermon and simultaneously read enemy formations. The Warband would follow him into a collapsing cavern without hesitation.
+
+Syrris is the one who worries other houses most, in a low-level persistent way. He runs the slave-devotee conditioning program, and the results are effective enough that Dravun has quietly asked him whether similar techniques work on quaggoths. He said yes and declined to elaborate.
+
+---
+
+## Cross-References
+
+- [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
+- [d1-2-hex-map-key.md](d1-2-hex-map-key.md) — Inquisitor patrol: Sector G2
+- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [drow-house-overview.md](drow-house-overview.md) — All-houses summary
