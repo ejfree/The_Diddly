@@ -169,6 +169,61 @@ Only members know the secret entrance, which requires a specific claw formation 
 
 The Clawed Oath operates in secrecy, ensuring that only the most worthy rise through its ranks. To be a member is to carry the weight of history, honor, and unparalleled strength.
 
+---
+
+### **The Bloodmark Rite** *(Gap Year Sendoff)*
+
+The night before departing on gap year, Drake prospects of the Clawed Oath are summoned one final time to the Eyrie of Might. There is no fanfare. No celebration. The invitation comes the same way as the first — obsidian claw on the pillow, the growl, the flame trail — but this time the flame burns **red**.
+
+**The Ceremony:**
+
+The chamber is lit only by the central brazier, the blue-gold flame dimmed to a low ember for this rite. Senior members line the walls in silence. No robes. No sigils. Just scales and scars.
+
+Each prospect is brought before the brazier and given a single choice — spoken aloud by the highest-ranking Primus present:
+
+*"You go into the world unproven. The Oath cannot follow you. But what you do in the dark, in the deep, in the desperate places — that, we will know."*
+
+A senior member then presses a **Bloodmark** into the prospect's inner forearm — a small, arcane brand shaped like a single talon-strike. The mark is invisible to all but Clawed Oath members.
+
+The Bloodmark is a tracking glyph. It does not communicate. It does not protect. It **tallies kills** — specifically confirmed kills of meaningful foes (CR 3 or higher, or named enemies). The count is sealed into the brand and is only readable upon physical inspection by a senior member when the prospect returns.
+
+**When You Return:**
+
+If a prospect completes the gap year and returns to The Diddly, they are brought immediately to the Eyrie of Might before any reinstatement ceremonies. Their Bloodmark is read. The tally determines their **rank within the society** for their Wyvern and Primus years.
+
+| Rank | Title | Tally |
+| --- | --- | --- |
+| 1st | **The Red Talon** | Highest kill count among returning class |
+| 2nd–4th | **Ironclaws** | Top quartile |
+| Mid | **Sworn Blooded** | Standard initiation |
+| Low | **The Marked** | Returned, but barely |
+
+**The Unspoken Truth:**
+
+The senior members never say it aloud, but every prospect knows: **most do not return**. Some die. Some desert. Some find something out there that matters more than rank. The Clawed Oath does not grieve them. In private, the society simply says: *"They were worthy of a worthy end."*
+
+Each year, a single talon-mark is carved into a stone pillar in the back of the Eyrie — one mark per prospect who did not return. The pillar is called **The Quiet Count**. It is very tall.
+
+---
+
+#### **Celedyr's Bloodmark Rite**
+
+Celedyr is summoned the night before the Grand Departure Ceremony. He has been a Clawed Oath prospect since his Drake year — tested, ranked (#25 in society tussle standings), and known to the senior members. He is not coddled.
+
+The presiding Primus this year is **Vexaran the Still** (a Stone Dragon, Primus year, Red Talon from his own gap year — 34 confirmed kills). He does not speak beyond what the Rite demands.
+
+When Celedyr kneels at the brazier, Vexaran reads the tally of last year's returnees — two names out of eleven prospects. He says nothing about the nine. He simply presses the Bloodmark brand into Celedyr's arm and holds it for a three-count.
+
+*"The world does not care that you are clever, historian. It only cares whether you survive."*
+
+The flame trail guides Celedyr back out alone. The other prospects are done one at a time. They will not see each other again until — if — they return.
+
+**What Celedyr Carries:**
+
+- The Bloodmark brand (inner left forearm, invisible to non-members)
+- The memory of the Quiet Count pillar — which he has now been allowed to see for the first time
+- The knowledge that 9 of 11 from last year are simply... gone
+
 ### **The Clawed Oath** *(Recited by Initiates During Induction)*
 
 *"By fang and fire, by wing and might,*
