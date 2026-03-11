@@ -16,3 +16,9 @@ General Description: This is combination of study hall and library. Any student 
 Places So Far
 History - DLC 1
 Elemental Binding - DLC 47 alpha
+
+## Midjourney Prompts
+
+### External View (Standard)
+
+Towering 30-story octagonal gleaming white stone library and study hall, each floor slightly rotated 12 degrees creating a spiraling visual effect, surrounded by floating air-quad islands and clear sky, the building extends equally deep underground with the same rotated-floor pattern, air quad setting with breezes and ethereal light, LRC Addendum satellite buildings visible floating nearby accessible only by flight, epic fantasy architecture illustration, dramatic cloud lighting --ar 16:9 --style raw

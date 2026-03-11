@@ -15,7 +15,13 @@ tags: []
     5th Floor - Assigned to Eggies - Egg Loft - Seats for 125 per quadrant. This is an upper balcony
 ![AABEAA39-92E4-49AD-99F1-C65B484DC88E](/assets/images/AABEAA39-92E4-49AD-99F1-C65B484DC88E.png)
 
-Forms of the Grand Didly
+## Midjourney Prompts
+
+### External View (Standard)
+
+Exterior view of a massive circular amphitheater, fantasy architecture, five tiers of grand stone seating rising outward, surrounded by tall dormitory towers with windows facing away from the arena, glowing magical ley lines dividing the structure into four quadrants at cardinal directions, ancient dragon academy aesthetic, dramatic scale, warm torchlight and arcane light emanating from the arena floor, wide establishing shot, dusk lighting, epic fantasy illustration style --ar 16:9 --style raw
+
+## Forms of the Grand Didly
 
 Small Groups - Uppers
 Small Groups - lowers
@@ -23,3 +29,4 @@ Cinema Mode
 Sports Arena Mode
 Hippodrome Mode
 
+The Eggy dorms surround the amphitheater. They all face outward. The freshman live on 5 floors in rooms that surround the arena. [https://housing.arizona.edu/dorms/navajo-pinal-stadium](https://housing.arizona.edu/dorms/navajo-pinal-stadium). Each room is a 20x20 space that the roomie can mold to their desires including environmentals. There are always 500 eggies in every 1st year class who need living spaces in the GOD. They are assigned to one of 20 wings. Each wing has 25 dragons and occupies a specific floor/quadrant of the Grand Ol’Diddley.

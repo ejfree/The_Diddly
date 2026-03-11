@@ -26,7 +26,7 @@ The cultural weight of this phrase is enormous. Dragonkind has a complicated his
 The Grand Old Diddly arena shifts into **Hippodrome Mode** for the ceremony — the floor cleared of obstacles, configured as an open processional track with a central stage dais rising from the arena floor. The ley lines pulse visibly on the stone in four colors (north, south, east, west) and the seating fills by year from the bottom up:
 
 - **Pit of Primus** (Floor Level) — Wyvern-years who completed gap year, now Primus. They stand, not sit. They are witnesses, not audience.
-- **Wyvern Mezz** (2nd Floor) — 4th-year Wyverns who are *not* departing (if any). Watching.
+- **Wyvern Mezz** (2nd Floor) — 4th-year Wyverns who returned from their gap year. They stand, not sit. They are witnesses, not audience
 - **Club Level** (3rd Floor) — Faculty, Deans, visiting dignitaries, parents who made the journey.
 - **Drake Deck** (4th Floor) — **Departing Drake-year students** — the gap year class. This is their floor. They are the reason for the ceremony.
 - **Egg Loft** (5th Floor) — 1st-year Eggies. They are here to watch what awaits them. Wide eyes. Nervous laughter. Silent math about their own odds.
