@@ -14,4 +14,3 @@ tags: []
 ### External View
 
 Ancient history archive building in the air quad, exterior covered in carved draconic historical timelines spiraling around the walls, massive bas-relief murals depicting dragon history epochs across the facade, connected underground passages visible at the base, situated near a towering octagonal library (the LRC), air quad setting with floating elements and clear sky, grand academic fantasy architecture, epic illustration --ar 16:9 --style raw
-
