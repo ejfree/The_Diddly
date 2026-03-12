@@ -82,6 +82,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 
 *Still cold, but the glacial terrain is behind you. Frost giant patrols reach this far. Watchful.*
 
+**Encounter chance: 1-in-4** — Roll 1d4; on a 1, roll on the table below.
+
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
 | 01–07 | 1d3 Frost Giants (southern patrol, armed and alert) | Lvl 9 each |
@@ -106,6 +108,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 #### Zone 2 — The Dead Heart (Days 3–4)
 
 *Interior mountain passes. Nothing permanent lives here. What passes through is moving between one place and another — and so is the party.*
+
+**Encounter chance: 1-in-8** — Roll 1d8; on a 1, roll on the table below.
 
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
@@ -132,6 +136,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 
 *The mountain breathes. Heat replaces cold. Fire-adapted creatures appear. Frost giant patrols have been replaced by fire giant ones.*
 
+**Encounter chance: 1-in-4** — Roll 1d4; on a 1, roll on the table below.
+
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
 | 01–07 | 1d4 Fire Giants (perimeter patrol heading north from G3) | Lvl 10 each |
@@ -156,6 +162,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 #### Zone 4 — The Broken Blade Spur (Days 7–8)
 
 *Inside the fire giant kingdom's outer territory. Heat is constant. Patrols are real. Stealth is survival.*
+
+**Encounter chance: 1-in-3** — Roll 1d6; on a 1–2, roll on the table below.
 
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |

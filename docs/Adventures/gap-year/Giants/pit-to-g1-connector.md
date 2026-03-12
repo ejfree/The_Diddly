@@ -90,6 +90,8 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 *Deep Khyber outer reaches. Raw limestone, wet clay, absolute dark.*
 
+**Encounter chance: 1-in-8** — Roll 1d8; on a 1, roll on the table below.
+
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
 | 01–06 | 1d4 Cave Fishers (ceiling ambush) | Lvl 2 each |
@@ -115,6 +117,8 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 #### Zone 2 — The Karst Road (Days 6–10)
 
 *Wider tunnels, bioluminescent fungi, evidence of regular giant traffic. More organized creatures moving in.*
+
+**Encounter chance: 1-in-4** — Roll 1d4; on a 1, roll on the table below.
 
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
@@ -142,6 +146,8 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 
 *Seasonal flood zone, dwarven ruins, underground waterways. Wet, treacherous, and inhabited by things that prefer it that way.*
 
+**Encounter chance: 1-in-6** — Roll 1d6; on a 1, roll on the table below.
+
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
 | 01–06 | 2d6 Giant Frogs (in flooded chambers, ambush from below) | Lvl 1 each |
@@ -167,6 +173,8 @@ These tables feed into the G1 surface/dungeon tables as the party gets closer. O
 #### Zone 4 — Steading Root (Days 17–20)
 
 *The giants' own territory. Controlled, patrolled, smells of the Steading. Stealth is now the primary tool.*
+
+**Encounter chance: 1-in-3** — Roll 1d3 (or 1d6, treat 1–2 as encounter); on a 1, roll on the table below.
 
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |

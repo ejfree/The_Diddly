@@ -79,6 +79,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 
 *Temperate-to-alpine. Still inhabited. Giants have been through here. Wildlife is present.*
 
+**Encounter chance: 1-in-6** — Roll 1d6; on a 1, roll on the table below.
+
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
 | 01–06 | 1d4 Hill Giants (returning south from a raiding trip) | Lvl 7 each |
@@ -105,6 +107,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 
 *Above the treeline. No shelter. Cold. Giant cairn-road. Traffic thins but what remains is dangerous.*
 
+**Encounter chance: 1-in-8** — Roll 1d8; on a 1, roll on the table below.
+
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
 | 01–07 | 1d3 Frost Giants (patrol from G2, heading back to the Rift) | Lvl 9 each |
@@ -129,6 +133,8 @@ Roll d100. Check frequency: once per 8 hours of travel, once per 8 hours of rest
 #### Zone 3 — The Glacial Approach (Days 8–10)
 
 *Glacier, crevasse fields, permanent ice. G2 territory. The Rift is visible.*
+
+**Encounter chance: 1-in-3** — Roll 1d6; on a 1–2, roll on the table below.
 
 | d100 | Encounter | PF2e Level |
 | --- | --- | --- |
