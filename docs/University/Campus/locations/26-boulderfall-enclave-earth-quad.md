@@ -6,6 +6,8 @@ tags: []
 
 # Boulderfall Enclave
 
+![Boulderfall Enclave](../../../../assets/images/boulder-enclave.jpg)
+
 **Earth Quad Housing | Earth Quad (West)**
 
 Cave and burrow-like accommodations built into a natural boulder field, with many outdoor natural spaces throughout. Natural waterfalls and rock pools are interwoven among the housing structures. Meditation spaces are carved into stone alcoves throughout the complex.

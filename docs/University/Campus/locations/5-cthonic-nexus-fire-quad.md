@@ -6,6 +6,8 @@ tags: []
 
 # Cthonic Nexus - Fire Quad
 
+![Cthonic Nexus](../../../../assets/images/cthonic-nexus.jpg)
+
 Map Location: #5, Fire Quad - North.
 
 Home to the major: Eldritch Engineering (Arcano).

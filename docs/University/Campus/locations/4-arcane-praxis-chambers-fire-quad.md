@@ -6,6 +6,8 @@ tags: []
 
 # Arcane Praxis Chambers - Fire Quad
 
+![Arcane Praxis Chambers](../../../../assets/images/arcane-praxis.jpg)
+
 * Arcane Praxis Chambers - Home to the major: Magical Theory and Application (Quint)
 * Map Location: #4, Fire Quad - North.
 

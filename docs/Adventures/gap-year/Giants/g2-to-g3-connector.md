@@ -10,7 +10,7 @@ tags: ["arc3", "giants", "connector", "arenal", "sundering-peaks", "broken-blade
 **To:** The Hall of the Fire Giant King — Main Gate (Room 1, G3 Upper Level)
 **Distance:** Approximately 75 miles through the Sundering Peaks interior
 **Travel Time:** 8 days at normal pace (10 miles/day); 16 days at half pace (+5 stealth); 4 days at double pace (−5 stealth, greater encounter chance)
-**Route Map:** ![Route map: Pit to G1 to G2 to G3](../../../../assets/images/import/path-pit-G2-G2-G3.png)
+**Route Map:** ![Route map: Pit to G1 to G2 to G3](../../../../assets/images/path-pit-G2-G2-G3.jpg)
 **Terrain Type:** Mountain interior — glacial descent, dead high passes, geothermal transition, volcanic foothills
 
 ---

@@ -6,6 +6,8 @@ tags: []
 
 # Cinderwalk Court
 
+![Cinderwalk Court](../../../../assets/images/cinderwalk-court.jpg)
+
 **Fire Quad Housing | Fire Quad (North)**
 
 Housing built along blackened basalt walkways. Magical torches flicker constantly with multicolored flame, lining every path. Massive murals of ancient fire dragons and other fire-breathers decorate the building facades throughout the complex.

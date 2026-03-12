@@ -6,6 +6,8 @@ tags: []
 
 # Crystalmount Rise
 
+![Crystalmount Rise](../../../../assets/images/crystalmount-rise.jpg)
+
 **Fire Quad Housing | Fire Quad (North) — NE corner**
 
 Housing carved into and built around a faux-volcanic crystal structure in the NE corner of the fire quad. Molten crystal channels flow through the decorative architecture. Interiors are very warm and cozy, designed for communal gatherings. The area has a dense, urban feel.

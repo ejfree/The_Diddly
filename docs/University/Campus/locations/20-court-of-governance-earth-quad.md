@@ -6,6 +6,8 @@ tags: []
 
 # Court of Governance - Earth Quad
 
+![Court of Governance](../../../../assets/images/court-of-governance.jpg)
+
 * Court of Governance - Home to the major: Political Intrigue and Diplomacy (Quint)
 * Map Location: #20, Earth Quad - West.
 

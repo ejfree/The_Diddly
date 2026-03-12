@@ -6,6 +6,8 @@ tags: []
 
 # Crystal Mantle
 
+![Crystal Mantle](../../../../assets/images/crystal-mantle.jpg)
+
 **Earth Quad Housing | Earth Quad (West)**
 
 Located on the eastern edge of a bottomless hole, with some rooms built into the top floor offering views directly into the pit. Other common areas are built into underground spaces featuring various crystal elements and geodes. Crystalline ceilings provide soft ambient light throughout the lower levels.

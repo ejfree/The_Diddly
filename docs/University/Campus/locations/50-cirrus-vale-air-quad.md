@@ -6,6 +6,8 @@ tags: []
 
 # Cirrus Vale
 
+![Cirrus Vale](../../../../assets/images/cirrus-vale.jpg)
+
 **Air Quad Housing | Air Quad (East)**
 
 Housing that looks like spun silver clouds solidified into architecture. Walkways are semi-transparent mist. Elevator gusts — vertical wind currents — lift students between floors in place of conventional stairs or lifts.

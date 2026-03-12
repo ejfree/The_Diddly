@@ -6,6 +6,8 @@ tags: []
 
 # Beta Delta Sigma
 
+![Beta Delta Sigma](../../../../assets/images/beta-delta-sigma.jpg)
+
 (AGR)
 Cultivators, alchemists, & more rural folk
 3rd house from left

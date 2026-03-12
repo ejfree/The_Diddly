@@ -6,6 +6,8 @@ tags: []
 
 # Chi Delta Epsilon
 
+![Chi Delta Epsilon](../../../../assets/images/chi-delta-epsilon.jpg)
+
 Aka Phi Gamma Delta*
 
 5th House from the left

@@ -10,7 +10,7 @@ tags: ["arc2.5", "arc3", "giants", "connector", "arenal", "khyber"]
 **To:** Room 36 — Subterranean Lake, G1 Lower Level (far eastern shore)
 **Distance:** Approximately 200 miles underground
 **Travel Time:** 20 days at normal pace (10 miles/day); 40 days at half pace (+5 stealth); 10 days at double pace (−5 stealth, greater encounter chance)
-**Route Map:** ![Route map: Pit to G1 to G2 to G3](../../../../assets/images/import/path-pit-G2-G2-G3.png)
+**Route Map:** ![Route map: Pit to G1 to G2 to G3](../../../../assets/images/path-pit-G2-G2-G3.jpg)
 **Terrain Type:** Outer Khyber — natural limestone caverns, carved trade tunnels, collapsed dwarven workings, underground river channels
 
 ---

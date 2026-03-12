@@ -6,6 +6,8 @@ tags: []
 
 # Atheneum Prime - Earth Quad
 
+![Atheneum Prime](../../../../assets/images/atheneum-prime.jpg)
+
 Map Location: #19, Earth Quad - West
 
 Home to the major: Dragon Prophecy (Lore). The Atheneum Prime occupies the northern side of the Rewot Terra hole — the great pit that descends to the center of the earth. The building is carved directly into the rock face of the pit's northern wall, its architecture both imposing and ancient, watching over the abyss below.

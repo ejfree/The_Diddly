@@ -6,6 +6,8 @@ tags: []
 
 # Aetherwell Terrace
 
+![Aetherwell Terrace](../../../../assets/images/aetherwell-terrace.jpg)
+
 **Air Quad Housing | Air Quad (East)**
 
 Buildings perched on floating platforms tethered to the ground, with some platforms hanging out over the border into the fire quad. The gentle bobbing sensation is like being on a ship in the sky. Astral rooms feel especially weightless here due to the location's proximity to both elemental borders.

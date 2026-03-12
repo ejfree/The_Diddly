@@ -6,6 +6,8 @@ tags: []
 
 # Beta Psi Pi
 
+![Beta Psi Pi](../../../../assets/images/beta-psi-pi.jpg)
+
 (AXO)
 3rd House from the left
 

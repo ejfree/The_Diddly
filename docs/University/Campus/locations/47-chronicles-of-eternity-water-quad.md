@@ -6,6 +6,10 @@ tags: []
 
 # Chronicles of Eternity - Water Quad
 
+![Chronicles of Eternity](../../../../assets/images/chronicles-of-eternity.jpg)
+
+![Chronicles of Eternity 2](../../../../assets/images/chronicles-of-eternity2.jpg)
+
 * Chronicles of Eternity - Home to the major: Dragon History (Lore). It is very close to the LRC. It has connected subbasements as well.
 * Map Location: #47, Air Quad - East (note: filename references Water Quad but campus map places this building in the Air Quad, close to the Learning Resource Center). Has connected subbasements shared with the LRC.
 

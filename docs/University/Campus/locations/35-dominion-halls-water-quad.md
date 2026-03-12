@@ -6,6 +6,8 @@ tags: []
 
 # Dominion Halls - Water Quad
 
+![Dominion Halls](../../../../assets/images/dominion-halls.jpg)
+
 Map Location: #35, Water Quad - South. Home to the major: Economic Dominance and Resource Management (Yield).
 
 <<Class room Descriptoin>>
