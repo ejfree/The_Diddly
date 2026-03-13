@@ -12,6 +12,9 @@ Type:** Animal in Aberration
 
 **Shadow-Level (5th) Glow-Up:** His auburn coat has deepened to near-black with oil-slick iridescence, his belly stripe now silvery-violet, and his eyes burn ember-orange. Wisps of shadow trail his limbs like grasping fingers, letting him grip weapons with inky tendrils.
 
+**Midjourney Prompt:**
+> a giant pleasantly plump shadow weasel 5 feet tall, near-black fur with oil-slick iridescence shifting purple and green, silvery-violet belly stripe, burning ember-orange eyes, wisps of shadow trailing from all four limbs like grasping dark tendrils, one tendril gripping a sword, predatory but with an air of impossible dignity, standing upright in a dramatic three-quarter pose, deep Underdark atmosphere with dim violet ambient light, dark fantasy character portrait, painterly illustration, cinematic lighting, dramatic shadow play --ar 2:3 --style raw
+
 **Height**: 5’3" currently will grow to 3 meters (almost 4 with tail)
 **Disposition**: Loyal, hyper-aware, emotionally complicated
 **Alignment** N; **Size** Medium animal (shadow-touched)
@@ -200,4 +203,3 @@ Trait**: *Bound Gourmand* (Rare, Mental, Magical, Weasel-only)
 **🗝️ Long-Term Reveal Possibility**
 Eventually, Xiltharn may fully awaken. He has no desire to leave Sausage—he finds his current form **cozy**, **adored**, and **full of snacks**. But should the PCs ever need to **negotiate with ancient dream entities**, **access a forgotten dragonic library**, or **pass the Trials of Appetite in the Vaults of Taste**, Sausage may become **a vessel of insight and flavor unmatched**.
 
-Would you like a short in-universe journal entry where one of the PCs reflects on discovering “there’s someone else in Sausage”? Or perhaps a Sivi’s-exclusive menu item named *“Xiltharn’s Whisper”*?
