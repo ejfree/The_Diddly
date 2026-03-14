@@ -21,6 +21,9 @@ The hex map covers the Underdark journey from the G3 (Fire Giant Lair) exit to t
 | E | The Sunless Shore | Kuo-Toa |
 | F | The Kuo-Toa Warrens | Kuo-Toa / Blibdoolpoolp Cult |
 | G | The Final Approach | Drow Forces |
+| H | Near Grimstone Holds | Duegar Forces |
+| I | Near Blingdenstone | Deep Gnomes Forces |
+| J | Near The Shard Warrens | Derro Forces |
 
 ---
 
@@ -208,18 +211,18 @@ The last natural cavern before the city gates. The tunnel ceiling rises to 80 fe
 
 ---
 
-## Travel Summary
+## Sector H — Near Grimstone Holds
+*The tunnel approaches to Grimstone Hold. Duegar-controlled throughout. Heavy patrol density.*
 
-| Leg | Sectors | Estimated Travel |
-|-----|---------|-----------------|
-| G3 Exit → Troglodytes | A1–A3 | 1 day |
-| Grimlock Depths | B1–B3 | 1–2 days |
-| River Crossing | C1–C3 | 1 day |
-| Descent Passages | D1–D3 | 1–2 days |
-| Sunless Shore → Pier | E1–E3 | 4–8 hours |
-| Kuo-Toa Warrens | F1–F3 | 1 day |
-| Final Approach | G1–G3 | 4–8 hours |
-| **Total** | | **~6–9 days** |
+---
+
+## Sector I — Near Blingdenstone
+*The tunnel approaches to Blingdenstone. Deep Gnome-controlled throughout. Heavy but stealthy patrol density.*
+
+---
+
+## Sector J — Near The Shard Warrens
+*The tunnel approaches to The Shard Warrens. Derro-controlled throughout. Heavy but stealthy patrol density.*
 
 ---
 

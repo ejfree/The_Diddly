@@ -1,0 +1,33 @@
+{
+  "name": "D1 — Secondary Passage Wandering Monsters (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Secondary Passage tunnels in the Underdark (D1-2 module). Encounter frequency: 1 in 12. Roll 1d12; on a 1, roll 1d100 on this table. One check per mile (hex) traveled, plus one per night camp. Footnotes: (b) within 6 miles of Vault of the Drow, replace with drow patrol (mixed); (c) within 6 miles of Kuo-Toan shrine/outpost, replace with Kuo-Toan war party; (d) within 6 miles of Kuo-Toan shrine, replace with Kuo-Toan pilgrims; (e) within 6 miles of Vault of the Drow, replace with Type I, II, or III demon.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Beetles, fire (2–5)", "img": "", "weight": 10, "range": [1, 10], "drawn": false },
+    { "type": 0, "text": "Bugbears (13–18) and slaves (19–24)", "img": "", "weight": 5, "range": [11, 15], "drawn": false },
+    { "type": 0, "text": "Bullette (1) [NOTE c]", "img": "", "weight": 2, "range": [16, 17], "drawn": false },
+    { "type": 0, "text": "Drow merchant train, small (1–2 merchants, 2 fighters, 1 leader, 4 bugbear guards, 5–8 slave bearers, 1–2 pack lizards)", "img": "", "weight": 5, "range": [18, 22], "drawn": false },
+    { "type": 0, "text": "Drow merchant train, medium (3–4 merchants, 6 fighters, 2 leaders, 8 bugbear guards, 9–16 slave bearers, 3–4 pack lizards)", "img": "", "weight": 5, "range": [23, 27], "drawn": false },
+    { "type": 0, "text": "Drow patrol, male (7–10 fighters, 1 patrol leader, 1 patrol commander)", "img": "", "weight": 5, "range": [28, 32], "drawn": false },
+    { "type": 0, "text": "Drow patrol, mixed (2 male fighters, 1 male patrol leader + non-drow troops — roll 1d6+6 for secondary passage)", "img": "", "weight": 5, "range": [33, 37], "drawn": false },
+    { "type": 0, "text": "Ghouls (9–16) and ghasts (2–5)", "img": "", "weight": 5, "range": [38, 42], "drawn": false },
+    { "type": 0, "text": "Illithids (1–2) and wererats (2–5) [NOTE d]", "img": "", "weight": 5, "range": [43, 47], "drawn": false },
+    { "type": 0, "text": "Lizards, subterranean (2–5) [NOTE b]", "img": "", "weight": 5, "range": [48, 52], "drawn": false },
+    { "type": 0, "text": "Lizards, huge subterranean (2)", "img": "", "weight": 5, "range": [53, 57], "drawn": false },
+    { "type": 0, "text": "Lurker above (1)", "img": "", "weight": 3, "range": [58, 60], "drawn": false },
+    { "type": 0, "text": "Piercers (5–20)", "img": "", "weight": 3, "range": [61, 63], "drawn": false },
+    { "type": 0, "text": "Purple worm (1)", "img": "", "weight": 3, "range": [64, 66], "drawn": false },
+    { "type": 0, "text": "Shadows (2–5)", "img": "", "weight": 3, "range": [67, 69], "drawn": false },
+    { "type": 0, "text": "Shriekers (5–8)", "img": "", "weight": 5, "range": [70, 74], "drawn": false },
+    { "type": 0, "text": "Shriekers (1–4) and violet fungi (1–4)", "img": "", "weight": 5, "range": [75, 79], "drawn": false },
+    { "type": 0, "text": "Slug, giant (1)", "img": "", "weight": 3, "range": [80, 82], "drawn": false },
+    { "type": 0, "text": "Snake, giant constrictor (1) [NOTE e]", "img": "", "weight": 3, "range": [83, 85], "drawn": false },
+    { "type": 0, "text": "Spiders, giant (2–5)", "img": "", "weight": 7, "range": [86, 92], "drawn": false },
+    { "type": 0, "text": "Spiders, phase (1–4)", "img": "", "weight": 2, "range": [93, 94], "drawn": false },
+    { "type": 0, "text": "Ropers (2–5)", "img": "", "weight": 3, "range": [95, 97], "drawn": false },
+    { "type": 0, "text": "Rust monster (1) [NOTE b]", "img": "", "weight": 3, "range": [98, 100], "drawn": false }
+  ]
+}

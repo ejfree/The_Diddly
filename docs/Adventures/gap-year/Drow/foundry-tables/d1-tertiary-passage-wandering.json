@@ -1,0 +1,32 @@
+{
+  "name": "D1 — Tertiary Passage Wandering Monsters (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Tertiary Passage tunnels in the Underdark (D1-2 module). Encounter frequency: 1 in 12. Roll 1d12; on a 1, roll 1d100 on this table. One check per mile (hex) traveled, plus one per night camp. Tertiary passages offer more hiding spots for lurking foes. Footnotes: (c) within 6 miles of Kuo-Toan shrine/outpost, replace with Kuo-Toan war party; (d) within 6 miles of Kuo-Toan shrine, replace with Kuo-Toan pilgrims; (e) within 6 miles of Vault of the Drow, replace with Type I, II, or III demon.",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Ants, giant (11–30; 1 in 10 is a warrior)", "img": "", "weight": 7, "range": [1, 7], "drawn": false },
+    { "type": 0, "text": "Beetles, fire (2–5)", "img": "", "weight": 10, "range": [8, 17], "drawn": false },
+    { "type": 0, "text": "Drow merchant train, small (1–2 merchants, 2 fighters, 1 leader, 4 bugbear guards, 5–8 slave bearers, 1–2 pack lizards)", "img": "", "weight": 5, "range": [18, 22], "drawn": false },
+    { "type": 0, "text": "Drow patrol, male (7–10 fighters, 1 patrol leader, 1 patrol commander)", "img": "", "weight": 5, "range": [23, 27], "drawn": false },
+    { "type": 0, "text": "Drow patrol, mixed (2 male fighters, 1 male patrol leader + non-drow troops — roll 1d6+12 for tertiary passage)", "img": "", "weight": 5, "range": [28, 32], "drawn": false },
+    { "type": 0, "text": "Green slime (1) [NOTE e]", "img": "", "weight": 3, "range": [33, 35], "drawn": false },
+    { "type": 0, "text": "Illithids (2–5)", "img": "", "weight": 3, "range": [36, 38], "drawn": false },
+    { "type": 0, "text": "Jermlaine (15–30) [NOTE c]", "img": "", "weight": 7, "range": [39, 45], "drawn": false },
+    { "type": 0, "text": "Lich (1)", "img": "", "weight": 3, "range": [46, 48], "drawn": false },
+    { "type": 0, "text": "Lizards, subterranean (2–3)", "img": "", "weight": 5, "range": [49, 53], "drawn": false },
+    { "type": 0, "text": "Lurker above (1)", "img": "", "weight": 3, "range": [54, 56], "drawn": false },
+    { "type": 0, "text": "Piercers (5–20)", "img": "", "weight": 12, "range": [57, 68], "drawn": false },
+    { "type": 0, "text": "Rust monster (1)", "img": "", "weight": 3, "range": [69, 71], "drawn": false },
+    { "type": 0, "text": "Shadows (2–5)", "img": "", "weight": 3, "range": [72, 74], "drawn": false },
+    { "type": 0, "text": "Shambling mounds (1–4)", "img": "", "weight": 3, "range": [75, 77], "drawn": false },
+    { "type": 0, "text": "Shriekers (2–8)", "img": "", "weight": 3, "range": [78, 80], "drawn": false },
+    { "type": 0, "text": "Slithering tracker (1)", "img": "", "weight": 3, "range": [81, 83], "drawn": false },
+    { "type": 0, "text": "Svirfnebli (2–8) [NOTE d]", "img": "", "weight": 5, "range": [84, 88], "drawn": false },
+    { "type": 0, "text": "Trapper (1)", "img": "", "weight": 3, "range": [89, 91], "drawn": false },
+    { "type": 0, "text": "Umber hulks (1–2)", "img": "", "weight": 3, "range": [92, 94], "drawn": false },
+    { "type": 0, "text": "Vampire (1)", "img": "", "weight": 3, "range": [95, 97], "drawn": false },
+    { "type": 0, "text": "Xorn (2–5)", "img": "", "weight": 3, "range": [98, 100], "drawn": false }
+  ]
+}

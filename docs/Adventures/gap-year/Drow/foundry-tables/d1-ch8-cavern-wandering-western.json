@@ -1,0 +1,14 @@
+{
+  "name": "D1 Ch8 — Grand Cavern Wandering Monsters, Western Half (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for the Western Half of the Grand Cavern (encounter area Q-18/19), Chapter 8 of D1-2. Encounter frequency: 1 in 12 per turn. Roll 1d12; on a 1, roll 1d4 on this table. Standard stats: Bugbear AC 3, hp 14, Dmg 4-10/2-8, XPV 191; Gargoyle hp 22, XPV 275; Troll hp 28, XPV 749.",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Drow patrol, mixed (2 male fighters, 1 male patrol leader + non-drow troops)", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "Drow merchants — roll 1d3: 1=small train, 2=medium train, 3=large train", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "Gargoyles (2–8); hp 22 each, XPV 275 each", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "Trolls (2–5); hp 28 each, XPV 749 each", "img": "", "weight": 1, "range": [4, 4], "drawn": false }
+  ]
+}
