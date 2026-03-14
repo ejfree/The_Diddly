@@ -7,7 +7,7 @@ tags: []
 # G1 Upper Level
 
 The map shows the huge timber stronghold of the local clan of hill giants. All outer walls are of logs of at least *3* feet in diameter. Inner
-walls dividing rooms and the like are about *2* feet thick, and doors are great iron-bouad log affairs of 1-meter thickness-single doors being approximately *7* feet wide and *10* feet high.
+walls dividing rooms and the like are about *2* feet thick, and doors are great iron-bouad log affairs of 1-meter thickness-single doors being approximately *7* feet wide and *6* feet high.
 
 All inside floors are of stone. Ceiling height varies from about *16* feet at the edges to *32* feet at the center, and there are great blackened rafters above which hold up the roof. The Steading is in a nasty damp area, where hard rain is a daily occurrence and wet fogs a nightly event.
 
@@ -43,7 +43,9 @@ The place is bare, but there are many pegs along the walls, and various items of
 
 ### **Inhabitants**
 
-- **Passive Creatures**: Hill giant guard is dozing. A flagon which contained mead is at his hand. An iron hoop and straight bar hanging on ropes from a rafter above will alert the place if struck together.
+- **Passive Creatures**:
+  - **Guard A (×2):** Two snoring hill giants supposedly guarding the entrance — a nearly empty keg of ale between them. Any molestation enables one to alert the other; only a well-planned simultaneous kill maintains quiet (1 in 20 chance of failure even with a good plan).
+  - **Guard B (watchtower):** A single hill giant guard is dozing up the steps. A flagon which contained mead is at his hand. An iron hoop and straight bar hanging on ropes from a rafter above will alert the entire steading if struck together.
 
 - **Hostile Threats**:
 
@@ -51,7 +53,7 @@ The place is bare, but there are many pegs along the walls, and various items of
 
 ### **Loot & Rewards**
 
-- **Visible Loot**:  The giant wears a belt with a gem-set gold buckle. The *six* gems are worth **100** gp each, and the gold in the buckle is worth **100** gp; but as a piece it is worth 1000gp
+- **Visible Loot**: Guard B wears a belt with a gem-set gold buckle. The *six* gems are worth **100** gp each, and the gold in the buckle is worth **100** gp; but as a complete piece of jewelry it has a value of **1,400** gp.
 
 - **Hidden Loot**:
 
@@ -127,7 +129,7 @@ There are 12 smaller beds here and these are occupied by Here **12** young giant
 
 - **Passive Creatures**:
 
-- **Hostile Threats**: 12 young ogres
+- **Hostile Threats**: 12 young hill giants (all have weapons and fight as ogres)
 
 - **Unique NPCs**:
 
@@ -433,6 +435,46 @@ This room **is** also used for the council meetings of the chief. It contains a 
 
 ---
 
+## **10A. Secret Alcove**
+Hidden behind the manticore hide in Room 10.
+
+### **Description**
+A small, dark alcove accessible only through the hidden door in Room 10. Several scroll tubes are concealed under a stack of logs in the northwest corner alcove. Only one tube has anything in it — this one is sealed and marked with a triangle containing a Y.
+
+### **Features & Terrain**
+
+- **Lighting**: None — completely dark.
+
+- **Objects**: Stack of logs in the northwest alcove. Several empty scroll tubes. One sealed tube marked with a triangle/Y symbol.
+
+- **Doors & Exits**: Hidden door back to Room 10 (concealed by manticore hide). Steps in this room lead to the secret area at the dungeon level.
+
+- **Special Interactions**: The sealed tube contains a set of raid instructions written in Giant, signed *"Eclavdra."* Also in the tube are plans for the Steading — but this plan does **not** show the lower level. The steps here lead directly to a secret area on the dungeon level, bypassing the main staircase.
+
+### **Smells & Sounds**
+
+- **Smells**: Dust and old stone.
+
+- **Sounds**: Complete silence.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+
+- **Hostile Threats**:
+
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+
+- **Hidden Loot**: The sealed tube with raid instructions signed "Eclavdra" — key intelligence connecting the giants to their drow handlers.
+
+- **Magical Items**:
+
+---
+
 ## **11. Great Hall**
 The Party Place
 
@@ -464,9 +506,9 @@ This place contains trestle tables, benches,stools, and ***so*** forth. To the n
 
 - **Passive Creatures**:
 
-- **Hostile Threats**:  For the moment, however, the following creatures are present: Chief. Wife. 20 hill giants, , 8 Ogres, Cave Bear
+- **Hostile Threats**: For the moment, however, the following creatures are present: Nosnra (Chief), Solka (Wife), Sub-chief, 20 hill giant revelers, 8 Ogres, Cave Bear "Throat-ripper"
 
-- **Unique NPCs**: Cloud Giant, Stone Giant
+- **Unique NPCs**: Cloud Giant visitor (1), Stone Giant visitors (3)
 
 ### **Loot & Rewards**
 
@@ -940,11 +982,10 @@ Fourteen dire wolves run free here, and they will immediately attack any non-gia
 
 ———
 
-## **23-25. Guard Rooms**
-All general guard rooms
+## **23. Guard Room**
 
 ### **Description**
-23 Guard rooms, stools and bench There is a huge horn to wind to call the dire wolves. It rests upon the small table in the center of the room. There are eight stools and two benches along the walls. A sheaf of **18** spears is by the door. A line of seven giant- sized shield and four clubs stands along the south wall. No creatures are in the room.
+There is a huge horn to wind to call the dire wolves. It rests upon the small table in the center of the room. There are eight stools and two benches along the walls. A sheaf of **18** spears is by the door. A line of seven giant-sized shields and four clubs stands along the south wall. No creatures are in the room.
 
 ### **Features & Terrain**
 
@@ -952,9 +993,9 @@ All general guard rooms
 
 - **Surfaces**:  Flagstone.
 
-- **Objects**:   Small table with the summoning horn in Room 23. Eight stools, two benches. Sheaf of 18 spears by the door. Seven giant-sized shields and four clubs along the south wall.
+- **Objects**:   Small table with the summoning horn. Eight stools, two benches. Sheaf of 18 spears by the door. Seven giant-sized shields and four clubs along the south wall.
 
-- **Doors & Exits**: Lead to the palisade corridor connecting back to the main lodge and to Room 22.
+- **Doors & Exits**: Part of the outbuilding connected to the main lodge by a palisade corridor. Leads to Room 22 (wolf yard).
 
 - **Special Interactions**: The horn, if wound, immediately calls the dire wolves from Room 22. The sound carries throughout the entire steading.
 
@@ -962,7 +1003,7 @@ All general guard rooms
 
 - **Smells**:  Damp wood from the palisade, cold air.
 
-- **Sounds**:  Wind through the palisade walls. Quiet otherwise — no creatures present.
+- **Sounds**:  Wind through the palisade walls. Quiet — no creatures present.
 
 ### **Inhabitants**
 
@@ -977,5 +1018,89 @@ All general guard rooms
 - **Visible Loot**:
 
 - **Hidden Loot**:
+
+- **Magical Items**:
+
+---
+
+## **24. Barracks**
+
+### **Description**
+This room contains 10 beds, 10 chests, 10 stools, two tables, one bench, and miscellaneous junk. There are a few hides on floors and walls. Several broken weapons and dented helmets are strewn about. The place is deserted.
+
+### **Features & Terrain**
+
+- **Lighting**:  No active light source — dark.
+
+- **Surfaces**:  Stone floor with scattered hides.
+
+- **Objects**:   10 beds, 10 chests, 10 stools, two tables, one bench, junk, broken weapons, dented helmets.
+
+- **Doors & Exits**: Part of the palisade outbuilding.
+
+- **Special Interactions**: All chests contain only personal gear — nothing of value.
+
+### **Smells & Sounds**
+
+- **Smells**:  Stale and musty.
+
+- **Sounds**:  Silent.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+
+- **Hostile Threats**:
+
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+
+- **Hidden Loot**:
+
+- **Magical Items**:
+
+---
+
+## **25. Barracks**
+
+### **Description**
+This room is identical in contents to Room 24. An alcove (25A) off the room belongs to the sergeant of the guards, who is now feasting in the Great Hall.
+
+**25A (Sergeant's Alcove):** Three chests, all filled with clothing and equipment for the troops and himself. A sack on the wall holds giant-sized boots. One boot at the bottom holds the sergeant's hidden savings.
+
+### **Features & Terrain**
+
+- **Lighting**:  No active light source — dark.
+
+- **Surfaces**:  Stone floor with scattered hides.
+
+- **Objects**:   10 beds, 10 chests, 10 stools, two tables, one bench (same as Room 24). Alcove 25A: three chests, sack of giant boots on wall, cot with another sack under it.
+
+- **Doors & Exits**: Part of the palisade outbuilding.
+
+- **Special Interactions**: The sack under the cot in 25A contains only old, worthless helmets.
+
+### **Smells & Sounds**
+
+- **Smells**:  Stale and musty.
+
+- **Sounds**:  Silent.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+
+- **Hostile Threats**:
+
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+
+- **Hidden Loot**: One boot at the bottom of the wall sack holds **1,300 gp** and **8 tourmalines** (worth **100 gp** each). Another sack under the cot contains only old worthless helmets.
 
 - **Magical Items**:

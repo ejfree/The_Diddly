@@ -1,358 +1,890 @@
 ---
 title: G1 Lower Level
-updated: 2026-02-20
+updated: 2026-03-14
 tags: []
 ---
 
 # G1 Lower Level
 
-The dungeon level is entirely of stone — some sections crudely cut and shaped by the giants, others natural cavern. All ceilings are roughly 20 feet high in the cut areas and vary wildly in the natural caves. The air is thick with the stench of refuse, unwashed bodies, and damp. There is no light except in inhabited areas. Stairs descend from Room 18A of the upper level.
+The masonry work is quite good — certainly superior to orcish work, except in a few places. Most stonework is old, even where recently patched. Passageway ceilings are arched and buttressed every 10 feet, with the peak about **17 feet** overhead. Ceiling height in most smallish rooms is **20 feet** (arched and buttressed). Large rooms and chambers reach **30 feet**. Natural cavern areas (Rooms 19–21) vary — passages about 10 feet, large areas 20 feet or more. Cavern 23 has a roof about **40 feet** high. All natural cave areas have stalagmites.
 
-**The Keeper** runs this level. He is an abnormally large, scarred hill giant who has served as dungeon master for the clan for decades. His word is law below-ground — even the ogres fear him.
+Access from the upper level is via the stairs in Room 18A (kitchen workroom) or the secret steps from Room 10A.
+
+**Wandering Monsters**
+
+*All Non-Natural Areas: Encounter 1 in 12*
+1. 4 ogres seeking some orcs
+2. The Keeper and his pet (from Room 2) out inspecting
+3. 12 orcs, two with heavy crossbows with poisoned bolts, out raiding for food
+
+*Other Areas: Encounter 1 in 20*
+- In Rooms 19–20: 1–4 subterranean lizards (from Area 21)
+- In Room 21: 1–3 carrion crawlers coming up from the sinkholes
+
+**Map Markers**
+- **B**: Boulder wall
+- **G**: Posts for rebel orc guards (2 orcs from Area 19)
+- **W**: Watch points for bugbear guards; one bugbear each
 
 ---
 
-## **26. Guard Post at the Stairs**
-Four ogres hold the bottom of the staircase at all times.
+## **1. Marshalling Area**
 
 ### **Description**
-A rough-cut guardroom at the foot of the stairs from 18A. Four ogres sit around an upturned barrel playing at dice, clubs propped against the wall. A crude iron gong hangs from a rafter above them — striking it will alert the Keeper and every room to the south.
+This room is primarily meant as the place where slaves are rounded up and sent about their tasks under guard. It is also used for the revels of the dungeon crew when off duty. A few smoky torches burn along the walls. Benches and tables are pushed out of the way against the walls, revealing a floor of blackish stone, much worn by the tread of countless feet.
 
 ### **Features & Terrain**
 
-- **Lighting:** Two torches in iron wall brackets, guttering and smoky.
-- **Surfaces:** Rough-cut stone floors, damp.
-- **Doors & Exits:** Single heavy wooden door to the south. Stairs up to Room 18A.
-- **Special Interactions:** If the gong is struck, all inhabitants on this level are alerted within 2 rounds.
+- **Lighting**: A few smoky torches along the walls — dim.
+- **Surfaces**: Blackish stone floor, heavily worn.
+- **Objects**: Benches and tables pushed to the walls.
+- **Doors & Exits**: Stairs from Room 18A arrive here.
 
 ### **Smells & Sounds**
 
-- **Smells:** Stale beer and ogre-sweat.
-- **Sounds:** Dice rattling, grunting argument over the game.
+- **Smells**: Torch smoke, sweat, and old refuse.
+- **Sounds**: Distant sounds from deeper in the dungeon.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** 4 Ogres
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Visible Loot:** The dice are large bone carved with runes (worth 8 gp to a collector).
-- **Hidden Loot:** Between the four ogres: 240 sp, 72 gp in a crude pouch.
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
 
 ---
 
-## **27. The Keeper's Chamber**
-The domain of the dungeon's brutal overseer.
+## **2. Chamber of the Keeper**
 
 ### **Description**
-A large, low-ceilinged room stinking of blood and animal musk. An enormous bed of hides occupies the north wall. Two thick iron chains are bolted to the south wall — one holds a massive scarred owlbear, the other is empty (its mate is in Room 28). The Keeper himself is an exceptionally large hill giant, head nearly brushing the 16-foot ceiling, covered in old scars and wearing a heavy iron key ring at his belt.
+The Keeper is a ghastly hill giant — hunchbacked, twisted, and with but one good eye. He is thoroughly wicked and evil, strong, and remorseless. He is never without one of his two pet carnivorous apes, and both are in his lair: one guarding to the north of the door, the other on a platform built above it. The Keeper wears a chain shirt and fights with a battle axe +3.
+
+His room has many skins on the floor, a bed, table, chair, two boxes, several crates and barrels, one chest, and odds and ends of armor, weapons, furniture, and tableware. None of the furnishings have any value.
 
 ### **Features & Terrain**
 
-- **Lighting:** A single great iron brazier.
-- **Surfaces:** Stone floors slick with grease and old blood.
-- **Objects:** A heavy iron strongbox (locked, DC 28) bolted to the east wall.
-- **Doors & Exits:** Exits north to Room 26, east to Room 28, west to Room 29.
+- **Lighting**: Brazier and wall torches — reasonably bright.
+- **Surfaces**: Skins on stone floor.
+- **Objects**: Bed, table, chair, two boxes, crates, barrels, one chest (worthless gear), odds and ends of weapons and armor. A loose stone in the floor conceals his treasure.
+- **Doors & Exits**: Connects to Room 1 and deeper dungeon areas.
+- **Special Interactions**: One ape guards north of the door (visible on entry); the second is on a platform **above** the door and drops on anyone entering. The loose stone in the floor hides the treasure — DC 20 Perception to notice.
 
 ### **Smells & Sounds**
 
-- **Smells:** Blood, animal musk, rancid meat.
-- **Sounds:** Low rumbling growl of the chained owlbear.
+- **Smells**: Blood, animal musk, rancid meat.
+- **Sounds**: The low chittering of the carnivorous apes.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** The Keeper (exceptional hill giant; hp 65, +4 to attack over standard), 1 Owlbear (chained, 10-foot reach).
-- **Unique NPCs:** The Keeper understands Common but speaks only Giant. He will not parley.
+- **Passive Creatures**:
+- **Hostile Threats**: The Keeper (hill giant): AC 3 (chain shirt); hp 49; THACO 9; Dmg 5–19 (battle axe +3). Carnivorous Apes (2): hp 29, 26.
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Hidden Loot:** Under the sleeping hides: 3,000 sp, 1,200 gp, 500 pp in a leather sack.
-- **Magical Items:** The iron strongbox contains 2,000 gp in mixed coin and a *scroll of protection from normal missiles*.
+- **Visible Loot**:
+- **Hidden Loot**: Under a loose stone in the floor: **5,400 gp**, five large spinels (**500 gp** each), four huge garnets (**100 gp** each).
+- **Magical Items**: A large earthenware jug under the loose stone holds **4 potions of water breathing**.
 
 ---
 
-## **28. Torture Chamber**
-Where prisoners are broken and lessons are taught.
+## **3. Cell Block**
 
 ### **Description**
-A long chamber fitted with implements of suffering at every scale — rack, iron maiden, and strappado sized for giants, smaller devices for man-sized victims. The second owlbear is chained near the entrance as an additional incentive for prisoners. Two gaunt human slaves are currently strapped to a horizontal frame, alive but barely conscious.
+In the outer guard room are two bugbear guards armed with morningstars. If not engaged immediately, they will raise an alarm by striking a large brass gong near the door. If faced by an obviously superior enemy and prevented from sounding the gong, they will direct opponents to cell iv (a trap) and flee when the party is occupied.
+
+The room contains a table, two stools, torches, and keys to cells i, ii, iii, and v.
+
+**Cells:**
+- **i.** A human prisoner — a merchant, now quite insane (hp 4).
+- **ii.** A human prisoner (hp 6), an engineer kept alive to help with dungeon excavation. Cannot fight but will take service.
+- **iii.** An elf fighter/magic-user chained to the wall. Will serve any good-aligned character for 1 year without pay in gratitude for rescue. *Oaklock Gilderlief (elf): AL NG; Level 5/8 Fighter/M-U; hp 14 (original 31); S 17, I 17, W 14, D 16, Co 15, Ch 11. No weapons or spells currently.*
+- **iv. TRAP** — Three skeletons, each wearing a brass ring with a glass gem. The bugbears claim the skeletons are magical and that they have no key to this cell. The lock can be forced with ease. The moment the cell door opens, the three skeletons spring to attack with swords previously hidden by dust and dirt. *Skeletons (3): hp 8 each.*
+- **v.** Large cell with five captured orc rebels. Three others of their number have already been tortured to death; these five are desperate. They will lead the party to Room 19 and get them safely past the guards at **B** if the PCs can handle the bugbear at **W** to the west. *Orc Rebels (5): hp 6 each.*
 
 ### **Features & Terrain**
 
-- **Lighting:** Bright — several torches and a brazier with heated irons.
-- **Objects:** The two captive humans are merchants from a recent raid. They are exhausted (1 HP each) but can walk if freed and know the layout of Rooms 26–33.
+- **Lighting**: Torches in the outer guard room; cells are unlit.
+- **Objects**: Table, two stools, keys to cells i, ii, iii, v. Large brass gong near door.
+- **Special Interactions**: The gong, if struck, alerts the entire dungeon level within 2 rounds.
 
 ### **Smells & Sounds**
 
-- **Smells:** Hot iron, blood.
-- **Sounds:** Faint moaning from the captives.
+- **Smells**: Damp stone and misery.
+- **Sounds**: Faint sounds from occupied cells.
 
 ### **Inhabitants**
 
-- **Passive Creatures:** 2 human merchants (captives, non-combatant).
-- **Hostile Threats:** 1 Owlbear (chained, 15-foot reach).
+- **Passive Creatures**: Prisoners in cells i–iii and v (as above).
+- **Hostile Threats**: Bugbear Guards (2): hp 17, 14. Skeletons in cell iv (3): hp 8 each (triggered trap).
+- **Unique NPCs**: Oaklock Gilderlief (cell iii).
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**: Brass rings with glass gems on the skeletons (worthless).
+- **Magical Items**:
 
 ---
 
-## **29. Orc Rebel Hold**
-Potential allies — if treated carefully.
+## **4–8. Bugbear Quarters Complex**
+
+Each area has a few torches and braziers burning, hides and skins on the walls and floors, straw mounded for bedding, stools, small crates and boxes, and tables with scraps of food and eating utensils.
+
+---
+
+## **4. Bugbear Barracks (Alert)**
 
 ### **Description**
-A section of the dungeon that sixteen orcs have barricaded off with overturned furniture, scavenged iron bars, and rubble. They hold the barricade, armed and watching. They will not attack immediately — when they realize the party are not giants, they are stunned and suspicious. They have been hiding down here for six days, waiting for a chance to escape.
+12 bugbears at ready. Each has a spear for hurling, a morning star, and 2–8 gp.
+
+### **Inhabitants**
+
+- **Hostile Threats**: 12 Bugbears (at ready): hp 20×2, 15×4, 14×6.
+
+### **Loot & Rewards**
+
+- **Hidden Loot**: Each bugbear carries 2–8 gp.
+
+---
+
+## **5. Bugbear Barracks (Asleep)**
+
+### **Description**
+12 bugbears, asleep. Identical in all respects to Room 4.
+
+### **Inhabitants**
+
+- **Hostile Threats**: 12 Bugbears (asleep): same stats as Room 4.
+
+### **Loot & Rewards**
+
+- **Hidden Loot**: Each bugbear carries 2–8 gp.
+
+---
+
+## **6. Bugbear Barracks (Asleep)**
+
+### **Description**
+12 bugbears, asleep. Same as Room 5.
+
+### **Inhabitants**
+
+- **Hostile Threats**: 12 Bugbears (asleep).
+
+### **Loot & Rewards**
+
+- **Hidden Loot**: Each bugbear carries 2–8 gp.
+
+---
+
+## **7. Bugbear Captain's Chamber**
+
+### **Description**
+Five bugbears — the captain (Argratin) and four lieutenants — sit around a crude table drinking ale and discussing a plan to wipe out the orcs of Area 19. Each has a bastard sword. The captain attacks as an ogre with +1/+2 bonuses to hit and damage.
+
+### **Inhabitants**
+
+- **Hostile Threats**: Argratin, Bugbear Captain: AC 4; hp 24; THACO 14; Dmg 4–10. Bugbear Lieutenants (4): hp 19 each.
+- **Unique NPCs**: Argratin
+
+### **Loot & Rewards**
+
+- **Visible Loot**: Each bugbear has 20–80 gp.
+- **Hidden Loot**: The captain has an additional **31 agates** (worth **10 gp** each) hidden in a pouch under his armor.
+- **Magical Items**:
+
+---
+
+## **8. Bugbear Guard Post**
+
+### **Description**
+Six alert bugbear guards readying for an attack. One is always at the south exit watching position **B** to the east. Armed with hand axes (for throwing) and morning stars.
+
+### **Inhabitants**
+
+- **Hostile Threats**: Bugbear Guards (6): hp 21, 17, 17, 17, 16, 13.
+
+### **Loot & Rewards**
+
+- **Hidden Loot**: Each carries 2–8 gp.
+
+---
+
+## **9–11. Slave Quarters (Good Behavior)**
+
+A few smoky torches on the walls, moldy straw on the floor, benches built into the walls. Each door is barred from the outside with a heavy iron rod.
+
+- **Room 9**: 24 unarmed orc slaves, very poor morale.
+- **Room 10**: 30 unarmed orc slaves, very poor morale.
+- **Room 11**: 24 unarmed orc slaves, very poor morale.
+
+---
+
+## **12–14. Slave Quarters (Unruly)**
+
+At each position marked **W** is 1 bugbear (hp 16), armed with hand axe and morning star, constantly alert and watching. Each area is secured by a barrel gate through which the bugbear can see. Each set of bars is locked and chained as well as bolted. Chambers are unlit, have only scanty straw, and are noisome.
+
+- **Room 12**: 48 unarmed orc laborers, fair morale.
+- **Room 13**: 24 unarmed orc laborers, fair morale.
+- **Room 14**: 16 unarmed orc laborers — highly anxious to attack their captors; **good morale**.
+
+---
+
+## **15. Torture Chambers**
+
+### **Description**
+A large area containing various implements for torturing prisoners large and small: two racks, an iron maiden, thumbscrews, iron boots, chains, whips, branding irons, strappadoes, etc. A fire pit in the center of the room gives it all a hellish light. Two hill giants are dozing behind the large rack to the north.
 
 ### **Features & Terrain**
 
-- **Lighting:** Dim — a single stolen lantern turned low.
-- **Special Interactions:** The orcs are *willing to negotiate*. Their leader, a scarred veteran named Grutz, makes all decisions. They know the full dungeon layout, the patrol schedule of the Keeper and ogres, and that a rebellion is being organized in the upper level (Room 20). They will trade information for safe passage. They refer to the drow as *"the dark ones with white hair who visit the black-cloak room."*
+- **Lighting**: Fire pit in center — bright and hellish red.
+- **Objects**: Two racks, iron maiden, thumbscrews, iron boots, chains, whips, branding irons, strappadoes (all sizes — for giants and man-sized victims).
 
 ### **Smells & Sounds**
 
-- **Smells:** Unwashed bodies, old food.
-- **Sounds:** Whispered arguments in Orcish, silenced by a sharp word from Grutz.
+- **Smells**: Burning coal, iron, and old blood.
+- **Sounds**: The crackle of the fire pit; the dozing giants' heavy breathing.
 
 ### **Inhabitants**
 
-- **Passive Creatures:** 16 Orcs (hostile only if attacked or their leader is threatened).
+- **Passive Creatures**:
+- **Hostile Threats**: Hill Giants (2): hp 39, 36.
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Visible Loot:** Pooled scavenged supplies: 180 sp, 40 gp, 3 shortswords, 6 hand axes.
+- **Visible Loot**: One giant wears a gold chain set with a fire opal: total value **2,000 gp** intact (or **1,300 gp** if the chain is broken from the opal).
+- **Hidden Loot**:
+- **Magical Items**:
 
 ---
 
-## **30. Verbeeg Lair**
-Giant-kin who serve no one willingly.
+## **16. Armory and Smithy**
 
 ### **Description**
-Three verbeegs — rangy, long-limbed humanoids standing nine feet tall — have been given this chamber as a billet. They resent being here and take it out on anything smaller than them. The room is a chaos of gnawed bones, stolen furs, and crude personal effects.
+Stacks of giant arms and armor being repaired or fabricated. In the first area are 19 pike-sized spears, 41 six-foot spears, 16 battle axes, 9 two-handed swords, and other weapons and armor (all usable only by giants). Further in, helmets are balanced on shields propped by 6 war hammers and maces — **touching any of these will cause the whole array to clatter down**, alerting the two fire giants at the forges to the east.
 
-### **Smells & Sounds**
-
-- **Smells:** Rotten meat and unwashed linen.
-- **Sounds:** Loud, guttural bickering in Giant.
-
-### **Inhabitants**
-
-- **Hostile Threats:** 3 Verbeegs
-
-### **Loot & Rewards**
-
-- **Hidden Loot:** In a clay pot buried under the largest fur pile: 2,500 gp, 100 pp, 3 pieces of crude jewelry (total 2,400 gp).
-- **Magical Items:** A scroll of 3 spells (*levitate*, *lightning bolt*, *dispel magic*) stuffed inside a boot belonging to the largest verbeeg, taken from a slain adventurer.
-
----
-
-## **31. Troll Den**
-Savage and not under anyone's real control.
-
-### **Description**
-A reeking natural cavern littered with gnawed bones and filth. Three trolls live here — the giants gave up trying to cage them after one tore through the bars. Now they slide food to the entrance and stay away. The bones of many creatures (some humanoid) are piled at the back.
+Seven dwarves are chained at the forges, forced to labor making weapons. Six want only to escape immediately and will not fight. The seventh is Mongo — an 8th-level fighter who will serve the party as long as he gets a treasure share equal to his level and a chance to fight giants.
 
 ### **Features & Terrain**
 
-- **Lighting:** None.
-- **Special Interactions:** Trolls regenerate. Fire and acid stop regeneration.
+- **Lighting**: Forges and braziers — bright and hot in the eastern section.
+- **Objects**: Giant-scale weapons and armor throughout. Forges, bellows, and smith's tools in the east. Seven dwarves chained to the forges.
+- **Special Interactions**: The precariously stacked helmets/shields/hammers/maces serve as a noise trap. DC 18 Dexterity to navigate past them without triggering the clatter.
 
 ### **Smells & Sounds**
 
-- **Smells:** Overwhelming rot and animal musk.
-- **Sounds:** Wet tearing sounds from the bone pile if the trolls are feeding.
+- **Smells**: Hot metal, coal smoke, and sweat.
+- **Sounds**: The ring of hammers from the dwarves, the roar of the forges.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** 3 Trolls
+- **Passive Creatures**: 6 dwarven slaves (non-combatant; desperate to escape).
+- **Hostile Threats**: Fire Giants (2): hp 57, 50. Will immediately shout and charge when alerted.
+- **Unique NPCs**: *Mongo (dwarf): AL LN; Level 8 Fighter; hp 70; AC 9 (no armor); THACO 14; no weapons currently. S 18/29, I 8, W 11, D 10, Co 17, Ch 6.*
 
 ### **Loot & Rewards**
 
-- **Hidden Loot:** In the bone pile: 5,000 cp, 2,000 sp, 200 gp, and a *+1 dagger* (blade intact, scabbard destroyed).
+- **Visible Loot**:
+- **Hidden Loot**: Each fire giant has a sack filled with **4,000 gp**.
+- **Magical Items**:
 
 ---
 
-## **32. Ogre Barracks**
-Off-duty brutes who would rather be sleeping.
+## **17. Blocked Passage**
 
 ### **Description**
-Six ogres are quartered here — three sleeping on heaped furs, two playing at knucklebones, one eating cold meat. There are 12 pallets total, indicating the full complement rotates in shifts. Clubs, javelins, and hide armor are stacked along the walls.
-
-### **Smells & Sounds**
-
-- **Smells:** As bad as Room 26 but stuffier.
-- **Sounds:** Snoring, bone-clacking, wet chewing.
-
-### **Inhabitants**
-
-- **Hostile Threats:** 6 Ogres
-
-### **Loot & Rewards**
-
-- **Hidden Loot:** Between all six: 1,200 gp equivalent in mixed coin and crude valuables. The lone ogre has a stolen gemstone (400 gp) used as a good-luck piece, tucked in his boot.
-
----
-
-## **33. Garbage Cavern and Rat Warren**
-Where everything unwanted ends up.
-
-### **Description**
-A large natural cave used as the dungeon's dump — carcasses, broken furniture, rotted food, the contents of chamber pots. It is infested with giant rats who move in a constant roiling mass through the waste.
+This passage to 17A is blocked by stones: orcs have piled finished and rough stones before a wooden door bound with moldering bronze bands and secured with a heavy bronze bolt. The corridor is disused, dusty, and reeks disgustedly.
 
 ### **Features & Terrain**
 
-- **Lighting:** None.
-- **Surfaces:** The floor is several inches of compressed refuse; difficult terrain.
-- **Special Interactions:** Moving through without a torch results in rat swarm attacks on any warm-blooded creature.
+- **Lighting**: None.
+- **Objects**: Stone debris piled against the door.
+- **Special Interactions**: Clearing the blockage takes roughly 1 turn of work. The door behind is bound with moldering bronze (easily forced once the debris is cleared).
 
 ### **Smells & Sounds**
 
-- **Smells:** The worst smell in the dungeon.
-- **Sounds:** Constant scratching, squealing, and rustling.
+- **Smells**: Dust, rot, and something ancient and unpleasant beyond.
+- **Sounds**: Complete silence from beyond the door.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** 12 Giant Rats
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Hidden Loot:** Buried in the refuse: 800 cp, 200 sp, and a gold signet ring (400 gp) belonging to one of the prisoners above.
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
 
 ---
 
-## **34. Underground Stream**
-A natural hazard with a hidden reward.
+## **17A. Weird Abandoned Temple**
 
 ### **Description**
-An underground stream, roughly 25 feet wide and fast-moving, cuts across the dungeon. A natural stone bridge spans it — 2 feet wide, no railing, slick with spray. The water is ice cold and runs 8 feet deep at center. The stream exits through a low arch to the west (impassable) and disappears into the floor to the east.
+This room is of faintly glowing purplish-green stone, carved with disturbing shapes and signs which seem to stare out from the walls and columns, and to shift position when the watcher's back is turned. **Touching the walls makes one chilled. Contact with a pillar causes nausea.**
+
+At the far west end is an altar of pale, yellow-gray translucent stone — greasy to the touch but with no effect on those who touch it. Behind the altar is a flight of low, uneven steps leading to an alcove with a concave back wall of purplish-black, glassy substance.
+
+**If any creature stands before the wall and gazes upon it for one round**, a writhing amorphous form of sickly mauves and violets appears, stretching formless members toward the viewer. This causes a **50% chance of permanent insanity**. If the creature does not go insane, touching the curving wall causes a *scarab of insanity* to appear upon the altar (first creature to do so), and a **5,000 gp gem** for the next.
 
 ### **Features & Terrain**
 
-- **Lighting:** None.
-- **Special Interactions:** DC 18 Acrobatics to cross the bridge at any speed; failure means a fall into the stream (DC 18 Athletics to swim; cold water deals 1d6 cold damage per round). Anything dropped in the stream is swept east and deposited in a gravel bar at the east arch.
+- **Lighting**: Faint purplish-green glow from the stone itself.
+- **Surfaces**: Carved purplish-green stone; columns throughout.
+- **Objects**: Altar (pale yellow-gray translucent stone) at the west end. Steps to alcove and concave glassy wall behind altar.
+- **Special Interactions**: Touching walls — Constitution save or become chilled (disadvantage on all actions for 1 hour). Touching a pillar — Constitution save or nausea (disadvantage on attack rolls for 1 hour). Gazing at the black wall — 50% insanity.
 
 ### **Smells & Sounds**
 
-- **Smells:** Clean, cold water — a relief.
-- **Sounds:** The roar of fast water, constant echo.
-
-### **Loot & Rewards**
-
-- **Hidden Loot:** Caught in the gravel bar at the east arch, deposited from somewhere upstream: a *+1 ring of protection* (silver band).
-
----
-
-## **35. Carrion Crawler Cavern**
-Paralysis from the ceiling.
-
-### **Description**
-A high-ceilinged natural cavern with stalactites. The floor is littered with the stiff, partially-consumed bodies of humanoids and animals — all paralyzed and left for later. Three carrion crawlers move along the ceiling and upper walls and drop on prey that passes beneath.
-
-### **Features & Terrain**
-
-- **Lighting:** None.
-- **Surfaces:** Uneven natural rock; bodies as difficult terrain.
-- **Special Interactions:** Carrion crawlers attack with 8 tentacles; each hit requires a Fortitude save (DC 13) or target is paralyzed.
-
-### **Smells & Sounds**
-
-- **Smells:** Sweet rot — decomposing bodies.
-- **Sounds:** Wet, deliberate movement from above.
+- **Smells**: Cold, sterile, and deeply wrong — like nothing natural.
+- **Sounds**: A faint subsonic vibration that cannot be located.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** 3 Carrion Crawlers (ceiling and walls)
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Hidden Loot:** On the bodies across the floor: 1,200 gp in mixed coin, a *potion of healing*, and a *+1 dagger*.
+- **Visible Loot**:
+- **Hidden Loot**: *Scarab of insanity* (appears on altar after first touch of the black wall). **5,000 gp gem** (appears for the second creature to touch the wall).
+- **Magical Items**: Scarab of insanity.
 
 ---
 
-## **36. Subterranean Lake**
-Dark water, worse things beneath.
+## **18. Vestry**
 
 ### **Description**
-A wide, low-ceilinged natural chamber filled by a dark underground lake. The water is 3–15 feet deep and perfectly still. Four giant lizards (subterranean variety — pale, eyeless) inhabit the shallows and ledges. The far shore is visible only with bright light.
+The visible walls bear faint traces of disgusting murals and bas-relief depictions of unspeakable things. A flight of ridged, step-like stone slants steeply downward toward the south — but this way is **completely blocked** by tons of stone blocks and rubble. There is no way through.
 
 ### **Features & Terrain**
 
-- **Lighting:** None.
-- **Special Interactions:** The giant lizards are territorial but can be avoided with quiet movement and staying out of the water (DC 15 Stealth). Entering the water guarantees attack.
+- **Lighting**: None.
+- **Objects**: Collapsed rubble and stone blocks filling the southern passage entirely.
 
 ### **Smells & Sounds**
 
-- **Smells:** Cold mineral water and algae.
-- **Sounds:** Silence broken by the occasional distant drip.
+- **Smells**: Old dust and the faintest trace of something putrid from behind the rubble.
+- **Sounds**: Silence.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** 4 Giant Lizards (subterranean)
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Hidden Loot:** On the lake bottom (visible with a light source): 8,000 sp, plus a waterproof scroll case containing a *map* pointing to a raided dwarven caravan cache somewhere in the hills above.
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
 
 ---
 
-## **37. Prison Pits**
-Those the giants haven't killed yet.
+## **19. Natural Cavern (Orc Rebel Sanctuary)**
 
 ### **Description**
-A large chamber fitted with iron cage-pits sunk into the stone floor — six of them, covered with iron grates padlocked from above. Some pits are empty. Current prisoners:
+This is part of a large area of natural caves which the ancient dungeon builders came upon. It is now inhabited by **78 escaped orc slaves** — rebels against the hill giants — for whom this is a sanctuary. (See map position **G** for their guard posts.)
 
-- **Pit A:** 3 human merchants (weak, unarmed, know the surface entry layout)
-- **Pit B:** 4 dwarven miners (battered but tough; one has a hidden knife)
-- **Pit C:** 2 elves — a fighter and a mage who has conserved 2 spell slots (*magic missile* and *sleep*)
-- **Pit D:** 3 human soldiers; one (Aldric, Fighter 3) still has fight in him
-- **Pit E:** 1 halfling rogue named Pip, with lockpicks hidden in his boot
+The orcs are armed with clubs, axes, daggers, and various cast-off weapons; there are 7 crossbows among them. There are 3 leader-types, 12 guards of great strength, and 63 others. They get food from raids, supplemented by fungus from a subterranean cave reached through a sinkhole in the southeast. They have an uneasy truce with the troglodytes in Area 20, trading food for water.
+
+If approached non-hostilely and fighting bugbears or giants is mentioned, they will become agreeable and cooperative allies.
 
 ### **Features & Terrain**
 
-- **Lighting:** One torch in a wall sconce, nearly burned out.
-- **Objects:** Each grate is padlocked (DC 22 Thievery or DC 28 Athletics to force). Pip can pick his own lock from inside with DC 18 (weakened from captivity).
+- **Lighting**: A few stolen torches, kept low.
+- **Surfaces**: Natural cavern with stalagmites.
+- **Objects**: Crude barricades at the entrances (positions G on the map).
+- **Special Interactions**: The orcs refer to the rebel orcs from the upper level (Room 20 of upper works) as kin. If the party has spoken with them, the reception here is warmer.
 
 ### **Smells & Sounds**
 
-- **Smells:** Filth and misery.
-- **Sounds:** Quiet conversation that stops the moment anyone enters.
+- **Smells**: Unwashed bodies and fungus.
+- **Sounds**: Hushed voices; the orcs are always alert.
 
 ### **Inhabitants**
 
-- **Passive Creatures:** 13 prisoners. Aldric, the two elves, and the dwarves can fight if armed.
+- **Passive Creatures**: Orc Leaders (3): HD 1+4; hp 11, 10, 9. Orc Guards (12): hp 8 each. Orcs (63): hp 5 each. All potentially cooperative.
+- **Hostile Threats**: Only if attacked or deceived.
+- **Unique NPCs**:
 
 ### **Loot & Rewards**
 
-- **Hidden Loot:** The dwarf's hidden knife (1d4). Pip's masterwork thieves' tools.
+- **Visible Loot**:
+- **Hidden Loot**: Total orc treasure: **45 gp, 23 sp, 119 cp**.
+- **Magical Items**:
 
 ---
 
-## **38. Drow Emissary's Chamber**
-The key to everything — why the giants are raiding.
+## **20. Troglodyte Cavern**
 
 ### **Description**
-Unlike the rest of the dungeon, this room has been furnished with dark elegance: woven black spider-silk hangings cover the walls, an obsidian table holds a worked-silver wine service, and glowstone lanterns cast violet light. The air smells of strange incense. This is the quarters of the drow liaison — a female drow priestess embedded with the hill giant clan to advise and direct the raids on behalf of the drow matriarchs below.
-
-She is attended by three drow warriors in black chain mail. If the party approaches without stealth, she activates her ring of invisibility before they enter. She will flee via the hidden passage before surrendering.
+A small tribe of troglodytes is forced to dwell here, trapped between the orcs at Area 19 and the lizards in Area 21. They are trying to make do until they can escape. The leader carries gems he regards as holy relics — any creature touching them will be savagely attacked by the entire tribe.
 
 ### **Features & Terrain**
 
-- **Lighting:** Violet glowstone lanterns — dim for humans, bright for drow.
-- **Objects:** An obsidian writing desk with documents in the Drow dialect of Elvish. The silver wine service (800 gp as a set). A locked iron coffer.
-- **Doors & Exits:** One door back toward Room 37. Behind the largest wall hanging is a passage leading to natural tunnels heading deeper underground — *the path to the Underdark and the D series.*
-- **Special Interactions:** The documents on the desk, if translated (Elvish or Undercommon), describe "the plan of the Matron" and reference "the City Below" with a recurring web-symbol. **This is the adventure hook for D1.**
+- **Lighting**: None.
+- **Surfaces**: Natural cavern with stalagmites.
+- **Special Interactions**: The troglodytes have an uneasy truce with the orcs (trading water for food). They will not aid the party; they simply want everyone to leave them alone.
 
 ### **Smells & Sounds**
 
-- **Smells:** Exotic incense — burnt silk and deep earth.
-- **Sounds:** Near silence. The drow move without sound.
+- **Smells**: The distinctively nauseating musk of troglodytes — a sharp, oily reek.
+- **Sounds**: Hissing whispers in their own tongue.
 
 ### **Inhabitants**
 
-- **Hostile Threats:** 3 Drow Warriors (black chain mail, hand crossbow with poisoned bolts, short sword)
-- **Unique NPCs:** Drow Emissary (female drow priestess — black chain mail +3, +1 whip, *ring of invisibility*, spider-silk cloak)
+- **Passive Creatures**:
+- **Hostile Threats**: Troglodyte Males (20): hp 15, 14, 14, 13, 13, 12, 10×6, 9, 8×5, 7, 6. Troglodyte Females (13): hp 13, 11×3, 10, 9, 8, 7, 7, 6, 5, 5, 4. Young (7): hp 2 each (non-combatant).
+- **Unique NPCs**: Troglodyte leader.
 
 ### **Loot & Rewards**
 
-- **Visible Loot:** The silver wine service (800 gp).
-- **Hidden Loot:** The iron coffer (DC 24 lock): 6 large gems (1,000 gp each), a silver spider medallion (100 gp), and the *Letter of the Matron* — orders in Drow script sealed with a spider-crest, making clear the giants are puppets.
-- **Magical Items:** The emissary's *ring of invisibility* (if she is slain or captured). A *scroll of web* and a *scroll of darkness* in the coffer alongside the gems.
+- **Visible Loot**:
+- **Hidden Loot**: Leader carries 4 gems (**500 gp** each). Other males carry seven mediocre gems (**100 gp** each) and two poor gems (**50 gp** each). All regarded as sacred — touching them triggers combat.
+- **Magical Items**:
 
-### **Additional Notes**
-The hidden passage behind the wall hanging leads downward into natural caves that eventually reach the Underdark. The Letter of the Matron is the key evidence that the giant raids are being orchestrated from below, propelling the party into the D series.
+---
+
+## **21. Lizards' Lair**
+
+### **Description**
+A mated pair of exceptionally old and large subterranean lizards have chosen this spot to raise their four young. They occasionally dart out to hunt troglodytes or orcs, but their main hunting ground is the series of caves beneath their own, accessed through a sinkhole at the east edge of their lair. No treasure.
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Surfaces**: Natural cavern. Sinkhole at the east edge leads to deeper caves.
+- **Special Interactions**: The lizards will pursue fleeing prey into the natural cavern areas but not into finished stonework.
+
+### **Smells & Sounds**
+
+- **Smells**: Reptilian musk and damp stone.
+- **Sounds**: Faint scraping of claws on stone.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**: Subterranean Lizards (6): Adult pair hp 47, 40; young hp 25, 22, 20, 19.
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **22. Passage to Cistern**
+
+### **Description**
+A well-lit broad passage leads to a chamber filled with a deep pool of water. The dark liquid is cool and wholesome to drink; nothing lives in it. It is an emergency water supply fed from several springs coming through holes in the west wall. The pool is **14 feet deep**. At the bottom is a small outlet of finished stone — obviously man-made — large enough for a person to pass through. This outlet gives slanting upward access to the stream flowing through Cavern 23. Any creature going down the stream will emerge about a mile below the steading in a small pond.
+
+### **Features & Terrain**
+
+- **Lighting**: Well-lit (torches maintained here for easy access).
+- **Objects**: Deep pool, fed by wall springs.
+- **Special Interactions**: The underwater outlet is the only secret exit from the dungeon. Swimming to and through it requires breath control; the passage deposits swimmers a mile away from the steading in a small outdoor pond — effectively a guaranteed escape route.
+
+### **Smells & Sounds**
+
+- **Smells**: Clean, cold water — a relief after the rest of the dungeon.
+- **Sounds**: The gentle burbling of the spring inlets.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **23. Cavern of the Carrion Crawlers**
+
+### **Description**
+All carrion crawlers in the entire cave complex breed here. Over the years a litter of bones has built up from prey dragged here to devour at leisure — all sorts of bones, human and otherwise, heaped and piled throughout. Two crawlers are in the northeast finger of the cavern. Every turn there is a **30% chance** that 1–3 more appear from the north or south along the stream or through sinkholes.
+
+There is treasure here, but it takes **3 persons** to search a 10×10-foot area per turn. Each area thoroughly checked might yield something, and may only be searched once.
+
+**Treasure table (d100):**
+- 01–25: None
+- 26–35: 1–100 cp
+- 36–45: 1–100 sp
+- 46–55: 1–100 gp
+- 56–65: 1–20 pp
+- 66–70: 1–8 gems
+- 71–75: 1 piece of jewelry
+- 76–82: 1 potion
+- 83–87: 1 scroll
+- 88–91: 1 ring
+- 92: 1 wand (or rod or staff)
+- 93: 1 miscellaneous magic item
+- 94: 1 sword or misc. weapon
+- 95–97: 1 armor and/or shield
+- 98–00: 1–100 ep
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Surfaces**: Uneven natural rock, bone litter (difficult terrain throughout).
+- **Special Interactions**: Crawlers attack with tentacles; each hit causes paralysis (save or be immobilized). Seldom does any creature voluntarily come here.
+
+### **Smells & Sounds**
+
+- **Smells**: Sweet rot — the smell of the bone pile permeates everything.
+- **Sounds**: Wet, deliberate movement from the crawlers.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**: Carrion Crawlers (2 present, more may arrive): hp 19, 16.
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**: Roll on treasure table per 10×10-foot area searched (requires 3 persons, 1 turn each area).
+- **Magical Items**: Possible per treasure table.
+
+---
+
+## **24. Storage Room**
+
+### **Description**
+This chamber is filled with scattered tools for digging and stone masonry: shovels, pickaxes, hammers, drills, chisels, baskets, and so forth — many sized for giants, others for smaller creatures. The door to the north is locked with a huge padlock. (If the upper level was burned, this area will house any surviving ogres.)
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Objects**: Digging and masonry tools of all sizes, scattered throughout.
+- **Doors & Exits**: Door to north locked with a huge padlock (DC 26 to pick or force).
+
+### **Smells & Sounds**
+
+- **Smells**: Stone dust and old iron.
+- **Sounds**: Silence.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **25. Wine Cellar**
+
+### **Description**
+The door to this room is also padlocked. Inside are several large casks, 11 big barrels, some various kegs, and **13 tuns (5-gallon) of exceptional wine**. Each tun has a bung sealed with a blob of black wax impressed with a death's head.
+
+If the wine is tasted, there is a **75% chance** the taster will continue to quaff it until in a drunken stupor (one quart will make a giant reel; a gill will make a human tipsy). The wine is the property of the creatures masterminding the giant attacks — a gift to the chief for his services. It is black, has a slightly earthy smell, and tastes like no other drink. **Market value: 200–800 gp per quart.**
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Objects**: Large casks, 11 big barrels, kegs, 13 death's-head-sealed tuns of exceptional wine.
+- **Doors & Exits**: Padlocked door (DC 24 to pick or force).
+- **Special Interactions**: Any character who tastes the wine must make a Constitution save (DC 16) or be compelled to keep drinking until stuporous.
+
+### **Smells & Sounds**
+
+- **Smells**: A faint earthy sweetness seeps under the door.
+- **Sounds**: Silence.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**: 13 tuns of exceptional wine at 200–800 gp per quart.
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **26. Gallery (Being Cleared)**
+
+### **Description**
+The north face of this area is being cleared, and a few tools are left in that area. The place is otherwise unremarkable and empty. (If the upper level was burned, surviving giants shelter here.)
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Objects**: A few tools near the north wall.
+
+### **Smells & Sounds**
+
+- **Smells**: Fresh-cut stone.
+- **Sounds**: Silence.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **27. Chamber (Being Cleared)**
+
+### **Description**
+Another unlit and unremarkable place with a few tools left lying around. (Same contingency as Room 26 for surviving giants after an upper-level fire.)
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **28. Quarters for Stone Giant Miners**
+
+### **Description**
+Three stone giants who are subordinates of the leader in the Great Hall above make this their abode. Piles of skins, five cots, several stools, two tables, and several chests and sacks containing personal gear. These monsters are the masterminds and engineers for all dungeon work.
+
+### **Features & Terrain**
+
+- **Lighting**: A few wall torches.
+- **Objects**: Five cots, stools, two tables, several chests and sacks (personal gear).
+- **Special Interactions**: The giants know the full dungeon layout and the purpose of every room. If somehow subdued and questioned, they can describe Rooms 29–33 in detail.
+
+### **Smells & Sounds**
+
+- **Smells**: Stone and mineral — the distinctive scent of stone giants.
+- **Sounds**: Deep, slow breathing if they are asleep.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**: Stone Giants (3): HD 9+3; hp 47, 44, 39.
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**: **14,230 gp** in the **third chest opened**.
+- **Magical Items**:
+
+---
+
+## **29. Empty Chambers (Trap)**
+
+### **Description**
+At first glance the place appears entirely unused. But there is a faint glint of light from the far (west) wall. Entering to investigate reveals a pile of coffers, one tipped so as to spill its contents of **phony gems and jewelry**. The dotted area to the east marks where thick iron bars drop from the ceiling to trap intruders the moment the "treasure" is disturbed. (See Rooms 30 and 32.)
+
+### **Features & Terrain**
+
+- **Lighting**: None — except the faint glint of the fake gems catching any light source the party carries.
+- **Objects**: Pile of coffers (one spilled) with fake gems and jewelry.
+- **Special Interactions**: Touching or moving any of the "treasure" triggers the drop-bars trap. The bars seal off the entry, trapping the party between the east bars and the manticores released from Room 30 (via the north bars).
+
+### **Smells & Sounds**
+
+- **Smells**: Stale and dusty.
+- **Sounds**: Silence — until the bars drop with a thunderous clang.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**: If triggered, 4 insane manticores enter from Room 30 via the north bars.
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**: The "treasure" is entirely fake — worthless glass and pot metal.
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **30. Prison**
+
+### **Description**
+This area holds **four insane manticores** caged here by Nosnra to guard his treasure. They are fed kitchen garbage dumped down a chute from above and are wild with rage at their captivity. They will insanely attack any creature if the opportunity presents itself.
+
+The bars holding the manticores are thick and close-set — they **cannot fire their tail spikes** through the gaps. The northern bars (toward Room 29) are not so closely set. (See also Room 32 for the lever mechanism.)
+
+**Bar mechanics:**
+- South bars: hold the manticores in Room 30.
+- North bars: drop after manticores enter Room 29 (triggered by the trap).
+- Northern bars are raised when the eastern bars in Room 29 are dropped.
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Objects**: Heavy cage bars, chute from above (delivers garbage).
+- **Special Interactions**: Manticores cannot use tail spikes from inside their cage (bars too close-set). If the south bars are opened from Room 32, all four rush into Room 29.
+
+### **Smells & Sounds**
+
+- **Smells**: Overwhelming animal musk and rotten food.
+- **Sounds**: Constant low snarling and the scrape of claws on stone.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**: Manticores (4, insane): hp 51, 48, 45, 40.
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **31. Minor Treasure Room**
+
+### **Description**
+This place is the storage area for the overflow coinage of the chief. Seven chests and some empty boxes.
+
+**Chest contents:**
+1. 13,000 cp
+2. 27,300 sp — **scything blade trap** (2–12 damage, severs a limb on a natural 20)
+3. 7,140 ep + a *potion of poison*
+4. 27 copper ingots worth 400 cp each
+5. Empty
+6. 11 ivory tusks worth **1,000 gp** each
+7. 980 gems of 1 gp value each — **poison needle trap** in the lock, another in the empty false bottom
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Objects**: Seven chests, some empty boxes.
+- **Special Interactions**: Chest 2 has a scything blade trap (Perception DC 20 to notice, Thieves' Tools DC 18 to disarm). Chest 7 has a poison needle in the lock AND another in the false bottom — two separate traps.
+
+### **Smells & Sounds**
+
+- **Smells**: Metal and old wood.
+- **Sounds**: Silence.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**: Chest contents as listed above.
+- **Hidden Loot**:
+- **Magical Items**: Potion of poison (chest 3).
+
+---
+
+## **32. Secret Room**
+
+### **Description**
+This hidden room is provided with spy holes so the chief can look out upon Areas 1 and 29. (There are also spy holes at about **5 feet high** that the hill giants have never noticed — sized for smaller creatures.) Three levers on the west wall each raise and lower one of the sets of bars described at Rooms 29 and 30.
+
+### **Features & Terrain**
+
+- **Lighting**: None — must bring one's own.
+- **Objects**: Three levers on the west wall.
+- **Special Interactions**: Lever functions (from left to right, for example): raise/lower east bars in Room 29; raise/lower north bars in Room 29; raise/lower south bars in Room 30. The low spy holes (5 feet) are sized for man-height creatures and were placed by the original builders — giants have never bent down to use them.
+
+### **Smells & Sounds**
+
+- **Smells**: Dust.
+- **Sounds**: Faint sounds of Room 29 and the manticores in Room 30 can be heard through the spy holes.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**:
+- **Hidden Loot**:
+- **Magical Items**:
+
+---
+
+## **33. Chief's Treasure Room**
+
+### **Description**
+**Hidden pit trap:** A snap-closed trapdoor cover conceals a pit with four iron spikes set 10 feet below — each spike is poisoned. There is a **50% chance** to fall in for each person passing over the area; a second line has only a **25% chance** if persons in the leading row already fell in.
+
+The room contains several immediately visible items, plus concealed items hidden by illusions.
+
+**Obvious contents:**
+- Large chest: **23,840 gp**
+- Iron Box (locked): **4,139 pp**
+- Small coffer: **62 gems** (41 × 100 gp, 13 × 500 gp, 8 × 1,000 gp)
+- Small coffer: **17 pieces of jewelry** (500 gp each, no gems)
+- Three empty and broken boxes
+
+**Southeast corner — illusory broken barrel:** Actually a well-made, watertight cask containing:
+- A **map** showing the location of the Glacial Rift of the Frost Giant Jarl
+- An **obsidian box** holding a chain of weird black metal (adamantium alloy) with instructions written in Hill Giant: the chain is looped into a figure-8, transporting up to 6 persons in each circle to the Glacial Rift — if one of their number holds the map
+
+**Southwest corner — illusory yellow mold growth:** Actually conceals items hung on the wall:
+- A quiver of **11 arrows +2**
+- A **spear +3**
+- **Sword +1, flametongue #1:** Chaotic alignment (good or neutral); Intelligence 10, Ego 12; detects gems (kind and number); communicates by empathy
+- **Sword +1, flametongue #2:** Neutral alignment (good or lawful); Intelligence 6
+
+### **Features & Terrain**
+
+- **Lighting**: None.
+- **Objects**: As described above. The pit trap is in the center of the room.
+- **Special Interactions**: The broken barrel and yellow mold are illusions — *true seeing* or *detect magic* reveals them. The adamantium chain teleports only if looped into a figure-8 and the map is held by one of the travellers.
+
+### **Smells & Sounds**
+
+- **Smells**: Old metal and cold stone.
+- **Sounds**: Complete silence.
+
+### **Inhabitants**
+
+- **Passive Creatures**:
+- **Hostile Threats**:
+- **Unique NPCs**:
+
+### **Loot & Rewards**
+
+- **Visible Loot**: See obvious contents above.
+- **Hidden Loot**: Watertight cask (illusory barrel): map to Glacial Rift + adamantium transport chain + Hill Giant instructions.
+- **Magical Items**: Arrows +2 (×11), Spear +3, two Swords +1 flametongue, adamantium transport chain (see above).
