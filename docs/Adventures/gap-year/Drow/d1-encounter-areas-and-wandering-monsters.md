@@ -179,5 +179,5 @@ Roll 1d6, add +0 for Primary passage, +6 for Secondary, +12 for Tertiary.
 
 - [d1-ch8-grand-cavern.md](d1-ch8-grand-cavern.md) — Chapter 8 encounter areas 1–40 (Warrens of the Troglodytes)
 - [d1-2-hex-map-key.md](d1-2-hex-map-key.md) — Hex map sectors for the full descent
-- [d3-map-info.md](d3-map-info.md) — Vault of the Drow / Xilthraen district map
+- [d3-map-info.md](d3-map-info.md) — Vault of the Drow / Xil district map
 - [foundry-tables/](foundry-tables/) — Foundry VTT JSON rollable tables for all wandering monster tables

@@ -1,7 +1,7 @@
 ---
 title: House Dravun — The Fang Legion
 updated: 2026-03-10
-tags: ["drow", "xilthraen", "house-dravun", "arc3"]
+tags: ["drow", "xil", "house-dravun", "arc3"]
 ---
 
 ## House Dravun — "The Fang Legion"
@@ -86,7 +86,7 @@ The house does not attempt to hold ground. They break things and leave.
 
 ## Personality & Politics
 
-Pragmatic to the point of cynicism. Yvra Dravun does not believe in Lolth's mandate or Vel'dryn's grievances. She believes in contract terms, breeding records, and the knowledge that every house in Xilthraen needs her cooperation more than she needs any single one of them.
+Pragmatic to the point of cynicism. Yvra Dravun does not believe in Lolth's mandate or Vel'dryn's grievances. She believes in contract terms, breeding records, and the knowledge that every house in Xil needs her cooperation more than she needs any single one of them.
 
 Nelyth is the house's edge — her venom programs have produced toxins that can drop a quaggoth in six seconds, which she uses as both a product and a demonstration. She also runs counter-intelligence. Thalmyr wants eyes inside Dravun's pens; Nelyth has made that consistently expensive.
 
@@ -97,5 +97,5 @@ Krael is quieter than his sister and more dangerous in the field. He communicate
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
-- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [xil-overview.md](xil-overview.md) — City overview, district layout
 - [drow-house-overview.md](drow-house-overview.md) — All-houses summary

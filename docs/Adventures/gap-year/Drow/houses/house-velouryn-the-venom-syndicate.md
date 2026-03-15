@@ -1,12 +1,12 @@
 ---
 title: House Velouryn — The Venom Syndicate
 updated: 2026-03-10
-tags: ["drow", "xilthraen", "house-velouryn", "arc3"]
+tags: ["drow", "xil", "house-velouryn", "arc3"]
 ---
 
 ## House Velouryn — "The Venom Syndicate"
 
-The merchant house. Every house in Xilthraen ultimately depends on trade that flows through Velouryn-controlled routes — fungal reagents, surface metals, exotic poisons, slave-stock, and the alchemical components that Veythrae's labs require. The Venom Syndicate is named for its original specialty but has expanded into a full-service logistics operation. They do not fight wars; they decide who can afford to.
+The merchant house. Every house in Xil ultimately depends on trade that flows through Velouryn-controlled routes — fungal reagents, surface metals, exotic poisons, slave-stock, and the alchemical components that Veythrae's labs require. The Venom Syndicate is named for its original specialty but has expanded into a full-service logistics operation. They do not fight wars; they decide who can afford to.
 
 Trade Captain Malryk Velouryn is currently stationed at the Shard Warrens on the Sunless Sea, running the external supply chain through the kuo-toa smuggling corridor that bypasses Xilrath's D3 checkpoint. His ledgers document the Veythrae-kuo-toa arrangement in enough detail to be politically explosive.
 
@@ -30,7 +30,7 @@ The tension with Thalmyr is ongoing — both houses run courier networks and inf
 
 | Name | Title | Level | Role |
 | --- | --- | --- | --- |
-| Ulvrae Velouryn | Matron Mother | Lvl 11 Cleric with Rogue dedication | Controls the syndicate from Xilthraen; all contracts require her seal |
+| Ulvrae Velouryn | Matron Mother | Lvl 11 Cleric with Rogue dedication | Controls the syndicate from Xil; all contracts require her seal |
 | Malryk Velouryn | Trade Captain | Lvl 8 Rogue (Mastermind) | Overseas operations; currently stationed at the Shard Warrens |
 | Thivra Velouryn | Poisonmistress | Lvl 7 Alchemist (Bomber/Poisoner) | Runs the alchemical labs; primary product and secondary weapon |
 
@@ -75,7 +75,7 @@ Velouryn does not field armies. When forced to fight, they collapse tunnel appro
 
 The alchemical corps maintains stockpiles of contact poisons and inhalants calibrated for confined-space deployment. A Velouryn ambush in a trade tunnel is extremely effective against a numerically superior force that cannot maneuver.
 
-**Weakness:** Militarily the weakest house in Xilthraen. Any force that can weather the initial poison deployment and close to melee overwhelms them. The house knows this and does not allow confrontations to reach that stage if they can avoid it.
+**Weakness:** Militarily the weakest house in Xil. Any force that can weather the initial poison deployment and close to melee overwhelms them. The house knows this and does not allow confrontations to reach that stage if they can avoid it.
 
 **Darkness Tactics:** Enforcers carry pre-mixed smokepots — substances that foul darkvision and create mixed darkness/smoke environments. The effect is disorienting to drow and lethal to most other Underdark races at close range.
 
@@ -95,5 +95,5 @@ Thivra is the one house member who enjoys her work in a way that makes the other
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
 - [the-shard-warrens.md](the-shard-warrens.md) — Malryk's current station; external supply chain hub
-- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [xil-overview.md](xil-overview.md) — City overview, district layout
 - [drow-house-overview.md](drow-house-overview.md) — All-houses summary

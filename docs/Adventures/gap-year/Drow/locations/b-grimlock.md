@@ -137,7 +137,7 @@ The forward position on the caravan route toward Sector C and the drow checkpoin
 
 ## Relationship to Other Factions
 
-**Xilthraen (Drow):**
+**Xil (Drow):**
 A tolerance arrangement, not an alliance. The drow allow the Blind Warrens to exist; the grimlocks allow drow caravans to pass unmolested. The drow also provide occasional "tribute" — cast-off slaves and food surplus that would otherwise be wasted. Vrakt is under no illusions about what this means: the drow could end the arrangement any time they found it inconvenient. He has spent thirty years making himself inconvenient to remove.
 
 House Dravun handles the practical relationship — a standing arrangement managed through infrequent courier contact and a simple token system for authorized caravans. House Xilrath ignores the grimlocks entirely, which Vrakt considers a safe relationship.

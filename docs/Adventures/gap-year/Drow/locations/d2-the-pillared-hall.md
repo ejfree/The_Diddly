@@ -34,7 +34,7 @@ A vast natural cavern the size of a cathedral, filled with enormous stalagmites 
 
 - **Passive Creatures**: 2 giant lizard mounts (with the drow patrol)
 
-- **Hostile Threats**: A resting drow patrol — 4 soldiers, 1 priestess, 2 giant lizard mounts. On their way back to Xilthraen after a surface raid and in good humor. Will be suspicious of the PCs but can be bluffed with convincing cover.
+- **Hostile Threats**: A resting drow patrol — 4 soldiers, 1 priestess, 2 giant lizard mounts. On their way back to Xil after a surface raid and in good humor. Will be suspicious of the PCs but can be bluffed with convincing cover.
 
 - **Unique NPCs**:
 

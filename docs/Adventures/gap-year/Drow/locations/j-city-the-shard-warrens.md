@@ -12,13 +12,13 @@ The Shard Warrens is the eastern Underdark's open secret: a city that officially
 
 The city grew around a major Khyber dragonshard vein — a seam of raw shard crystal running through the cavern walls for nearly a mile. Dragonshard mining requires knowledge most Underdark races don't have; it attracted **derro** first, then everyone else. What began as a mining camp became a supply depot, then a slave market, then a black market, then something large enough to have a mayor (they call the position the **Warden**), a town watch (they call it the **Lash**, which tells you something about its priorities), and three factions all competing for control of the shard output.
 
-The Warrens sit on the eastern side of the Underdark corridor between the Sunless Sea shore to the north and the main tunnel approach to Xilthraen to the west. Its position makes it impossible to avoid if you are moving goods through the eastern corridor.
+The Warrens sit on the eastern side of the Underdark corridor between the Sunless Sea shore to the north and the main tunnel approach to Xil to the west. Its position makes it impossible to avoid if you are moving goods through the eastern corridor.
 
 ---
 
 ### Location
 
-**Eastern Underdark, southeastern shore of the Sunless Sea.** One major approach tunnel from the south (connects to unexplored deep passages, origin of most new arrivals and goods); one from the west (toward Xilthraen and the Slave Road); one water-route from the north (Sunless Sea, connects to kuo-toa piers and the Mindspire's trade vessels). The city is built into a cavern cluster that the original derro miners expanded aggressively — rooms cut directly into the dragonshard seam, which means the walls in the older districts literally glow faintly with contained psionic energy.
+**Eastern Underdark, southeastern shore of the Sunless Sea.** One major approach tunnel from the south (connects to unexplored deep passages, origin of most new arrivals and goods); one from the west (toward Xil and the Slave Road); one water-route from the north (Sunless Sea, connects to kuo-toa piers and the Mindspire's trade vessels). The city is built into a cavern cluster that the original derro miners expanded aggressively — rooms cut directly into the dragonshard seam, which means the walls in the older districts literally glow faintly with contained psionic energy.
 
 ---
 
@@ -152,7 +152,7 @@ The Lash Post also functions as the Warrens' information clearinghouse: anyone w
 
 House Velouryn's official presence occupies three connected rooms in the Exchange's northeast corner — the most defensible commercial position in the building, which was not an accident. The outer room is a standard trade office with a clerk (actually a Thalmyr informant, but Malryk knows and finds it convenient to let them report back selectively). The middle room is a secure meeting space with sound-deadening stone walls and a door that requires both a physical key and a verbal pass-code to open. The back room is locked at all times and entered only by Malryk personally.
 
-**Trade Captain Malryk Velouryn** (Lvl 8 Rogue with Mastermind archetype) keeps the ledgers in the back room. Not all the ledgers — the most sensitive material is encrypted and stored in a location only he knows — but enough to prove the Veythrae-kuo-toa supply route, two cases of falsified slave-origin paperwork, and one transaction that, if it became public in Xilthraen, would end the Velouryn-Veythrae alliance immediately and possibly House Velouryn's existence shortly afterward.
+**Trade Captain Malryk Velouryn** (Lvl 8 Rogue with Mastermind archetype) keeps the ledgers in the back room. Not all the ledgers — the most sensitive material is encrypted and stored in a location only he knows — but enough to prove the Veythrae-kuo-toa supply route, two cases of falsified slave-origin paperwork, and one transaction that, if it became public in Xil, would end the Velouryn-Veythrae alliance immediately and possibly House Velouryn's existence shortly afterward.
 
 Malryk is professional, charming, and will be aware the PCs are in the Warrens within two hours of their arrival. He will make contact on his timeline.
 
@@ -192,7 +192,7 @@ Non-psionic creatures can stand here with no mechanical effect, which the acolyt
 
 ### The Shard Seam — What It Actually Is
 
-The dragonshard vein is approximately 280 years old — formed when a Khyber manifest zone crystallized in the cavern rock. Khyber dragonshards hold demonic and binding energies in Eberron lore; this seam is no different. The raw shards are useful for arcane binding, containment rituals, and demon-summoning — which is why House Veythrae (Xilthraen's arcane house) buys them in quantity through House Velouryn intermediaries.
+The dragonshard vein is approximately 280 years old — formed when a Khyber manifest zone crystallized in the cavern rock. Khyber dragonshards hold demonic and binding energies in Eberron lore; this seam is no different. The raw shards are useful for arcane binding, containment rituals, and demon-summoning — which is why House Veythrae (Xil's arcane house) buys them in quantity through House Velouryn intermediaries.
 
 The seam has been mined for three centuries and should be exhausted. It is not. The Seam-Keepers know this. They do not know why. Deepmistress Yurra from Grimstone Holds suspects the east passage connects to this seam's source, which would mean the seam is not a deposit but a conduit — something generating Khyber energy from deeper down is feeding it.
 
@@ -202,11 +202,11 @@ The Pale Choir acolytes believe the seam is alive. This may be less metaphorical
 
 ### House Velouryn's Operation Here
 
-House Velouryn (Xilthraen's mercantile/poison house) runs its entire external supply chain through the Shard Warrens. Trade Captain Malryk Velouryn keeps a permanent office in the Exchange and pays the Freeblades' contract personally. Velouryn's operations here:
+House Velouryn (Xil's mercantile/poison house) runs its entire external supply chain through the Shard Warrens. Trade Captain Malryk Velouryn keeps a permanent office in the Exchange and pays the Freeblades' contract personally. Velouryn's operations here:
 
-- **Slave acquisition:** Velouryn buys from the Warrens' pens and supplies to Xilthraen's slave registry
-- **Contraband flow:** Surface goods that would require explanation in Xilthraen pass through Velouryn's Shard Warrens office first, laundered through Exchange paperwork
-- **Poison supply:** The Warrens source rare alchemical components Xilthraen's own production can't match; Velouryn's Poisonmistress Thivra has standing orders here
+- **Slave acquisition:** Velouryn buys from the Warrens' pens and supplies to Xil's slave registry
+- **Contraband flow:** Surface goods that would require explanation in Xil pass through Velouryn's Shard Warrens office first, laundered through Exchange paperwork
+- **Poison supply:** The Warrens source rare alchemical components Xil's own production can't match; Velouryn's Poisonmistress Thivra has standing orders here
 - **The Veythrae-kuo-toa deal:** Trade Captain Malryk is the one routing Veythrae's arcane supply through the Sunless Sea water-route, bypassing Xilrath's checkpoint (D3). He does not advertise this.
 
 If the PCs want leverage over House Velouryn, the Shard Warrens is where to find it. If House Velouryn learns the PCs are in the Warrens, Malryk will take an interest in them.
@@ -217,7 +217,7 @@ If the PCs want leverage over House Velouryn, the Shard Warrens is where to find
 
 #### The Free Port
 
-The Shard Warrens is the one place in the eastern Underdark where the PCs can move around without drow paperwork — as long as they have coin and don't cause trouble. It is the logical place to resupply, gather intelligence, and make contacts before approaching Xilthraen. Warden Crael will receive them with professional neutrality. He has no particular stake in whether they succeed or fail at whatever they're doing, but he does have a price for everything he knows.
+The Shard Warrens is the one place in the eastern Underdark where the PCs can move around without drow paperwork — as long as they have coin and don't cause trouble. It is the logical place to resupply, gather intelligence, and make contacts before approaching Xil. Warden Crael will receive them with professional neutrality. He has no particular stake in whether they succeed or fail at whatever they're doing, but he does have a price for everything he knows.
 
 #### The Pale Choir Problem
 
@@ -227,7 +227,7 @@ This is directly connected to the Mindspire's amplification broadcast. Stopping 
 
 #### Malryk's Ledger
 
-House Velouryn's trade books in the Shard Warrens contain evidence of the Veythrae-kuo-toa supply route and several other transactions that powerful people in Xilthraen would not want documented. Malryk knows where the books are. Thalmyr agent at the Ashen Cup (Grimstone Holds) also knows they exist and has been trying to access them for six months. The PCs arriving is a new variable in an existing operation.
+House Velouryn's trade books in the Shard Warrens contain evidence of the Veythrae-kuo-toa supply route and several other transactions that powerful people in Xil would not want documented. Malryk knows where the books are. Thalmyr agent at the Ashen Cup (Grimstone Holds) also knows they exist and has been trying to access them for six months. The PCs arriving is a new variable in an existing operation.
 
 #### The Conduit
 

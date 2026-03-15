@@ -1,12 +1,12 @@
 ---
 title: House Veythrae — The Shadowfire Cadres
 updated: 2026-03-10
-tags: ["drow", "xilthraen", "house-veythrae", "arc3"]
+tags: ["drow", "xil", "house-veythrae", "arc3"]
 ---
 
 ## House Veythrae — "The Shadowfire Cadres"
 
-The arcane powerhouse of Xilthraen. Half wizard academy, half laboratory, the house obsesses over shadowfire research — a proprietary fusion of flame and darkness magic that no other house can replicate. They disdain brute force as a failure of imagination, but their battle-mages, bound fiends, and enchantment-laced soldiers give them battlefield impact that the sword-houses cannot match. The problem is that they cannot sustain a war alone, which is why they need Xilrath — and why they resent Xilrath for it.
+The arcane powerhouse of Xil. Half wizard academy, half laboratory, the house obsesses over shadowfire research — a proprietary fusion of flame and darkness magic that no other house can replicate. They disdain brute force as a failure of imagination, but their battle-mages, bound fiends, and enchantment-laced soldiers give them battlefield impact that the sword-houses cannot match. The problem is that they cannot sustain a war alone, which is why they need Xilrath — and why they resent Xilrath for it.
 
 ---
 
@@ -18,7 +18,7 @@ The rivalry with Xilrath is structural. Vel'dryn commands larger armies; Thalara
 
 **Council Stance:** War, but fought on Veythrae's terms — arcane bombardment first, infantry second.
 
-**Allies:** Thalmyr (intelligence sharing; Thalmyr's dossiers feed Veythrae's targeting), Zhaelor (shared theological cover for experimental casualties)
+**Allies:** Thalmyr (intelligence sharing; Thalmyr's dossiers feed Veythrae's targeting), Zhaelor (shared theological cover for experimental casualties), Velouryn (kuo-toa corridor smuggling funds Veythrae's research; a financial relationship neither house advertises)
 
 **Rivals:** Xilrath (doctrine disputes; Vel'dryn views magic as support, Thalara views infantry as expendable screens)
 
@@ -95,5 +95,5 @@ She believes, with some justification, that the war only goes well if she contro
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
-- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [xil-overview.md](xil-overview.md) — City overview, district layout
 - [drow-house-overview.md](drow-house-overview.md) — All-houses summary

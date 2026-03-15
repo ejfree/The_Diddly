@@ -6,7 +6,7 @@ tags: ["drow", "underdark", "hex-map", "d1", "d2", "arc3"]
 
 # D1-2 Hex Map Key — Descent into the Depths
 
-The hex map covers the Underdark journey from the G3 (Fire Giant Lair) exit to the outer gates of Xilthraen. Organized into seven sectors by depth and dominant faction. Travel is roughly linear, but side branches exist at C1, F2, and G1.
+The hex map covers the Underdark journey from the G3 (Fire Giant Lair) exit to the outer gates of Xil. Organized into seven sectors by depth and dominant faction. Travel is roughly linear, but side branches exist at C1, F2, and G1.
 
 ---
 
@@ -158,7 +158,7 @@ A 300-foot gallery tunnel where grimlock pictographs cover every surface floor t
 ###  B7 — The Rendering Pits
 A wide natural depression in the cavern floor roughly two hours past the D3 checkpoint, where the tunnel opens briefly before narrowing again toward the E-sector descent. The pits themselves are former mineral pools, long since drained and repurposed — eight stone basins, each 15 feet across and 6 feet deep, currently used by House Dravun as a field processing station for quaggoth handlers and slave-conditioning crews.
 
-The official function is logistical: slaves who arrive in poor condition after the surface journey are assessed here, medically stabilized if worth the cost, or culled. Quaggoths that have become erratic or uncontrollable are reconditioned here using methods that Dravun's handlers prefer to conduct away from Xilthraen's more fastidious houses.
+The official function is logistical: slaves who arrive in poor condition after the surface journey are assessed here, medically stabilized if worth the cost, or culled. Quaggoths that have become erratic or uncontrollable are reconditioned here using methods that Dravun's handlers prefer to conduct away from Xil's more fastidious houses.
 
 - **Population:** 2 Dravun handlers (Lvl 4 Rangers, beast-master configuration), 6 quaggoths in varying states of conditioning, 14–22 slaves in the assessment pens, 1 Dravun apothecary managing the medicinal side
 - **The Apothecary — Thessivir Dravun:** Female, Lvl 5 Cleric (Death domain), pragmatic to the point of clinical detachment. She is the most knowledgeable person at the Pits and the most dangerous to cross. She maintains a field formulary of sedatives, pain compounds, and accelerants that she has developed personally over twenty years of handler work. She will trade apothecary supplies for information about surface-world medicinal sources — she is always looking for new inputs.
@@ -176,7 +176,7 @@ The official function is logistical: slaves who arrive in poor condition after t
 The first major navigation decision. An underground river splits here — the left fork flows toward the Sunless Sea (sector E); the right fork leads into a dead-end kuo-toa fishing tunnel used for smuggling. Carved drow arrows (decades old) point left.
 
 - **Terrain:** Wet stone, slippery. The river runs fast — falling in means a DC 18 Athletics check to grab a ledge within 60 feet or be carried toward C2 with force
-- **Encounter:** A drow slave caravan may be camped here — 2 drow handlers, 8 goblinoid slaves, 1 quaggoth. They are returning to Xilthraen and are weary. Could be ambushed or possibly infiltrated.
+- **Encounter:** A drow slave caravan may be camped here — 2 drow handlers, 8 goblinoid slaves, 1 quaggoth. They are returning to Xil and are weary. Could be ambushed or possibly infiltrated.
 - **Side Branch:** The right fork — if explored — leads to a hidden kuo-toa cache (dried fish, a water-breathing potion, crude silver idol)
 - **See:** [c1-the-river-fork.md](locations/c1-the-river-fork.md)
 
@@ -214,7 +214,7 @@ The main corridor becomes noticeably more worked — the rough tunnel widens int
 A vast natural cavern the size of a cathedral, filled with enormous stalagmites and stalactites that have partially fused into floor-to-ceiling pillars. A traditional waypoint on the Slave Road — the stone floor around the central cluster shows centuries of campfire scars, discarded rope, and food refuse.
 
 - **Scale:** Roughly 200 feet across; multiple entrances/exits including two secret side passages (DC 20 Perception to spot)
-- **Encounter:** A resting drow patrol — 4 soldiers, 1 priestess, 2 giant lizard mounts. They are on their way back to Xilthraen after a surface raid and are in good humor. They will be suspicious of the PCs but can be bluffed with convincing cover.
+- **Encounter:** A resting drow patrol — 4 soldiers, 1 priestess, 2 giant lizard mounts. They are on their way back to Xil after a surface raid and are in good humor. They will be suspicious of the PCs but can be bluffed with convincing cover.
 - **Secret:** One of the side passages leads 300 feet to a House Thalmyr drop-point — a hollowed stalagmite containing a wax-sealed message cylinder and a vial of antitoxin
 - **See:** [d2-the-pillared-hall.md](locations/d2-the-pillared-hall.md)
 
@@ -222,7 +222,7 @@ A vast natural cavern the size of a cathedral, filled with enormous stalagmites 
 The first permanent fortification in the descent — a fortified post controlling a narrow choke point where the Slave Road passes through a natural stone gate (two massive columns with a crossbow platform above). House Dravun rotation currently on duty.
 
 - **Garrison:** 1 checkpoint commander (Dravun priestess, Lvl 6), 6 drow soldiers, 2 quaggoths on leash, 1 giant spider patrolling the ceiling
-- **Fortification:** Stone barracks cut into the cavern wall (right side); iron portcullis that can be dropped from above; a signal bell connected by rope to Xilthraen (D3 arrival city)
+- **Fortification:** Stone barracks cut into the cavern wall (right side); iron portcullis that can be dropped from above; a signal bell connected by rope to Xil (D3 arrival city)
 - **Routine:** All traffic is logged. Caravans pass with tokens; new drow require House insignia and explanation of business. Non-drow slaves pass in irons only.
 - **Challenge:** The commander, Overseer Nerath Dravun, is meticulous and paranoid. She runs random strip-searches of caravans. She dislikes House Thalmyr operatives intensely and will hold anyone who smells of spy-work.
 - **Bypass Options:** A maintenance tunnel above the portcullis (DC 22 Athletics to climb, requires disabling the spider); a smugglers' side passage known to House Velouryn operatives (requires intel from C1 encounter or earlier)
@@ -270,13 +270,13 @@ The kuo-toa dock complex on the far shore — a maze of rickety wooden platforms
 ### E4 — The Blind Reach
 A sea cave on the western shore of the Sunless Sea, accessible only by swimming from a submerged entry point or by a narrow ledge path from E1 that is unmarked and easy to miss (DC 18 Perception, or following someone who knows the route). No light visible from the water. No sound escapes. Seven drow are living here. They have been here for three weeks.
 
-- **Unit:** The **Shroud** — a House Veythrae special operations cell operating under direct orders from Veythrae's senior weaponmaster, bypassing the normal Xilthraen chain of command and therefore invisible to G1's intel board. Six operatives plus one commander. They are not a patrol. They are not a caravan escort. They are a retrieval unit.
+- **Unit:** The **Shroud** — a House Veythrae special operations cell operating under direct orders from Veythrae's senior weaponmaster, bypassing the normal Xil chain of command and therefore invisible to G1's intel board. Six operatives plus one commander. They are not a patrol. They are not a caravan escort. They are a retrieval unit.
 - **Commander: Velith Veythrae** — female, Lvl 8 Ranger (Gloom Stalker), cold and precise. She has the manner of someone who has been patient a very long time and is running out of patience. She knows the Drowned Vault exists. She does not yet know how to open it.
 - **Operatives:** 4 drow fighters (Lvl 5, dual-blade, built for close-quarters cave work), 1 drow arcanist (Lvl 6, specializing in divination and structural analysis — here to read whatever is inside the vault), 1 kuo-toa guide who knows the E-sector waters and is being paid in something unspecified. The guide is terrified and being extremely cooperative.
 - **Mission:** Locate and access the Drowned Vault. Extract the contents of the sealed chest. Do not interact with the kuo-toa settlement beyond what the guide facilitates. Leave no evidence of Veythrae presence. This is the mission Serath vel Velouryn's manifests were tracking — the "architectural diagrams" in the G2 dead drop are structural analyses of the vault's outer door, produced by the arcanist in week one.
-- **Current status:** They have found the vault. The arcanist cannot open the inner door. Velith has sent one runner back toward Xilthraen with a request for a specific text from Veythrae's house archive. The runner has not returned. Velith is deciding how long she waits before she goes in without the text.
+- **Current status:** They have found the vault. The arcanist cannot open the inner door. Velith has sent one runner back toward Xil with a request for a specific text from Veythrae's house archive. The runner has not returned. Velith is deciding how long she waits before she goes in without the text.
 - **If the PCs arrive:** Velith will not initiate combat unless she must. She will immediately assess whether the PCs are more useful alive (as vault-openers, as a distraction for the kuo-toa, as a source of information about the door) or dead (as potential witnesses). She is genuinely curious what surface-worlders are doing this deep. She will not share her mission. She will offer safe passage through E-sector in exchange for information about the vault door — framed as a trade, with no explanation of why she wants to know.
-- **What she knows that she won't volunteer:** The contents of the sealed chest are not loot. They are a weapon. Veythrae's matriarch believes it is the thing that will break the current house stalemate in Xilthraen. Velith does not know exactly what it is, only that it is old and it is dangerous and her matriarch wants it badly enough to run a black operation to retrieve it.
+- **What she knows that she won't volunteer:** The contents of the sealed chest are not loot. They are a weapon. Veythrae's matriarch believes it is the thing that will break the current house stalemate in Xil. Velith does not know exactly what it is, only that it is old and it is dangerous and her matriarch wants it badly enough to run a black operation to retrieve it.
 - **See:** [e4-the-blind-reach.md](locations/e4-the-blind-reach.md)
 
 ---
@@ -312,7 +312,7 @@ The sacred heart of D2. A vast flooded cathedral — 10 feet of brine on the flo
 ---
 
 ## Sector G — The Final Approach
-*The tunnel approach to Xilthraen. Drow-controlled throughout. Heavy patrol density.*
+*The tunnel approach to Xil. Drow-controlled throughout. Heavy patrol density.*
 
 ### G1 — The Way-Station
 A permanent drow logistics post — a carved-out cavern used as a supply depot, barracks, and patrol coordination point. Multiple houses run patrols through here; the commander is House Xilrath.
@@ -323,10 +323,10 @@ A permanent drow logistics post — a carved-out cavern used as a supply depot, 
 - **See:** [g1-the-way-station.md](locations/g1-the-way-station.md)
 
 ### G2 — The Slave Road Terminus
-A large holding pen — the last waypoint before Xilthraen where incoming slave caravans are processed, catalogued, and sorted by house allocation. Iron pens, a pair of drow clerks (House Velouryn), and 2–4 arriving caravans at any given time.
+A large holding pen — the last waypoint before Xil where incoming slave caravans are processed, catalogued, and sorted by house allocation. Iron pens, a pair of drow clerks (House Velouryn), and 2–4 arriving caravans at any given time.
 
 - **Population:** 30–50 slaves in transit, 4 drow guards, 2 Velouryn clerks (Lvl 4 Rogues)
-- **Opportunity:** The clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xilthraen entry.
+- **Opportunity:** The clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xil entry.
 - **Danger:** A House Zhaelor inquisitor squad (3 zealots + 1 Lvl 6 Cleric) is here conducting a search for heresy. They are looking for evidence that someone freed slaves from a previous caravan. (This may or may not be the PCs depending on earlier choices.)
 - **See:** [g2-the-slave-road-terminus.md](locations/g2-the-slave-road-terminus.md)
 
@@ -339,11 +339,11 @@ A stone shelf carved 15 feet above the main G-corridor, between G1 and G2. Used 
 - **See:** [g4-the-sorrow-ledge.md](locations/g4-the-sorrow-ledge.md)
 
 ### G3 — The Veil of Shadows
-The last natural cavern before the city gates. The tunnel ceiling rises to 80 feet and the walls fall away — the PCs emerge onto a promontory overlooking an enormous underground void. Across the void, barely visible through haze and fungal spore-cloud: the lights of Xilthraen.
+The last natural cavern before the city gates. The tunnel ceiling rises to 80 feet and the walls fall away — the PCs emerge onto a promontory overlooking an enormous underground void. Across the void, barely visible through haze and fungal spore-cloud: the lights of Xil.
 
 - **Atmosphere:** Priestesses of Lolth bless passing soldiers from a shrine carved into the promontory wall. War banners hang from ceiling anchors. The sound of the city — drums, distant shouting, the smell of cookfires — drifts across.
-- **Final Obstacle:** A 20-foot-wide rope-and-stone bridge spans the void. Two drow bridge-wardens check tokens. Beyond the bridge: the Gate of Silken Chains (entrance to Xilthraen proper — see [xilthraen-overview.md](xilthraen-overview.md))
-- **Prophecy Note:** This is the threshold crossing. The Black Coil fragment: *"the blade-kiss of the Black Matrons"* — Xilthraen begins past this bridge.
+- **Final Obstacle:** A 20-foot-wide rope-and-stone bridge spans the void. Two drow bridge-wardens check tokens. Beyond the bridge: the Gate of Silken Chains (entrance to Xil proper — see [xil-overview.md](xil-overview.md))
+- **Prophecy Note:** This is the threshold crossing. The Black Coil fragment: *"the blade-kiss of the Black Matrons"* — Xil begins past this bridge.
 - **See:** [g3-the-veil-of-shadows.md](locations/g3-the-veil-of-shadows.md)
 
 ### G4 — The Sorrow Ledge
@@ -354,7 +354,7 @@ The last natural cavern before the city gates. The tunnel ceiling rises to 80 fe
 
 ## Overview
 
-The Sorrow Ledge is not on any official map. It predates the current G1 way-station by at least a century — carved, the stonework suggests, by whatever drow operation used this approach before Xilthraen formalized the Slave Road. Its current use is informal: House Zhaelor punishes personnel here when it wants a sentence that is public enough to be a warning and quiet enough not to require House Council acknowledgment.
+The Sorrow Ledge is not on any official map. It predates the current G1 way-station by at least a century — carved, the stonework suggests, by whatever drow operation used this approach before Xil formalized the Slave Road. Its current use is informal: House Zhaelor punishes personnel here when it wants a sentence that is public enough to be a warning and quiet enough not to require House Council acknowledgment.
 
 The logic is cruel and efficient. Caravans passing below see the chained figures. The message is received. No paperwork.
 
@@ -383,7 +383,7 @@ The logic is cruel and efficient. Caravans passing below see the chained figures
 
 ## Cross-References
 
-- [xilthraen-overview.md](xilthraen-overview.md) — City districts, population, city-side map
-- [d3-map-info.md](d3-map-info.md) — Xilthraen district detail (re-skinned D3: Vault of the Drow)
+- [xil-overview.md](xil-overview.md) — City districts, population, city-side map
+- [d3-map-info.md](d3-map-info.md) — Xil district detail (re-skinned D3: Vault of the Drow)
 - [council-of-houses.md](council-of-houses.md) — House politics, patrol authority, arc entry point
 - [prophecy.md](../prophecy.md) — Black Coil fragments triggered along this route

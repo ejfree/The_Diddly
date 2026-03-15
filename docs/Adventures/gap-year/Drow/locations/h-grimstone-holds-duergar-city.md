@@ -8,7 +8,7 @@ tags: ["duergar", "underdark", "grimstone-holds", "arc3"]
 
 ## Overview
 
-Grimstone Holds is the dominant duergar settlement in this region of the Underdark — a city of iron discipline, endless labor, and deeply held grievances. Carved into a cluster of mineral-rich caverns on the eastern side of the Underdark corridor, it sits roughly equidistant between the Sunless Sea to the northeast and Xilthraen to the northwest.
+Grimstone Holds is the dominant duergar settlement in this region of the Underdark — a city of iron discipline, endless labor, and deeply held grievances. Carved into a cluster of mineral-rich caverns on the eastern side of the Underdark corridor, it sits roughly equidistant between the Sunless Sea to the northeast and Xil to the northwest.
 
 The city is not a single structure but a network of fortified caverns — the "Holds" — each controlled by a forge-clan and connected by tunnels wide enough for two war-wagons abreast. Every tunnel junction is a defensible chokepoint. Every cavern entrance has a portcullis. The duergar built this city to be taken one room at a time and made the rooms very expensive.
 
@@ -18,8 +18,8 @@ They have been here for roughly four centuries. The drow have been pressuring th
 
 ## Location
 
-**Eastern Underdark corridor**, between the Sunless Sea (northeast) and Xilthraen (northwest). Three primary tunnel approaches:
-- **West Passage** — toward Xilthraen; heavily monitored; drow patrols check papers at the approach
+**Eastern Underdark corridor**, between the Sunless Sea (northeast) and Xil (northwest). Three primary tunnel approaches:
+- **West Passage** — toward Xil; heavily monitored; drow patrols check papers at the approach
 - **North Passage** — toward the Sunless Sea and the Shard Warrens; main trade route
 - **East Passage** — dead-ends in unexplored deep caverns; rumored to connect to something older
 
@@ -106,7 +106,7 @@ The east passage entrance — sealed behind three successive iron doors and guar
 
 ## Relationship to Other Factions
 
-**Xilthraen (Drow):**
+**Xil (Drow):**
 Trading partners under duress. The drow need the steel; the duergar need the food supply that drow raids provide (the Holds cannot grow enough fungus for their population). The current agreement gives drow preferential pricing and priority fulfillment — terms Baldrak Hrunkar accepted under pressure and intends to revisit. House Xilrath deals directly; House Velouryn greases everything.
 
 The drow do not station soldiers in Grimstone Holds. They tried. One garrison disappeared. The subject has not been raised again.
@@ -137,7 +137,7 @@ A Thalmyr agent is trying to broker a secret meeting between Grimstone Holds and
 
 ## Cross-References
 
-- [xilthraen-overview.md](xilthraen-overview.md) — Drow city that depends on Grimstone steel
+- [xil-overview.md](xil-overview.md) — Drow city that depends on Grimstone steel
 - [the-mindspire-illithid-colony.md](the-mindspire-illithid-colony.md) — Illithid threat from the northeast
 - [the-shard-warrens.md](the-shard-warrens.md) — Eastern trade partner
 - [council-of-houses.md](council-of-houses.md) — House Velouryn and Xilrath's external contracts

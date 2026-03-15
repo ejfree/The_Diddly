@@ -1,7 +1,7 @@
 {
-  "name": "D3 Ch12 — Xilthraen City Encounters, Back Street and Alley (1-in-6)",
+  "name": "D3 Ch12 — Xil City Encounters, Back Street and Alley (1-in-6)",
   "img": "icons/svg/d20-grey.svg",
-  "description": "City encounter table for Xilthraen's Lower Warrens, service tunnels, and areas near slave pens, Chapter 12 of D3. Encounter frequency: 1 in 6 per new district entered. Roll 1d20 on this table. Urban predator sub-roll: 1d4 (1=cloaker HD 6 hp 42 XPV 650, 2=intellect devourer HD 6 hp 42 XPV 2,600, 3=shadows 2-5 HD 3+3 XPV 220 each, 4=wight HD 4+3 XPV 500).",
+  "description": "City encounter table for Xil's Lower Warrens, service tunnels, and areas near slave pens, Chapter 12 of D3. Encounter frequency: 1 in 6 per new district entered. Roll 1d20 on this table. Urban predator sub-roll: 1d4 (1=cloaker HD 6 hp 42 XPV 650, 2=intellect devourer HD 6 hp 42 XPV 2,600, 3=shadows 2-5 HD 3+3 XPV 220 each, 4=wight HD 4+3 XPV 500).",
   "formula": "1d20",
   "replacement": true,
   "displayRoll": true,

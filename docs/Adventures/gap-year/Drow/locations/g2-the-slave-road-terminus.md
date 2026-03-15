@@ -7,10 +7,10 @@ tags: []
 # G2 — The Slave Road Terminus
 
 ## **The Slave Road Terminus**
-A large holding pen — the last waypoint before Xilthraen where incoming slave caravans are processed, catalogued, and sorted by house allocation. Iron pens, a pair of drow clerks (House Velouryn), and 2–4 arriving caravans at any given time.
+A large holding pen — the last waypoint before Xil where incoming slave caravans are processed, catalogued, and sorted by house allocation. Iron pens, a pair of drow clerks (House Velouryn), and 2–4 arriving caravans at any given time.
 
 ### **Description**
-A large holding pen — the last waypoint before Xilthraen where incoming slave caravans are processed, catalogued, and sorted by house allocation. Iron pens, a pair of drow clerks (House Velouryn), and 2–4 arriving caravans at any given time.
+A large holding pen — the last waypoint before Xil where incoming slave caravans are processed, catalogued, and sorted by house allocation. Iron pens, a pair of drow clerks (House Velouryn), and 2–4 arriving caravans at any given time.
 
 ### **Features & Terrain**
 
@@ -20,9 +20,9 @@ A large holding pen — the last waypoint before Xilthraen where incoming slave 
 
 - **Objects**: Iron pens for slave holding; clerk documentation station; entry papers and records
 
-- **Doors & Exits**: Final waypoint before Xilthraen
+- **Doors & Exits**: Final waypoint before Xil
 
-- **Special Interactions**: Clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xilthraen entry.
+- **Special Interactions**: Clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xil entry.
 
 ### **Smells & Sounds**
 
@@ -57,7 +57,7 @@ A large holding pen — the last waypoint before Xilthraen where incoming slave 
 - **Magical Items**:
 
 ### **Additional Notes**
-Opportunity: The Velouryn clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xilthraen entry.
+Opportunity: The Velouryn clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xil entry.
 
 Danger: The House Zhaelor inquisitor squad is here searching for evidence of freed slaves from a previous caravan. Their presence may directly implicate the PCs depending on earlier choices.
 

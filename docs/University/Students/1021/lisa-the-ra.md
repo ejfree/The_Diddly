@@ -60,7 +60,7 @@ Lisa's dorm room reflects her fascination with samurai culture and her major in 
 
 ## Role in Drow War
 
-Before the war formally began, Lisa was running a long-term intelligence operation — impersonating **Lady Aelindra of House Silaen**, a genuine Aerenal diplomat, to collect intelligence on Xilthraen's war plans from the inside. The mission was collection only. She got close to Matron Mother Vel'dryn over the course of more than a year. The relationship became romantic in Vel'dryn's understanding. Lisa filed her reports and said nothing about that part.
+Before the war formally began, Lisa was running a long-term intelligence operation — impersonating **Lady Aelindra of House Silaen**, a genuine Aerenal diplomat, to collect intelligence on Xil's war plans from the inside. The mission was collection only. She got close to Matron Mother Vel'dryn over the course of more than a year. The relationship became romantic in Vel'dryn's understanding. Lisa filed her reports and said nothing about that part.
 
 When House Thalmyr exposed the deception, Vel'dryn launched the war within three days and sent a war party into the upper passages to hunt whoever had been wearing Aelindra's face. The party found Lisa's reconnaissance flight. The others were killed. Lisa escaped using everything available — transformation, misdirection, feigned death — and fled deeper into the Underdark.
 

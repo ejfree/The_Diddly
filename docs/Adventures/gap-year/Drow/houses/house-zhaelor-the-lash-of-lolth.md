@@ -1,12 +1,12 @@
 ---
 title: House Zhaelor — The Lash of Lolth
 updated: 2026-03-10
-tags: ["drow", "xilthraen", "house-zhaelor", "arc3"]
+tags: ["drow", "xil", "house-zhaelor", "arc3"]
 ---
 
 ## House Zhaelor — "The Lash of Lolth"
 
-The zealot house. Zhaelor controls Lolth's formal religious apparatus in Xilthraen — not the household shrines, but the great temple, the inquisitions, and the public ceremonies that keep the city in fear of divine punishment. Their military force is the smallest on the council, but no house challenges them directly, because Zhaelor decides what is heresy and who answers for it. Every Matron Mother has, at some point, needed Zhaelor's theological cover for a decision that would otherwise be politically untenable.
+The zealot house. Zhaelor controls Lolth's formal religious apparatus in Xil — not the household shrines, but the great temple, the inquisitions, and the public ceremonies that keep the city in fear of divine punishment. Their military force is the smallest on the council, but no house challenges them directly, because Zhaelor decides what is heresy and who answers for it. Every Matron Mother has, at some point, needed Zhaelor's theological cover for a decision that would otherwise be politically untenable.
 
 Matron Zarila's inquisitors currently operate in the outer passages (Sector G2 on the D1-2 hex map), hunting a theological infraction that has not yet been specified publicly. The houses assume this is political positioning. They may be right.
 
@@ -91,5 +91,5 @@ Syrris is the one who worries other houses most, in a low-level persistent way. 
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
 - [d1-2-hex-map-key.md](d1-2-hex-map-key.md) — Inquisitor patrol: Sector G2
-- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [xil-overview.md](xil-overview.md) — City overview, district layout
 - [drow-house-overview.md](drow-house-overview.md) — All-houses summary

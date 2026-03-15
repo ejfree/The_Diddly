@@ -6,7 +6,7 @@ tags: [gap-year, drider, npc, encounter, the-traveler, pit-prophecy]
 
 ## Overview
 
-Ziondriel is a drider exile from Xilthraen, the drow staging city at the end of this adventure. She fled when city agents — investigating a smuggling ring — looked too closely at her heretical devotion to the Traveler. For years she has wandered upward through the Darklands, nursing plans for revenge on Xilthraen while gradually falling in love with exploration instead.
+Ziondriel is a drider exile from Xil, the drow staging city at the end of this adventure. She fled when city agents — investigating a smuggling ring — looked too closely at her heretical devotion to the Traveler. For years she has wandered upward through the Darklands, nursing plans for revenge on Xil while gradually falling in love with exploration instead.
 
 She has made this cavern her temporary home, but she is **trapped**: a seugathi she barely survived occupies the passage to the north (area G11), and the tunnel to the south leads somewhere unknown. She has been here long enough that her food sources have run dry.
 
@@ -98,7 +98,7 @@ She is lying. She knows she is lying poorly. She crosses two of her arms over th
 She says this quietly and does not elaborate unless pushed.
 
 **Trusting (clock held back, she has been fed or helped, they have treated her with some respect):**
-> *"I serve the Traveler. I choose my own deceits. I do not pray to the Spider Queen — I have not, since before I fled Xilthraen. And yet — three times, I woke in the dark with this stylus in my hands and new script on the wall. Someone used me. Someone reached into my skull while I slept and wrote their prophecy in my home, in my script, with my hands.*
+> *"I serve the Traveler. I choose my own deceits. I do not pray to the Spider Queen — I have not, since before I fled Xil. And yet — three times, I woke in the dark with this stylus in my hands and new script on the wall. Someone used me. Someone reached into my skull while I slept and wrote their prophecy in my home, in my script, with my hands.*
 >
 > *I do not know what it says. I can read it, but I cannot interpret it. It speaks of plague and chains and something waking. If you can tell me what it means, I would consider that a debt worth repaying."*
 

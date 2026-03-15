@@ -35,7 +35,7 @@ The Viridian Salon is not only a restaurant. It is the primary operations hub of
 
 Alyssa has run the Trust's inner circle for longer than most of its members have been alive. The SCIF room in the Salon — the one private space she can monitor in real time by means undetectable except by divine intervention — is where she reads the Trust's most sensitive traffic. Sammy the Samovar and the illusory delivery system mean no staff ever enter that room. Guests who request it believe they are simply getting privacy. They are.
 
-The Trust's reach into the Underdark is limited but not absent: gnomish merchant contacts with duergar traders, svirfneblin waystation operators, and surface scouts monitoring Underdark approach tunnels all feed intelligence upward through commercial cover. It was through this network that the Trust detected **Lady Aelindra of House Silaen's** tentative diplomatic contact with Xilthraen drow scouts. Alyssa read the intercept herself within two days of the first exchange and immediately understood what it offered.
+The Trust's reach into the Underdark is limited but not absent: gnomish merchant contacts with duergar traders, svirfneblin waystation operators, and surface scouts monitoring Underdark approach tunnels all feed intelligence upward through commercial cover. It was through this network that the Trust detected **Lady Aelindra of House Silaen's** tentative diplomatic contact with Xil drow scouts. Alyssa read the intercept herself within two days of the first exchange and immediately understood what it offered.
 
 ## Prophecy and What She Did
 

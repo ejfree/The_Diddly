@@ -1,23 +1,23 @@
 ---
-title: D3 Chapter 12 — Vault of the Drow (Xilthraen)
+title: D3 Chapter 12 — Vault of the Drow (Xil)
 source: D3 Vault of the Drow (1e module), Chapter 12 — converted to PF2e
 updated: 2026-03-14
-tags: ["drow", "xilthraen", "city", "d3", "encounters", "wandering-monsters", "arc3", "vault", "lolth", "noble-houses", "pf2e"]
+tags: ["drow", "xil", "city", "d3", "encounters", "wandering-monsters", "arc3", "vault", "lolth", "noble-houses", "pf2e"]
 ---
 
-## D3 Chapter 12 — The Vault of the Drow (Xilthraen)
+## D3 Chapter 12 — The Vault of the Drow (Xil)
 
 The approach tunnels from the Shrine of the Kuo-Toans narrow and then open dramatically into the Vault: a cavern roughly 40 miles across, 10–20 miles wide, and 300–1,000 feet high. A purplish-violet phosphorescent light suffuses the entire space — dim but constant, emanating from crystalline formations, glowing fungi forests, and mineral-laced stone. This is not darkness. It is another kind of light, alien to surface races but as natural to the drow as sunlight is to elves.
 
-The city of **Xilthraen** rises at the center of the Vault's southern half — a tiered, stalactite-hung metropolis strung between massive column formations with hanging bridges and carved warrens. It is the forward military command of the drow, built for war and organized accordingly.
+The city of **Xil** rises at the center of the Vault's southern half — a tiered, stalactite-hung metropolis strung between massive column formations with hanging bridges and carved warrens. It is the forward military command of the drow, built for war and organized accordingly.
 
 The surrounding Vault is no safe approach: predators, drow patrols, fungal forests inhabited by poison-spore growths, and the great rivers and lakes teeming with dangerous aquatic life stand between any entering force and the city gates.
 
-### House Mapping (D3 → Xilthraen)
+### House Mapping (D3 → Xil)
 
-The eight noble houses of the source material are replaced by the six Xilthraen houses plus two minor houses:
+The eight noble houses of the source material are replaced by the six Xil houses plus two minor houses:
 
-| D3 House | Rank | Role | Xilthraen House |
+| D3 House | Rank | Role | Xil House |
 |----------|------|------|-----------------|
 | Eilservs | 1 | Dominant arcane/political | **House Veythrae** |
 | Kilsek | 2 | Military powerhouse | **House Xilrath** |
@@ -256,7 +256,7 @@ A four-mile network of secondary passages between the outer caves and the city g
 
 ---
 
-### Area 1 — The Gate of Xilthraen
+### Area 1 — The Gate of Xil
 
 A massive bronze-clad stone archway, 30 feet high, flanked by two carved spider columns (each 40 feet tall). Two iron portcullises with a guard chamber between them.
 
@@ -530,7 +530,7 @@ A quiet, orderly townhouse in the Lower Warrens. More library than fortress. The
 
 **Syrn Vorryn** — Lvl 7 Cleric (Neutral); **AC** 23; **HP** 100; **Fort** +16, **Ref** +13, **Will** +20; Speed 25 ft; XP 300
 
-**Record vaults:** Three floors of ledgers, slave registries, contract records, and city census data. Among the records: the complete slave ownership chain for every slave in the city; the founding charter of Xilthraen (signed by all eight original house matriarchs); and one locked cabinet (Thievery DC 28) containing "sensitive documents" — sealed contracts between noble houses that could cause diplomatic crises if released.
+**Record vaults:** Three floors of ledgers, slave registries, contract records, and city census data. Among the records: the complete slave ownership chain for every slave in the city; the founding charter of Xil (signed by all eight original house matriarchs); and one locked cabinet (Thievery DC 28) containing "sensitive documents" — sealed contracts between noble houses that could cause diplomatic crises if released.
 
 **Hidden:** Syrn Vorryn maintains a private cipher journal (Society DC 30 to decode) documenting every instance of house corruption she has witnessed. She is lawful evil but pragmatic; she will share specific entries in exchange for safety guarantees, but will not betray her neutrality openly.
 
@@ -650,11 +650,11 @@ A shaft 20 feet across descends to a 40-foot-deep black pool. The pool connects 
 
 ## How the PCs Arrive Here
 
-Xilthraen is the D3 endpoint of the giant-chain arc. The PCs enter after descending through:
+Xil is the D3 endpoint of the giant-chain arc. The PCs enter after descending through:
 
 - G1 (Hill Giants) → G2 (Frost Giants) → G3 (Fire Giants)
 - D1 (troglodyte-held Underdark entry) → D2 (kuo-toa shrine)
-- D3: Xilthraen
+- D3: Xil
 
 Their arrival fulfills the third step of the prophecy's descent into the Spiral of Despair.
 

@@ -251,7 +251,7 @@ Beyond the far shore's northern wall arch is the dungeon proper — Room 34 is a
 - The PCs arrive in G1 Lower having never been to the upper level. They do not know the Steading layout, the location of the chief, or that there is an upper level at all — from their perspective, this is a dungeon complex beneath the surface. They can learn the full picture from prisoners (Room 37), the orc rebels (Room 29), or by finding their own way up.
 - The dwarven Sundering Range Survey is a background element that can be threaded through the arc — someone commissioned that survey, and the Mror Holds may have intelligence on the giant alliance that the party could access later.
 - Brekka (if rescued) can serve as a guide to the surface once the party exits G1, and knows the rough geography between here and the Sundering Peaks proper (G2 territory).
-- The Khyber fragment dream is the first foreshadowing of Xilthraen. Do not explain it. Let it sit.
+- The Khyber fragment dream is the first foreshadowing of Xil. Do not explain it. Let it sit.
 
 ---
 

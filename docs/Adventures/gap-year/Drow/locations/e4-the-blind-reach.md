@@ -7,7 +7,7 @@ tags: ["drow", "e-sector", "sunless-sea", "veythrae", "special-operations", "arc
 # E4 — The Blind Reach
 
 ## **The Blind Reach**
-Drow special operations forward post. A sea cave on the western shore of the Sunless Sea, accessible by swimming a submerged entry channel or by a narrow unmarked ledge path from E1's eastern edge. Population: 7 drow (6 operatives + 1 commander), 1 kuo-toa guide. No light visible from the water. No sound escapes. House Veythrae has been using it for three weeks as a forward staging post. It does not appear in G1's patrol coordination records, any official Xilthraen documentation, or the Zhaelor inquisitors' awareness. This is intentional.
+Drow special operations forward post. A sea cave on the western shore of the Sunless Sea, accessible by swimming a submerged entry channel or by a narrow unmarked ledge path from E1's eastern edge. Population: 7 drow (6 operatives + 1 commander), 1 kuo-toa guide. No light visible from the water. No sound escapes. House Veythrae has been using it for three weeks as a forward staging post. It does not appear in G1's patrol coordination records, any official Xil documentation, or the Zhaelor inquisitors' awareness. This is intentional.
 
 ### **Description**
 A natural sea cave system — three chambers, the innermost sitting 30 feet above the waterline and dry for centuries. The entry channel is twelve feet underwater and twenty feet long: manageable for a prepared swimmer, lethal in the dark without a contained light source.
@@ -52,7 +52,7 @@ Chamber 3 (upper chamber): Reached by a tight chimney climb, 20 feet. Dry, cool,
 
   **Dethrix vel Veythrae — The Arcanist** (Lvl 6 Divination Wizard). Male, young for the mission's stakes, visibly nervous in a way he is trying to conceal behind technical language. Specializes in structural resonance analysis. Has never been on a field operation of this type before. Conclusions from his first week of analysis: the vault door predates current deep gnome stonework conventions, was designed to respond to a specific resonance frequency rather than a physical key, and the text that would specify that frequency is what Velith sent the runner to retrieve. Without the text, brute-forcing the resonance has a high probability of destroying the chest's contents — and possibly him in an enclosed space.
 
-  Will talk to anyone who seems technically knowledgeable, more than Velith would want. Not disloyal — genuinely interested in the vault and unable to maintain operational silence when someone asks the right question. Knows things Velith doesn't: the vault's design matches pre-Xilthraen construction, older than any current drow house, and the resonance signature is consistent with deep gnome workmanship deliberately masked. Whatever built the vault wanted it to look more recent than it is.
+  Will talk to anyone who seems technically knowledgeable, more than Velith would want. Not disloyal — genuinely interested in the vault and unable to maintain operational silence when someone asks the right question. Knows things Velith doesn't: the vault's design matches pre-Xil construction, older than any current drow house, and the resonance signature is consistent with deep gnome workmanship deliberately masked. Whatever built the vault wanted it to look more recent than it is.
 
   Also knows something he hasn't told Velith: the thing in the water has been responding to his resonance tests, not randomly but in a pattern.
 
@@ -84,7 +84,7 @@ Chamber 3 (upper chamber): Reached by a tight chimney climb, 20 feet. Dry, cool,
 - Kuo-toa patrol routes around the western shore (complete, accurate to the day)
 - The location of Shlipik's secondary contact — a lower-ranked whip named Thrissik who works the night dock and handles Veythrae cargo shipments (not Shlipik himself; Shlipik does not know about Thrissik)
 - Something moving in the deep water that is not the eel, is not any kuo-toa creature they recognize, and surfaces briefly near the vault entrance approximately every four days
-- A drow runner who passed through E1 six days ago moving toward the G-sector, not from it — someone heading away from Xilthraen through the main approach, which is wrong
+- A drow runner who passed through E1 six days ago moving toward the G-sector, not from it — someone heading away from Xil through the main approach, which is wrong
 
 The last entry may be relevant to the PCs depending on their timeline.
 
@@ -101,7 +101,7 @@ The thing in the water: whatever surfaces near the vault every four days has bee
 **GM Notes:**
 
 - The Shroud is not a combat encounter unless the PCs force it. Velith's default is observe-assess-transact. What she cannot afford is exposure.
-- The sealed chest — what the matriarch called "a key that was mislaid" — is for the GM to define. Possible directions: a resonance instrument that can read or disrupt the speaking-stone prophecy system, a pre-house artifact proving a disputed claim about Xilthraen's founding, something genuinely dangerous that no current house should have.
+- The sealed chest — what the matriarch called "a key that was mislaid" — is for the GM to define. Possible directions: a resonance instrument that can read or disrupt the speaking-stone prophecy system, a pre-house artifact proving a disputed claim about Xil's founding, something genuinely dangerous that no current house should have.
 - The missing runner is a thread. If the PCs investigate, they find no body — the runner was taken, not killed. What took them is the thing in the water.
 - Pliprik, if treated decently, will tell the PCs the ledge path back to E1 without alerting the Shroud. He genuinely does not care who gets the chest as long as he gets to go home.
 

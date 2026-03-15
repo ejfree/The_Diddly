@@ -1,7 +1,7 @@
 {
-  "name": "D3 Ch12 — Xilthraen City Encounters, Main Thoroughfare (1-in-6)",
+  "name": "D3 Ch12 — Xil City Encounters, Main Thoroughfare (1-in-6)",
   "img": "icons/svg/d20-grey.svg",
-  "description": "City encounter table for Xilthraen's main streets, the Great Bazaar, and near noble estates, Chapter 12 of D3. Encounter frequency: 1 in 6 per new district entered. Roll 1d20 on this table. Noble house retinue: roll 1d8 (1-2=Veythrae, 3=Xilrath, 4=Zhaelor, 5=Dravun, 6=Thalmyr, 7=Velouryn, 8=Vorryn or Draethi).",
+  "description": "City encounter table for Xil's main streets, the Great Bazaar, and near noble estates, Chapter 12 of D3. Encounter frequency: 1 in 6 per new district entered. Roll 1d20 on this table. Noble house retinue: roll 1d8 (1-2=Veythrae, 3=Xilrath, 4=Zhaelor, 5=Dravun, 6=Thalmyr, 7=Velouryn, 8=Vorryn or Draethi).",
   "formula": "1d20",
   "replacement": true,
   "displayRoll": true,

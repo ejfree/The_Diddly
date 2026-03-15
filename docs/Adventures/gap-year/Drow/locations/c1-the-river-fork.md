@@ -34,7 +34,7 @@ The first major navigation decision. An underground river splits here — the le
 
 - **Passive Creatures**:
 
-- **Hostile Threats**: A drow slave caravan may be camped here — 2 drow handlers, 8 goblinoid slaves, 1 quaggoth. They are returning to Xilthraen and are weary. Could be ambushed or possibly infiltrated.
+- **Hostile Threats**: A drow slave caravan may be camped here — 2 drow handlers, 8 goblinoid slaves, 1 quaggoth. They are returning to Xil and are weary. Could be ambushed or possibly infiltrated.
 
 - **Unique NPCs**:
 

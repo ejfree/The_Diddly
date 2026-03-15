@@ -1,7 +1,7 @@
 ---
 title: House Thalmyr — The Silent Blades
 updated: 2026-03-10
-tags: ["drow", "xilthraen", "house-thalmyr", "arc3"]
+tags: ["drow", "xil", "house-thalmyr", "arc3"]
 ---
 
 ## House Thalmyr — "The Silent Blades"
@@ -14,7 +14,7 @@ The spy house. Thalmyr fields the smallest military force on the council and the
 
 Thalmyr holds the balance of the council. Their vote is the swing vote in any three-way deadlock, and every other house has, at some point, paid for it. Matron Lythrae does not announce her price — she lets others arrive at the conclusion that cooperation is cheaper than opposition.
 
-The house has dossiers on every senior commander in Xilthraen. They have shared selected contents with Veythrae in exchange for magical support for their surveillance operations. They have sold redacted versions to Dravun in exchange for priority beast leases. They have burned nothing on Xilrath, because Vel'dryn's grief-driven recklessness is currently more useful than leverage.
+The house has dossiers on every senior commander in Xil. They have shared selected contents with Veythrae in exchange for magical support for their surveillance operations. They have sold redacted versions to Dravun in exchange for priority beast leases. They have burned nothing on Xilrath, because Vel'dryn's grief-driven recklessness is currently more useful than leverage.
 
 **Council Stance:** Cautious support for war. The campaign creates intelligence-collection opportunities that peacetime does not, and the chaos of a war is Thalmyr's optimal operating environment.
 
@@ -28,7 +28,7 @@ The house has dossiers on every senior commander in Xilthraen. They have shared 
 
 | Name | Title | Level | Role |
 | --- | --- | --- | --- |
-| Lythrae Thalmyr | Matron Mother | Lvl 12 Cleric with Rogue dedication | Spymistress; controls the network from Xilthraen |
+| Lythrae Thalmyr | Matron Mother | Lvl 12 Cleric with Rogue dedication | Spymistress; controls the network from Xil |
 | Drevan Thalmyr | Shadow Captain | Lvl 9 Rogue (Assassin) | Leads assassination cells; field operations |
 | Kyssil Thalmyr | Whisper Adept | Lvl 7 Investigator with Rogue dedication | Manages internal intelligence and counter-espionage |
 
@@ -95,5 +95,5 @@ The house's outer-passage spy trail runs from Sector D1 through F2 on the D1-2 h
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
 - [d1-2-hex-map-key.md](d1-2-hex-map-key.md) — Spy trail: D1→F2 passage informant relay
-- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [xil-overview.md](xil-overview.md) — City overview, district layout
 - [drow-house-overview.md](drow-house-overview.md) — All-houses summary

@@ -227,11 +227,11 @@ One of the PCs receives the dream — the open hand from the dark water — some
 
 #### The Amplification Problem
 
-Lisa (Blingdenstone) has observed that the insanity plague gets measurably worse in the D1-D2 corridor than it does near Blingdenstone, even accounting for the dragons' distance. She does not know why. The answer is the Mindspire's broadcast pattern — and the Mindspire is between Blingdenstone and Xilthraen. Shutting down the amplification would not cure the plague but would significantly reduce its intensity, buying time.
+Lisa (Blingdenstone) has observed that the insanity plague gets measurably worse in the D1-D2 corridor than it does near Blingdenstone, even accounting for the dragons' distance. She does not know why. The answer is the Mindspire's broadcast pattern — and the Mindspire is between Blingdenstone and Xil. Shutting down the amplification would not cure the plague but would significantly reduce its intensity, buying time.
 
 #### The Archive
 
-Something the PCs desperately need to know is in the Mindspire's memory archives — a piece of political history, a record of an event, a description of the Gate of Silken Chains' mechanism. The Elder Brain knows they want it. It also wants something in return: information on House Veythrae's Xoriat research (which the PCs might obtain at Xilthraen). This is a trade offer with a timeline.
+Something the PCs desperately need to know is in the Mindspire's memory archives — a piece of political history, a record of an event, a description of the Gate of Silken Chains' mechanism. The Elder Brain knows they want it. It also wants something in return: information on House Veythrae's Xoriat research (which the PCs might obtain at Xil). This is a trade offer with a timeline.
 
 ---
 

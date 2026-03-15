@@ -1,12 +1,12 @@
 ---
 title: House Xilrath — The Black Blades
 updated: 2026-03-09
-tags: ["drow", "xilthraen", "house-xilrath", "arc3"]
+tags: ["drow", "xil", "house-xilrath", "arc3"]
 ---
 
 ## House Xilrath — "The Black Blades"
 
-The war engine of Xilthraen. Two decades of preparation, a stockpile of logistics no other house can match, and a Matron who wants to burn the surface to the ground — not for Lolth's glory alone, but for deeply personal reasons she does not hide.
+The war engine of Xil. Two decades of preparation, a stockpile of logistics no other house can match, and a Matron who wants to burn the surface to the ground — not for Lolth's glory alone, but for deeply personal reasons she does not hide.
 
 ---
 
@@ -16,7 +16,7 @@ The war was twenty years in the making — logistics, theology, politics, a slow
 
 For over a year, Vel'dryn had been meeting privately with a figure she believed was **Lady Aelindra of House Silaen**, a diplomatic envoy from Aerenal's Undying Court. The meetings were discreet, conducted at a neutral waystation in the upper passages. In those meetings — outside the performance of her role, away from the houses and the council and Lolth's watching priests — Vel'dryn permitted herself something she rarely allowed: honesty. The relationship became, in her understanding, romantic.
 
-Aelindra was not Aelindra. She was **Lisa Siviridion**, a Diddly intelligence operative running a collection mission — getting close to Xilthraen's command to gather intelligence on war plans and house politics. No manipulation, no agenda beyond listening and reporting. The relationship that developed was not part of the plan.
+Aelindra was not Aelindra. She was **Lisa Siviridion**, a Diddly intelligence operative running a collection mission — getting close to Xil's command to gather intelligence on war plans and house politics. No manipulation, no agenda beyond listening and reporting. The relationship that developed was not part of the plan.
 
 House Thalmyr's investigators found the discrepancy. Their surface informants produced a description of the real Aelindra that did not match. Vel'dryn was informed.
 
@@ -105,5 +105,5 @@ The rivalry with House Veythrae is genuine and structural: she needs their magic
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
-- [xilthraen-overview.md](xilthraen-overview.md) — City overview, district layout
+- [xil-overview.md](xil-overview.md) — City overview, district layout
 - [drow-house-overview.md](drow-house-overview.md) — All-houses summary

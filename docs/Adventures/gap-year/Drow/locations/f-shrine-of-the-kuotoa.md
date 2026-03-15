@@ -340,7 +340,7 @@ All slaves are well acquainted with normal parts of the shrine cavern (especiall
 - Cells 3–4: empty
 - Cells 5–6: 2 trolls each (Lvl 7; AC 23; HP 115; Regen 15; XP 300 each)
 - Cells 7–8: empty
-- Cell 9: **drow merchant of the puffball clan** (chained to wall; tan enameled puffball mushroom clan pin hidden inside his boot — useful in dealing with the drow; see [g-city-xilthraen-overview.md](g-city-xilthraen-overview.md) Area 2)
+- Cell 9: **drow merchant of the puffball clan** (chained to wall; tan enameled puffball mushroom clan pin hidden inside his boot — useful in dealing with the drow; see [g-city-xil-overview.md](g-city-xil-overview.md) Area 2)
 - Cell 12: pair of ghouls (Lvl 2; AC 15; HP 30; SA Paralytic Claw Fort DC 17; XP 30 each)
 
 **Large western room:** Standard torture chamber (rack, iron boot, chains, irons, etc.).
@@ -652,5 +652,5 @@ Carefully hidden in the lining of her **left boot** (Perception DC 26 to find): 
 - [a-ch8-grand-cavern.md](a-ch8-grand-cavern.md) — D1 Chapter 8: Warrens of the Troglodytes (preceding encounter area)
 - [d1-encounter-areas-and-wandering-monsters.md](../d1-encounter-areas-and-wandering-monsters.md) — Chapter 6 tunnel wandering monster tables
 - [d1-2-hex-map-key.md](../d1-2-hex-map-key.md) — Hex map sectors for the full descent
-- [g-city-xilthraen-overview.md](g-city-xilthraen-overview.md) — D3 Chapter 12: Vault of the Drow (following encounter area); rose quartz spectacles and house brooches found here are referenced there
+- [g-city-xil-overview.md](g-city-xil-overview.md) — D3 Chapter 12: Vault of the Drow (following encounter area); rose quartz spectacles and house brooches found here are referenced there
 - [foundry-tables/](../foundry-tables/) — Foundry VTT JSON rollable tables for this chapter

@@ -50,7 +50,7 @@ Sausage unleashes a shadow-backed howl in a 30-foot emanation. Each enemy in the
 ## Backstory: “The Long Burrow”
 
 Sausage was born not of a litter, but of a **ritual.**
-Deep inside the Vault od the Crow, an enclave of **dark elves** known as the **$DrowFamily** experimented with a forbidden fusion of alchemy and shadowcraft. Obsessed with creating beasts of war that could tunnel through stone and flesh alike, they turned to the DNA of giant weasels—predators already suited for stealth, speed, and fury.
+Deep inside Xil, an enclave of **dark elves** known as the **$DrowFamily** experimented with a forbidden fusion of alchemy and shadowcraft. Obsessed with creating beasts of war that could tunnel through stone and flesh alike, they turned to the DNA of giant weasels—predators already suited for stealth, speed, and fury.
 
 Sausage—known to them as **Specimen IX-Rideth**—was the most promising. Engineered with enhanced synaptic reflexes and an elongated spine wrapped in shadow-threaded sinew, he was meant to serve as a **scout-beast for the coming war against the surface folk**, with a nose for buried secrets and a mouth for silencing sentries. But something went wrong.
 
@@ -77,8 +77,6 @@ He has followed them ever since.
 * **The $DrowFamily** still exist, and if Sausage is spotted by the wrong drow emissary, they may attempt to **reclaim** or **eliminate** him as a rogue asset.
 
 * The dark elf **Ellzari**, long presumed dead, is actually a **renegade who fled** after Sausage’s transfer. Her whereabouts are unknown. If found, she may be an invaluable ally—or hunted.
-
-* Sausage may still contain **residual magical bindings**, which could be reactivated—or used to control him—by someone with the correct knowledge.
 
 * He has **a deep-seated hatred of giants**, based on implanted memories from his creators. His instincts around them are unpredictable—sometimes he freezes, other times he charges blindly.
 
@@ -159,19 +157,17 @@ In this high-flying series, love is earned, not given—through **quests, wars, 
 
 * *He Stole Her Gem, She Stole His Soul**Oathsworn to the Sky Queen**The Ruby Pact**Bound by Gold, Broken by Love**His Mate, Her Kingdom***Why Sausage Likes It**: It reminds him that love can be dangerous, noble, and occasionally involve **dramatic sky battles at sunset**.
 
-Would you like a book club run by dragons or familiars (Sausage included) to discuss these novels? Or want a one-shot mystery built around a missing *Emberbound* manuscript?
 
-Perfect. Here's a full integration of that idea into Sausage's backstory and current personality:
 
-**🧠✨ Hidden Within Sausage: The Gourmand Mind of Xiltharn the Boundless
-Who—or What—is Xiltharn?**
-Long ago, in the mythic crust between the **Material Plane** and the **deep folds of Dal Quor**, there existed a being called **Xiltharn the Boundless**—a non-corporeal intelligence born of **dream-stuff, abstract hunger, and dragon-scribed melodrama**. Though *not a god*, Xiltharn was once revered in early Argonnessen as a **patron of refined desires**: taste, scent, silk, and slow-burn romance.
-Over time, this ancient entity **fell dormant**, sealed during an arcane duel between two rival **Draconic Archivists of the Sublime Appetite**, its essence fractured across the planes. One shard—a *sentient splinter of Xiltharn's longing*—was drawn to a Wyrmshadow Weaver ritual seeking to “enlighten” a beast with intelligence.
+**🧠✨ Hidden Within Sausage: The Gourmand Mind of Ilvarath the Boundless
+Who—or What—is Ilvarath?**
+Long ago, in the mythic crust between the **Material Plane** and the **deep folds of Dal Quor**, there existed a being called **Ilvarath the Boundless**—a non-corporeal intelligence born of **dream-stuff, abstract hunger, and dragon-scribed melodrama**. Though *not a god*, Ilvarath was once revered in early Argonnessen as a **patron of refined desires**: taste, scent, silk, and slow-burn romance.
+Over time, this ancient entity **fell dormant**, sealed during an arcane duel between two rival **Draconic Archivists of the Sublime Appetite**, its essence fractured across the planes. One shard—a *sentient splinter of Ilvarath's longing*—was drawn to a Wyrmshadow Weaver ritual seeking to “enlighten” a beast with intelligence.
 That beast was **Sausage**.
 The result was **unexpected**: not a monster of cunning, but a weasel of taste and wistfulness.
 
-**📖 Personality Shift: Sausage + Xiltharn**
-Sausage is still **himself**—loyal, instinctual, warm—but now shares mental real estate with the **gently loquacious voice** of Xiltharn. This voice is not intrusive; it is more like a daydreaming uncle who occasionally comments:
+**📖 Personality Shift: Sausage + Ilvarath**
+Sausage is still **himself**—loyal, instinctual, warm—but now shares mental real estate with the **gently loquacious voice** of Ilvarath. This voice is not intrusive; it is more like a daydreaming uncle who occasionally comments:
 
 *“Ah... the subtle umami of moss-baked beetle carapace. Reminds me of Empress Vadra’s banquet on the molten terraces of Khyber. She wore nothing but garnet rings...”*
 The PCs may not realize what’s happening at first. They might just notice Sausage:
@@ -182,7 +178,7 @@ The PCs may not realize what’s happening at first. They might just notice Saus
 
 * Occasionally pawing at the covers of books that haven’t been opened yet
 
-**🥂 Xiltharn’s Tastes and Influence**
+**🥂 Ilvarath’s Tastes and Influence**
 
 * **Food**: Prefers dishes with complexity—fermentation, glaze, rare spices. He *guides* Sausage’s cravings, but not gluttonously. Every meal should be a **narrative**.
 
@@ -201,5 +197,5 @@ Trait**: *Bound Gourmand* (Rare, Mental, Magical, Weasel-only)
 **Critical Failure**: A romantic monologue overtakes him—he’s stunned 1 but absolutely glowing.
 
 **🗝️ Long-Term Reveal Possibility**
-Eventually, Xiltharn may fully awaken. He has no desire to leave Sausage—he finds his current form **cozy**, **adored**, and **full of snacks**. But should the PCs ever need to **negotiate with ancient dream entities**, **access a forgotten dragonic library**, or **pass the Trials of Appetite in the Vaults of Taste**, Sausage may become **a vessel of insight and flavor unmatched**.
+Eventually, Ilvarath may fully awaken. He has no desire to leave Sausage—he finds his current form **cozy**, **adored**, and **full of snacks**. But should the PCs ever need to **negotiate with ancient dream entities**, **access a forgotten dragonic library**, or **pass the Trials of Appetite in the Vaults of Taste**, Sausage may become **a vessel of insight and flavor unmatched**.
 

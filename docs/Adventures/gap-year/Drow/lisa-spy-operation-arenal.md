@@ -28,7 +28,7 @@ The Trust is a gnomish intelligence network of significant age and reach, operat
 
 Alyssa Siviridion has run the Trust's inner circle for longer than most of its members have been alive. The Viridian Salon is her primary operations hub. The "SCIF" room in the tea shop — the one private space in the building, the one Alyssa can monitor in real time through means undetectable by anything short of divine intervention — is where she reads the Trust's most sensitive traffic.
 
-The Trust's reach into the Underdark is limited but not absent. Gnomish merchant contacts with duergar traders, svirfneblin waystation operators, and surface scouts monitoring Underdark approach tunnels feed intelligence upward through commercial cover. It was through this network that the Trust first detected Aelindra of House Silaen's tentative contact with Xilthraen scouts.
+The Trust's reach into the Underdark is limited but not absent. Gnomish merchant contacts with duergar traders, svirfneblin waystation operators, and surface scouts monitoring Underdark approach tunnels feed intelligence upward through commercial cover. It was through this network that the Trust first detected Aelindra of House Silaen's tentative contact with Xil scouts.
 
 Alyssa read the intercept herself.
 
@@ -40,7 +40,7 @@ Alyssa holds the Adjunct Chair of Prophetic Studies at the Diddly — a position
 
 Her conclusion: the "Young Wings" in the prophecy were not metaphorical. They referred to a specific flight of young dragons at the specific moment when Lolth's chain-fulfillment attempt aligned with their position. She identified Lisa's flight as a strong candidate. She began watching.
 
-When the Trust surfaced the Aelindra channel, she saw it whole: the drow war preparations were already advanced. The plague had begun — Lolth's first move. The giant chain would activate when the war went hot. If Lisa's flight could be placed inside the intelligence gap between Xilthraen and the surface powers at the moment the war launched, they would be positioned exactly where the prophecy required.
+When the Trust surfaced the Aelindra channel, she saw it whole: the drow war preparations were already advanced. The plague had begun — Lolth's first move. The giant chain would activate when the war went hot. If Lisa's flight could be placed inside the intelligence gap between Xil and the surface powers at the moment the war launched, they would be positioned exactly where the prophecy required.
 
 She needed the operation to run long enough to become personal. She needed the war to launch in response to the deception rather than on its own timeline. She needed Lisa's flight to be in the upper passages when the war party came, close enough to flee into the Underdark rather than retreat to the surface.
 
@@ -73,7 +73,7 @@ Lisa was not told:
 
 **Who she is:** A genuine Aerenal diplomat, mid-rank envoy of the Undying Court, with a mandate to monitor Underdark threats to Aerenal trade routes. House Silaen is minor nobility — old money, careful politics, the kind of family that survives by keeping useful secrets quietly.
 
-Aelindra made tentative contact with Xilthraen scouts through intermediaries roughly three years ago — cold calculation, not warmth. She wanted to know which way the war was pointing before it arrived. She maintained strict deniability and never met anyone directly.
+Aelindra made tentative contact with Xil scouts through intermediaries roughly three years ago — cold calculation, not warmth. She wanted to know which way the war was pointing before it arrived. She maintained strict deniability and never met anyone directly.
 
 The Trust intercepted her correspondence with those scouts. Alyssa read it within two days of the first exchange.
 
@@ -95,7 +95,7 @@ Six meetings with intermediaries. Then eight face-to-face meetings with Vel'dryn
 
 The intelligence return was exceptional: house politics, military readiness by unit, supply timelines, the council's fault lines, Vel'dryn's own strategic thinking. Lisa filed thorough reports through Wessyl. Alyssa read them all.
 
-What the reports could not fully convey was the texture of those meetings. Vel'dryn in private was not Vel'dryn performing authority. She was direct, occasionally dry, honest about what twenty years of holding Xilthraen together had cost. The relationship became something Vel'dryn understood as romantic. She did not say so explicitly.
+What the reports could not fully convey was the texture of those meetings. Vel'dryn in private was not Vel'dryn performing authority. She was direct, occasionally dry, honest about what twenty years of holding Xil together had cost. The relationship became something Vel'dryn understood as romantic. She did not say so explicitly.
 
 Lisa read it. She kept reading. At some point in the later meetings she stopped using her telepathic influence at all — not sabotage, just a choice she made without examining it closely.
 

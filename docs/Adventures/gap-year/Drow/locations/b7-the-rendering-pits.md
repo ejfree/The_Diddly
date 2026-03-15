@@ -9,10 +9,10 @@ tags: []
 ## **The Rendering Pits**
 A wide natural depression in the cavern floor roughly two hours past the D3 checkpoint, where the tunnel opens briefly before narrowing again toward the E-sector descent. The pits themselves are former mineral pools, long since drained and repurposed — eight stone basins, each 15 feet across and 6 feet deep, currently used by House Dravun as a field processing station for quaggoth handlers and slave-conditioning crews.
 
-The official function is logistical: slaves who arrive in poor condition after the surface journey are assessed here, medically stabilized if worth the cost, or culled. Quaggoths that have become erratic or uncontrollable are reconditioned here using methods that Dravun's handlers prefer to conduct away from Xilthraen's more fastidious houses.
+The official function is logistical: slaves who arrive in poor condition after the surface journey are assessed here, medically stabilized if worth the cost, or culled. Quaggoths that have become erratic or uncontrollable are reconditioned here using methods that Dravun's handlers prefer to conduct away from Xil's more fastidious houses.
 
 ### **Description**
-A wide natural depression in the cavern floor where the tunnel opens briefly before narrowing again toward the E-sector descent. Eight stone basins, each 15 feet across and 6 feet deep — former mineral pools repurposed by House Dravun as a field processing station. Slaves arriving in poor condition are assessed here: medically stabilized if worth the cost, or culled. Quaggoths that have become erratic or uncontrollable are reconditioned here away from Xilthraen's more fastidious houses.
+A wide natural depression in the cavern floor where the tunnel opens briefly before narrowing again toward the E-sector descent. Eight stone basins, each 15 feet across and 6 feet deep — former mineral pools repurposed by House Dravun as a field processing station. Slaves arriving in poor condition are assessed here: medically stabilized if worth the cost, or culled. Quaggoths that have become erratic or uncontrollable are reconditioned here away from Xil's more fastidious houses.
 
 ### **Features & Terrain**
 

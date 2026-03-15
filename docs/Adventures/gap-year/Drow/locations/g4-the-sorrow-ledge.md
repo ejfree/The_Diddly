@@ -76,7 +76,7 @@ The ledge is not on any official map. It predates the current G1 way-station by 
 **What she wants:**
 
 1. Off this ledge, alive.
-2. Safe passage out of the G-sector approach — she is not going into Xilthraen, where she will be found and finished properly.
+2. Safe passage out of the G-sector approach — she is not going into Xil, where she will be found and finished properly.
 3. Word sent to Velouryn's upper house that her silence was purchased rather than broken — she wants it on record that she did not talk to Zhaelor. (She did not. She is talking to the PCs, which is different, and she is managing this distinction carefully.)
 
 **What she will not do:** Tell the PCs anything about Velouryn's surface operations. Trust them without a contingency — if the PCs agree to help and then try to bring her to Zhaelor, she will scream and take everyone down with her. Pretend she is grateful. She will honor the deal. She will not pretend it was kindness.
@@ -87,30 +87,30 @@ If the PCs pass below without looking up: nothing happens. Serath sees them, ass
 
 If the PCs notice the ledge and climb up: Serath is watching them come. By the time they reach the top she has already decided what she is willing to trade. She opens with: *"I have been up here six days. I am past the point of pride. Tell me what you need and I will tell you if I have it."* She will not beg. She will not cry. She will not thank them for listening.
 
-If the PCs try to take her to Xilthraen or G2: she knows she cannot fight them in her current state. She will go quietly until she has an opportunity. She will create the opportunity.
+If the PCs try to take her to Xil or G2: she knows she cannot fight them in her current state. She will go quietly until she has an opportunity. She will create the opportunity.
 
 If the PCs free her and let her go: she disappears into a side tunnel she has been studying from the ledge for six days and has already mapped by sound. Before she goes, she does one thing she did not agree to do: she tells them which stone in the G2 clerk alcove to check. She frames it as "paying forward a debt I prefer not to carry." It is the closest she will come to thank you.
 
 **The intelligence value:**
 
-The G2 dead drop contains manifests showing 11 cargo movements in the past 6 weeks not in official G2 records. Cargo types include alchemical reagents, architectural diagrams, and two manifests listing cargo only as "perishables — Veythrae consignment." The diagrams are for Xilthraen's outer wall.
+The G2 dead drop contains manifests showing 11 cargo movements in the past 6 weeks not in official G2 records. Cargo types include alchemical reagents, architectural diagrams, and two manifests listing cargo only as "perishables — Veythrae consignment." The diagrams are for Xil's outer wall.
 
 The Veythrae-kuo-toa route connects directly to what Lisa/Grissel has been tracking from Blingdenstone — the increased river traffic at the Whispering Shelf. The route passes through the underground river. The kuo-toa secondary contact is being paid in something other than metal.
 
-Liaison Orrath vel Velouryn — if the PCs reach Xilthraen and make contact with Velouryn, knowing Orrath is a Zhaelor plant is significant leverage. It is also dangerous: Orrath will know something went wrong at the ledge the moment Serath's absence is noticed.
+Liaison Orrath vel Velouryn — if the PCs reach Xil and make contact with Velouryn, knowing Orrath is a Zhaelor plant is significant leverage. It is also dangerous: Orrath will know something went wrong at the ledge the moment Serath's absence is noticed.
 
 **Naleth's missing message:** If pursued, this connects to something the D3 checkpoint commander (Overseer Nerath Dravun) was trying to report and was silenced for. This is a deeper thread than G4 can hold; the GM should decide if that thread is worth pulling.
 
 **GM Notes:**
 
 - Serath is not a hero and should not be played as one. She is a professional in a bad situation making the most rational available trade. She will honor her commitments precisely and no further.
-- The Zhaelor-Velouryn-Veythrae connection is a thread into Xilthraen's house politics. The Sorrow Ledge encounter is the first place the PCs can pull it.
+- The Zhaelor-Velouryn-Veythrae connection is a thread into Xil's house politics. The Sorrow Ledge encounter is the first place the PCs can pull it.
 - If the PCs skip this entirely, Serath dies in approximately two more days. Her body is found by a maintenance crew three weeks later and logged as a disciplinary matter. The dead drop at G2 is cleared in the next manifest cycle. Orrath continues operating.
 
 - [g2-the-slave-road-terminus.md](g2-the-slave-road-terminus.md) — The dead drop location; Orrath vel Velouryn operates here
 - [f3-the-shrine-of-the-seamother.md](f3-the-shrine-of-the-seamother.md) — Veythrae-kuo-toa deal documented; kuo-toa secondary contact is Serath's intelligence
 - [i4.md](i4.md) — The Whispering Shelf; the underground river traffic Serath's route intelligence explains
-- [g-city-xilthraen-overview.md](g-city-xilthraen-overview.md) — House Velouryn, House Zhaelor, House Veythrae political positions within Xilthraen
+- [g-city-xil-overview.md](g-city-xil-overview.md) — House Velouryn, House Zhaelor, House Veythrae political positions within Xil
 
 ### **Midjourney Prompt**
 

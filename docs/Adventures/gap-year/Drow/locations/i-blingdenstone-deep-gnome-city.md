@@ -76,7 +76,7 @@ Key changes she has driven in nine months:
 - **Defensive restructuring.** Collapse-tunnel traps at four approach corridors, rotating patrol schedules, early-warning wards with a distinctly mechanical logic woven through gnomish earth-magic. The city has repelled two drow probing actions since she took over.
 - **Food surplus.** She pushed hard for expanded fungus cultivation and rationing reform. The city now has a three-month reserve — the first time in years.
 - **Information network.** She established a network of observers in the D1-D2 tunnel approaches — gnomes who report drow movement patterns. She has framed this as "community scouts" but it is a functional intelligence operation.
-- **Strict neutrality.** Blingdenstone has refused contact with Xilthraen, duergar traders, and surface factions alike. Lisa sells this as survival pragmatism. It is also how she keeps anyone from asking questions about Grissel Deepmantle that she cannot answer.
+- **Strict neutrality.** Blingdenstone has refused contact with Xil, duergar traders, and surface factions alike. Lisa sells this as survival pragmatism. It is also how she keeps anyone from asking questions about Grissel Deepmantle that she cannot answer.
 
 ### What the Gnomes Think
 
@@ -299,6 +299,6 @@ The Dunbarrow Stone community is not formally part of Blingdenstone, does not vo
 
 - [lisa-the-ra.md](../../../university/students/1021/lisa-the-ra.md) — Full character profile
 - [lisa-spy-operation-arenal.md](lisa-spy-operation-arenal.md) — The Aelindra deception that started the war
-- [xilthraen-overview.md](xilthraen-overview.md) — The drow city whose patrols have been hitting the D1-D2 corridor
+- [xil-overview.md](xil-overview.md) — The drow city whose patrols have been hitting the D1-D2 corridor
 - [drow-house-overview.md](drow-house-overview.md) — No record of Dunbarrow exists in any drow intelligence
 - [prophecy.md](../prophecy.md) — The Black Coil and Blingdenstone stone inscriptions are the same prophecy, different faces

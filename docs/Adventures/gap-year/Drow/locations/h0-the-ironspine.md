@@ -7,7 +7,7 @@ tags: ["duergar", "underdark", "grimstone-holds", "arc3"]
 # The Ironspine — Forward Garrison
 
 ## **The Ironspine**
-The Ironspine is Grimstone Holds' forward military installation — a separate fortified outpost carved into a natural rock buttress that narrows the West Passage to a single-wagon choke point. Travelers approaching from the direction of Xilthraen encounter the Ironspine before they see the main city. It is not subtle about its purpose.
+The Ironspine is Grimstone Holds' forward military installation — a separate fortified outpost carved into a natural rock buttress that narrows the West Passage to a single-wagon choke point. Travelers approaching from the direction of Xil encounter the Ironspine before they see the main city. It is not subtle about its purpose.
 
 ### **Description**
 A fortified outpost carved into a natural rock buttress at the West Passage chokepoint. Three successive iron gates across the passage, each with a portcullis controlled from above. Barracks carved into the rock wall on both sides. A signal tower at the top of the buttress, visible from both the Holds and a mile down the passage. The garrison lives inside the chokepoint.

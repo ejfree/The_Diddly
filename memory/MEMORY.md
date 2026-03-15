@@ -9,7 +9,7 @@
 - **Arc 3 (Gap Year):**
   - G1 (Hill Giants) → G2 (Frost Giants) → G3 (Fire Giants)
   - D1 (troglodytes / Underdark entry) → D2 (kuo-toa warrens)
-  - D3: Xilthraen (drow war city — D3: Vault of the Drow layout, re-skinned)
+  - D3: Xil (drow war city — D3: Vault of the Drow layout, re-skinned)
 
 ## Key Canon Rules
 - **Dragons do NOT know about the Pale Choir (insanity plague).** They only perceive the drow uprising as the external threat. Their degraded judgment from the plague feels like "clarity" to them.
@@ -23,10 +23,10 @@
 - `docs/setting/background/insanity-plague.md` — Pale Choir full mechanics (PF2e)
 - `docs/adventures/excessive-eggie-deaths.md` — Root cause of eggie deaths (plague + drow threat)
 - `docs/adventures/gap-year/prophecy.md` — Black Coil + Whispered Scale fragments
-- `docs/adventures/gap-year/drow/council-of-houses.md` — **Canonical reference** for Xilthraen politics, military ledger, arc entry
-- `docs/adventures/gap-year/drow/xilthraen-overview.md` — City scale, demographics, districts
+- `docs/adventures/gap-year/drow/council-of-houses.md` — **Canonical reference** for Xil politics, military ledger, arc entry
+- `docs/adventures/gap-year/drow/xil-overview.md` — City scale, demographics, districts
 
-## Drow City Canon (Xilthraen)
+## Drow City Canon (Xil)
 - **Matron names (canonical):** Xilrath Vel'dryn, Thalara Veythrae, Yvra Dravun, Lythrae Thalmyr, Ulvrae Velouryn, Zarila Zhaelor
 - **Company names:** Black Blades (Xilrath), Shadowfire Cadres (Veythrae), Fang Legion (Dravun), Silent Blades (Thalmyr), Venom Syndicate (Velouryn), Lash of Lolth (Zhaelor)
 - **Canonical troop counts:** Reconciled TOEs in individual house files. Summary in council-of-houses.md military ledger table.
