@@ -154,8 +154,8 @@ Council houses listed first; non-council houses below the line.
 | Thalmyr | 350 | 500 | 850 | 1 vote |
 | Velouryn | 300 | 400 | 700 | 1 vote |
 | Zhaelor | 250 | 200 | 450 | 1 vote |
-| *Vorryn* | *100* | *100* | *200* | *none* |
-| *Draethi* | *110* | *100* | *210* | *none* |
+| Vorryn | 100 | 100 | 200 | none |
+| Draethi | 110 | 100 | 210 | none |
 | **Total** | **2,680** | **4,080** | **6,760** | |
 
 ---

@@ -9,7 +9,9 @@ tags: ["drow", "xil", "city", "d3", "encounters", "wandering-monsters", "arc3", 
 
 The approach tunnels from the Shrine of the Kuo-Toans narrow and then open dramatically into the Vault: a cavern roughly 40 miles across, 10–20 miles wide, and 300–1,000 feet high. A purplish-violet phosphorescent light suffuses the entire space — dim but constant, emanating from crystalline formations, glowing fungi forests, and mineral-laced stone. This is not darkness. It is another kind of light, alien to surface races but as natural to the drow as sunlight is to elves.
 
-The city of **Xil** rises at the center of the Vault's southern half — a tiered, stalactite-hung metropolis strung between massive column formations with hanging bridges and carved warrens. It is the forward military command of the drow, built for war and organized accordingly.
+The city of **Xil** rises at the center of the Vault's southern half — a tiered, stalactite-hung metropolis strung between massive column formations with hanging bridges and carved warrens. It was built as a trading hub: the crossroads of the deep Underdark where poisons, slaves, beasts, surface contraband, and arcane components moved through eight noble houses that competed more through commerce and assassination than open war. That city still exists beneath the surface — the Great Bazaar still runs, the Velouryn trade routes still flow, and House Vorryn still records every transaction — but it has been subordinated to a purpose that has been building for two decades.
+
+Xil is now the command center for Lolth's proxy war against the surface. The eight houses are not merely competing merchants; they are the logistics, intelligence, arcane, and assault divisions of a coordinated campaign. The giant clans — hill, frost, and fire — are not acting independently. They are receiving orders, materiel, and strategic direction from Xil. Thalmyr intelligence cells are embedded in surface cities. Velouryn smuggling routes move weapons and poisons upward. Veythrae battle-wizards consult with giant war-chiefs through ritual sending. The surface folk see isolated giant raids. What is actually happening is a phased campaign with Xil at its nerve center.
 
 The surrounding Vault is no safe approach: predators, drow patrols, fungal forests inhabited by poison-spore growths, and the great rivers and lakes teeming with dangerous aquatic life stand between any entering force and the city gates.
 
@@ -19,7 +21,7 @@ The eight noble houses of the source material are replaced by the six Xil houses
 
 | D3 House | Rank | Role | Xil House |
 |----------|------|------|-----------------|
-| Eilservs | 1 | Dominant arcane/political | **House Veythrae** |
+| Eilservs | 1 | Arcane warfare & weapons division | **House Veythrae** |
 | Kilsek | 2 | Military powerhouse | **House Xilrath** |
 | Despana | 3 | Clerical fanatics | **House Zhaelor** |
 | Noquar | 4 | Beastmasters/merchants | **House Dravun** |
@@ -36,27 +38,31 @@ The eight noble houses of the source material are replaced by the six Xil houses
 
 ## Scale
 
-- **Drow population:** 8,000–12,000
-- **Non-drow residents:** 3,000–6,000 (thralls, mercenaries, slaves — duergar, goblinoids, quaggoths, grimlocks, captured surface races)
-- **Total:** ~12,000–18,000
+- **Drow population:** ~2,700 (essentially all adult drow are house-affiliated; per reconciled house TOEs)
+- **Non-drow residents:** ~4,000–5,000 (4,080 auxiliary forces in house service plus civilian servants and dependents)
+- **Total:** ~6,700–7,500
 
 ## Drow Demographic Breakdown
 
+Based on the reconciled house TOEs (2,680 total drow across all eight houses).
+
 | Segment | % | Count |
 | --- | --- | --- |
-| Noble houses & retainers | ~10% | 800–1,200 |
-| Priestesses of Lolth & clergy | ~5% | 400–600 |
-| Professional soldiers & raiders | ~25% | 2,000–3,000 |
-| Mage cadre (battle-wizards, students) | ~5–8% | 400–1,000 |
-| Artisans, fungus farmers, laborers | ~40% | 3,200–4,800 |
-| Criminals, houseless, underclass | ~10% | 800–1,200 |
+| Command & noble retainers | ~5% | ~130 |
+| Priestesses of Lolth & clergy | ~7% | ~190 |
+| Professional soldiers & combat units | ~45% | ~1,200 |
+| Mage cadre (battle-wizards, students, adepts) | ~10% | ~270 |
+| Support, logistics, artisans, scribes | ~25% | ~670 |
+| Criminals, houseless, underclass | ~8% | ~220 |
 
 ## Military Standing Force
 
-- **Standing drow soldiers:** 2,500–3,000
-- **Slave/auxiliary troops:** 1,500–2,000
-- **Reserve (militia, half-trained commoners):** ~2,000 if mobilized
-- **Immediate war band:** ~4,000–5,000 deployable; more if the city empties itself
+Per reconciled house TOEs (see [council-of-houses.md](../houses/council-of-houses.md)):
+
+- **Standing drow soldiers:** 2,680
+- **Auxiliary troops (thralls, quaggoths, goblins, bound creatures):** 4,080
+- **Total organized force:** 6,760
+- **Reserve (militia, non-combat house staff mobilized):** ~500–700 if the city empties itself
 
 ---
 
@@ -368,9 +374,9 @@ A bowl-cut into the cavern floor, 200 feet across, with tiered stone seating for
 
 ---
 
-### Area 9 — Academy of Shadowfire (House Veythrae)
+### Area 9 — The Shadowfire Forge (House Veythrae)
 
-Part research facility, part prison, part weapons development lab. Three towers (carved stalactites) connected by iron-grate bridges over a 200-foot drop.
+Weapons development facility, arcane testing ground, and demonic binding complex. The drow call it the Academy; the name is a holdover from its origins as a mage-training house. What it actually does is develop the magical weapons and tactical doctrines for the surface campaign — shadowfire bombardment protocols, bound fiend deployment timing, darkness-saturation strategies for surface environments. Three towers (carved stalactites) connected by iron-grate bridges over a 200-foot drop.
 
 **Archmage Sybrynn Veythrae** — Level 12 Wizard (Evocation); AC 30; HP 150; Fort +22, Ref +23, Will +25; Speed 25 ft; Melee staff +18 [+13/+8], 1d8+6 bludgeoning
 - Arcane Spells DC 38, attack +30
@@ -638,15 +644,16 @@ A shaft 20 feet across descends to a 40-foot-deep black pool. The pool connects 
 
 **5. The Temple-Fortress of Lolth** — The centerpiece, carved into a stalagmite cluster, bridges spanning to stalactites above. Serves as holy site, war council hall, and reliquary. The Council of Houses meets in the obsidian chamber within.
 
-**6. The War Tunnels** — Fortified network of caverns leading upward toward the surface. Guard towers, ambush chambers, and choke points. The staging ground for surface assaults; soldiers bivouac and drill here constantly.
+**6. The War Tunnels** — Fortified network of caverns leading upward toward the surface. Guard towers, ambush chambers, and choke points. The staging ground for surface assaults; soldiers bivouac and drill here constantly. The Tunnels are also the primary conduit for communication with the giant clans — sealed courier pouches, bound-messenger constructs, and occasional Thalmyr agents pass through under escort daily. The surface is closer than it appears from the city proper.
 
-**7. The Academy of Shadowfire** — House Veythrae-controlled. Half wizard-academy, half war laboratory. Demonic binding pits, shadowforges, testing grounds for experimental spells.
+**7. The Shadowfire Forge** — House Veythrae-controlled. Weapons research compound, demonic binding pits, and arcane testing grounds. Develops the tactical magic for the surface campaign. The "Academy" label is an old name; what the Forge actually produces is war doctrine and bound fiends.
 
 ## Tone
 
-- Less decadence, more discipline. Streets are patrolled, curfews exist, soldiers drill openly.
-- The surface war looms over every district. Food stockpiles, war banners, priests preaching conquest.
-- Paranoia. Houses plot constantly, but none dare sabotage the war effort — yet.
+- Less decadence, more discipline. Streets are patrolled, curfews exist, soldiers drill openly. The Great Bazaar still runs but trade disputes are resolved faster and more violently than in peacetime.
+- The surface war looms over every district. Food stockpiles, war banners, priests preaching conquest. Soldiers in kit are as common a sight as merchants.
+- The giant proxy campaign is visible if you know what to look for: courier riders bearing sealed orders heading upward through the War Tunnels, Thalmyr agents returning from surface reconnaissance, Veythrae messengers entering giant-marked safe houses. The surface folk think the giants are acting on their own initiative. They are not.
+- Paranoia. Houses plot constantly, but none dare sabotage the war effort — yet. The council deadlock is an open secret. What breaks the deadlock may break the campaign.
 
 ## How the PCs Arrive Here
 
