@@ -86,41 +86,9 @@ The east passage entrance — sealed behind three successive iron doors and guar
 
 ### Large Subsettlements
 
-#### The Ironspine — Forward Garrison (1.5 miles west on the Xilthraen approach)
-
-The Ironspine is Grimstone Holds' forward military installation — a separate fortified outpost carved into a natural rock buttress that narrows the West Passage to a single-wagon choke point. Travelers approaching from the direction of Xilthraen encounter the Ironspine before they see the main city. It is not subtle about its purpose.
-
-**Population:** ~400 duergar (rotating garrison duty from all six clans), 120 slave laborers
-
-**Structure:**
-
-- Three successive iron gates across the passage, each with a portcullis controlled from above
-- Barracks carved into the rock wall on both sides — the garrison lives inside the chokepoint
-- A signal tower at the top of the buttress, visible from both the Holds and a mile down the West Passage
-- A small armory stocked with crossbows, bolts, and enough oil to make the passage impassable for a week
-
-**Commander:** Gate-Captain Drevrak Vrusk (Lvl 8 Fighter, Clan Vrusk) — appointed by the Steelcourt specifically because Vrusk has no patience for anyone, including drow. He has turned away a Xilrath patrol once on a technicality and considers this a personal achievement.
-
-**Role in Play:** Every significant traveler entering or leaving Grimstone Holds passes through Ironspine. Papers are checked, cargo is inspected, and everything unusual is logged. Drevrak's logs are one of the most complete records of Underdark traffic in the region. Clan Solvrak has been trying to get access to those logs for years; Drevrak reports only to the Overking.
-
----
+#### The Ironspine — Forward Garrison
 
 #### The Smelting Depths — Deep Mining Complex (below the main city)
-
-Three hundred feet below Ironhold and Deephold, connected by a series of ore-cart ramps and a single, very slow lift platform, the Smelting Depths is where Grimstone Holds actually gets its metal. A self-contained underground community — miners, engineers, and their slave crews who complete entire shifts without returning to the surface city. Shifts run sixteen hours; some workers spend weeks below.
-
-**Population:** ~600 duergar miners and engineers, ~900 slave workers
-
-**Structure:**
-
-- Seven active ore faces along three mineral veins — iron, nickel, and a deep galena seam with silver traces
-- A primary smelting chamber where raw ore is processed before lifting — twelve furnaces running continuously
-- Barracks chambers for long-shift workers carved between the ore faces
-- A Deephold administration post where Deepmistress Yurra maintains her office (and, three tunnels east, her unauthorized excavation)
-
-**The Secret Level:** Yurra's unauthorized dig extends 200 feet past the easternmost mapped passage. The crystal she found — Khyber dragonshard residue seeping through a hairline fissure — is fresh, meaning it formed recently. Something below is generating it upward. She has left markers in the tunnel using a private notation system. She has not told anyone what she marked or why.
-
-**Role in Play:** The Smelting Depths is where the "Steel Clause" crisis is most visceral — the slave workforce is already running at capacity, and another push will produce casualties. Workers in the Depths have information about Yurra's unauthorized dig. A PC who earns trust down here gets access to things no one above knows.
 
 ---
 
@@ -128,43 +96,13 @@ Three hundred feet below Ironhold and Deephold, connected by a series of ore-car
 
 #### 1. The Ancestor Vault
 
-Below the Grayhold, sealed behind a stone door that requires a clan elder's blood to open. The duergar maintain ancestor-spirit shrines here — carved faces of clan founders in volcanic rock, each with a small perpetual flame. Duergar consult the shrines before major decisions; the spirits answer in a low vibration felt through the stone floor rather than heard.
-
-Three weeks ago, one of the shrine-faces began answering questions the living duergar didn't ask. The responses are accurate and useful, which is why no one has reported it yet. The entity behind the answers is not an ancestor spirit. What it actually is has not been determined, but the questions it volunteers answers to all relate to the east passage.
-
----
-
 #### 2. The Chain Bridge
-
-A natural chasm, 40 feet across and 80 feet deep, splits the interior of the main cavern cluster between Ironhold and Ashhold. The only crossing is a massive iron-chain-and-plank bridge, 12 feet wide, maintained jointly by both clans. Joint maintenance means each clan blames the other for every repair that doesn't happen.
-
-Currently: three planks are structurally unsound (both clans know; neither will pay for replacement because that would imply responsibility). A loaded ore wagon crossed three days ago and the bridge held, but the vibration loosened a chain anchor on the Ashhold side. Clan Greldak has not told Clan Hrunkar. Clan Hrunkar has not inspected the bridge since the wagon crossing. The PCs crossing with a full load at a run would require an Athletics or Acrobatics check. The PCs crossing in a fight, or while someone above drops weight on it, would require significantly more.
-
----
 
 #### 3. The Debt Cells
 
-A separate wing of Cagehold dedicated to duergar debt-slaves — kept rigorously separated from non-duergar slaves because mixing them causes violent incidents. The Debt Cells are cleaner and better-provisioned than the general slave pens; the duergar treat their own indentured as expensive equipment rather than disposable labor.
-
-Currently holds 43 duergar in various states of indenture: 11 from Clan Thannax (production shortfall), 18 from Clan Murthaen (a disputed contract that has been in Steelcourt arbitration for four months), and 14 from smaller family groups. The Murthaen group is particularly bitter because their case should have been resolved by now; the delay is because Clan Solvrak is profiting from their labor assignment and has been quietly stalling arbitration. Deepmistress Yurra does not know 14 of her clan's people are in the Debt Cells because of Solvrak's interference. If she finds out, the Steelcourt will need to hold an emergency session.
-
----
-
 #### 4. The Alchemy Vats
 
-Clan Thannax's chemical facility in Coalhold — three large cavern chambers filled with sealed stone vats, copper piping, and the persistent smell of sulfur and coal tar. Produces the city's fuel supply, the primitive black powder compounds used in mining, caustic slags for metallurgical processes, and a line of alchemical weapons (acid flasks, burning oil, smoke canisters) sold primarily to the Shard Warrens.
-
-The Vats are perpetually understaffed because alchemical accidents are common and the workforce turns over. Clan Thannax recruits aggressively from the slave pens, trains minimally, and accepts the losses. The current overseer, a duergar named Skurra Thannax (Lvl 5 Alchemist), is competent but aware that two of her senior chemists are actually Clan Murthaen's indentured people who were assigned here as punishment. They know enough to cause a significant explosion if they chose to. They are considering it.
-
----
-
 #### 5. The West Watch Posts
-
-Three hardened sentry stations spaced along the West Passage between the Ironspine and the point where the tunnel begins to show drow directional markings. Each post is a cut-stone room wide enough for four duergar, with arrow slits covering the approach, a signal bell connected by wire to the next post, and a collapsible barricade that can be triggered from inside.
-
-Post One (nearest Ironspine) is manned full-time: 4 guards, 8-hour rotations. Post Two is manned during "elevated watch" periods — there have been three in the past month, following drow patrol sightings closer to the Holds than the agreement permits. Post Three is currently unmanned. Overking Hrunkar ordered it remanned two weeks ago. The order has not been carried out. Nobody has explained why to the Overking.
-
----
 
 ## Relationship to Other Factions
 

@@ -1,10 +1,10 @@
 ---
-title: Encounter Area D-3 — Drow Checkpoint
+title: Encounter Area A4 — Drow Checkpoint
 updated: 2026-03-14
 tags: ["drow", "underdark", "d1", "arc3", "fighters", "cleric", "magic-user"]
 ---
 
-# Encounter Area D-3 — Drow Checkpoint
+# Encounter Area A4 — Drow Checkpoint
 
 ## **Drow Checkpoint — Dual Patrol Groups**
 Two rival patrol contingents hold this passage: males to the southwest, females to the northeast. Despite internal rivalry, both groups cooperate fully in a combined, intelligent attack and defense. The two male pickets are actively watching both directions of the passage — the party is likely spotted before they spot anyone here.

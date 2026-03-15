@@ -204,6 +204,97 @@ She has been preparing a summary of everything she knows — the Aelindra intell
 
 ---
 
+## Satellite Outposts and Settlements
+
+Lisa's nine-month reorganization extended beyond Blingdenstone's walls. What began as scattered scout posts has become a structured outer ring — one fortified forward position and four smaller stations forming an early-warning and supply network across the D1-D2 approach corridors.
+
+The gnomes call it the Listening Net. Lisa calls it what it is: a surveillance infrastructure.
+
+---
+
+### Major Outpost — The Ironbell Warren
+
+**Distance:** ~3 hours east of Blingdenstone, in a secondary cavern system off the main D1 corridor
+**Population:** ~45 svirfneblin (garrison, families, and a handful of refugees)
+**Commander:** **Sergeant Durwick Hammerstone**, a blocky, methodical gnome who fought in the old militia and survived the raids that killed the council
+
+The Ironbell Warren occupies a natural cavern with two defensible chokepoints and a collapsed tertiary shaft that Lisa had deliberately widened into an emergency evacuation route. It is the only outpost with permanent housing — stone-carved quarters for the garrison plus a dozen family burrows for gnomes who could not bear to live inside the city walls after the raids.
+
+The Warren functions simultaneously as:
+
+- **Forward garrison.** Durwick's 20-person guard detail is Blingdenstone's first response to anything moving up the D1 approach. They are equipped with crossbows, tunnel-collapse charges, and standing orders to hold for one hour then fall back.
+- **Supply depot.** Three months of preserved rations and a functioning water-filtration cistern. If Blingdenstone has to evacuate, the Warren is the first rally point.
+- **Relay station.** A resonance chamber Lisa designed using Archano-Mechanical principles disguised as a gnomish earth-prayer alcove — two tuned stone columns that transmit coded vibration signals back to Blingdenstone faster than a runner. The gnomes think she adapted an old stonecutter's trick. She did not.
+
+**The Ironbell:** A cracked iron bell salvaged from the destroyed gnome enclave of Copperdeep hangs at the cavern's center. Ringing it was Durwick's idea — "so the dead know someone's still keeping watch." Lisa said nothing. She found it unexpectedly moving.
+
+**Note for GM:** If the PCs arrive at Blingdenstone via the D1 approach, they may encounter the Warren first. Durwick is loyal to Grissel Deepmantle to the point of personal devotion — she promoted him when the old officers were treating him as furniture. He will not be easily misled about the PCs' intentions.
+
+---
+
+### Smaller Outpost 1 — The Crevice Watch
+
+**File:** [i1-tracking-outpost.md](i1-tracking-outpost.md)
+**Distance:** ~1.5 hours from Blingdenstone, in a high fissure above the D1 main junction
+**Population:** 6 scouts, rotating shifts
+
+A narrow ledge in a natural fissure 40 feet above a major tunnel intersection — high enough to watch both approaches without being spotted from below, low enough that signals can be relayed by tapping the stone. Lisa identified the position during her second week of observation before she made contact with any gnome.
+
+The Crevice Watch is the innermost ring of her intelligence network and her most reliable node. The scouts here are her best people: patient, quiet, capable of sitting motionless for four-hour stretches and noting every torch-flicker below.
+
+**Current lead scout:** **Mira Dustwhisper**, 19, no military background, found her way here after correctly predicting a drow patrol route by sound alone. Lisa recruited her personally. Mira has no idea what Grissel is.
+
+**Note for GM:** The Crevice Watch is the node that first reported the PCs' approach, if they came through D1. Mira's description of the party will be in Grissel's hands before the PCs reach Blingdenstone's gate.
+
+---
+
+### Smaller Outpost 2 — The Sporehallow
+
+**Distance:** ~2 hours southwest, in a vast fungal growth cavern
+**Population:** 8 gnomes (4 scouts, 2 foragers, 2 tenders)
+
+A concealed camp built into the base of a cluster of enormous stone-cap fungi — some specimens twenty feet across, providing both cover and food. The Sporehallow's primary purpose is supply and recovery: scouts returning from extended patrols stop here to rest before the final leg back to Blingdenstone, leaving reports in a coded drop-box before continuing.
+
+The foragers maintain a modest fungal harvest that supplements Blingdenstone's reserves. The tenders run a small infirmary — nothing elaborate, but enough to stabilize someone who took a crossbow bolt or a bad fall before they make it home.
+
+**Note for GM:** The Sporehallow is the most livable of the outer stations. A gnome named **Wick** has been here for four months and has quietly begun personalizing the space in ways that suggest he is not sure he wants to go back. He was in the militia when the raids started and watched the council die. The Sporehallow is far enough from everything that it feels safe. Lisa has noticed. She has said nothing yet.
+
+---
+
+### Smaller Outpost 3 — The Whispering Shelf
+
+**Distance:** ~2.5 hours north, above the underground river that runs between D1 and D2
+**Population:** 4 gnomes
+
+A natural stone shelf overlooking a 60-foot-wide underground river — the same waterway the kuo-toa use for transit between their settlements. The four gnomes here do nothing but watch and listen: river traffic, raft movements, anything unusual surfacing from the kuo-toa direction.
+
+Lisa established this station after Fragment Four of the speaking-stone prophecies made her reconsider every approach vector, not just the drow ones. The kuo-toa are nominally neutral — but their god-calling rituals have been intensifying, and something is moving in the water below. The Shelf gnomes have not yet identified what.
+
+**The river noise:** The shelf has exceptional acoustic properties — sound carries oddly across the water. The gnomes here communicate exclusively in a hand-signal system to avoid their voices traveling downstream.
+
+**Note for GM:** The Shelf station has picked up sounds it cannot classify. Low, rhythmic, not mechanical. Lisa's working theory is something large is using the river channel below the kuo-toa pier. She has not shared this.
+
+---
+
+### Smaller Outpost 4 — The Dunbarrow Stone
+
+**Distance:** ~1 hour west, in a small alcove cavern off a secondary passage
+**Population:** ~22 gnomes (refugees, no militia affiliation)
+
+Not a military outpost. A refugee camp that assembled itself around a cairn Lisa built in her second month in Blingdenstone — before she made contact, still hiding, mourning her dead. She named the cairn Dunbarrow because that was the name she had already decided for her false homeland, and she needed somewhere to put the grief.
+
+Survivors from three destroyed svirfneblin enclaves found the cairn first, then each other, then settled in the surrounding alcove because it felt like someone had been there and survived. By the time Lisa took power in Blingdenstone, the camp existed. She did not dismantle it.
+
+The Dunbarrow Stone community is not formally part of Blingdenstone, does not vote, and receives no garrison protection — only irregular food deliveries that Lisa arranged quietly and has never officially acknowledged. The camp's de facto leader is an elderly gnome named **Bressid**, who has lost everyone and is raising three grandchildren in a stone alcove and doing it without complaint.
+
+**What the Stone is:** A small natural granite column Lisa found when she was hiding. She stacked river stones around its base and etched nothing on it. Bressid's community has begun leaving offerings. They believe it marks something. They are not wrong, but not in any way they could articulate.
+
+**Lisa's relationship to it:** She visits the Dunbarrow Stone alone every two or three weeks, in the predawn hours, in the shape she was born with. She has not told anyone this. The grief that drives her there is real — it is not for the fictional Dunbarrow, it is for Kessavan, Drexa, and Pell, the three members of her flight who died in the ambush. The stone has their names, in draconic, on its underside.
+
+**Note for GM:** If the PCs find the Dunbarrow Stone community before reaching Blingdenstone, Bressid will describe Burrow Warden Grissel as "the one who made sure we didn't starve" without any apparent suspicion that she is anything other than what she appears. The cairn itself is a potential reveal: if a PC examines the underside and reads draconic, they find three names that do not match any gnomish naming convention.
+
+---
+
 ## Cross-References
 
 - [lisa-the-ra.md](../../../university/students/1021/lisa-the-ra.md) — Full character profile

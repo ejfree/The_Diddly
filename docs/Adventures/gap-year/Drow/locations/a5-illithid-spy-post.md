@@ -1,10 +1,10 @@
 ---
-title: Encounter Area M-12 — Illithid Spy Post
+title: Encounter Area A5 — Illithid Spy Post
 updated: 2026-03-14
 tags: ["drow", "underdark", "d1", "arc3", "illithid", "wererats", "mind-flayer"]
 ---
 
-# Encounter Area M-12 — Illithid Spy Post
+# Encounter Area A5 — Illithid Spy Post
 
 ## **Illithid Spy Post — Active Intelligence Operation**
 The westernmost spy post of the illithid colony. The drow know it exists but have not dealt with it due to recent reverses. An active interrogation is underway: the stronger illithid is questioning a bound drow merchant captive near the pool. If the illithids sense the party, the captive will be killed first — he knows too much to be left alive for rescue. The wererats will ambush; the illithids will open with mind blasts.
