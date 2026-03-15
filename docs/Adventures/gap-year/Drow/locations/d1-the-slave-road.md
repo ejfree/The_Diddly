@@ -58,3 +58,7 @@ The main corridor becomes noticeably more worked — the rough tunnel widens int
 
 ### **Additional Notes**
 Discovery: A dead slave left by the road — recently deceased, shackled to a ring. On a small scrap of hide hidden in the sole of their boot: a crude map drawn in blood, marked in Elvish with one word: *Thalmyr.* This indicates a House Thalmyr plant among surface captives.
+
+### **Midjourney Prompt**
+
+worked underground passage smoothed by decades of traffic, iron rings bolted at intervals into cave walls, drow directional markings carved in stone, dim torch light receding into darkness, iron chains on floor, dark fantasy underdark corridor, RPG background --ar 16:9 --v 6.1

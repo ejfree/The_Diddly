@@ -58,3 +58,7 @@ A series of low-ceilinged passages thick with musk, rot, and the smell of raw me
 
 ### **Additional Notes**
 Captive: One surface human, half-mad, shackled in the pen. Knows nothing useful but may become a liability.
+
+### **Midjourney Prompt**
+
+low-ceiling troglodyte warrens, series of cramped underground passages thick with rot, crude spears and stinking hides piled in alcoves, iron shackle and chain on cave wall, dim bioluminescent fungus light, oppressive humid air, dark fantasy underdark RPG background --ar 16:9 --v 6.1

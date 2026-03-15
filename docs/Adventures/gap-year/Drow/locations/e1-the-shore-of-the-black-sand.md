@@ -68,3 +68,7 @@ The Double-Spire Rocks: Visible from the Neutral Strand, roughly 80 feet out in 
 The Tension: Vethris and Gluupik are both under pressure from their respective superiors and handling it by becoming less flexible with each other and with outsiders.
 
 See: [e1-the-beach-of-black-sand.md](locations/e1-the-beach-of-black-sand.md)
+
+### **Midjourney Prompt**
+
+crescent beach of black volcanic sand at edge of vast underground sea, sunless sea stretching into infinite darkness, drow dock installation with torches southwest, kuo-toa fishery platforms northeast, bioluminescent algae glowing cold blue at waterline, underdark port town, epic fantasy RPG background --ar 16:9 --v 6.1

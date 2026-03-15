@@ -58,3 +58,7 @@ The only reliable river crossing for miles. White stone slabs create a natural f
 
 ### **Additional Notes**
 Discovery: The toll-carving on the far bank records slave traffic — last updated roughly two weeks ago, showing high recent volume.
+
+### **Midjourney Prompt**
+
+white stone slab river ford in underground cavern, knee-deep dark rushing water, drow warning glyphs carved in pale rock on far bank, dramatic cave ceiling above, lurker-above silhouette clinging to ceiling, dark fantasy river crossing, RPG background --ar 16:9 --v 6.1

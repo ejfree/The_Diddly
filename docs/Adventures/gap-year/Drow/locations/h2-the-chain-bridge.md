@@ -60,3 +60,7 @@ A massive iron-chain-and-plank bridge, 12 feet wide, spanning a 40-foot chasm 80
 
 ### **Additional Notes**
 The political dimension: Clan Greldak (Ashhold) knows about the loosened anchor and has not told Clan Hrunkar (Ironhold). Clan Hrunkar has not inspected the bridge since the ore wagon crossing. The deferred maintenance is a structural metaphor for the clan relationship — each side is waiting for the other to blink first on responsibility. When the bridge eventually fails, both clans will blame the other and both will be partly right.
+
+### **Midjourney Prompt**
+
+iron chain and plank bridge spanning 40-foot wide 80-foot deep underground chasm between duergar caverns, massive chains anchored in stone walls, worn wooden planks, dramatic depth below showing darkness, forge-light from both sides, dwarven engineering, dark fantasy RPG background --ar 16:9 --v 6.1

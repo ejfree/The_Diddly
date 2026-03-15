@@ -62,3 +62,7 @@ A quarter-mile of open shoreline. Three wooden docks extending into the Sunless 
 **Role in Play:** The Shore Market is the easiest entry point into the Warrens by water — arriving by boat draws less scrutiny than coming through the southern tunnel with no visible cargo. It is also the place to arrange passage back across the Sunless Sea, find a kuo-toa who will take passengers, or intercept Mindspire communications before they reach the main city.
 
 **Population:** 200–400 at any given time (highly variable with boat traffic).
+
+### **Midjourney Prompt**
+
+quarter-mile of sunless sea shoreline converted to chaotic underground market, three wooden docks extending into underground lake, fish market stalls and warehouses on shore, kuo-toa fishing boats beached, mysterious dark vessel anchored offshore, hundreds of creatures trading, bioluminescent water glow, dark fantasy RPG background --ar 16:9 --v 6.1

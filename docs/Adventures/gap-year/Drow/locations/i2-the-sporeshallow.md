@@ -60,3 +60,7 @@ A concealed camp built into the base of enormous stone-cap fungi, some twenty fe
 The foragers maintain a modest fungal harvest that supplements Blingdenstone's reserves. The tenders run a small infirmary — nothing elaborate, but enough to stabilize someone who took a crossbow bolt or a bad fall before they make it home.
 
 The Sporehallow is the most livable of the outer stations. Wick's four-month presence has left visible marks: a sleeping niche that has been widened, a small stack of stones that serves no tactical purpose, a carved groove in one fungal stalk that appears to be the beginning of something. Lisa has assessed this situation and chosen not to address it yet.
+
+### **Midjourney Prompt**
+
+concealed camp nestled at base of enormous stone-cap fungi twenty feet across, svirfneblin gnomes among giant mushrooms, soft spore-light filtering through fungal canopy, hidden coded drop-box in fungal stalk, safe and concealed feeling, underground fungal forest camp, fantasy RPG background --ar 16:9 --v 6.1

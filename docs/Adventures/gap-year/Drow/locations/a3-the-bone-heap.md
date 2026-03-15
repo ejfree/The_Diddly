@@ -60,3 +60,7 @@ A massive refuse midden at the edge of troglodyte territory — bones, shell, br
 Discovery: Among the bones — pieces of a drow patrol slaughtered here roughly one month ago. One body still has legible House insignia: House Thalmyr. This was not a random kill.
 
 Transition: Past the Bone Heap, the tunnels widen and the air becomes notably cooler.
+
+### **Midjourney Prompt**
+
+massive refuse midden in underdark cavern, enormous pile of bones broken armor and debris, cracked skulls and rusted chains among refuse, dark cave walls receding into blackness, dim atmospheric light, dark fantasy RPG background --ar 16:9 --v 6.1

@@ -60,3 +60,7 @@ A secondary grimlock camp in a wide crack off the main passage, operating at the
 Drow Threat: Elder Vrakt does not officially know this market exists. A Dravun patrol sergeant does — she has been quietly purchasing recovered equipment here for six weeks, off-manifest, paying in raw iron. If the PCs are here when she arrives (1-in-8 chance per hour), the situation becomes complicated.
 
 The three Velouryn courier tablets held by Scratch are unopened and wax-sealed — their contents are unknown to him.
+
+### **Midjourney Prompt**
+
+narrow crack in underdark stone wall, cramped grimlock camp hidden in rock fissure, stolen drow equipment and signal horns hanging from stone walls, darkness with dim torch light, clandestine underground market atmosphere, fantasy RPG background --ar 16:9 --v 6.1

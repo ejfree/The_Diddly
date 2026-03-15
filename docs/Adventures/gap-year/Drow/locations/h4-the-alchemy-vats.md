@@ -60,3 +60,7 @@ Three large cavern chambers in Coalhold, heavily industrial. Sealed stone vats l
 
 ### **Additional Notes**
 Clan Thannax's approach to workforce safety: recruit aggressively from slave pens, train minimally, accept casualties. The facility's chronic understaffing is a direct result of this policy. The two Murthaen chemists were assigned here "as punishment" — from the Murthaen perspective, this is Solvrak's doing (see H3 Debt Cells). Their current deliberations about sabotage are a direct consequence of the Steelcourt's failure to resolve their case.
+
+### **Midjourney Prompt**
+
+duergar chemical facility in underground cavern, sealed stone vats and copper piping throughout, sulfurous haze in air, forge-fires under vats casting orange light, industrial underground alchemy, three connected cavern chambers, dark fantasy RPG background --ar 16:9 --v 6.1

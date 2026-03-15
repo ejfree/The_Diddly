@@ -60,3 +60,7 @@ The last natural cavern before the city gates. The tunnel ceiling rises to 80 fe
 Prophecy Note: This is the threshold crossing. The Black Coil fragment: *"the blade-kiss of the Black Matrons"* — Xilthraen begins past this bridge.
 
 See: [xilthraen-overview.md](xilthraen-overview.md)
+
+### **Midjourney Prompt**
+
+underground promontory overlooking enormous void, rope-and-stone bridge spanning darkness to distant city lights barely visible through fungal spore haze, Lolth war banners hanging from ceiling anchors, spider-web shrine carved in rock wall, epic dramatic underdark vista, fantasy RPG background --ar 16:9 --v 6.1

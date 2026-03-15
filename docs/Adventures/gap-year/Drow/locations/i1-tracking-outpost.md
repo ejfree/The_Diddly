@@ -88,3 +88,7 @@ The last entry is flagged and underlined in Mira's report. Lisa has not responde
 
 - [i-blingdenstone-deep-gnome-city.md](i-blingdenstone-deep-gnome-city.md) — Main city file
 - [i2.md](i2.md) — The Ironbell Warren (major forward outpost, primary signal relay)
+
+### **Midjourney Prompt**
+
+narrow two-foot stone ledge in ceiling fissure 40 feet above underground tunnel junction, three tunnel mouths visible far below in darkness, svirfneblin gnome scouts lying prone watching in total darkness, secret observation post, claustrophobic stone crack, dark fantasy RPG background --ar 16:9 --v 6.1

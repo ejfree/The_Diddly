@@ -60,3 +60,7 @@ A long natural chasm with a 60-foot drop to unseen water below. The only crossin
 Feature: Carvings in the stone — pre-grimlock, possibly deep gnome (Svirfneblin). Symbols suggest this was once a trade route.
 
 The grimlock ambush at the far side is conditional on noise made at B1/B2.
+
+### **Midjourney Prompt**
+
+long natural underground chasm with 60-foot drop to dark water below, narrow four-foot natural stone arch bridge spanning the void, ancient svirfneblin carvings in stone walls, dramatic depth and vertiginous darkness, atmospheric underdark, fantasy RPG background --ar 16:9 --v 6.1

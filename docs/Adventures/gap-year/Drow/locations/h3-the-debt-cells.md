@@ -60,3 +60,7 @@ A dedicated wing of Cagehold, cleanly maintained and better-provisioned than the
 
 ### **Additional Notes**
 The Solvrak interference: Clan Solvrak has been profiting from the Murthaen labor assignment and quietly stalling their arbitration case for four months. Deepmistress Yurra (Clan Murthaen's leader) does not know 14 of her people are here due to Solvrak's interference — she believes the arbitration delay is procedural. If she learns the truth, the Steelcourt will face an emergency session and Solvrak will face a formal accusation. This is a political bomb that has not yet gone off.
+
+### **Midjourney Prompt**
+
+clean but grim duergar prison cells, rows of stone-walled cells with iron bars, dim lantern light, stone bunks carved from cave walls, organized dwarven carceral architecture, oppressive underground atmosphere, dark fantasy RPG background --ar 16:9 --v 6.1

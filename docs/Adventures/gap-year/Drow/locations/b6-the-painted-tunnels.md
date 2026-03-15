@@ -111,3 +111,7 @@ Approaching Grel: She will not turn toward the party. She will speak in Undercom
 - [e4-add.md](e4-add.md) — The thing in the water; Grel's reference to the deep-moving figure
 - [e2-change.md](e2-change.md) — The Drowned Vault; the large figure from the Old Record may connect
 - [i-blingdenstone-deep-gnome-city.md](i-blingdenstone-deep-gnome-city.md) — "Carries two names" — speaking-stone prophecy connection
+
+### **Midjourney Prompt**
+
+ancient underdark tunnel covered floor-to-ceiling in layered bioluminescent cave paintings glowing blue-green in darkness, grimlock pictographic record spanning generations, raised pigment texture on stone walls like bas-relief, eerie living archive, dark fantasy RPG background --ar 16:9 --v 6.1

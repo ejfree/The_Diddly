@@ -60,3 +60,7 @@ A large holding pen — the last waypoint before Xilthraen where incoming slave 
 Opportunity: The Velouryn clerks are bribable and have access to entry papers. A successful high-DC Deception check + bribe could get the PCs forged documentation for Xilthraen entry.
 
 Danger: The House Zhaelor inquisitor squad is here searching for evidence of freed slaves from a previous caravan. Their presence may directly implicate the PCs depending on earlier choices.
+
+### **Midjourney Prompt**
+
+large underground holding pen facility, iron slave pens in rows, drow clerk at stone desk with documentation, incoming slave caravans unloading in background, iron gates and chains everywhere, bureaucratic dark elf facility, dim flickering torches, grim atmosphere, fantasy RPG background --ar 16:9 --v 6.1

@@ -60,3 +60,7 @@ Three cut-stone sentry stations along the West Passage, spaced at intervals betw
 
 ### **Additional Notes**
 The unmanned Post Three is a political symptom as much as a security gap. The Overking issued the order two weeks ago after the third elevated-watch incident (drow patrols sighted closer to the Holds than treaty permits). Someone below him received the order and did not execute it. No one has told the Overking. The reason for non-compliance has not been established — possibilities include Clan Solvrak interference, a staffing shortage no commander wants to report upward, or deliberate foot-dragging from a clan that does not want Post Three operational for reasons of its own.
+
+### **Midjourney Prompt**
+
+hardened duergar sentry station in underground passage, cut-stone room with arrow slits overlooking dark tunnel, signal bell mounted on wall connected to wire, collapsible barricade, dim lantern, military watch post carved from solid stone, dark fantasy RPG background --ar 16:9 --v 6.1

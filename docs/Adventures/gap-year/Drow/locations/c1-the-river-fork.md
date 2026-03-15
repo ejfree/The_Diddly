@@ -58,3 +58,7 @@ The first major navigation decision. An underground river splits here — the le
 
 ### **Additional Notes**
 Side Branch: The right fork, if explored, leads to a hidden kuo-toa cache containing dried fish, a water-breathing potion, and a crude silver idol. The fork is a dead-end fishing tunnel used for smuggling.
+
+### **Midjourney Prompt**
+
+underground river splitting into two channels at dark cave junction, wet slippery stone banks, fast-moving dark water, old drow directional arrow carved into rock face, dim ambient cave lighting, atmospheric underground river environment, fantasy RPG background --ar 16:9 --v 6.1

@@ -58,3 +58,7 @@ A network of passages where grimlocks maintain active hunting grounds. They have
 
 ### **Additional Notes**
 Tactical Note: Combat here in darkness or dim light strongly favors grimlocks. PCs without darkvision or echolocation are heavily disadvantaged.
+
+### **Midjourney Prompt**
+
+network of dark underdark passages, dried blood trail on cave floor, snapped iron chains, complete darkness broken only by distant torch glow, grimlock hunting grounds, ominous oppressive atmosphere, dark fantasy RPG background --ar 16:9 --v 6.1

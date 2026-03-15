@@ -64,3 +64,7 @@ A self-contained industrial community 300 feet below the main city, connected by
 **Population:** ~600 duergar miners and engineers, ~900 slave workers.
 
 **Structure:** Seven active ore faces along three mineral veins — iron, nickel, and a deep galena seam with silver traces. A primary smelting chamber where raw ore is processed before lifting — twelve furnaces running continuously. Barracks chambers for long-shift workers carved between the ore faces. A Deephold administration post where Deepmistress Yurra maintains her office.
+
+### **Midjourney Prompt**
+
+vast underground smelting complex, twelve furnaces blazing with orange fire light, ore-cart ramps descending into depths, mineral veins glittering in cave walls, duergar miners and slave workers, industrial underground hellscape, smoke and heat haze, deep fantasy RPG background --ar 16:9 --v 6.1

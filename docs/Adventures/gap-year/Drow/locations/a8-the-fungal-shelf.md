@@ -58,3 +58,7 @@ A naturally terraced section of tunnel where a step-change in geology has create
 
 ### **Additional Notes**
 What the Myconid Knows: Its most recent memory of note is a group of eight humanoids moving fast toward the surface three days ago — not drow, not troglodyte, moving in formation, carrying something wrapped in cloth that was approximately the size and shape of a person. They did not stop. (GM: adapt this detail to whatever is relevant to the campaign.)
+
+### **Midjourney Prompt**
+
+three broad terraced stone shelves along cave wall covered in dense glowing mushrooms, towering zurkhwood cap fungi, softly luminescent puffballs casting warm alien glow, warm humid underground cavern, myconid figures tending fungal beds, beautiful otherworldly underdark landscape, fantasy RPG background --ar 16:9 --v 6.1

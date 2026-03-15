@@ -60,3 +60,7 @@ A vast flooded cathedral — 10 feet of brine on the floor, illuminated by enorm
 Hostage Opportunity: A surface party captured here 3 days ago. One survivor. Rescuing them may complicate travel but gains a potential ally.
 
 The Secret: The Veythrae-kuo-toa deal is documented in a wax-tablet in Kloarek's private chamber (DC 18 Thievery to access). The deal involves allowing Veythrae operatives to use the Sunless Sea as a covert supply route, bypassing the D3 checkpoint — meaning Veythrae is smuggling resources without Xilrath's knowledge.
+
+### **Midjourney Prompt**
+
+vast flooded cathedral with brine on floor, enormous bioluminescent coral columns towering to cave ceiling, massive obsidian idol with lobster claws dominating far end, raised dais platform, alien religious grandeur, underwater blue-green glow, dark fantasy RPG background --ar 16:9 --v 6.1

@@ -100,3 +100,7 @@ The olive cloak is a sleeper reward. It has no game-mechanical effect here, but 
 The illithids are gathering intelligence specifically on drow power dynamics — current alliances, feuds, and the fallout from Eclavdra's failure at the fire giant halls. They are not here by accident. The drow know about this post and have chosen to tolerate it for now; how long that tolerance lasts is a DM variable.
 
 The secret northeast exit is the illithids' ace in the hole. If the party does not find it during this encounter, the illithids may reappear deeper in the campaign using information gathered here.
+
+### **Midjourney Prompt**
+
+dark underdark cave with perfectly still black pool of water, sparse bioluminescent lichen casting near-total darkness, mind flayer silhouette looming over bound drow figure near pool, folding camp furniture and iron chest in alcove, eerie sinister atmosphere, horror fantasy RPG background --ar 16:9 --v 6.1

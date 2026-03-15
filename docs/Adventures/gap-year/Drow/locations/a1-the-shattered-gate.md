@@ -58,3 +58,7 @@ The tunnel collapse that marks the boundary between giant country and the Underd
 
 ### **Additional Notes**
 Sign of Drow: Old iron shackle bolted to the wall — slave caravan anchor point, abandoned. Suggests this location was used as a staging point for slave caravans before being abandoned.
+
+### **Midjourney Prompt**
+
+collapsed stone archway in dark underdark tunnel, dwarf-carved masonry fallen into rubble, iron shackle bolted to cave wall, old iron rings embedded in stone, dim torch light from beyond, ancient underground passage choked with debris, dramatic shadows, dark fantasy RPG background --ar 16:9 --v 6.1

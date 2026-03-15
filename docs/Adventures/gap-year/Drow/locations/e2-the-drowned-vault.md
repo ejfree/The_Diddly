@@ -62,3 +62,7 @@ The Inscription: A transit record listing convoys that passed through this check
 Connection: The dry vault has a second sealed door in the far wall — stone, fitted with the same resonance-column technology used in the Ironbell Warren. It leads somewhere below. It has not been opened. (GM note: this is the "path below" from Fragment Three of the speaking-stone prophecies at Blingdenstone.)
 
 See: [i-blingdenstone-deep-gnome-city.md](locations/i-blingdenstone-deep-gnome-city.md)
+
+### **Midjourney Prompt**
+
+partially flooded ancient svirfneblin vault, carved resonance columns rising from dark water, stone table with deep gnome inscription, sealed chest on dry stone floor, brine-slicked walls, ancient stonework predating current civilizations, dim light reflecting on still water, dark fantasy RPG background --ar 16:9 --v 6.1

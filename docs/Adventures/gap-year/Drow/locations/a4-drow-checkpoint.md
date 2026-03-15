@@ -141,3 +141,7 @@ Jeggred's rope of entanglement makes him extremely dangerous in tight tunnel con
 Akordia's glass globes are crowd-control weapons — she will throw them into tight clusters of attackers to blind and incapacitate multiple targets before pressing with hold person.
 
 Political note: The brooch of House Aleval (Jeggred) and the scarab brooch of House Despana (Akordia) are politically significant items. Anyone who reaches drow noble society will find these identifying tokens carry weight — possibly dangerous weight.
+
+### **Midjourney Prompt**
+
+wide underdark tunnel lit by phosphorescent blue-green lichen on stone walls, drow elf soldiers in black chainmail standing at both ends of passage, side cave alcoves with sleeping silks, dramatic shadows, two rival patrol groups facing inward, dark elf military atmosphere, fantasy RPG background --ar 16:9 --v 6.1

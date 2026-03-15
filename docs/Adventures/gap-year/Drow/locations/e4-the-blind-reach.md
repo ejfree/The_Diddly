@@ -109,3 +109,7 @@ The thing in the water: whatever surfaces near the vault every four days has bee
 - [g4-addnew.md](g4-addnew.md) — Serath vel Velouryn's intelligence on the Veythrae-kuo-toa route connects here
 - [f3-the-shrine-of-the-seamother.md](f3-the-shrine-of-the-seamother.md) — The kuo-toa deal that funds the Shroud's supply line; Thrissik is Velith's secondary contact
 - [i-blingdenstone-deep-gnome-city.md](i-blingdenstone-deep-gnome-city.md) — Fragment Three of the speaking-stone prophecies ("the path below") may connect to the vault's inner door
+
+### **Midjourney Prompt**
+
+sea cave with three chambers, sloped stone floor rising from dark underground water, drow camp bedrolls and shielded fire-bowl venting through ceiling crack, natural window crack looking out over dark underground sea toward distant double-spire rock formation, covert operations atmosphere, dark fantasy RPG background --ar 16:9 --v 6.1

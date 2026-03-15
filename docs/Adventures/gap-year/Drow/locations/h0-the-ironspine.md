@@ -60,3 +60,7 @@ A fortified outpost carved into a natural rock buttress at the West Passage chok
 **Role in Play:** Every significant traveler entering or leaving Grimstone Holds passes through Ironspine. Papers are checked, cargo is inspected, and everything unusual is logged. Drevrak's logs are one of the most complete records of Underdark traffic in the region. Clan Solvrak has been trying to get access to those logs for years; Drevrak reports only to the Overking.
 
 **Population:** ~400 duergar (rotating garrison duty from all six clans), 120 slave laborers.
+
+### **Midjourney Prompt**
+
+massive duergar fortification at underground chokepoint, three successive iron portcullis gates across stone passage, barracks carved into rock walls on both sides, signal tower above, forge-light and torch-light, dwarven military architecture, imposing dark fantasy fortification, RPG background --ar 16:9 --v 6.1

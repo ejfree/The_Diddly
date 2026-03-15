@@ -60,3 +60,7 @@ A vast natural cavern the size of a cathedral, filled with enormous stalagmites 
 Secret: One of the side passages (DC 20 Perception to spot) leads 300 feet to a House Thalmyr drop-point — a hollowed stalagmite containing a wax-sealed message cylinder and a vial of antitoxin.
 
 Scale: Roughly 200 feet across; multiple entrances/exits including two secret side passages.
+
+### **Midjourney Prompt**
+
+vast underground cathedral cavern, enormous stalagmites and stalactites fused into floor-to-ceiling columns, multiple dark exits receding into distance, ancient campfire scars on stone floor, dramatic cathedral scale, atmospheric underdark, epic fantasy RPG background --ar 16:9 --v 6.1

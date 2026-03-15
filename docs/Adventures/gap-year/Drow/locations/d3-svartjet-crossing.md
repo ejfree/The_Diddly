@@ -81,3 +81,7 @@ Thoopshib has been here long enough that every regular caravan operator knows th
 The medallion is the most significant item in the hoard. A drow who recognizes it will react. It should not be worn casually.
 
 The poisonous cloak has no lore marking it as cursed. Thoopshib presumably took it off a traveler who put it on and collapsed.
+
+### **Midjourney Prompt**
+
+wide fast underground river in dark cavern, flat-bottomed barge moored in far cove tied to iron ring, massive kuo-toa silhouette crouching on far bank, glassy water surface reflecting dim light, 30-foot cave ceiling, atmospheric underground river crossing, dark fantasy RPG background --ar 16:9 --v 6.1

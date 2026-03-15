@@ -62,3 +62,7 @@ A natural cavern with two defensible chokepoints and a widened evacuation shaft.
 **The Warren's functions:** Forward garrison (Durwick's 20-person guard detail, standing orders to hold for one hour then fall back), supply depot (three months of preserved rations, functioning cistern, first rally point in an evacuation), relay station (resonance chamber to Blingdenstone).
 
 **GM note:** If the PCs arrive at Blingdenstone via the D1 approach, they may encounter the Warren first. Durwick will have information about the party before they reach the city gate — what Mira logged at the Crevice Watch (I1) will have been relayed here.
+
+### **Midjourney Prompt**
+
+natural cavern with defensible stone chokepoints, cracked iron bell hanging at cavern center from old rope, stone-carved quarters and family burrows in walls, gnome crossbow positions at chokepoints, two tuned resonance stone columns glowing faintly, torch light, underground svirfneblin military outpost, fantasy RPG background --ar 16:9 --v 6.1

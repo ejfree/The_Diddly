@@ -111,3 +111,7 @@ Liaison Orrath vel Velouryn — if the PCs reach Xilthraen and make contact with
 - [f3-the-shrine-of-the-seamother.md](f3-the-shrine-of-the-seamother.md) — Veythrae-kuo-toa deal documented; kuo-toa secondary contact is Serath's intelligence
 - [i4.md](i4.md) — The Whispering Shelf; the underground river traffic Serath's route intelligence explains
 - [g-city-xilthraen-overview.md](g-city-xilthraen-overview.md) — House Velouryn, House Zhaelor, House Veythrae political positions within Xilthraen
+
+### **Midjourney Prompt**
+
+wide stone shelf 15 feet above dark underground tunnel, iron chains hanging from ceiling rings with figures suspended, view down through tunnel passage below where caravans pass, iron ladder bolted to tunnel wall behind stone buttress, grim drow punishment post, dark atmospheric underdark, fantasy RPG background --ar 16:9 --v 6.1

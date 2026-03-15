@@ -58,3 +58,7 @@ The passage narrows into a ritual corridor — walls covered floor-to-ceiling in
 
 ### **Additional Notes**
 Discovery: In a side alcove — a drow prayer-mat and the residue of a campfire. Recent. A House Thalmyr spy passed through here within the last week.
+
+### **Midjourney Prompt**
+
+narrow ritual corridor with floor-to-ceiling carved kuo-toa iconography depicting sea goddess consuming humanoids, bioluminescent coral torch-lights in sconces, kuo-toa priestesses in procession singing, fervent alien religious atmosphere, dark fantasy RPG background --ar 16:9 --v 6.1

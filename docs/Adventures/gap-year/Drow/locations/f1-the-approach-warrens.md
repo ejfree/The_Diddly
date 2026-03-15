@@ -60,3 +60,7 @@ The outer kuo-toa village — a crude but densely populated cavern complex of mu
 Threat: The kuo-toa archpriest, High Servant Kloarek, considers surface-worlders to be gifts to the Sea Mother. He has standing orders to send non-drow captives to F3.
 
 Intel: Glibglib recognizes House Velouryn insignia and can provide a route through the Shrine avoiding the inner sanctum — for a price.
+
+### **Midjourney Prompt**
+
+kuo-toa underground village, crude mud-and-stone structures crowded together, fish market with drying racks, Blibdoolpoolp shrines on every corner with glowing offerings, dim bioluminescent light, alien architecture, oppressive devout atmosphere, dark fantasy RPG background --ar 16:9 --v 6.1

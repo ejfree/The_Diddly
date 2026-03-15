@@ -60,3 +60,7 @@ A sealed chamber below the Grayhold. The stone door requires a clan elder's bloo
 
 ### **Additional Notes**
 The entity currently speaking through one of the shrine-faces is not an ancestor spirit. Its nature has not been determined. All questions it volunteers answers to relate to the east passage — it is directing attention in a specific direction. The duergar receiving these useful, accurate answers have not yet decided to be alarmed by this.
+
+### **Midjourney Prompt**
+
+stone chamber below duergar city, carved volcanic rock shrine faces of clan founders covering walls, each with small perpetual flame in stone socket, blood-sealed stone door with ancient markings, dim flame light casting shadows on ancestor faces, solemn dwarven ancestor shrine, fantasy RPG background --ar 16:9 --v 6.1

@@ -60,3 +60,7 @@ A natural stone shelf set high above a 60-foot-wide underground river. The shelf
 Lisa established this station after Fragment Four of the speaking-stone prophecies made her reconsider every approach vector, not just the drow ones. The kuo-toa are nominally neutral — but their god-calling rituals have been intensifying, and something is moving in the water below. The Shelf gnomes have not yet identified what.
 
 The unclassified sounds — low, rhythmic, not mechanical — have been logged for three weeks. Lisa's working theory is something large is using the river channel below the kuo-toa pier. She has not shared this with the Shelf gnomes or with anyone in Blingdenstone.
+
+### **Midjourney Prompt**
+
+natural stone shelf overlooking 60-foot wide underground river, svirfneblin gnome watchers in silence, kuo-toa raft traffic on dark water below, exceptional acoustic cave with eerie sound-carrying properties, still water reflecting dim bioluminescence, watchful atmosphere, fantasy RPG background --ar 16:9 --v 6.1

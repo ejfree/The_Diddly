@@ -58,3 +58,7 @@ The kuo-toa dock complex on the far shore — a maze of rickety wooden platforms
 
 ### **Additional Notes**
 Danger: If the PCs damaged or stole anything at E1, Shlipik already knows.
+
+### **Midjourney Prompt**
+
+chaotic kuo-toa dock complex of rickety wooden platforms over underground sea, fish-drying racks and eel cages everywhere, nets hanging from struts, dim bioluminescent lanterns, busy alien dock atmosphere, dark water lapping at platforms, fantasy RPG background --ar 16:9 --v 6.1

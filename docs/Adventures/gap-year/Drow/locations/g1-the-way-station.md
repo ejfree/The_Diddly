@@ -58,3 +58,7 @@ A permanent drow logistics post — a carved-out cavern used as a supply depot, 
 
 ### **Additional Notes**
 Intel Board: A carved stone notice-board with patrol schedules, missing slave reports, and a recent edict from Matron Vel'dryn ordering heightened surface-intruder watch (posted 5 days ago — they're expecting trouble).
+
+### **Midjourney Prompt**
+
+drow military logistics post carved into underdark cave, supply depot with equipment racks and ration packs, carved stone notice-board on wall covered in drow script, caged creature in corner, dim torch light, drow black stone architecture, organized dark elf military facility, fantasy RPG background --ar 16:9 --v 6.1

@@ -60,3 +60,7 @@ The tunnel forks into three branches for the first time since the Shattered Gate
 Navigation: No markings at the fork. The troglodytes know to take the left or center fork and avoid the right. They will not say why if asked.
 
 The right fork descends at roughly 30 degrees for 400 feet before opening into the rust monster's cavern.
+
+### **Midjourney Prompt**
+
+three-way underground tunnel fork in underdark cavern, rough hewn passages diverging into separate darkness, no markings or signage, stark stone walls with natural fault lines, dramatic perspective down center passage, dim atmospheric torch light, fantasy RPG dungeon background --ar 16:9 --v 6.1

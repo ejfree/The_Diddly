@@ -58,3 +58,7 @@ A stretch of tunnel where mineral-rich groundwater seeps through a 40-foot secti
 
 ### **Additional Notes**
 The orog's alternate route around the troglodyte warrens may be significant if the party wants to avoid A2 entirely.
+
+### **Midjourney Prompt**
+
+narrow underground tunnel where mineral-rich groundwater seeps through porous limestone, pale crystalline mineral deposits glistening on walls, constant slow drip of water, wet stone glittering in torchlight, single-file passage, atmospheric dampness, fantasy dungeon RPG background --ar 16:9 --v 6.1

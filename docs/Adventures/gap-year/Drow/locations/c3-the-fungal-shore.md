@@ -58,3 +58,7 @@ The riverbank widens into a massive fungal forest — towering zurkhwood columns
 
 ### **Additional Notes**
 The quaggoth hunting party carries a carved Dravun token. They respond to drow insignia with deference but are extremely aggressive toward anyone who appears unaffiliated.
+
+### **Midjourney Prompt**
+
+massive underground fungal forest along riverbank, towering zurkhwood columns reaching cave ceiling, glowing shriekers and violet fungus clusters, phosphorescent light illuminating cave walls, alien beautiful underdark landscape, quaggoth figures harvesting in distance, fantasy RPG background --ar 16:9 --v 6.1

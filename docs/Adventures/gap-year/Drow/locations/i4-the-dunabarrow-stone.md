@@ -66,3 +66,7 @@ A small alcove cavern off a secondary passage, dry and sheltered. A natural gran
 **The Dunbarrow Stone community** is not formally part of Blingdenstone, does not vote, and receives no garrison protection — only irregular food deliveries that Lisa arranged quietly and has never officially acknowledged.
 
 **GM note:** If the PCs find this community before reaching Blingdenstone, Bressid will describe Burrow Warden Grissel as "the one who made sure we didn't starve" without any apparent suspicion that she is anything other than what she appears. The cairn itself is a potential reveal: if a PC examines the underside and reads Draconic, they find three names that do not match any gnomish naming convention.
+
+### **Midjourney Prompt**
+
+small alcove cavern off secondary underground passage, small natural granite column with river stones stacked around base as cairn, flowers and offerings left by gnome refugees, dim gentle light, quiet memorial atmosphere, svirfneblin figures in background, deep gnome refugee camp, fantasy RPG background --ar 16:9 --v 6.1

@@ -58,3 +58,7 @@ A section of passage where a sub-zero underground current vents through fissures
 
 ### **Additional Notes**
 The cloaker benefits from the temperature dropping prey's perception and has learned that cold-slowed creatures are easier to manage. It has become cautious through experience — groups of four or more are left alone.
+
+### **Midjourney Prompt**
+
+icy underground passage with frost-covered floor fissures, condensation forming near-invisible ice on stone, frozen grimlock bodies visible in fissures, cold breath mist hanging in air, ominous dark ceiling above, frigid underdark atmosphere, fantasy RPG background --ar 16:9 --v 6.1

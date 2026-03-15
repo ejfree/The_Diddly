@@ -85,3 +85,7 @@ Sketh and Vrakt have a quiet understanding: she runs the hamlet without interfer
 
 - [b-grimlock.md](b-grimlock.md) — The Blind Warrens; Elder Vrakt; political and military authority
 - [d1-2-hex-map-key.md](../d1-2-hex-map-key.md) — B2 encounter context within the caravan corridor
+
+### **Midjourney Prompt**
+
+grimlock underground farming settlement, vast fungal grove cavern with zurkhwood columns, tiered fungal beds along cave walls, underground stream below, blind cave-rothe in stone pen, dim bioluminescent glow, alien but domestic atmosphere, fantasy RPG background --ar 16:9 --v 6.1

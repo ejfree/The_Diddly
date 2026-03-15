@@ -64,3 +64,7 @@ What's Unusual: One of the pits has been sealed with a stone cover and iron bolt
 Intel Available: The handlers know D3's current patrol rotation precisely (they deal with Nerath Dravun regularly and do not like her). Thessivir knows something is wrong at the E1 port — supply shipments for the Pits have been inconsistent for six weeks, and the irregularities track with the Veythrae cargo route disruptions, though she has not connected those dots yet.
 
 See: [d7-the-rendering-pits.md](locations/d7-the-rendering-pits.md)
+
+### **Midjourney Prompt**
+
+eight large stone basins set into underdark cavern floor, former mineral pools repurposed as processing pits, iron chains and copper instruments, drow industrial facility deep underground, dim torch lighting casting harsh shadows, sinister atmosphere, fantasy RPG background --ar 16:9 --v 6.1
