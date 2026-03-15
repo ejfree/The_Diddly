@@ -1,0 +1,22 @@
+{
+  "name": "D3 Ch12 — Vault of the Drow Wandering Monsters, Vault Walls and Ceiling (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Vault Walls and Ceiling terrain in the Vault of the Drow, Chapter 12 of D3. Encounter frequency: 1 in 12 per turn. Roll 1d12; on a 1, roll 1d12 on this table. Use when traversing wall-hugging paths, climbing, or moving near ceiling formations.",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Giant spiders (2–8; attacking from above; HD 4+4, hp 32, AC 4, SA poison; XPV 245 each)", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "Gargoyles (2–8; HD 4, hp 28, AC 5, #AT 4, Dmg 1–3/1–3/1–6/1–4; XPV 195 each)", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "Piercers (6–24; HD 1–4 by size, AC 3, drop from ceiling; Dmg 1–6/2–12/3–18/4–24; XPV 15–195 each)", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "Cloakers (1–3; HD 6, hp 42, AC 5, moray face attack and engulf, SA moan; XPV 650 each)", "img": "", "weight": 1, "range": [4, 4], "drawn": false },
+    { "type": 0, "text": "Cave fishers (1–4; HD 3+3, hp 22, AC 3, filament trap — yanks prey 60 feet to mandibles; XPV 200 each)", "img": "", "weight": 1, "range": [5, 5], "drawn": false },
+    { "type": 0, "text": "Stirges (4–16; HD 1, hp 5, AC 8, blood drain 1–3 per round after attach; XPV 32 each)", "img": "", "weight": 1, "range": [6, 6], "drawn": false },
+    { "type": 0, "text": "Lurker above (1; HD 10, hp 70, AC 6, appears as stone ceiling, engulf and smother Dmg 1–6/round; XPV 3,000)", "img": "", "weight": 1, "range": [7, 7], "drawn": false },
+    { "type": 0, "text": "Trapper (1; HD 12, hp 84, AC 3, appears as flat stone floor, engulf and smother Dmg 4–24/round; XPV 3,900)", "img": "", "weight": 1, "range": [8, 8], "drawn": false },
+    { "type": 0, "text": "Drow scouts (2–4 fighters; HD 3+3, hp 22, AC 4, crossbows readied from concealment; XPV 175 each)", "img": "", "weight": 1, "range": [9, 9], "drawn": false },
+    { "type": 0, "text": "Brown mold (1 patch; absorbs heat — all within 5 feet take 1d8 cold damage per round; immune to fire, spreads toward it)", "img": "", "weight": 1, "range": [10, 10], "drawn": false },
+    { "type": 0, "text": "Yellow mold (1 patch; disturbing releases 10' spore cloud — save vs. poison or die; killed by fire)", "img": "", "weight": 1, "range": [11, 11], "drawn": false },
+    { "type": 0, "text": "Purple worm (1; burrowing through wall; HD 15, hp 100+, AC 6, Dmg 2–24 + swallow whole on natural 20; XPV 7,600)", "img": "", "weight": 1, "range": [12, 12], "drawn": false }
+  ]
+}

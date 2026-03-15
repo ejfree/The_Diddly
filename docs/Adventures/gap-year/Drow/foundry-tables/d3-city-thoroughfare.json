@@ -1,0 +1,29 @@
+{
+  "name": "D3 Ch12 — Xilthraen City Encounters, Main Thoroughfare (1-in-6)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "City encounter table for Xilthraen's main streets, the Great Bazaar, and near noble estates, Chapter 12 of D3. Encounter frequency: 1 in 6 per new district entered. Roll 1d20 on this table. Noble house retinue: roll 1d8 (1-2=Veythrae, 3=Xilrath, 4=Zhaelor, 5=Dravun, 6=Thalmyr, 7=Velouryn, 8=Vorryn or Draethi).",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Drow patrol, mixed (2 male fighters HD 3+3, 1 patrol leader HD 5+5 + 4–8 quaggoths; XPV 175/400/100 each)", "img": "", "weight": 2, "range": [1, 2], "drawn": false },
+    { "type": 0, "text": "Drow patrol, male (7–10 fighters HD 3+3 hp 22, 1 patrol leader HD 5+5 hp 40, 1 patrol commander HD 7+7 hp 56; XPV 175/400/850)", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "Drow patrol, female (7–10 fighters HD 3+3 hp 22, 1 patrol leader HD 5+5 hp 40, 1 patrol commander — Level 6 cleric with full spells; XPV 175/400/850+)", "img": "", "weight": 1, "range": [4, 4], "drawn": false },
+    { "type": 0, "text": "Noble house retinue (roll 1d8: 1–2=Veythrae, 3=Xilrath, 4=Zhaelor, 5=Dravun, 6=Thalmyr, 7=Velouryn, 8=Vorryn or Draethi; 4–6 fighters, 1 noble HD 5+5, 6–8 quaggoth bearers)", "img": "", "weight": 1, "range": [5, 5], "drawn": false },
+    { "type": 0, "text": "Merchants with guards (3–4 drow merchants, 6 fighter escorts HD 3+3, 8–12 slave bearers; Velouryn-affiliated)", "img": "", "weight": 1, "range": [6, 6], "drawn": false },
+    { "type": 0, "text": "Slave coffle (20–40 mixed humanoids chained, 4–6 bugbear handlers HD 3+1, 1 drow overseer HD 3+3)", "img": "", "weight": 1, "range": [7, 7], "drawn": false },
+    { "type": 0, "text": "Priestess procession of Lolth (4–8 priestesses Level 2–4 cleric, 2 Level 4 cleric guards, 8 quaggoth bearers; yield or be stopped for inspection)", "img": "", "weight": 1, "range": [8, 8], "drawn": false },
+    { "type": 0, "text": "City herald with escort (1 herald, 4 fighters HD 3+3; delivering house summons or Council orders; reads aloud in public)", "img": "", "weight": 1, "range": [9, 9], "drawn": false },
+    { "type": 0, "text": "Drow dueling (2 drow fighters HD 3+3; formal challenge, bystanders watching; Black Blade city watch will arrive in 1d6 rounds to stop it)", "img": "", "weight": 1, "range": [10, 10], "drawn": false },
+    { "type": 0, "text": "Street market crowd (20–40 drow civilians, numerous non-drow slaves and traders; pickpockets, Thalmyr informants; chaotic cover for movement)", "img": "", "weight": 1, "range": [11, 11], "drawn": false },
+    { "type": 0, "text": "Noble on palanquin (1 drow noble HD 5+5, 2 bodyguard fighters HD 7+7, 6 quaggoth bearers, 1 Thalmyr spy following at distance)", "img": "", "weight": 1, "range": [12, 12], "drawn": false },
+    { "type": 0, "text": "Mercenary band (6–12 bugbears HD 3+1, 2–4 quaggoths HD 3+3, 1 drow overseer HD 3+3; hired blades between contracts, surly)", "img": "", "weight": 1, "range": [13, 13], "drawn": false },
+    { "type": 0, "text": "City guard patrol — House Xilrath Black Blades (8 elite fighters HD 3+3 AC 1 poisoned weapons, 1 sergeant HD 5+5; checking papers; XPV 200/450 each)", "img": "", "weight": 1, "range": [14, 14], "drawn": false },
+    { "type": 0, "text": "Escaped slave (1–3 mixed humanoids, panicked and lost; 50% chance Thalmyr agents are in pursuit 1d4 rounds behind)", "img": "", "weight": 1, "range": [15, 15], "drawn": false },
+    { "type": 0, "text": "Demon escort (1 Type I demon HD 8 hp 52, 2 Shadowfire mage handlers Level 5; Veythrae business — do not interfere)", "img": "", "weight": 1, "range": [16, 16], "drawn": false },
+    { "type": 0, "text": "Zhaelor inquisitor patrol (4 zealot fighters HD 3+3, 1 cleric Level 6 with full spells; demanding papers and checking slave brands on all passersby)", "img": "", "weight": 1, "range": [17, 17], "drawn": false },
+    { "type": 0, "text": "Velouryn trade caravan (2–3 merchants, 4 Venom Syndicate enforcers HD 3+3, 10–20 slave porters, 2–4 pack lizards; moving through quickly)", "img": "", "weight": 1, "range": [18, 18], "drawn": false },
+    { "type": 0, "text": "Drow youth gang (4–8 young drow fighters HD 2, associated with a minor house; hazing trespassers in their territory, will back down from obvious strength)", "img": "", "weight": 1, "range": [19, 19], "drawn": false },
+    { "type": 0, "text": "Shadowfire battle-mage patrol — House Veythrae (4 battle-mages Level 5 with wands of magic missiles, 1 Archmage Level 8 in robes; conducting surveillance)", "img": "", "weight": 1, "range": [20, 20], "drawn": false }
+  ]
+}

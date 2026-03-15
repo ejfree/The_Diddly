@@ -1,0 +1,16 @@
+{
+  "name": "D2 Ch10 — Shrine of the Kuo-Toans Wandering Monsters, Eastern Half (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for the Eastern Half of the Kuo-Toan Shrine cavern, Chapter 10 of D1-2. Encounter frequency: 1 in 12 per turn. Roll 1d12; on a 1, roll 1d6 on this table. Kuo-toan guard group: 8 warriors (2nd level), 1 sub-leader (3rd level), 1 leader (4th level). Monitors: HD 7, hp 56, THAC0 13, XPV 1,098.",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Kuo-Toan Pilgrims (14–24 pilgrims unarmed, 2–5 warriors with dagger & short bow, 1 patrol leader with dagger & harpoon, 1 monitor, 2 priests unarmed, 11–14 slave bearers)", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "Kuo-Toan Priests — cleric party (7–12 warriors dagger/spear/shield, 5–8 warriors dagger/short bow, 2 patrol leaders dagger/harpoon, 4 priests unarmed, 1 lama unarmed, 5–8 slave bearers)", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "Kuo-Toan Monitors (1d3; HD 7, hp 56 each, THAC0 13, XPV 1,098 each)", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "Kuo-Toan Pilgrims (14–24 pilgrims unarmed, 2–5 warriors with dagger & short bow, 1 patrol leader with dagger & harpoon, 1 monitor, 2 priests unarmed, 11–14 slave bearers)", "img": "", "weight": 1, "range": [4, 4], "drawn": false },
+    { "type": 0, "text": "Kuo-Toan Guards (8 warriors HD 2 hp 12, 1 sub-leader HD 3, 1 leader HD 4 hp 28; XPV 60/119/222)", "img": "", "weight": 1, "range": [5, 5], "drawn": false },
+    { "type": 0, "text": "Kuo-Toan Pilgrims (14–24 pilgrims unarmed, 2–5 warriors with dagger & short bow, 1 patrol leader with dagger & harpoon, 1 monitor, 2 priests unarmed, 11–14 slave bearers)", "img": "", "weight": 1, "range": [6, 6], "drawn": false }
+  ]
+}

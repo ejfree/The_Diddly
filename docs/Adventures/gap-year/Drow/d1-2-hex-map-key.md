@@ -260,7 +260,7 @@ Not the open crossing — a collapsed cavern system accessible from the eastern 
 - **Connection:** The dry vault has a second sealed door in the far wall — stone, fitted with the same resonance-column technology Lisa uses in the Ironbell Warren. It leads somewhere below. It has not been opened. (GM note: this is the "path below" from Fragment Three of the speaking-stone prophecies at Blingdenstone — see [i-blingdenstone-deep-gnome-city.md](locations/i-blingdenstone-deep-gnome-city.md))
 - **See:** [e2-the-drowned-vault.md](locations/e2-the-drowned-vault.md)
 
-### E3 — The Kuo-Toa Pier
+### E3 — The Kuo-Toan Pier
 The kuo-toa dock complex on the far shore — a maze of rickety wooden platforms, nets, eel cages, and fish-drying racks. Actively busy; 20–30 kuo-toa at any time. Two whips (armed kuo-toa enforcers) guard the main entrance to the settlement warrens. The smell is overwhelming.
 
 - **Key NPC:** Dock Warden Shlipik — kuo-toa whip, mercenary attitude, will accept bribes (surface metal, alcohol, live surface creatures to sacrifice) to pass travelers through with minimal hassle

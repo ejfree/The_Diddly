@@ -1,0 +1,22 @@
+{
+  "name": "D3 Ch12 — Vault of the Drow Wandering Monsters, Fungi and Crystal Forest (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for Fungi and Crystal Forest terrain in the Vault of the Drow, Chapter 12 of D3. Encounter frequency: 1 in 12 per turn. Roll 1d12; on a 1, roll 1d12 on this table. Use when moving within glowing fungal forests and crystal formation clusters.",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Shriekers (4–8) with violet fungi (2–5 interspersed; shriekers: HD 3, hp 18, AC 7; violet fungi: HD 3, hp 18, 4 rotting tentacles)", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "Violet fungi (3–6; HD 3, hp 18, AC 7, 4 tentacles — touch causes rotting disease; XPV 100 each)", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "Myconid patrol (2–8 myconid workers; HD 3, hp 18, AC 10, peaceful unless attacked, spore communication; XPV 35 each)", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "Drow patrol, mixed (2 male fighters HD 3+3, 1 patrol leader HD 5+5 + non-drow troops; roll 1d4: 1=bugbears 4–8, 2=quaggoths 3–6, 3=giant spiders 2–4, 4=hook horrors 1–3)", "img": "", "weight": 1, "range": [4, 4], "drawn": false },
+    { "type": 0, "text": "Quaggoths (3–6; HD 3+3, hp 22, AC 5, #AT 2, Dmg 2–8/2–8; XPV 100 each)", "img": "", "weight": 1, "range": [5, 5], "drawn": false },
+    { "type": 0, "text": "Giant spiders (2–5; HD 4+4, hp 32, AC 4, SA poison; XPV 245 each)", "img": "", "weight": 1, "range": [6, 6], "drawn": false },
+    { "type": 0, "text": "Carrion crawlers (1–3; HD 3+1, hp 22, AC 3, 8 tentacles — paralysis on touch, save vs. paralysis; XPV 300 each)", "img": "", "weight": 1, "range": [7, 7], "drawn": false },
+    { "type": 0, "text": "Gas spores (1–3; resemble beholders, HD 1, hp 1, AC 10; explode on touch releasing 10' spore cloud — save vs. death or die in 24 hours; XPV 35 each)", "img": "", "weight": 1, "range": [8, 8], "drawn": false },
+    { "type": 0, "text": "Bugbears (4–8; HD 3+1, hp 18, AC 5, #AT 1, Dmg 2–8; XPV 135 each)", "img": "", "weight": 1, "range": [9, 9], "drawn": false },
+    { "type": 0, "text": "Hook horrors (1–4; HD 5, hp 40, AC 3, #AT 2, Dmg 3–8/3–8; XPV 320 each)", "img": "", "weight": 1, "range": [10, 10], "drawn": false },
+    { "type": 0, "text": "Troglodytes (5–10; HD 2, hp 12, AC 5, #AT 3, SA stench; XPV 28 each)", "img": "", "weight": 1, "range": [11, 11], "drawn": false },
+    { "type": 0, "text": "Mold hazard — roll 1d2: 1=green slime (1 patch; dissolves organic material, save vs. death or become slime in 1d4 rounds), 2=yellow mold (1 patch; disturbing releases 10' spore cloud, save vs. poison or die)", "img": "", "weight": 1, "range": [12, 12], "drawn": false }
+  ]
+}

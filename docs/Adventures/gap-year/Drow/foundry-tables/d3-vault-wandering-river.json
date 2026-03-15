@@ -1,0 +1,22 @@
+{
+  "name": "D3 Ch12 — Vault of the Drow Wandering Monsters, River and Lake (1-in-12)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Wandering monster table for River and Lake terrain in the Vault of the Drow, Chapter 12 of D3. Encounter frequency: 1 in 12 per turn. Roll 1d12; on a 1, roll 1d12 on this table. Use when near the Pitchy Flow river, Lake Xool, or any significant water body in the Vault.",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    { "type": 0, "text": "Giant gar (1–3; HD 6, hp 50, AC 5, #AT 1, Dmg 5–20; XPV 650 each)", "img": "", "weight": 1, "range": [1, 1], "drawn": false },
+    { "type": 0, "text": "Kuo-toan patrol (4–8 warriors + 1 monitor; warriors HD 2 hp 12 XPV 60; monitor HD 7 hp 56 THAC0 13 XPV 1,098; see D2 shrine notes)", "img": "", "weight": 1, "range": [2, 2], "drawn": false },
+    { "type": 0, "text": "Vodyanoi — water troll (1–3; HD 8, hp 56, AC 2, #AT 3, Dmg 3–12/3–12/2–8, regenerate as troll; XPV 1,040 each)", "img": "", "weight": 1, "range": [3, 3], "drawn": false },
+    { "type": 0, "text": "Drow boat patrol (3–6 fighters HD 3+3 hp 22, 1 patrol leader HD 5+5 hp 40; armed with hand crossbows and spears; XPV 175/400 each)", "img": "", "weight": 1, "range": [4, 4], "drawn": false },
+    { "type": 0, "text": "Giant crabs (2–5; HD 3, hp 18, AC 2, #AT 2, Dmg 2–8/2–8; XPV 65 each)", "img": "", "weight": 1, "range": [5, 5], "drawn": false },
+    { "type": 0, "text": "Water weird (1–2; HD 3+3, hp 22, AC 4, entangle — pulls victim into water; XPV 225 each)", "img": "", "weight": 1, "range": [6, 6], "drawn": false },
+    { "type": 0, "text": "Lake trolls (1–2; aquatic troll; HD 6+6, hp 50, regenerate; XPV 749 each)", "img": "", "weight": 1, "range": [7, 7], "drawn": false },
+    { "type": 0, "text": "Koalinth (3–8; sea hobgoblins; HD 1+1, hp 7, AC 5, #AT 1, Dmg 1–8; armed with trident; XPV 15 each)", "img": "", "weight": 1, "range": [8, 8], "drawn": false },
+    { "type": 0, "text": "Giant catfish (1–2; HD 8, hp 56, AC 4, whisker-stun on hit — save vs. paralysis or stunned 1d4 rounds; XPV 1,000 each)", "img": "", "weight": 1, "range": [9, 9], "drawn": false },
+    { "type": 0, "text": "Giant pike (1–3; HD 4, hp 28, AC 5, #AT 1, Dmg 3–12; XPV 195 each)", "img": "", "weight": 1, "range": [10, 10], "drawn": false },
+    { "type": 0, "text": "Sahaugin (4–8; HD 2+2, hp 14, AC 5, #AT 4, Dmg 1–4/1–4/1–4/1–4; XPV 65 each)", "img": "", "weight": 1, "range": [11, 11], "drawn": false },
+    { "type": 0, "text": "Morkoth (1; HD 7, hp 56, AC 0, THAC0 13, charm spiral — any creature looking at it must save vs. spells or walk into water; XPV 1,150)", "img": "", "weight": 1, "range": [12, 12], "drawn": false }
+  ]
+}
