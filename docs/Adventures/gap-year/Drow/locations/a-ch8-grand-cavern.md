@@ -126,7 +126,18 @@ Two narrow stair-like terraced flights descend ~20 feet into a low cave that **a
 
 **Strategy:** Prefers ventriloquism deception, *repulsion*, *reverse gravity*, *limited wish* to deter; uses *monster summoning* and *invisible stalker* to avoid personal melee. Prefers *dimension door*/*teleport* invisibly to flee rather than fight. Will erect *wall of force* and use *time stop* to strip spell components and holy symbols.
 
-**Asberdies the Lich:** AL N(E); INT Supra-Gen; AC 0; HD 20 (hp 66); THAC0 7; #AT 1; Dmg 1–10 or by spell; SA fear, paralysis touch; SD immune to normal weapons, charm, cold, death magic, electricity, enfeeblement, insanity, polymorph, sleep; XPV 23,256; wears *ring of protection +3*
+**Asberdies the Lich:** AL N(E); INT Supra-Gen; SZ M; MV 6"; AC 0; HD 20 (hp 66); THAC0 7; #AT 1; Dmg 1–10 or by spell; SA fear, paralysis touch; SD immune to normal weapons, charm, cold, death magic, electricity, enfeeblement, insanity, polymorph, sleep; XPV 23,256; wears *ring of protection +3*
+
+Spells:
+- **1st:** burning hands, charm person, magic missile ×2, ventriloquism
+- **2nd:** invisibility, mirror image, ray of enfeeblement, web ×2
+- **3rd:** dispel magic, fireball, fly, lightning bolt, phantasmal force
+- **4th:** charm monster, confusion, dimension door, fumble, polymorph other
+- **5th:** cloudkill, cone of cold, hold monster, teleport, wall of force
+- **6th:** flesh to stone, globe of invulnerability, invisible stalker, repulsion
+- **7th:** limited wish, Mordenkainen's sword, reverse gravity
+- **8th:** Bigby's clenched fist, monster summoning VI, Otto's irresistible dance
+- **9th:** power word kill, time stop
 
 600 *magic mouth* spells cast throughout the lair. Hollow where he rests is silk-lined — no treasure here. On a small northwest ledge behind a broken stone: **folded-up portable hole.**
 
