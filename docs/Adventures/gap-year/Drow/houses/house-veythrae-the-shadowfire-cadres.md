@@ -92,6 +92,12 @@ She believes, with some justification, that the war only goes well if she contro
 
 ---
 
+## Midjourney Prompt — Estate of House Veythrae
+
+> three obsidian-clad stalactite towers at the highest elevation of a vast underground cavern city, connected by iron-grate bridges and spider-silk rope spans over a 200-foot drop into darkness below, violet and blue arcane runes etched into the exterior walls burning with cold fire, shadowfire sconces where dark flame edges shadow instead of light, drow mages visible on the bridges, the most imposing structure in the city seen from below looking up, violet phosphorescent Underdark ambient light, wide establishing shot, dark fantasy painterly illustration, cinematic low-angle perspective --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger

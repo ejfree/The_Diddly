@@ -106,6 +106,12 @@ Known only to Rhevnis and Vorath. Not logged in official records.
 
 ---
 
+## Midjourney Prompt — Estate of House Draethi
+
+> a grim functional drow estate of black iron and rough unfinished stone, heavy iron doors with no handles visible from outside, no lanterns no decoration no house sigil on the exterior, drow enforcers in black armor standing motionless at the entrance holding nets and war flails, rust-red stains weathered into the base of the foundation stone, a barred iron grate in the ground releasing faint acrid vapor from the cells below, neighboring buildings visibly give it a wide berth, violet Underdark ambient light barely reaches the estate front, dark fantasy painterly illustration, street-level view, stark and deliberately unwelcoming atmosphere --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political structure; Draethi is outside the council

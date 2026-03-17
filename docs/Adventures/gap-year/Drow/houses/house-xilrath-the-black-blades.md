@@ -102,6 +102,12 @@ The rivalry with House Veythrae is genuine and structural: she needs their magic
 
 ---
 
+## Midjourney Prompt — Estate of House Xilrath
+
+> a drow military fortress carved directly into the sheer face of an underground cavern wall, thick obsidian battlements with arrow slits and murder holes, iron portcullis gatehouse lit by violet torchlight, drow soldiers in black plate drilling with spears in a stone courtyard below, black war banners bearing a silver blade sigil hanging from the battlements, stalactite formations above the fortifications, violet phosphorescent ambient Underdark light, wide establishing shot, dark fantasy painterly illustration, cinematic elevated angle --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger

@@ -172,6 +172,22 @@ Kalla the Pale's most valuable thrall — Serris the half-elf, the de facto tran
 
 ---
 
+## Midjourney Prompts
+
+### First View of Xil — Tunnel Mouth
+
+The party emerges from the cramped approach tunnels into the Echoing Chasm overlook and sees the Vault for the first time: a cavern so large it has its own horizon.
+
+> a party of adventurers standing at the mouth of a narrow tunnel high on the wall of an impossibly vast underground cavern, looking out and down at a world of violet phosphorescent light, glowing fungi forests stretching across the cavern floor far below, a distant underground river catching the purple light, and at the center of it all a city of stalactite towers strung together with iron-grate bridges and spider-silk spans, lit from within by violet and ember lanterns, hanging bridges between column formations, the city of Xil vast and alien and impossibly far below, the adventurers small silhouettes in the tunnel mouth, wide dramatic establishing shot, dark fantasy painterly illustration, cinematic depth of field, sense of profound scale and wrongness --ar 16:9 --style raw
+
+---
+
+### Top-Down View — Vault and City Layout
+
+> a top-down cartographic fantasy illustration of a vast underground cavern vault forty miles across, violet phosphorescent light emanating from crystal formations and glowing fungi forests across the cavern floor, a dark river entering from the west and feeding into a black lake in the eastern quadrant, and in the southern half the city of Xil: a dense cluster of stalactite columns with tiered architecture strung between them, distinct districts visible from above — a fortified northern wall carved into the cavern rock, obsidian towers at the highest elevation connected by bridges, a great circular bazaar plaza, a spider-web-shaped temple-fortress at the city center, warehouse docks along the riverfront, beast pens in a pit complex to the east, grimlock tunnels visible as dark holes in the upper cavern wall to the north, the whole Vault surrounded by the solid black of unmapped stone, detailed hand-drawn map aesthetic with dark fantasy illustration style, overhead bird's-eye perspective --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [d1-2-hex-map-key.md](../d1-2-hex-map-key.md) — B1, B2, B3 encounter areas in context

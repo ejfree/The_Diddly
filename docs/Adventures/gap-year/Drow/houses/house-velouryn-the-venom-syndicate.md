@@ -91,6 +91,12 @@ Thivra is the one house member who enjoys her work in a way that makes the other
 
 ---
 
+## Midjourney Prompt — Estate of House Velouryn
+
+> a sprawling underground drow warehouse complex more trade hub than noble estate, wide stone loading docks with iron-wheeled carts, goblin porters carrying sealed crates and barrels under drow enforcer supervision, pack lizards laden with trade goods, emerald-green lanterns marking Venom Syndicate territory, shelves of sealed vials and cargo visible through wide arched doorways, a constant flow of merchants and factor-agents, the busiest building in the lower city, violet Underdark ambient light blending with the emerald lanterns, wide establishing shot, dark fantasy painterly illustration, commercial and dangerous atmosphere --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger

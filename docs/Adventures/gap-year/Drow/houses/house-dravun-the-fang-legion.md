@@ -94,6 +94,12 @@ Krael is quieter than his sister and more dangerous in the field. He communicate
 
 ---
 
+## Midjourney Prompt — Estate of House Dravun
+
+> a sprawling drow beastmaster compound built into a natural underground pit complex, giant spiders in iron-barred cages lining the perimeter, quaggoth warrens carved into the rock, pack lizards and rothé penned in connected cave stalls, bone-and-iron fencing, drow beast-handlers moving between pens with goad-staves, a central stone structure barely visible amid the animal enclosures, fungal growth creeping up the compound walls, dim torchlight mixing with violet Underdark phosphorescence, wide aerial establishing shot, dark fantasy painterly illustration, rank and functional atmosphere with no noble pretension --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger

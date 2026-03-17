@@ -87,6 +87,12 @@ Syrris is the one who worries other houses most, in a low-level persistent way. 
 
 ---
 
+## Midjourney Prompt — Estate of House Zhaelor
+
+> a drow zealot compound that extends from the base of a great spider-web temple, black stone walls carved floor-to-ceiling with eight-legged deity iconography and scenes of conquest and sacrifice, crimson torches burning in iron brackets, armored war-priests in red-trimmed black plate patrolling the perimeter in pairs, a massive stone spider idol visible through iron lattice gates, no merchants no trade no decoration except Lolth, the Underdark's violet light swallowed by the black stone, wide establishing shot, dark fantasy painterly illustration, oppressive religious atmosphere, total architectural devotion --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger

@@ -92,6 +92,12 @@ Thressil is younger, field-practical, and increasingly aware that the war will m
 
 ---
 
+## Midjourney Prompt — Estate of House Vorryn
+
+> a quiet orderly drow townhouse in the lower warrens of an underground cavern city, pale grey stone exterior impeccably maintained amid rougher neighbors, pale violet lanterns above a modest arched doorway, an open book on a web motif carved into the lintel, drow scribes visible through candlelit windows bent over ledgers and scrolls, smaller than the surrounding structures but calmer and more permanent-feeling, no guards visible but the iron door looks very solid, violet phosphorescent Underdark ambient light, dark fantasy painterly illustration, street-level perspective, a sense of quiet institutional authority --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political structure; Vorryn is outside the council

@@ -91,6 +91,12 @@ The house's outer-passage spy trail runs from Sector D1 through F2 on the D1-2 h
 
 ---
 
+## Midjourney Prompt — Estate of House Thalmyr
+
+> an unremarkable drow townhouse wedged between larger structures in the lower warrens of an underground cavern city, plain grey stone exterior with no house markings or banners, a single dim lantern above a featureless iron door, no visible guards, identical to a dozen neighboring buildings, a narrow dead-end alleyway approaching from one side, violet phosphorescent Underdark ambient light in the distant cavern above, the only hint of significance: a barely-visible second door frame through a lit basement window, dark fantasy street-level illustration, painterly, quiet and deliberately forgettable --ar 16:9 --style raw
+
+---
+
 ## Cross-References
 
 - [council-of-houses.md](council-of-houses.md) — Political bloc, voting weight, military ledger
