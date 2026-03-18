@@ -16,7 +16,7 @@ So she did.
 
 She intercepted the Aelindra correspondence through the Trust, recognized the opening it offered, and arranged for Lisa to run the operation. The Diddly's intelligence arm was informed of the operation as a courtesy — it was never theirs. Lisa was told it was a sanctioned university collection mission. It wasn't. It was her grandmother's project.
 
-The war that followed was not an accident Alyssa failed to foresee. It was the step she needed to happen. She needed the flight to go down. She needed them to have a reason.
+The war that followed was not an accident Alyssa failed to foresee. It was the step she needed to happen. She needed the flight to go down and stop the war. She needed them to have a reason.
 
 She did not tell Lisa any of this.
 
@@ -26,7 +26,7 @@ She did not tell Lisa any of this.
 
 The Trust is a gnomish intelligence network of significant age and reach, operating through commercial and social infrastructure — couriers, scribes, Sivis message stations, restaurant staff, merchant contacts, and academic connections across multiple continents. It does not formally exist. Its members know they work for something; most do not know what it is called or who leads it.
 
-Alyssa Siviridion has run the Trust's inner circle for longer than most of its members have been alive. The Viridian Salon is her primary operations hub. The "SCIF" room in the tea shop — the one private space in the building, the one Alyssa can monitor in real time through means undetectable by anything short of divine intervention — is where she reads the Trust's most sensitive traffic.
+Alyssa Siviridion has run the Trust's inner circle for longer than most of its members have been alive. The Viridian Salon in Io'lokar is her primary operations hub currently, otherwise she operates out of the trust HQ in Korranberg. The "SCIF" room in the tea shop — the one private space in the building, the one Alyssa can monitor in real time through means undetectable by anything short of divine intervention — is where she reads the Trust's most sensitive traffic.
 
 The Trust's reach into the Underdark is limited but not absent. Gnomish merchant contacts with duergar traders, svirfneblin waystation operators, and surface scouts monitoring Underdark approach tunnels feed intelligence upward through commercial cover. It was through this network that the Trust first detected Aelindra of House Silaen's tentative contact with Xil scouts.
 
