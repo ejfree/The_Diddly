@@ -64,13 +64,20 @@ The giant chain is Lolth's design; PCs completing it confirms the Black Coil pro
 - Spreads via hoard contamination and breath adjacency
 - 3 stages: obsessive behaviors → paranoia → psychosis
 - PF2e mechanics: Fortitude saves, stage progressions, treatment rules
-- **GM secret**: Faculty are unknowingly infected — driving excessive eggie (1st-year) deaths
+- **GM secret**: Faculty (dragon professors) are unknowingly infected — driving excessive student deaths. Infected dragons experience degraded judgment as "clarity."
+- **GM secret**: Faculty do not know they are inside the prophecy — the "flight from the university" is the Fourth Age's final confirmation.
 
 ### Drow City of Xil (D3 Climax)
 - Rebuilt Vault of the Drow, converted to PF2e
 - 6 major houses + 2 minor on the Council
 - ~2,700 drow + 4,000–5,000 auxiliaries
 - Houses: Xilrath (military), Veythrae (arcane), Dravun (beasts), Thalmyr (espionage), Velouryn (wealth), Zhaelor (fanaticism), Vorryn (records), Draethi (execution)
+- **Canonical matron names**: Xilrath Vel'dryn, Thalara Veythrae, Yvra Dravun, Lythrae Thalmyr, Ulvrae Velouryn, Zarila Zhaelor
+- **Canonical company names**: Black Blades (Xilrath), Shadowfire Cadres (Veythrae), Fang Legion (Dravun), Silent Blades (Thalmyr), Venom Syndicate (Velouryn), Lash of Lolth (Zhaelor)
+- **Troop counts**: Reconciled TOEs in individual house files; summary in `council-of-houses.md` military ledger table
+- **Council split**: 4–4 (War Bloc vs. Delay Bloc); actively preparing for war
+- **The Elven Incident (Operation Arenal)**: Matron Vel'dryn discovered she had been deceived by a shapeshifting dragon (Lisa) impersonating an Aerenal elf diplomat over ~2 years of private meetings. The betrayal triggered the war order. This was secretly orchestrated by Alyssa Siviridion (ancient emerald dragon, Diddly professor) to position Lisa's flight inside the prophecy.
+- **PC agency**: When the party arrives in D3, they will most likely tip the council balance one way or another
 
 ### Fourth Age / Prophecy
 - Current age = "Redemption" (draconic view) or "Reckoning" (mortal view)
@@ -138,9 +145,14 @@ tags: ["tag1", "tag2"]
 | File | Purpose |
 |------|---------|
 | `docs/setting/background/fourth-age.md` | Age doctrine and Doom Clock |
+| `docs/setting/background/draconic-ages.md` | Age chronology, Mourning vote |
 | `docs/setting/background/insanity-plague.md` | Pale Choir mechanics |
-| `docs/adventures/gap-year/drow/council-of-houses.md` | Canonical drow politics |
+| `docs/adventures/excessive-eggie-deaths.md` | Root cause of student deaths (plague + drow threat) |
+| `docs/adventures/gap-year/prophecy.md` | Black Coil + Whispered Scale fragments |
+| `docs/adventures/gap-year/drow/council-of-houses.md` | Canonical drow politics and military ledger |
+| `docs/adventures/gap-year/drow/xil-overview.md` | City scale, demographics, districts |
 | `docs/adventures/gap-year/drow/houses/` | Individual house files (matrons, troop counts) |
+| `docs/adventures/gap-year/drow/lisa-spy-operation-arenal.md` | The Elven Incident / Operation Arenal |
 | `docs/party/` | Active PC profiles |
 | `templates/` | File templates for new content |
 
