@@ -1,6 +1,6 @@
 ---
 title: Pit to G1 Connector — Zanaya's Well to the Steading
-updated: 2026-03-09
+updated: 2026-07-30
 tags: ["arc2.5", "arc3", "giants", "connector", "arenal", "khyber"]
 ---
 
@@ -262,8 +262,14 @@ Beyond the far shore's northern wall arch is the dungeon proper — Room 34 is a
 **Wallpaper:**
 > a raw limestone cavern descending into absolute darkness, wet clay floor with massive boot impressions, jagged unworked stone walls glistening with moisture, a single torch casting a tiny sphere of amber light swallowed by impenetrable black, gnawed animal bones cracked open and discarded, crude scratch-marks carved into the rock, claustrophobic narrowing passage, oppressive geological weight, fantasy RPG atmospheric illustration, dramatic chiaroscuro, high detail, cinematic wide format, dark fantasy --ar 16:9 --style raw
 
-**Battlemap:**
+**Battlemap (Variant A — Tunnel Junction):**
 > top-down tactical map of winding narrow limestone tunnels, raw unworked cave passage, wet clay floor with visible large bootprints and muddy drag marks, scattered cracked bones and refuse, crude pictograph arrows scratched at a tunnel junction, small side chambers branching off, irregular cavern walls with natural protrusions, one partially collapsed section, absolute darkness beyond the mapped area, painterly dungeon map style, no grid, no labels, muted earth tones with deep shadow --ar 4:3 --style raw
+
+**Battlemap (Variant B — Refuse Chamber, Otyugh Lair):**
+> top-down tactical map of a rounded natural cave chamber choked with refuse and rotting debris, heaps of bones, offal, and broken pottery mounded against the walls, a wide central mass suggesting something bloated and camouflaged among the trash, narrow single tunnel entrance and exit, moisture-slicked uneven floor, small pools of foul liquid, irregular cavern ceiling with hanging mineral drips, painterly dungeon map style, no grid, no labels, muted brown and sickly olive palette with deep black shadow --ar 4:3 --style raw
+
+**Battlemap (Variant C — Cloaker Ambush Junction):**
+> top-down tactical map of a four-way limestone tunnel intersection, raw unworked stone walls with natural rocky protrusions along the ceiling edges, one wall section with a flat grey formation subtly shaped like a draped cloak blending into the rock, wet clay floor with scattered bootprints leading in multiple directions, a dead ogre's scattered belongings half-buried near one passage mouth, absolute blackness beyond the junction's reach, painterly dungeon map style, no grid, no labels, cold grey stone with faint amber torchlight pool at center --ar 4:3 --style raw
 
 ---
 
@@ -272,8 +278,14 @@ Beyond the far shore's northern wall arch is the dungeon proper — Room 34 is a
 **Wallpaper:**
 > a vast ancient underground highway carved by a long-dead river, forty feet wide with a flat smooth gravel floor, towering limestone formations flanking the passage like cathedral columns, upper walls and ceiling blanketed in bioluminescent fungal colonies glowing soft blue-green and violet, dim otherworldly light diffusing through the cavern, the scale dwarfing a tiny party of travelers, abandoned giant-scale fire rings visible ahead, fantasy RPG concept art, panoramic epic underground vista, ethereal and ancient --ar 16:9 --style raw
 
-**Battlemap:**
+**Battlemap (Variant A — Fire Ring Campsite):**
 > top-down tactical map of a wide dry former river channel, flat gravel floor, irregular natural limestone walls, clusters of bioluminescent fungi along the upper edges casting colored light, two abandoned giant-sized fire rings with scattered bones and broken pottery, large stalagmites and stalactites, a crude animal-skin tanning rack stretched between formations, natural alcoves and side passages branching off, painterly dungeon map style, no grid, no labels, cool blue-green bioluminescent palette with warm amber fire ring centers --ar 4:3 --style raw
+
+**Battlemap (Variant B — Toll Gate Chokepoint):**
+> top-down tactical map of a narrow eight-foot-wide karst tunnel squeeze flanked by a wider gravel-floored chamber on one side, a crude tollgate of lashed bones and iron scrap blocking the narrow point, a scratched territorial line across the floor, small troll-sized nooks and refuse piles near the gate, a glint suggesting a hidden treasure pile tucked in a side alcove, bioluminescent fungus glow along upper wall edges, painterly dungeon map style, no grid, no labels, cool teal-green glow with dark rust-colored gate --ar 4:3 --style raw
+
+**Battlemap (Variant C — Wyvern Nesting Chamber):**
+> top-down tactical map of a tall karst chamber opening off the main channel, a raised rocky ledge partway up one wall serving as a nest platform littered with bones and torn hide, the wide dry riverbed floor continuing below, scattered stalagmite clusters providing partial cover, a narrow crevice exit at the rear, bioluminescent fungal patches casting dim colored light across uneven stone, painterly dungeon map style, no grid, no labels, muted violet-green bioluminescence with dark shadowed nest ledge --ar 4:3 --style raw
 
 ---
 
@@ -282,8 +294,14 @@ Beyond the far shore's northern wall arch is the dungeon proper — Room 34 is a
 **Wallpaper:**
 > ancient dwarven stone vaulted galleries partially submerged in still dark water, watermarks staining the precisely cut stone walls fifteen feet high showing past flood levels, elegant dwarven architectural arches cracked and tilted by centuries of seismic stress, pale eyeless fish flickering in the black water, collapsed ore cart half-submerged in rubble, a single carved survey seal still visible on a surviving wall panel, bioluminescent organisms in the water casting faint cold light from below, atmosphere of drowned history, dark fantasy RPG art, melancholic and ancient --ar 16:9 --style raw
 
-**Battlemap:**
+**Battlemap (Variant A — Flooded Gallery with Binding Circle):**
 > top-down tactical map of flooded dwarven ruins, dry stone platforms and collapsed gallery floors intermixed with channels and pools of dark water, cracked precisely-cut dwarven masonry, a shattered ore cart in rubble, broken stone columns, archways above submerged passages, a sealed stone door with carved sigil visible on one wall, waterlogged debris scattered throughout, pale shapes suggesting eyeless fish in the flooded sections, a partially visible binding circle carved in the floor of one flooded chamber, painterly dungeon map style, no grid, no labels, cold blue-grey with amber dry-stone highlights --ar 4:3 --style raw
+
+**Battlemap (Variant B — Survey Station 14-E Interior):**
+> top-down tactical map of a small sealed dwarven survey station chamber, precisely cut stone walls stamped with a survey sigil near the entrance, a stone table covered in surveying instruments and specimen jars, a simple cot along one wall, a locked stone door at the single entrance showing tool marks, shelves with a sealed ration crate, dry and undisturbed in contrast to the flooding outside, painterly dungeon map style, no grid, no labels, warm lantern amber against grey dwarven stone --ar 4:3 --style raw
+
+**Battlemap (Variant C — Flash Flood Channel):**
+> top-down tactical map of a long flooded karst channel with dwarven stonework banks, rushing dark water filling most of the passage, narrow strips of higher dry ground along the edges, submerged rubble and debris visible beneath the surface, a partial ceiling collapse spilling rock into the water on one side, distant archway leading to higher ground at the far end, painterly dungeon map style, no grid, no labels, turbulent deep blue water against pale wet stone --ar 4:3 --style raw
 
 ---
 
@@ -292,8 +310,14 @@ Beyond the far shore's northern wall arch is the dungeon proper — Room 34 is a
 **Wallpaper:**
 > worked stone tunnels built for giants, rough-hewn walls with crude iron torch brackets holding fat-burning torches that cast greasy orange firelight, enormous tunnel proportions designed for twelve-foot creatures, the stone floor worn smooth by decades of massive footfalls, piles of bones and refuse in the corners, a crude iron gate visible in a side passage, the oppressive sense of inhabited territory and imminent discovery, the weight of a massive fortress pressing down through the rock above, dark fantasy RPG concept art, grim and foreboding, warm torchlight against cold stone --ar 16:9 --style raw
 
-**Battlemap:**
+**Battlemap (Variant A — Main Access Tunnel):**
 > top-down tactical map of worked giant-scale stone tunnels and chambers, rough-cut but deliberate masonry, iron torch brackets on walls at regular intervals, a side passage barred with a crude iron gate, debris piles of bones and broken pottery in corners, patches of floor leveled with rough mortar, a collapsed section revealing older natural cave beneath, wide main corridor with narrower side branches, giant-scale proportions throughout, painterly dungeon map style, no grid, no labels, warm orange torchlight pools on worn stone floor, deep shadow in alcoves --ar 4:3 --style raw
+
+**Battlemap (Variant B — Troll-Gated Side Passage):**
+> top-down tactical map of a giant-scale tunnel junction, a heavy crude iron gate bolted across a narrow side passage reeking of troll, worked stone walls with rough mortar patches, iron torch brackets casting pools of orange light, scattered bone debris near the gate, the main corridor continuing wide and open past the junction, faint claw-scarred stone near the barred passage, painterly dungeon map style, no grid, no labels, warm torchlight against cold dark iron and stone --ar 4:3 --style raw
+
+**Battlemap (Variant C — Ogre Column Muster Point):**
+> top-down tactical map of a wide worked stone chamber where a giant-scale tunnel opens into a broader staging area, rough mortar-leveled floor marked with drag trails from heavy bundles, stacked supply crates and barrels along one wall, iron torch brackets spaced around the perimeter, multiple tunnel mouths leading deeper toward the Steading above, giant-scale proportions throughout, painterly dungeon map style, no grid, no labels, warm amber torchlight with long dark shadows between crate stacks --ar 4:3 --style raw
 
 ---
 

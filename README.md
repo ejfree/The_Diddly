@@ -12,5 +12,23 @@ This repository is the canonical, versioned source of truth for The Diddly (Drag
 2. Put images under `assets/images/` and maps under `assets/maps/`.
 3. Run the normalizer task (see below) to add frontmatter & clean filenames.
 
-## VS Code
+## 
 Open the folder in VS Code and accept the recommended extensions. A task named **Normalize Diddly** runs `scripts/tools/normalize.sh`.
+
+## TO DO List
+
+4. G1 Upper
+  a. People
+  b. Treasure
+3. G2 Lower
+  a. People
+  b. Treasure
+4. G2 Upper
+  a. People
+  b. Treasure
+3. G3 Lower
+  a. People
+  b. Treasure
+4. G3 Upper
+  a. People
+  b. Treasure
