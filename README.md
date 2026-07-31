@@ -16,6 +16,11 @@ This repository is the canonical, versioned source of truth for The Diddly (Drag
 Open the folder in VS Code and accept the recommended extensions. A task named **Normalize Diddly** runs `scripts/tools/normalize.sh`.
 
 ## TO DO List
+Sausage Uplevel & Return
+Giant Battle Landing Page
+
+
+
 
 4. G1 Upper
   a. People

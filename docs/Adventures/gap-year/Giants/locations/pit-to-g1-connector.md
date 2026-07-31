@@ -33,6 +33,8 @@ The bottom of the Pit does not end. It opens.
 
 Below the final layer of Zanaya's Well, the worked stone gives way to raw limestone — a natural throat descending into Khyber's outer reaches beneath Arenal. The evidence is immediate: giant bootprints in the mud, gnawed animal bones, the faint smell of rancid fat from old torches. Something large has been using these tunnels regularly, traveling south toward the Sundering Peaks.
 
+The party's arrival point at the base of Zanaya's Well sits partway down a much larger structure: a colossal natural shaft with a stone column at its center, wrapped in a giant-cut ramp that the hill giants use as their surface access road, ending in a permanent garrison camp on the shaft floor. See [pit-column.md](pit-column.md) for the full breakdown of the shaft, the ramp, and Gullet Camp — the party may need to pass through or around this location before reaching the tunnel mouth that begins Zone 1 below.
+
 The party follows the trail. It is not subtle. Hill giants are not careful travelers.
 
 The journey is approximately 200 miles as the tunnels run — longer by surface reckoning, as the route winds through the karst and follows the contours of underground river systems. At normal pace (10 miles per day) with rest, this is 20 days. The party emerges in the subterranean lake (Room 36) beneath the Steading, surfacing on the eastern shore from a natural passage the giants use as a back-road into their own dungeon.
@@ -333,6 +335,7 @@ Beyond the far shore's northern wall arch is the dungeon proper — Room 34 is a
 
 ### Cross-References
 
+- [pit-column.md](pit-column.md) — The Long Throat and Gullet Camp, the giants' surface access route that feeds into Zone 1 (Pit Outflow) from above
 - [g1-lower.md](g1-lower.md) — Room 36 (arrival), Room 34 (stream crossing), Room 37 (prisoners)
 - [g1-upper.md](g1-upper.md) — Room 18A (the staircase the giants use; unknown to PCs on arrival)
 - [gdq-dev.md](gdq-dev.md) — Arc geography overview (Arenal, Sundering Peaks)
