@@ -5,6 +5,9 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory", "purchase-list"]
 ---
 
 # Uncle Alben — Purchase List
+
+Gathering Call Fail Safe
+Wand of magnificent mount (l2 first but really l5,6)
   
 ---
 

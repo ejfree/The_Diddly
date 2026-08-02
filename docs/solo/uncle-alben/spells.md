@@ -30,7 +30,7 @@ This is his standing daily prepared list on a stated combat day
 | 2nd | 3 | Dancing Shield, Dispel Magic, Harm |
 | 3rd | 3 | Heroism, Roaring Applause, Whirling Scarves |
 | 4th | 3 | Unfettered Movement, Fly, Dispel Magic |
-| 5th | 3 | Marvelous Mount, Harm, Flame Strike |
+| 5th | 3 | Spiritual Transport, Harm, Flame Strike |
 | 6th | 2 | Blade Barrier, Dragon Form |
 
 ### Spell Notes
