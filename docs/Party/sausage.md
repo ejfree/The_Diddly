@@ -1,9 +1,73 @@
 ---
 title: Sausage
-updated: 2026-03-15
-tags: []
+updated: 2026-07-31
+tags: ["party", "companion", "sausage", "ilvarath"]
 ---
 
+## Sausage the Giant Shadow Weasel — Level 9
+
+**Type:** Animal in Aberration
+
+**Level 9 Glow-Up — "The Boundless Stirs":** The jump from 6th to 9th level is not a gradual polish — it is a visible deepening. Ilvarath is no longer a quiet passenger; the entity's dream-stuff has begun to bleed outward into Sausage's physical form. His oil-slick iridescent coat now shimmers faintly with impossible colors that have no name on the Material Plane — the visual equivalent of a taste no mortal tongue has experienced. His ember-orange eyes have gained a second, fainter ring of deep violet around the iris, like a dreaming afterimage. The shadow tendrils that once merely gripped weapons now sometimes curl independently, tracing lazy spirals in the air near his head — Ilvarath, thinking, half-dreaming, savoring something only it can perceive. When Sausage is deep in focus (combat, tracking, or an unusually good meal), a faint low hum like distant harp-song drifts from him, audible only within 10 feet.
+
+**Midjourney Prompt:**
+> a giant shadow weasel 6 feet tall standing upright, near-black fur shimmering with impossible iridescent colors that seem to shift beyond normal spectrum, a faint second ring of deep violet around burning ember-orange eyes, wisps of shadow curling independently near his head in slow dreaming spirals, one tendril gripping a sword and another cradling a small ornate book, an aura of dreamlike opulence and predatory dignity, standing in a dramatic three-quarter pose bathed in dim violet ambient light with faint golden motes drifting like captured taste and scent, deep Underdark atmosphere, dark fantasy character portrait, painterly illustration, cinematic lighting, dramatic shadow play --ar 2:3 --style raw
+
+**Height**: 6 feet, closing on his full projected 3-meter (nearly 4 with tail) growth
+**Disposition**: Loyal, hyper-aware, emotionally complicated, increasingly wistful
+**Alignment** N; **Size** Medium animal (shadow-touched, dream-touched)
+**Perception** +19; darkvision; scent (imprecise) 60 ft.; can now sense strong emotional/appetitive auras (Ilvarath's influence) within 30 feet as an imprecise sense
+**Languages** understands Common, Elven, Undercommon, Empyrean (can't speak; occasionally "writes" single sentences in condensation, ash, or spilled wine)
+**Skills** Acrobatics +19, Athletics +21, Stealth +20, Survival +18, Intimidation +16, Occultism +14 (Ilvarath-granted)
+**Str** +6, **Dex** +4, **Con** +5, **Int** -1, **Wis** +3, **Cha** +3 (Cha climbing steadily as Ilvarath's presence surfaces)
+**Items** ring of holding (contains 2 drow hand crossbows and 2 +2 striking venomous drow sawtooth sabers sized for Medium users, plus a small waterproofed satchel of dragon romance novels Ilvarath insists on keeping dry)
+
+**AC** 28; **Fort** +21, **Ref** +19, **Will** +18
+**HP** 155; **Resistances** cold 10, negative 10, mental 5 (Ilvarath's dream-nature partially insulates him)
+**Speed** 40 ft, climb 15 ft (shadow-grip)
+
+**Melee**
+**Jaws** +21 (reach 10 ft, magical), **Damage** 3d8+11 piercing plus Knockdown
+**Claw** +21 (agile, magical), **Damage** 2d8+11 slashing
+**+2 Striking Venomous Sawtooth Saber** +22 (agile, disarm, finesse, twin, shadow-hand, magical), **Damage** 3d6+7 slashing plus drow sleep poison plus 1d6 mental (Ilvarath's flavor-hunger bleeding into the wound); drawn from ring of holding as part of the Strike.
+
+**Ranged**
+**Hand Crossbow** +19 (range increment 60 ft, reload 1, shadow-hand, magical), **Damage** 1d6+3 piercing plus drow sleep poison if loaded; drawn from ring of holding as part of the Strike.
+
+### Abilities (Level 9)
+
+All Level 6 abilities (Shadow Weapon Aptitude, Shadow Pounce, Pack Hunter) remain unchanged in function; two are upgraded below, and two new abilities reflect Ilvarath's growing influence.
+
+#### Shadow Weapon Aptitude (concentrate, manipulate, shadow) — unchanged
+
+Sausage can wield one-handed weapons or hand crossbows sized for Medium creatures using shadowy tendrils. He can draw or stow such a weapon as a free action once per round and is treated as having a free hand for reloading hand crossbows.
+
+#### Shadow Pounce (move, shadow, teleportation) — 1 action — unchanged
+
+If Sausage is in dim light or darkness, he Steps up to 20 feet and makes a Jaws or weapon Strike at the end of the movement. This movement doesn't trigger reactions triggered by movement.
+
+#### Pack Hunter — unchanged
+
+Sausage gains a +2 circumstance bonus to attack rolls against a creature that is within reach of one of his allies.
+
+#### Howl of Dread (auditory, emotion, fear, mental, primal) — 2 actions — upgraded
+
+Sausage unleashes a shadow-backed howl in a 30-foot emanation. Each enemy in the area must succeed at a DC 28 Will save or become frightened 1 (or frightened 2 on a critical failure). Creatures frightened by this howl are also flat-footed to Sausage until the end of his next turn. **New at 9th level:** the howl now carries a faint undertone of Ilvarath's dream-hunger — creatures who critically fail also become sickened 1 for 1 round, overwhelmed by a phantom taste of something ancient and wrong.
+
+#### Ilvarath's Savored Strike (concentrate, mental, primal) — free action, once per round
+
+When Sausage critically succeeds at a Strike, Ilvarath "tastes" the moment. Sausage gains a +1 circumstance bonus to his next skill check or saving throw before the end of his next turn, as the entity's satisfaction sharpens his instincts. This can stack up to twice.
+
+#### Bound Gourmand, Awakened (concentrate, mental, primal) — upgraded from the 5th-level Bound Gourmand trait
+
+Sausage may now attempt an **Occult Recall Knowledge** check **twice per day** on any topic involving food, etiquette, interpersonal romance, dreams, or ancient draconic decadence, using the better of his or the party's Occultism modifier +4. Once per day, he may instead grant this benefit to an adjacent ally, letting Ilvarath's borrowed insight flow through Sausage's contact (a paw on a boot, a nudge of the snout).
+
+- **Critical Success**: He provides insight, an additional vivid detail, and (GM's discretion) a small in-fiction boon — a dreamlike hunch that proves accurate.
+- **Critical Failure**: A romantic or gastronomic monologue overtakes him — he's stunned 1 but absolutely glowing, and nearby allies within 10 feet who can hear/see him must succeed at a DC 15 Will save or be distracted (–1 circumstance penalty to their next check) by sheer secondhand embarrassment.
+
+**GM Note — Why Level 9 Matters for Ilvarath:** This is the point in Sausage's growth where the entity stops being a passive flavor-text passenger and starts meaningfully touching his combat instincts, his senses, and his luck. Mechanically, this shows up as the mental damage on his saber strikes, the Ilvarath's Savored Strike ability, the upgraded Bound Gourmand, and the new Occultism skill entry — none of which existed at 6th level. Treat this as the second landmark in Ilvarath's slow awakening (the first being the original imprinting during the Wyrmshadow Weaver ritual); see "Long-Term Reveal Possibility" below for where this eventually leads.
+
+---
 ## Sausage the Giant Shadow Weasel — Level 6
 
 **Type:** Animal in Aberration
@@ -196,3 +260,5 @@ The PCs may not realize what's happening at first. They might just notice Sausag
 ### Long-Term Reveal Possibility
 
 Eventually, Ilvarath may fully awaken. He has no desire to leave Sausage—he finds his current form **cozy**, **adored**, and **full of snacks**. But should the PCs ever need to **negotiate with ancient dream entities**, **access a forgotten dragonic library**, or **pass the Trials of Appetite in the Vaults of Taste**, Sausage may become **a vessel of insight and flavor unmatched**.
+
+**Level 9 Update:** With Sausage's growth to 9th level, Ilvarath's presence has crossed from purely cosmetic/flavor influence into genuine mechanical bleed-through — see the Level 9 stat block above (Ilvarath's Savored Strike, the upgraded Bound Gourmand, the mental damage riding his blade, the new Occultism skill entry). This should be played as a slow, ongoing awakening rather than a single dramatic reveal: Ilvarath is becoming more present in Sausage's actions, not preparing to leave him. Future level-ups should continue deepening this bleed-through until the GM decides the timing is right for the entity to speak directly, negotiate on its own behalf, or reveal a stake in the wider plot.

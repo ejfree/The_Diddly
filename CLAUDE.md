@@ -20,6 +20,7 @@ docs/
   party/          — Active PC profiles and companion stat blocks
   setting/        — World lore, ages, doctrines, plagues, factions
   memory/         — Campaign canon rules and key facts
+  solo/           — Solo/side campaigns, isolated per subfolder (see below)
 
 assets/
   images/         — Character art, illustrations
@@ -27,6 +28,17 @@ assets/
 
 templates/        — Markdown templates for professors, students, rooms, shops
 ```
+
+---
+
+## `docs/solo/` Isolation Rule
+
+Each subfolder under `docs/solo/` (e.g. `docs/solo/uncle-alben/`) is a **self-contained, isolated dataset** for that solo/side character or campaign only.
+
+- Content in a `docs/solo/<name>/` folder must **never** be treated as canon for the main campaign, other solo folders, or vice versa.
+- When working inside a `docs/solo/<name>/` folder, **only use material found within that same folder** — do not pull in lore, stats, or context from the rest of the repo (main campaign party, setting, adventures, etc.) unless the user explicitly asks for a crossover.
+- Likewise, nothing in `docs/solo/` should be referenced or assumed when working on the main campaign (party, adventures, setting, university, iolokar) unless explicitly instructed.
+- Treat each `docs/solo/<name>/` folder as its own sandbox with no implicit shared continuity.
 
 ---
 
