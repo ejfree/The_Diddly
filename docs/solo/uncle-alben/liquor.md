@@ -12,7 +12,7 @@ tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 
 ## Mechanics (shared by all entries)
 
-Every liquor below uses the standard PF2e **Alcohol** item template — only the name, region, spirit type, and tasting notes change.
+Every liquor below uses the standard PF2e **Alcohol** item template — only the name, region, spirit type, and tasting notes change. One entry per region is a **signature bottle**: rather than a single tasting note, it lists 2–3 distinct sensory properties (sight, sound, smell, or touch, in addition to taste) that make it stand out from the rest of the region's list. These are flavor/roleplay hooks only — see the GM Note below for how (and whether) to give them mechanical weight.
 
 **Item 0 — Alchemical, Consumable, Drug, Ingested, Poison**
 **Price** 1 sp (per dose, standard); rare/reserve bottles noted individually may run higher at GM discretion
@@ -31,6 +31,8 @@ Every liquor below uses the standard PF2e **Alcohol** item template — only the
 | 7 | Death |
 
 You can't recover from the sickened condition from alcohol while affected. If you fail a saving throw against alcohol other than the initial save, the affliction's stage doesn't increase — only drinking more does that.
+
+**GM Note — Signature Bottles:** The 2–3 sensory properties on each region's signature bottle (one per region, called out below) are narrative flavor by default — they make that bottle memorable and giftable without changing its stats, still using the shared Item 0 Alcohol template above. If a GM wants to spotlight one in play (a quest reward, a mysterious vintage, a clue), consider layering on a minor, setting-appropriate rules effect (a cantrip-level trick, a harmless illusion, a +1 circumstance bonus to a relevant check) rather than rewriting the whole stat block — keep it a garnish, not a new item.
 
 ---
 
@@ -66,7 +68,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Oni's Ember Whiskey | Whiskey | Peated barley, aggressively smoky, a fiery kick like a demon's temper |
 | Plum Blossom Brandy | Brandy | Tart umeshu-style plum brandy, sweet and bracing |
 | Kami's Breath Gin | Gin | Botanicals of yuzu peel, shiso leaf, and sansho pepper |
-| Tengu Wing Whiskey | Whiskey | High-proof mountain whiskey, sharp as a windstorm |
+| Kami's Chime Whiskey | Whiskey | Sight: leaves a faint golden shimmer suspended in the glass long after swirling stops; Sound: a soft wind-chime tone rings from the bottle the instant it's uncorked; Smell: the aroma shifts from sharp pine to sweet plum the longer it's left to breathe |
 | Moonviewing Brandy | Brandy | Rice brandy aged in casks left open to the night sky |
 | Shogun's Reserve Whiskey | Whiskey | Imperial-grade, oak and dried persimmon, commands respect |
 | Sakura Ember Gin | Gin | Cherry blossom botanicals over a quiet juniper backbone |
@@ -87,7 +89,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Longan Blossom Brandy | Brandy | Dried longan and honey, mellow and rounded |
 | Vermilion Court Whiskey | Whiskey | Ceremonial toasting whiskey, bold red-pepper bite |
 | Silk Road Gin | Gin | Botanicals gathered from a dozen trade routes, complex and shifting |
-| Nine Phoenix Whiskey | Whiskey | Layered and smoky, said to taste different with every pour |
+| Cinderplume Whiskey | Whiskey | Touch: the glass warms noticeably in hand no matter the room's temperature; Sight: a thin ember-orange glow rises through the liquid as it's poured; Taste: char and black pepper up front, then an unexpected burst of honey on the swallow |
 | Golden Pagoda Brandy | Brandy | Aged in clay urns, dried fruit and deep caramel |
 
 ---
@@ -101,7 +103,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Celestial Throne Whiskey | Whiskey | Imperial reserve, exceptionally smooth, aged beneath palace eaves |
 | Palace Gate Gin | Gin | Refined botanicals of jasmine and green tea leaf |
 | Court Astrologer's Brandy | Brandy | Said to taste subtly different depending on the phase of the moon |
-| Emperor's Seal Whiskey | Whiskey | Bottled with a dragon-motif seal, rare, potent, and expensive |
+| Sundial Reserve Whiskey | Whiskey | Sight: the color visibly deepens from pale gold to dark amber over the course of an hour once poured, as though aging in the glass; Sound: left standing, the liquid ticks faintly, like a clock counting down; Taste: grows more bitter the longer it sits before drinking |
 
 ---
 
@@ -118,7 +120,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Nomad's Ember Whiskey | Whiskey | Portable trail batch, harsh but dependable |
 | Thundering Hooves Brandy | Brandy | Fruit brandy from hardy steppe berries, quick and sharp |
 | Khan's Reserve Whiskey | Whiskey | Aged in leather-lined casks, smoky and commanding |
-| Frost Wolf Vodka | Vodka | Ice-filtered, bracingly clean, numbing on the way down |
+| Howling Frost Vodka | Vodka | Touch: frosts the outside of the glass instantly, regardless of ambient heat; Sound: a faint wolf's-howl whistle escapes the bottle the moment it's opened; Taste: a numbing cold that lingers on the tongue for several minutes after swallowing |
 
 ---
 
@@ -129,7 +131,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Name | Type | Tasting Notes |
 |------|------|----------------|
 | Hidden Peak Whiskey | Whiskey | Reclusive mountain distillery, smoky and mysterious |
-| Secret Valley Gin | Gin | Foraged alpine botanicals from a recipe no outsider knows |
+| Whispering Valley Gin | Gin | Sound: drinkers swear they hear faint whispers in an unfamiliar tongue as they swallow; Smell: juniper and cold stone on the nose gives way to something floral and warm in the mouth; Sight: a thin mist clings to the surface of the glass no matter the temperature of the room |
 | Veiled Mountain Brandy | Brandy | Rare export, said to sharpen the mind before it dulls it |
 | Quain Reserve Whiskey | Whiskey | Almost never leaves the valley; prized wherever it does |
 
@@ -142,7 +144,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Name | Type | Tasting Notes |
 |------|------|----------------|
 | Harbor Lantern Whiskey | Whiskey | Cheap, smoky, the standard pour in every dockside tavern |
-| City-State Gin | Gin | Eclectic botanicals gathered from a dozen market stalls |
+| Harborsong Gin | Gin | Sound: the bottle hums faintly, a low resonant note, whenever it's tilted; Smell: carries the unmistakable smell of the sea even far from any coastline; Taste: every drinker swears it tastes like whatever meal they miss most from home |
 | Shokuro Ember Brandy | Brandy | Bold trade-town brandy, favored by merchants closing a deal |
 | Market Square Whiskey | Whiskey | Blended from surplus grain, rough, honest, and cheap |
 
@@ -157,7 +159,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Ancestor's Ember Whiskey | Whiskey | Funerary rice whiskey, traditionally poured for the dead first |
 | Mourning Bell Brandy | Brandy | Somber and bittersweet, aged in stone tomb chambers |
 | Jungle Orchid Gin | Gin | Floral botanicals laid over a raw, insistent heat |
-| Undying Court Whiskey | Whiskey | Eerily clear, and — unsettlingly — never seems to spoil |
+| Evermourning Whiskey | Whiskey | Sight: the liquid never fully settles, a slow ghostly swirl always visible even at rest; Touch: the bottle stays cold to the touch even in summer heat; Taste: unsettlingly, the flavor seems to recall a specific loss the drinker still mourns |
 | Lotus Tomb Brandy | Brandy | Lotus-root sweetness, a traditional funerary offering spirit |
 | Silent Procession Whiskey | Whiskey | Smooth going down, with an aftertaste that lingers far too long |
 
@@ -174,7 +176,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Naga Pearl Brandy | Brandy | Smooth swamp-fruit brandy with an iridescent pearl sheen |
 | River Delta Whiskey | Whiskey | Murky in color, surprisingly clean on the palate |
 | Coiled Jade Gin | Gin | Jade-green botanical gin, thick with jungle juniper |
-| Marsh Light Brandy | Brandy | Swamp berry brandy that seems to glow faintly under moonlight |
+| Will-o'-Wisp Brandy | Brandy | Sight: genuinely glows a faint green in darkness, true bioluminescence and not a trick of the light; Sound: a low buzzing hum, like marsh insects, rises when the bottle is swirled; Smell: carries the scent of night-blooming flowers that have no business growing this far from the swamp |
 
 ---
 
@@ -188,7 +190,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Peninsula Gin | Gin | Coastal botanicals of sea fennel and bitter citrus peel |
 | Tide Pool Brandy | Brandy | Briny-sweet, aged in casks stored near the shoreline |
 | Pearl Bay Whiskey | Whiskey | Smooth, oak-aged within sight of the harbor |
-| Storm Coast Gin | Gin | Sharp juniper cut through with sea brine |
+| Tempest Bell Gin | Gin | Sound: swirl the glass and distant thunder can be heard rolling from within it; Touch: the liquid always feels colder than its stated serving temperature; Taste: shifts from briny-salt to sweet partway through a single sip, with no clear cause |
 
 ---
 
@@ -202,7 +204,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Kaoling Peak Gin | Gin | Alpine botanicals of pine needle and wild juniper |
 | Cloud Summit Brandy | Brandy | Thin-air distillate, unusually clean and sharp |
 | Stonepath Whiskey | Whiskey | Austere, almost metallic — an acquired mountain taste |
-| Frostpine Gin | Gin | Crisp cold-climate botanicals, resinous and bracing |
+| Summit Echo Gin | Gin | Sound: faintly echoes any words spoken over an open glass, like a mountain valley; Sight: tiny snowflake-like patterns appear frozen mid-fall within the liquid; Touch: the glass grows numbingly cold to the touch, colder than the liquid inside should allow |
 
 ---
 
@@ -215,7 +217,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Elder's Ginseng Whiskey | Whiskey | Root-infused, warming, faintly medicinal |
 | Longevity Brandy | Brandy | Aged decades, handed down and treated like a family heirloom |
 | Sage's Reserve Gin | Gin | Herbal botanicals favored by scholars and physicians alike |
-| Thousand-Year Whiskey | Whiskey | Slow-aged and said to grant wisdom (it does not, but it tries) |
+| Elder Bell Whiskey | Whiskey | Sound: a low bell-tone rings out the instant the bottle is uncorked; Sight: the whiskey's color visibly deepens with age even after bottling, as though it keeps growing older; Taste: described by elders as "tasting like a memory you haven't had yet" |
 | Wanshou Ember Brandy | Brandy | Deep caramel and dried fruit, poured at ceremonial occasions |
 
 ---
@@ -228,7 +230,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 |------|------|----------------|
 | Forest Canopy Whiskey | Whiskey | Woodland grain spirit, resinous and gently smoky |
 | Green Grove Gin | Gin | Fresh forest botanicals, bright and herbal |
-| Deep Wood Brandy | Brandy | Dark fruit brandy, aged for years under heavy tree cover |
+| Heartwood Brandy | Brandy | Smell: smells of fresh-cut timber no matter how long the bottle has been open; Sound: a faint creak, like settling wood, can be heard from within the bottle; Touch: the glass feels faintly grainy and rough, like bark, despite being perfectly smooth |
 | Silent Grove Whiskey | Whiskey | Quiet, mellow, with a faint natural sweetness |
 
 ---
@@ -241,7 +243,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 |------|------|----------------|
 | Trade Wind Whiskey | Whiskey | An eclectic blend drawn from a dozen import routes |
 | Harbor Market Gin | Gin | A little of everything from the docks — somehow balanced |
-| Caravan's Ember Brandy | Brandy | Well-traveled, smoky, and warm after a long road |
+| Wanderer's Compass Brandy | Brandy | Sight: a faint shimmer in the liquid always seems to lean toward the drinker's true home, however far away; Sound: a soft jingle of distant caravan bells rises when the glass is swirled; Taste: the flavor changes to reflect whatever distant place the drinker misses most |
 | Foreign Quarter Whiskey | Whiskey | Blended styles from visiting merchants, cosmopolitan flavor |
 | Yanmass Reserve Gin | Gin | The city-state's own refined botanical blend |
 
@@ -257,7 +259,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Nine-Tailed Gin | Gin | Layered botanicals, playful on the nose, sly in the finish |
 | Trickster's Ember Brandy | Brandy | Sweet at first sip, surprising heat right after |
 | Kitsune's Veil Whiskey | Whiskey | Smooth and beguiling, easy to underestimate |
-| Moonlit Den Gin | Gin | Delicate juniper with a faint floral sleight of hand |
+| Nine-Tailed Veil Gin | Gin | Sight: shimmers with a faint blue-green fox-fire glow under moonlight; Sound: a soft, girlish giggle seems to escape the bottle the moment it's poured; Taste: tastes different to every person at the table, playful and impossible to predict |
 
 ---
 
@@ -270,7 +272,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Far Horizon Whiskey | Whiskey | Remote-distilled, rarely seen outside its home valley |
 | Zi Ha Ember Gin | Gin | Foraged remote botanicals, sparse and strange |
 | Lonely Peak Brandy | Brandy | Austere and solitary in flavor, matches its origin |
-| Distant Reach Whiskey | Whiskey | Simple, honest, and hard to find anywhere else |
+| Forgotten Horizon Whiskey | Whiskey | Sight: the liquid appears to fade toward translucence at the edges of the glass, as if vanishing; Touch: the bottle always feels subtly farther away than it looks; Taste: unforgettable in the moment, yet almost impossible to recall clearly the next day |
 
 ---
 
@@ -285,7 +287,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Archipelago Gin | Gin | Tropical botanicals of coconut husk and citrus peel |
 | Volcanic Isle Whiskey | Whiskey | Mineral-rich water source lends it a smoky edge |
 | Pearl Tide Rum | Rum | Aged near the coast, briny-sweet finish |
-| Typhoon Ember Rum | Rum | Bold, stormy, and dangerously high-proof |
+| Storm-Caller Rum | Rum | Sound: shake the bottle and a low rumble like distant thunder rolls within it; Sight: tiny bubbles swirl into storm-like spirals of their own accord; Touch: the liquid runs unnervingly warmer than body temperature |
 | Sampan Gin | Gin | Light and floral, favored on small fishing boats |
 | Coral Ember Brandy | Brandy | Tropical fruit brandy with a distinctive coral-pink hue |
 
@@ -298,7 +300,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Name | Type | Tasting Notes |
 |------|------|----------------|
 | Refuge Ember Whiskey | Whiskey | Humble and simple, meant to steady the nerves |
-| Sanctuary Gin | Gin | Mild botanicals with a reputation for calming |
+| Stillwater Gin | Gin | Sound: pours in complete silence — no splash, no sound at all; Touch: the liquid appears perfectly motionless in the glass even as it's carried or tilted; Taste: profoundly calming, said to quiet anxious thoughts for the duration of its onset |
 | Bachuan Reserve Brandy | Brandy | Modest but carefully crafted, better than its reputation |
 | Quiet Valley Whiskey | Whiskey | Unassuming and honest, a settler's evening drink |
 
@@ -314,7 +316,7 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 | Wild Orchid Gin | Gin | Floral jungle botanicals over a green, herbal base |
 | Dtang Ma Ember Brandy | Brandy | Tropical fruit brandy with bold, lingering heat |
 | Serpent Vine Whiskey | Whiskey | Steeped with jungle root, fiery and intense |
-| Canopy Mist Gin | Gin | Light, herbal, high-altitude jungle botanicals |
+| Serpent's Whisper Gin | Gin | Sound: a faint hiss, like a snake, escapes the bottle the moment it's uncorked; Smell: the aroma shifts to match whatever plant grows nearest the drinker; Sight: the liquid carries a faint iridescent sheen, like snake scales in the light |
 
 ---
 
