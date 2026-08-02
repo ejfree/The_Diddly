@@ -36,6 +36,32 @@ You can't recover from the sickened condition from alcohol while affected. If yo
 
 ---
 
+## Stocking the Cabinet Without a Hundred Kegs
+
+The question every visiting logistics-minded adventurer eventually asks: how does one modest room above the Sanctum (see [littlechurch.md](littlechurch.md#dimensions--capacity), roughly 1,200 square feet total) actually hold a hundred distinct bottles' worth of stock, night after night, without a warehouse out back? The answer has nothing to do with spellcasting. Every bottle in the Cabinet is entirely genuine, purchased the ordinary way from ordinary suppliers — Alben has simply solved the storage and delivery problem with magic, not the liquor itself.
+
+### The Kegs Are Real, Bought on Order
+
+Alben orders each regional spirit exactly as any importer would: standing arrangements with traders and regional distilleries across Tian Xia, paid for in coin (see [inventory.md](inventory.md) for his running currency), each keg genuinely distilled where it claims to be from. A bottle of Kaoling gin in the Cabinet is real Kaoling gin, brewed by real Kaoling hands, ordered and paid for like any other trade good. There's no shortcut on the brewing or sourcing end — Alben isn't making any of it himself, the way he makes Rambui (see [rambui.md](rambui.md)). He's just buying it, the same as any well-connected barkeep would.
+
+### The Magic Is in the Delivery, Not the Bottle
+
+What actually makes a hundred-keg rotating stock possible out of a building with no cellar to spare is a **magical transportation and storage system**, layered on top of perfectly ordinary purchasing:
+
+- **Standing supply contracts.** Alben doesn't keep a hundred kegs brewed and sitting idle at once — he keeps standing orders with distilleries and trading houses across every region in the Cabinet, the same kind of long-term arrangement any established tavern relies on. A keg only actually moves when the running stock of that spirit gets low.
+- **Magical courier delivery.** Rather than waiting on cart and ship schedules across half a continent, each order arrives via a paid magical courier service — a contracted teleportation specialist, a standing arrangement with a regional mage's guild, or a keyed teleportation circle at the receiving end, whichever the GM prefers to canonize — that moves a keg from the distillery door to Alben's storeroom in a single trip instead of a months-long voyage. The cost of this courier service is simply baked into what Alben pays per keg; it's a business expense, not a spell he casts himself.
+- **The Spacious Pouches are the warehouse.** Once a keg arrives, it goes straight into one of Alben's two **Spacious Pouches** (see [inventory.md](inventory.md)). Each pouch holds 25 Bulk without any of it counting against what Alben carries — meaning his actual stockroom is two bags behind the bar, not a cellar. A hundred kegs' worth of rotating stock, at various stages of being drawn down, simply lives folded away in extradimensional space until a given bottle is called for.
+
+### Why This, Not a Cellar Full of Kegs
+
+- **Space.** The Little Church has no cellar to spare for a hundred kegs — the Sanctum below is a working distillery for Rambui specifically, not general storage (see [distillerysanctum.md](distillerysanctum.md)), and the lounge above tops out around 1,200 square feet total. A hundred true kegs simply do not fit in the building itself; they fit in the Pouches instead.
+- **Cost, solved by scale, not magic.** The kegs themselves are paid for in ordinary coin, same as any tavern's stock — the courier service is the one added expense, and it's one Alben's willing to carry given how central the Cabinet is to the Little Church's reputation.
+- **It's on-brand.** Alben would rather spend coin on a courier than spend a night manufacturing drinks one at a time behind the bar — his actual magic, spell slots included, is reserved for healing, protecting, and fighting for his flock (see [character.md](character.md)), not running a liquor supply chain.
+
+**GM Note:** This mechanic exists to explain the Cabinet's scale without requiring a literal hundred-keg storeroom in [littlechurch.md](littlechurch.md) or [bigchurch.md](bigchurch.md), and without spending any of Alben's own prepared spells to do it. It changes nothing about how a drink resolves once poured (same Item 0 template, same roll on the Cabinet table for an Omakase order) — it only answers how a hundred genuine kegs get to a building with no room for them.
+
+---
+
 ## The Ritual: "Let's Have a Drink"
 
 Alben has a habit, and it never changes. Before a fight, after one, at the start of a long night, or for no reason at all — he'll clap his hands together, look around at whoever's nearby, and ask the same question:

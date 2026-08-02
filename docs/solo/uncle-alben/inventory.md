@@ -97,6 +97,8 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 | Potion of Disguise (Lesser) | 5 | 30 gp | 1 |
 | Healing Potion (Moderate) | 6 | 50 gp | 1 (carried loose, not in a pouch) |
 
+**Note:** The Spacious Pouches double as the storage system behind the Cabinet's hundred-keg stock — kegs are purchased from real regional suppliers and delivered by magical courier, not conjured. See [liquor.md](liquor.md#stocking-the-cabinet-without-a-hundred-kegs).
+
 ---
 
 ## Currency

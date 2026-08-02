@@ -34,7 +34,7 @@ Roughly **30 feet by 25 feet**, the bulk of the building's footprint. A single i
 
 ### The Bar
 
-A modest **12-foot** bar counter along the back wall, just long enough for Alben to work alone without needing a second set of hands. Alben works the bar himself, every night the Church is open. This is where "Let's have a drink. You want the usual?" gets asked most often (see [liquor.md](liquor.md#the-ritual-lets-have-a-drink)) — the Rambui behind this bar is drawn straight up from the Sanctum below, and the Cabinet's hundred-bottle collection lives here in reach of his hand, not locked away in storage.
+A modest **12-foot** bar counter along the back wall, just long enough for Alben to work alone without needing a second set of hands. Alben works the bar himself, every night the Church is open. This is where "Let's have a drink. You want the usual?" gets asked most often (see [liquor.md](liquor.md#the-ritual-lets-have-a-drink)) — the Rambui behind this bar is drawn straight up from the Sanctum below, and the Cabinet's hundred-bottle collection lives here in reach of his hand: genuine kegs, purchased and delivered by magical courier, kept in his Spacious Pouches rather than a cellar (see [liquor.md](liquor.md#stocking-the-cabinet-without-a-hundred-kegs)).
 
 ### The Fighting Pit
 

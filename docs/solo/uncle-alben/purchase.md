@@ -6,6 +6,8 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory", "purchase-list"]
 
 # Uncle Alben — Purchase List
 
+Sleeves of Storage
+
 ---
 
 ## Wishlist
