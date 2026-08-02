@@ -50,12 +50,39 @@ A narrow **4-foot-wide** stair behind the bar, barely wide enough for Alben's sh
 
 ---
 
+## The Nightly Promise
+
+Fights happen at the Little Church **constantly** — that's not a bug, it's the draw. Between the pit, the drink, and the general temperament of Alben's regulars, a night without at least one bout breaking out is the exception, not the rule. What keeps the place feeling like a rowdy good time instead of an actually dangerous one is a single, absolute promise Alben makes to everyone who steps inside:
+
+> *"Nobody dies in my house. Nobody stays broken past sunup."*
+
+In practice, that means two things, every single night, no exceptions:
+
+1. **Stabilize the dying.** The instant anyone drops in the pit — or anywhere else under his roof — Alben is there with a *Stabilize* cantrip or a hands-on Medicine check before anyone even finishes shouting for him. He treats this as non-negotiable regardless of whose fault the fight was, how much he personally dislikes either combatant, or how full the bar is at the time.
+2. **Heal everyone back to full by the end of the night.** Whatever damage was dealt in the pit — bruises, broken ribs, the occasional genuinely serious wound — Alben makes the rounds before closing and heals every combatant back to full using his Divine Font *Heal* slots (see [spells.md](spells.md#divine-font--healing-font-additional-slots)). Nobody leaves the Little Church worse off than they arrived, win or lose. This is as much a part of his reputation as the Rambui is, and regulars trust the pit specifically *because* of it — a serious injury here costs a few rounds of pain and a story to tell, not a trip to a real temple.
+
+This promise is the reason the pit gets used as freely as it does. Newcomers are occasionally shocked at how casually people throw themselves into a fight at the Little Church; regulars just shrug and point at Alben behind the bar. He's never broken the promise. He's not about to start.
+
+---
+
+## The Bunks
+
+Above and behind the lounge, tucked into whatever space the building's growth has left over, Alben keeps a handful of simple bunks for anyone who needs a bed for the night rather than a walk home.
+
+- **Price:** **10 gp** for a night in the bunks.
+- **Included:** A cot, a roof, and **breakfast the next morning** — sourced fresh from the bakery next door.
+- **The Arrangement:** The bakery owner provides breakfast for every bunk guest in exchange for **free alcohol from Alben's own stock**, a standing trade neither of them has ever bothered writing down. Alben considers it one of his better deals — he trades something he has an effectively bottomless supply of (see [inventory.md](inventory.md) and [liquor.md](liquor.md)) for warm bread and a good relationship with his neighbor, and everybody wins. The bakery owner, for their part, has never once complained about the arrangement, and regulars suspect they get the better end of it.
+- **Who Uses Them:** Regulars who've had one Rambui too many to make it home safely, out-of-towners passing through, and — often enough — whoever just took the worse end of a fight in the pit and would rather sleep it off under Alben's roof than stumble home. Given the Nightly Promise above, anyone healed up after a bout is already on their feet again by the time the bunks would matter, but a night's rest is still on offer for anyone who wants it.
+
+---
+
 ## How a Night at the Church Works
 
 1. Alben opens the bar, Solomon takes his post.
 2. Drinks flow via the standard ritual (see [liquor.md](liquor.md#the-ritual-lets-have-a-drink)) — the usual, Omakase, or a called drink from the Flask of Fellowship.
-3. If someone wants to fight — a friendly bout, a real dispute, or just Alben in the mood to burn off energy — the pit gets used, with Alben as likely to be the one fighting as refereeing.
-4. Late in the night, once the crowd thins, Alben slips down to the Sanctum to check a batch, top off tomorrow's stock, or just sit with Solomon and breathe.
+3. If someone wants to fight — a friendly bout, a real dispute, or just Alben in the mood to burn off energy — the pit gets used, with Alben as likely to be the one fighting as refereeing. Anyone who drops gets stabilized on the spot (see The Nightly Promise above).
+4. Before closing, Alben makes the rounds and heals every combatant from that night's fights back to full.
+5. Late in the night, once the crowd thins, Alben slips down to the Sanctum to check a batch, top off tomorrow's stock, or just sit with Solomon and breathe — or, for anyone who's paid for a bunk, up to bed for the night.
 
 ---
 
@@ -71,6 +98,7 @@ Alben likes the Little Church precisely because it's small enough to run himself
 - [bigchurch.md](bigchurch.md) — The Big Church, the later multistory expansion of this venue
 - [rambui.md](rambui.md) — Full Rambui brewing process and crafting mechanics
 - [liquor.md](liquor.md) — The Liquor Cabinet and the drink-offering ritual performed at this bar
+- [spells.md](spells.md) — Divine Font healing slots used to fulfill the Nightly Promise
 - [background.md](background.md) — Narrative background, faith, and Solomon
 - [character.md](character.md) — Full mechanical character sheet, including the Gladiator archetype used in the pit
 - [inventory.md](inventory.md) — Current Rambui stock and inventory

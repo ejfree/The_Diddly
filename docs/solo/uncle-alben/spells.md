@@ -58,7 +58,7 @@ This is his standing daily prepared list on a downtime/non-combat day
 
 | Rank | Slots | Prepared |
 |------|-------|----------|
-| Cantrip | 5 | Guidance, Light, Message, Prestidigitation, Rousing Splash |
+| Cantrip | 5 | Guidance, Light, Message, Prestidigitation, Stabalize |
 | 1st | 3 | Command, Mending, Ventriloquism |
 | 2nd | 3 | Augury, Dispel Magic, Restoration |
 | 3rd | 3 | Far Reach, Locate, Show the Way (overland) / Ring of Truth (city) |
@@ -71,7 +71,7 @@ This is his standing daily prepared list on a downtime/non-combat day
 - **Light** — cantrip, concentrate, light, manipulate
 - **Message** — auditory, cantrip, concentrate, illusion, linguistic, mental, subtle
 - **Prestidigitation** — cantrip, concentrate, manipulate
-- **Rousing Splash** — cantrip, concentrate, manipulate, water
+- **Stabalize** — cantrip, concentrate, manipulate, healing, vitality
 - **Command** — auditory, concentrate, linguistic, manipulate, mental
 - **Mending** — manipulate
 - **Ventriloquism** — auditory, concentrate, illusion, manipulate
