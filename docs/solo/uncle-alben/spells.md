@@ -122,5 +122,6 @@ Cayden Cailean is one of the Ascended — mortals who reached godhood after conq
 
 - [character.md](character.md) — Full mechanical character sheet
 - [inventory.md](inventory.md) — Weapons, armor, and full inventory/currency
+- [escapeplan.md](escapeplan.md) — Staged escape procedure using Spiritual Transport and other combat spells
 - [concept.md](concept.md) — Character concept and voice
 - [background.md](background.md) — Narrative background

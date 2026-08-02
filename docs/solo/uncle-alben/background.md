@@ -42,7 +42,7 @@ The name is no accident, and neither is the flavor. Generations back, some orc t
 
 Alben makes his own — his personal recipe, tuned over years, the batch he's proudest of and shares most freely (see [inventory.md](inventory.md) and [liquor.md](liquor.md)). But he's also a collector at heart: wherever his travels take him through orc holds and jungle settlements, he seeks out the local Rambui, trades for it, samples it, argues good-naturedly about whose is worse, and packs a bottle away in his Spacious Pouches for later. His stock isn't one recipe — it's a running tally of every rough, proud, deliberately-terrible batch he's ever been poured, with his own brew simply being the one he trusts most.
 
-For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui.md).
+For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui.md). For where he actually brews it — from his first private still to the sprawling multistory temple to drink and combat it eventually becomes — see [distillerysanctum.md](distillerysanctum.md), [littlechurch.md](littlechurch.md), and [bigchurch.md](bigchurch.md).
 
 ---
 
@@ -61,6 +61,18 @@ Solomon wears a **collar of empathy** — a slim band of tooled leather and quie
 It works both ways. When Alben is furious, Solomon goes rigid and silent in the palanquin. When Alben is grieving — which he hides better than most people realize — Solomon presses close against his collar and doesn't move, and something in Alben's shoulders always eases, just slightly, when he does. Neither of them has ever needed to explain this arrangement to the other. It simply is how they work.
 
 The contrast between them — one an oversized, roaring engine of violence and mercy, the other a small, composed passenger who quietly tells him what he can't always feel for himself — is, presumably, the point.
+
+### The Mount — A Larger Solomon
+
+When Alben casts **Marvelous Mount** (see [spells.md](spells.md)), the conjured steed has never once looked like a generic phantom horse or fantastical beast. It always resolves as a **mandarin duck** — impossibly, unmistakably Solomon, blown up to Large size, feathers and all, sturdy enough to carry an armored orc into battle. Nobody has ever been able to explain why. Alben doesn't ask anymore. Solomon, for his part, has never once seemed bothered by watching a towering echo of himself stride around beside him — if anything, he seems to find it a little vindicating.
+
+The mount has grown alongside the spell's own heightening, and Alben tracks the difference the same way he tracks a batch of Rambui coming into its own:
+
+- **Base casting:** The Large duck-mount is **flightless** — sturdy legs, a solid 40-foot Speed, plumage bright enough to be seen across a battlefield, but its wings, however comically oversized, don't lift a mount that size off the ground. Alben's first several years of riding into a fight looked exactly like this: an oversized, furious orc pounding across open ground on the back of an enormous, dignified duck.
+- **5th-rank casting:** The mount gains **limited flight** — it can walk on water and briefly *air walk*, provided it ends each turn on solid ground or a surface, or falls. Alben describes this stage as the mount "getting the idea" of flying without fully trusting it yet, not unlike the first time Solomon himself hopped up onto something taller than expected and looked faintly surprised he'd made it.
+- **6th-rank casting:** The mount achieves **full flight** — an honest-to-god flying Speed, matching its ground Speed, no need to touch down at the end of a turn. Alben rode this version into a fight for the first time expecting it to feel absurd. It didn't. It felt, he's said more than once since, exactly like it should have all along.
+
+He has never once considered naming the mount separately from Solomon. As far as Alben is concerned, it isn't a second creature wearing Solomon's face — it's simply what Solomon looks like when the fight calls for something bigger to carry him.
 
 ### How They Met
 
@@ -95,7 +107,12 @@ Alben has never been entirely sure whether Solomon picked him because he was the
 ### Alben Alone
 
 **Midjourney Prompt:**
-> a massive scarred orc man, mountain of muscle in gleaming heavy full plate armor, greenish weathered skin, a stylized rambutan fruit symbol emblazoned on his breastplate, a brandy-cask holy symbol swinging from his belt, gripping a huge two-handed maul whose mallet is carved and banded like squat brandy casks with barrel hoops and a bunghole detail, the cask-shaped ends wreathed in flickering flame, a round wooden shield bearing the same rambutan emblem strapped on his back, broad weathered face caught in a wide warm laugh, tusks visible, unruly hair, standing in a dramatic three-quarter pose radiating loud good humor and battle-readiness at once, warm amber tavern or battlefield lighting, painterly dark fantasy character portrait, full-body standing pose, cinematic composition, rich warm color palette --ar 2:3 --style raw
+> a massive scarred orc man, mountain of muscle in gleaming heavy full plate armor, greenish weathered skin, a stylized rambutan fruit symbol emblazoned on his breastplate, a brandy-cask holy symbol swinging from his belt, gripping a huge two-handed maul whose mallet is carved and banded like squat brandy casks with barrel hoops and a bunghole detail, the cask-shaped ends wreathed in flickering flame, a round wooden shield bearing the same rambutan emblem strapped on his back, broad weathered face caught in a wide warm laugh, tusks visible, unruly hair, standing in a dramatic three-quarter pose radiating loud good humor and battle-readiness at once, warm amber tavern or battlefield lighting, painterly dark fantasy character portrait, full-body standing pose, cinematic composition, rich warm color palette --ar 2:3 --style raw --cref https://foundryvttbackend.s3.us-east-1.amazonaws.com/images/portrait.png
+
+### Alben Airborne on the Marvelous Mount
+
+**Midjourney Prompt:**
+> a massive battle-scarred orc man in gleaming full plate armor, a stylized rambutan fruit symbol emblazoned on his breastplate, riding astride an enormous mandarin duck soaring through the sky, the duck rendered as a giant, majestic version of a small companion bird with the same brilliantly colored iridescent orange, purple, and emerald plumage now scaled up to the size of a warhorse, powerful wings fully outstretched and beating against the wind, the duck wearing a slim glowing collar scaled up to match its new size, Alben leaning forward gripping the reins with one hand and hefting his huge two-handed maul aloft in the other, the maul's mallet carved and banded like a squat brandy cask wreathed in flickering flame, his cloak and unruly hair whipping backward in the wind, no tusks, wide fierce grin, dramatic clouds and open sky below, distant landscape or battlefield far beneath them, painterly dark fantasy illustration, dynamic diagonal composition suggesting powerful forward flight, cinematic golden-hour lighting, rich warm color palette --ar 16:9 --style raw --cref https://foundryvttbackend.s3.us-east-1.amazonaws.com/images/portrait.png
 
 ---
 
@@ -106,7 +123,7 @@ Square-format, top-down-friendly compositions intended for cropping into circula
 ### Alben Token
 
 **Midjourney Prompt:**
-> character token portrait of a massive scarred orc man in gleaming full plate armor, greenish weathered skin, tusks visible, a stylized rambutan fruit symbol emblazoned on his breastplate, a round wooden shield bearing the same rambutan emblem strapped across his back, gripping a huge two-handed maul with both ends of the head shaped like squat banded brandy casks wreathed in flickering flame, subject centered and facing forward, head and torso filling the frame, simple dark vignette background, painterly dark fantasy illustration, bold clear linework suited for a small circular icon, dramatic top-down-friendly lighting, rich warm color palette --ar 1:1 --style raw
+> character token portrait of a massive scarred orc man in gleaming full plate armor, greenish weathered skin, tusks visible, a stylized rambutan fruit symbol emblazoned on his breastplate, a round wooden shield bearing the same rambutan emblem strapped across his back, gripping a huge two-handed maul with the mallet shaped like squat banded brandy casks wreathed in flickering flame, subject centered and facing forward, head and upper torso filling the frame, simple dark vignette background, painterly dark fantasy illustration, bold clear linework suited for a small circular icon, dramatic top-down-friendly lighting, rich warm color palette --ar 1:1 --style raw --cref https://foundryvttbackend.s3.us-east-1.amazonaws.com/images/portrait.png
 
 ### Solomon Token
 
@@ -130,3 +147,6 @@ Everything about Alben is oversized: his frame, his warmth, his generosity, his 
 - [inventory.md](inventory.md) — Full inventory, including his own Rambui stock
 - [liquor.md](liquor.md) — The Liquor Cabinet, his collected drinks and drink-offering ritual
 - [rambui.md](rambui.md) — Alben's own Rambui brewing process and crafting mechanics
+- [distillerysanctum.md](distillerysanctum.md) — His first private distillery and inner sanctum
+- [littlechurch.md](littlechurch.md) — The Sippin' Club, his first public venue
+- [bigchurch.md](bigchurch.md) — The multistory evolution of the venue

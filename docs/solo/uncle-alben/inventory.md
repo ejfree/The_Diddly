@@ -114,5 +114,6 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 
 - [character.md](character.md) — Full mechanical character sheet
 - [spells.md](spells.md) — Spellcasting stats, prepared combat loadout, and deity details
+- [escapeplan.md](escapeplan.md) — Staged escape procedure using the Invisibility Potion and Potion of Disguise (Lesser) listed here
 - [concept.md](concept.md) — Character concept and voice
 - [background.md](background.md) — Narrative background

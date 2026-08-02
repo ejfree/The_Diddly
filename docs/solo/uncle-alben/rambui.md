@@ -75,6 +75,9 @@ Brewing isn't just a hobby — it's what keeps "Let's have a drink" (see [liquor
 
 - [background.md](background.md) — Full cultural background on Rambui and Alben's relationship to it
 - [liquor.md](liquor.md) — The Liquor Cabinet, drink-offering ritual, and mechanics shared by all alcohol items
+- [distillerysanctum.md](distillerysanctum.md) — Alben's first private distillery, where this process was first formalized
+- [littlechurch.md](littlechurch.md) — The Sippin' Club built above the Sanctum
+- [bigchurch.md](bigchurch.md) — The multistory expansion, including its own larger distillery
 - [inventory.md](inventory.md) — Current Rambui stock and full inventory
 - [character.md](character.md) — Full mechanical character sheet, including Lore: Alcohol
 - [concept.md](concept.md) — Original character concept and voice
