@@ -12,7 +12,7 @@ tags: ["solo", "uncle-alben", "background"]
 
 ## Who He Is
 
-A mountain of a man in scarred lamellar, a brandy-cask holy symbol swinging from his belt, Uncle Alben blesses his allies with a swig of his own rambutan brandy — "Rambui" to everyone who's ever shared a cup with him — before a fight, and beats the mercy of Cayden Cailean into anyone who threatens his flock.
+Originally a mountain of a man in plate armor, a brandy-cask holy symbol swinging from his belt, Uncle Alben blesses his allies with a swig of his own rambutan brandy — "Rambui" to everyone who's ever shared a cup with him — before a fight, and beats the mercy of Cayden Cailean into anyone who threatens his flock.
 
 Loud, warm, generous to a fault, and slightly drunk at all times — but never too drunk to smash a skull with a maul or knit a friend's ribs back together. Everyone in the party just calls him Uncle Alben.
 
@@ -30,7 +30,7 @@ Cayden Cailean — "The Accidental God" — is himself proof that divinity doesn
 
 Alben's edicts, by extension of his faith, are simple: **drink, aid the oppressed, seek glory and adventure.** His anathema is just as plainly stated: **don't waste alcohol, don't be mean or standoffish when drunk, and never oppress the vulnerable.** He follows all three without apparent effort — they're less commandments to him than just... who he already was.
 
-He carries his faith physically as well as spiritually: a tankard is Cayden Cailean's sacred symbol, and Alben's own holy symbol takes the shape of a brandy cask, swinging from his belt alongside his maul.
+He carries his faith physically as well as spiritually: a tankard is Cayden Cailean's sacred symbol, and Alben's own holy symbol takes the shape of a brandy cask, swinging from his belt alongside his maul, the mallet head resembling a flaming cask.
 
 ---
 
@@ -41,6 +41,8 @@ Rambutan brandy is not Alben's invention. It's a staple across the jungle orc tr
 The name is no accident, and neither is the flavor. Generations back, some orc trader got hold of a bottle of a smooth, honeyed, foreign spirit called Drambuie — refined, mellow, the kind of thing meant to be sipped slowly and respected. The jungle tribes took one taste and decided that smooth and mellow was the entire problem. So they set about fixing it. **Rambui** is what happens when a proud, deliberately unrefined culture takes everything restrained and pleasant about that original spirit and exaggerates every rough edge on purpose: harsher on the way in, harder on the way down, and engineered — not accidental — to leave a hangover worth bragging about the next morning. It is, by design, a joke at the original's expense, and the orcs who brew it wear that joke as a point of pride rather than an insult. A proper batch of Rambui should make a civilized drinker's eyes water and an orc grin.
 
 Alben makes his own — his personal recipe, tuned over years, the batch he's proudest of and shares most freely (see [inventory.md](inventory.md) and [liquor.md](liquor.md)). But he's also a collector at heart: wherever his travels take him through orc holds and jungle settlements, he seeks out the local Rambui, trades for it, samples it, argues good-naturedly about whose is worse, and packs a bottle away in his Spacious Pouches for later. His stock isn't one recipe — it's a running tally of every rough, proud, deliberately-terrible batch he's ever been poured, with his own brew simply being the one he trusts most.
+
+For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui.md).
 
 ---
 
@@ -83,7 +85,7 @@ Alben has never been entirely sure whether Solomon picked him because he was the
 ### Alben and Solomon, Standing Together
 
 **Midjourney Prompt:**
-> a massive battle-scarred orc man in gleaming full plate armor and greenish weathered skin, a stylized rambutan fruit symbol emblazoned on his breastplate, standing tall and broad-shouldered, a huge two-handed maul gripped in one hand with both ends of the head carved and banded like squat brandy casks complete with barrel hoops and a bunghole detail, the cask-shaped heads wreathed in flickering flame, a round wooden shield bearing the same rambutan emblem on his back, a brandy-cask holy symbol hanging from his belt, warm weathered face mid-laugh, on his shoulder rides a small ornate miniature palanquin no bigger than a jewelry box with one curved support and a fringed canopy, inside it a dignified mandarin duck with vividly colored plumage wearing a slim glowing collar, the duck sitting with perfect composed posture in stark contrast to the man's rowdy energy, warm tavern lantern light, painterly character portrait, dark fantasy illustration, full-body standing pose, cinematic lighting, rich earthy color palette --ar 2:3 --style raw
+> a massive battle-scarred orc man in gleaming full plate armor and greenish weathered skin, a stylized rambutan fruit symbol emblazoned on his breastplate, standing tall and broad-shouldered, a huge two-handed maul gripped in one hand with the mallet carved and banded like squat brandy casks complete with barrel hoops and a bunghole detail, the cask-shaped heads wreathed in flickering flame, a round wooden shield bearing the same rambutan emblem on his back, a brandy-cask holy symbol hanging from his belt, warm weathered face mid-laugh, on his shoulder rides a small ornate miniature palanquin no bigger than a jewelry box with one curved support and a fringed canopy, inside it a dignified mandarin duck with vividly colored plumage wearing a slim glowing collar, the duck sitting with perfect composed posture in stark contrast to the man's rowdy energy, warm tavern lantern light, painterly character portrait, dark fantasy illustration, full-body standing pose, cinematic lighting, rich earthy color palette --ar 2:3 --style raw
 
 ### Solomon Alone
 
@@ -93,7 +95,7 @@ Alben has never been entirely sure whether Solomon picked him because he was the
 ### Alben Alone
 
 **Midjourney Prompt:**
-> a massive scarred orc man, mountain of muscle in gleaming heavy full plate armor, greenish weathered skin, a stylized rambutan fruit symbol emblazoned on his breastplate, a brandy-cask holy symbol swinging from his belt, gripping a huge two-handed maul whose head is carved and banded on both ends like squat brandy casks with barrel hoops and a bunghole detail, the cask-shaped ends wreathed in flickering flame, a round wooden shield bearing the same rambutan emblem strapped on his back, broad weathered face caught in a wide warm laugh, tusks visible, unruly hair, standing in a dramatic three-quarter pose radiating loud good humor and battle-readiness at once, warm amber tavern or battlefield lighting, painterly dark fantasy character portrait, full-body standing pose, cinematic composition, rich warm color palette --ar 2:3 --style raw
+> a massive scarred orc man, mountain of muscle in gleaming heavy full plate armor, greenish weathered skin, a stylized rambutan fruit symbol emblazoned on his breastplate, a brandy-cask holy symbol swinging from his belt, gripping a huge two-handed maul whose mallet is carved and banded like squat brandy casks with barrel hoops and a bunghole detail, the cask-shaped ends wreathed in flickering flame, a round wooden shield bearing the same rambutan emblem strapped on his back, broad weathered face caught in a wide warm laugh, tusks visible, unruly hair, standing in a dramatic three-quarter pose radiating loud good humor and battle-readiness at once, warm amber tavern or battlefield lighting, painterly dark fantasy character portrait, full-body standing pose, cinematic composition, rich warm color palette --ar 2:3 --style raw
 
 ---
 
@@ -127,3 +129,4 @@ Everything about Alben is oversized: his frame, his warmth, his generosity, his 
 - [character.md](character.md) — Full mechanical character sheet
 - [inventory.md](inventory.md) — Full inventory, including his own Rambui stock
 - [liquor.md](liquor.md) — The Liquor Cabinet, his collected drinks and drink-offering ritual
+- [rambui.md](rambui.md) — Alben's own Rambui brewing process and crafting mechanics

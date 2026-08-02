@@ -318,19 +318,10 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 
 ---
 
-## GM Notes
-
-- All 100 entries are mechanically identical (see the shared stat block above) — only region, spirit type, and flavor differ. Feel free to have Alben produce the "right" one for any occasion; it's all reskinned dressing on the same DC 12 Fortitude alcohol item.
-- Place names are drawn from Tian Xia, the Dragon Empires continent of the Pathfinder setting (Minkai, Jinin, Hongal, Quain, Shokuro, Xa Hoi, Nagajor, Lingshen, Kaoling, Wanshou, Yamasa, Yanmass, Yodeya, Zi Ha, the Po Li Archipelago, Bachuan, and Dtang Ma). Per the solo-folder isolation rule, treat this purely as flavor color for Alben's own collection — it implies nothing about the wider Diddly setting or its geography.
-- These sit alongside — not instead of — Alben's core Rambui stock (see [inventory.md](inventory.md)). Rambui remains his personal signature; this cabinet is everything else he's collected, traded for, or been gifted across his travels.
-- If a specific liquor needs to matter mechanically (a quest reward, a rare vintage, a poisoned bottle), reflavor its stage effects or DC individually rather than changing the whole shared template.
-- The three-way ritual above ("the usual" / omakase / called drink) is the intended default framing for any scene where Alben offers someone a drink — use it instead of always defaulting to Rambui, and let players choose which of the three responses their character gives.
-
----
-
 ## Cross-References
 
 - [inventory.md](inventory.md) — Full inventory/currency, including Rambui and container details
+- [rambui.md](rambui.md) — Alben's own Rambui brewing process and crafting mechanics
 - [character.md](character.md) — Full mechanical character sheet
 - [background.md](background.md) — Narrative background
 - [concept.md](concept.md) — Character concept and voice
