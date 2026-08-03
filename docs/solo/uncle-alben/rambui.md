@@ -55,6 +55,25 @@ The result of the check determines which of Alben's three named Rambui products 
 
 ---
 
+## The Brand: Uncle Alben's Rambui
+
+Once the Little Church's reputation grew large enough to need one, Alben settled on a brand name without much deliberation — everyone already called him Uncle Alben, so the bottle might as well say the same thing. The full name, printed (or burned, or stamped in wax) on every bottle sold at the [Big Church's retail floor](bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store), is:
+
+> **UNCLE ALBEN'S RAMBUI**
+> *Guaranteed Harsh.*
+
+The motto is a deliberate, deadpan inversion of how any normal spirit would advertise itself. Where a refined foreign brandy might promise "smooth" or "mellow" on the label, Alben's promises the opposite outright — a direct, unapologetic extension of the whole cultural joke Rambui was built on in the first place (see [background.md](background.md#rambui-the-orcish-brew)). Regulars consider the motto as reliable as a contract; nobody has ever ordered a bottle expecting smoothness and been surprised.
+
+The brand covers all three product tiers as a single line, not three separate products:
+
+- **Uncle Alben's Rambui** — the standard bottle, "the usual" (see [liquor.md](liquor.md#the-ritual-lets-have-a-drink)).
+- **Uncle Alben's Emergency Rambui** — the backup-stash tier.
+- **Uncle Alben's Rambui — The Last Drop** — the rare, critical-success tier, sold only occasionally and always well-advertised when it is.
+
+The rambutan-fruit emblem already stamped into Alben's armor and gear (see [inventory.md](inventory.md)) doubles as the brand's visual mark, appearing on bottle labels, casks, and the merchandise sold alongside them at the Store.
+
+---
+
 ## The Legend of HFCS
 
 Somewhere between his third and ninth drink one night, years back, a traveling merchant swore to Alben that there existed a substance so potent, so refined, so unnaturally sweet that a single drop could reshape an entire batch — outsiders apparently called it, in hushed and reverent tones, **HFCS**. The merchant didn't know what it stood for. Neither does Alben. Nobody Alben has ever asked knows what it stands for, which as far as he's concerned only proves how real it must be.

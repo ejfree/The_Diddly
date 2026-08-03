@@ -12,7 +12,7 @@ tags: ["solo", "uncle-alben", "background"]
 
 ## Who He Is
 
-Originally a mountain of a man in plate armor, a brandy-cask holy symbol swinging from his belt, Uncle Alben blesses his allies with a swig of his own rambutan brandy — "Rambui" to everyone who's ever shared a cup with him — before a fight, and beats the mercy of Cayden Cailean into anyone who threatens his flock.
+A mountain of a man in plate armor, a brandy-cask holy symbol swinging from his belt, Uncle Alben blesses his allies with a swig of his own rambutan brandy — "Rambui" to everyone who's ever shared a cup with him — before a fight, and beats the mercy of Cayden Cailean into anyone who threatens his flock.
 
 Loud, warm, generous to a fault, and slightly drunk at all times — but never too drunk to smash a skull with a maul or knit a friend's ribs back together. Everyone in the party just calls him Uncle Alben.
 

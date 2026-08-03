@@ -72,7 +72,7 @@ There are exactly three ways this goes.
 
 ### 1. "The Usual" — Rambui
 
-If the answer is yes (or anything that isn't a clear no), Alben pours **Rambui** — his own rambutan brandy, the one he shares with everyone eventually, family and near-strangers alike. This is the default, the answer to silence, and the answer to enthusiasm. No roll needed; it's simply Rambui, straight from his own stock (see [inventory.md](inventory.md)).
+If the answer is yes (or anything that isn't a clear no), Alben pours **Rambui** — his own rambutan brandy, the one he shares with everyone eventually, family and near-strangers alike, bottled and sold under the brand **Uncle Alben's Rambui** ("Guaranteed Harsh" — see [rambui.md](rambui.md#the-brand-uncle-albens-rambui)). This is the default, the answer to silence, and the answer to enthusiasm. No roll needed; it's simply Rambui, straight from his own stock (see [inventory.md](inventory.md)).
 
 ### 2. "Omakase" — Leave It to Alben
 

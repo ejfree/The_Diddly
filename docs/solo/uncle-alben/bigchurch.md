@@ -6,7 +6,7 @@ tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 
 # The Big Church
 
-> The full-grown evolution of [littlechurch.md](littlechurch.md) — a multistory temple to drink, fight, and hospitality, built up from the same foundation as the Sippin' Club. Where the Little Church was one room Alben could personally oversee from a single spot, the Big Church is a building he can no longer watch every corner of at once — a fact that still visibly unsettles him some nights, no matter how well it's run.
+> The full-grown evolution of [littlechurch.md](littlechurch.md) — a multistory temple (or large landed compound) to drink, fight, and hospitality, built up from the same foundation as the Sippin' Club. Where the Little Church was one room Alben could personally oversee from a single spot, the Big Church is a building he can no longer watch every corner of at once — a fact that still visibly unsettles him some nights, no matter how well it's run.
 
 ---
 
@@ -29,13 +29,13 @@ The original [Distillery Sanctum](distillerysanctum.md) forms the historic core 
 
 ---
 
-## Main Floor — Rambui Museum, Process Hall, and the Alben-Brand Rambui Store
+## Main Floor — Rambui Museum, Process Hall, and the Uncle Alben's Rambui Store
 
-The ground floor is equal parts public history and retail, built around the story of Rambui itself.
+The ground floor is equal parts public history and retail, built around the story of Rambui itself — and around the brand name that now sits on every bottle: **Uncle Alben's Rambui**, sold under the motto **"Guaranteed Harsh."**
 
 - **The Rambui Museum** — display cases and placards tracing the drink's origin among the jungle orc tribes, and Alben's own formalization of the process, right up through the founding of the original Sanctum.
 - **The Process Hall** — an educational walk-through explaining the Harvest, Ferment, Distillation, Ruining, Cask, and QA Tester steps (see [rambui.md](rambui.md#ingredients--preparation)), including a life-sized diorama of Solomon performing the taste-test.
-- **Alben-Brand Rambui Store** — the retail floor: bottled Rambui, and (on rare, well-advertised occasions) a bottle of Rambui — The Last Drop for sale to the public, alongside branded merchandise (tankards, holy symbols shaped like brandy casks, small carved mauls) bearing Alben's rambutan-fruit emblem.
+- **Uncle Alben's Rambui Store** — the retail floor: bottled **Uncle Alben's Rambui** (standard), **Uncle Alben's Emergency Rambui**, and (on rare, well-advertised occasions) a bottle of **Uncle Alben's Rambui — The Last Drop** for sale to the public, alongside branded merchandise (tankards, holy symbols shaped like brandy casks, small carved mauls) bearing Alben's rambutan-fruit emblem and the "Guaranteed Harsh" motto. See [rambui.md](rambui.md#the-brand-uncle-albens-rambui) for the full label copy and branding details.
 
 ---
 
@@ -64,7 +64,7 @@ Tiered public seating overlooking the fighting pit from above, the direct descen
 The working floor of the building — less spectacle, more infrastructure.
 
 - **Training Hall** — practice space for fighters booked into the pit, sparring rings, and equipment storage.
-- **Operations Offices** — scheduling, staff management, supply logistics for keeping the Store and the bars stocked — the unglamorous machinery that lets Alben still spend most of his time on the floor instead of behind a desk.
+- **Operations Offices** — scheduling, staff management, supply logistics for keeping the Uncle Alben's Rambui Store and the bars stocked — the unglamorous machinery that lets Alben still spend most of his time on the floor instead of behind a desk.
 - **Staff Quarters** — modest rooms for live-in staff, notably including whoever currently holds the trusted role of Ruining-adjacent apprentice, the closest thing Alben has to a successor-in-training for parts of the process he can't personally handle at this scale.
 
 ---
@@ -76,7 +76,7 @@ At the very top, Alben's own private quarters — surprisingly modest given the 
 - Simple, lived-in furnishings; nothing here performs "Uncle Alben" for anyone, the same way nothing in the original [Distillery Sanctum](distillerysanctum.md) ever did.
 - A small personal shrine to Cayden Cailean, a direct echo of the Sanctum's original shrine nook.
 - Solomon's personal quarters, including the palanquin at rest when he's not on duty below.
-- A private stash of Rambui — The Last Drop, kept here rather than in the Store downstairs, for the same reason it was always kept separate: some batches aren't for selling.
+- A private stash of **Uncle Alben's Rambui — The Last Drop**, kept here rather than in the Store downstairs, for the same reason it was always kept separate: some batches aren't for selling.
 
 ---
 

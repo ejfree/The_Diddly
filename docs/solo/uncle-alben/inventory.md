@@ -49,9 +49,9 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 | Item | Quantity | Price (each) | Notes |
 |------|----------|---------------|-------|
 | Small Flask Liquor (Random) | 100 | 1 sp | Standard alcohol item; DC 12 Fortitude, onset 10 minutes, escalating stages from minor bonus to unconsciousness to death on repeated failures. |
-| Rambui | 150 | 1 sp | Alben's signature rambutan brandy — mechanically identical alcohol consumable, distinct in name/flavor per `background.md`/`concept.md`. |
-| Emergency Rambui | 40 | 1 sp | A dedicated backup stash. |
-| Rambui - The Last Drop | 10 | 1 sp | The good stuff — reserved, presumably, for special occasions or genuine emergencies. |
+| Rambui (branded **Uncle Alben's Rambui**, "Guaranteed Harsh") | 150 | 1 sp | Alben's signature rambutan brandy — mechanically identical alcohol consumable, distinct in name/flavor per `background.md`/`concept.md`. See [rambui.md](rambui.md#the-brand-uncle-albens-rambui) for the full brand/label details. |
+| Emergency Rambui (branded **Uncle Alben's Emergency Rambui**) | 40 | 1 sp | A dedicated backup stash. |
+| Rambui - The Last Drop (branded **Uncle Alben's Rambui — The Last Drop**) | 10 | 1 sp | The good stuff — reserved, presumably, for special occasions or genuine emergencies. |
 
 ### Scrolls, Wands, and Potions (stored in Spacious Pouch #2 unless noted)
 
