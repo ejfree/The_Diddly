@@ -6,7 +6,7 @@ tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 
 # Uncle Alben — The Liquor Cabinet
 
-> One hundred hard liquors, all coded to **Tian Xia** — Pathfinder's Dragon Empires continent — drawing on its nations (Minkai, Jinin, Hongal, Quain, Shokuro, Xa Hoi, Nagajor, Lingshen, Kaoling, Wanshou, Yamasa, Yanmass, Yodeya, Zi Ha, the Po Li Archipelago, Bachuan, and Dtang Ma) for place names and traditional flavor profiles, while the spirit types themselves range across whiskey, gin, brandy, rum, and vodka. Stocked somewhere across Alben's two Spacious Pouches (see [inventory.md](inventory.md)) alongside his beloved Rambui. Wine and beer need not apply — every bottle on this list is a proper distilled spirit.
+> One hundred hard liquors, all coded to **Tian Xia** — Pathfinder's Dragon Empires continent — drawing on its nations (Minkai, Jinin, Hongal, Quain, Shokuro, Xa Hoi, Nagajor, Lingshen, Kaoling, Wanshou, Yamasa, Yanmass, Yodeya, Zi Ha, the Po Li Archipelago, Bachuan, and Dtang Ma) for place names and traditional flavor profiles, while the spirit types themselves range across whiskey, gin, brandy, rum, and vodka. Stocked somewhere across Alben's two Spacious Pouches (see [inventory.md](../inventory.md)) alongside his beloved Rambui. Wine and beer need not apply — every bottle on this list is a proper distilled spirit.
 
 ---
 
@@ -38,11 +38,11 @@ You can't recover from the sickened condition from alcohol while affected. If yo
 
 ## Stocking the Cabinet Without a Hundred Kegs
 
-The question every visiting logistics-minded adventurer eventually asks: how does one modest room above the Sanctum (see [littlechurch.md](littlechurch.md#dimensions--capacity), roughly 1,200 square feet total) actually hold a hundred distinct bottles' worth of stock, night after night, without a warehouse out back? The answer has nothing to do with spellcasting. Every bottle in the Cabinet is entirely genuine, purchased the ordinary way from ordinary suppliers — Alben has simply solved the storage and delivery problem with magic, not the liquor itself.
+The question every visiting logistics-minded adventurer eventually asks: how does one modest room above the Sanctum (see [littlechurch.md](../church/littlechurch.md#dimensions--capacity), roughly 1,200 square feet total) actually hold a hundred distinct bottles' worth of stock, night after night, without a warehouse out back? The answer has nothing to do with spellcasting. Every bottle in the Cabinet is entirely genuine, purchased the ordinary way from ordinary suppliers — Alben has simply solved the storage and delivery problem with magic, not the liquor itself.
 
 ### The Kegs Are Real, Bought on Order
 
-Alben orders each regional spirit exactly as any importer would: standing arrangements with traders and regional distilleries across Tian Xia, paid for in coin (see [inventory.md](inventory.md) for his running currency), each keg genuinely distilled where it claims to be from. A bottle of Kaoling gin in the Cabinet is real Kaoling gin, brewed by real Kaoling hands, ordered and paid for like any other trade good. There's no shortcut on the brewing or sourcing end — Alben isn't making any of it himself, the way he makes Rambui (see [rambui.md](rambui.md)). He's just buying it, the same as any well-connected barkeep would.
+Alben orders each regional spirit exactly as any importer would: standing arrangements with traders and regional distilleries across Tian Xia, paid for in coin (see [inventory.md](../inventory.md) for his running currency), each keg genuinely distilled where it claims to be from. A bottle of Kaoling gin in the Cabinet is real Kaoling gin, brewed by real Kaoling hands, ordered and paid for like any other trade good. There's no shortcut on the brewing or sourcing end — Alben isn't making any of it himself, the way he makes Rambui (see [rambui.md](rambui.md)). He's just buying it, the same as any well-connected barkeep would.
 
 ### The Magic Is in the Delivery, Not the Bottle
 
@@ -50,15 +50,15 @@ What actually makes a hundred-keg rotating stock possible out of a building with
 
 - **Standing supply contracts.** Alben doesn't keep a hundred kegs brewed and sitting idle at once — he keeps standing orders with distilleries and trading houses across every region in the Cabinet, the same kind of long-term arrangement any established tavern relies on. A keg only actually moves when the running stock of that spirit gets low.
 - **Magical courier delivery.** Rather than waiting on cart and ship schedules across half a continent, each order arrives via a paid magical courier service — a contracted teleportation specialist, a standing arrangement with a regional mage's guild, or a keyed teleportation circle at the receiving end, whichever the GM prefers to canonize — that moves a keg from the distillery door to Alben's storeroom in a single trip instead of a months-long voyage. The cost of this courier service is simply baked into what Alben pays per keg; it's a business expense, not a spell he casts himself.
-- **The Spacious Pouches are the warehouse.** Once a keg arrives, it goes straight into one of Alben's two **Spacious Pouches** (see [inventory.md](inventory.md)). Each pouch holds 25 Bulk without any of it counting against what Alben carries — meaning his actual stockroom is two bags behind the bar, not a cellar. A hundred kegs' worth of rotating stock, at various stages of being drawn down, simply lives folded away in extradimensional space until a given bottle is called for.
+- **The Spacious Pouches are the warehouse.** Once a keg arrives, it goes straight into one of Alben's two **Spacious Pouches** (see [inventory.md](../inventory.md)). Each pouch holds 25 Bulk without any of it counting against what Alben carries — meaning his actual stockroom is two bags behind the bar, not a cellar. A hundred kegs' worth of rotating stock, at various stages of being drawn down, simply lives folded away in extradimensional space until a given bottle is called for.
 
 ### Why This, Not a Cellar Full of Kegs
 
-- **Space.** The Little Church has no cellar to spare for a hundred kegs — the Sanctum below is a working distillery for Rambui specifically, not general storage (see [distillerysanctum.md](distillerysanctum.md)), and the lounge above tops out around 1,200 square feet total. A hundred true kegs simply do not fit in the building itself; they fit in the Pouches instead.
+- **Space.** The Little Church has no cellar to spare for a hundred kegs — the Sanctum below is a working distillery for Rambui specifically, not general storage (see [distillerysanctum.md](../church/distillerysanctum.md)), and the lounge above tops out around 1,200 square feet total. A hundred true kegs simply do not fit in the building itself; they fit in the Pouches instead.
 - **Cost, solved by scale, not magic.** The kegs themselves are paid for in ordinary coin, same as any tavern's stock — the courier service is the one added expense, and it's one Alben's willing to carry given how central the Cabinet is to the Little Church's reputation.
-- **It's on-brand.** Alben would rather spend coin on a courier than spend a night manufacturing drinks one at a time behind the bar — his actual magic, spell slots included, is reserved for healing, protecting, and fighting for his flock (see [character.md](character.md)), not running a liquor supply chain.
+- **It's on-brand.** Alben would rather spend coin on a courier than spend a night manufacturing drinks one at a time behind the bar — his actual magic, spell slots included, is reserved for healing, protecting, and fighting for his flock (see [character.md](../character.md)), not running a liquor supply chain.
 
-**GM Note:** This mechanic exists to explain the Cabinet's scale without requiring a literal hundred-keg storeroom in [littlechurch.md](littlechurch.md) or [bigchurch.md](bigchurch.md), and without spending any of Alben's own prepared spells to do it. It changes nothing about how a drink resolves once poured (same Item 0 template, same roll on the Cabinet table for an Omakase order) — it only answers how a hundred genuine kegs get to a building with no room for them.
+**GM Note:** This mechanic exists to explain the Cabinet's scale without requiring a literal hundred-keg storeroom in [littlechurch.md](../church/littlechurch.md) or [bigchurch.md](../church/bigchurch.md), and without spending any of Alben's own prepared spells to do it. It changes nothing about how a drink resolves once poured (same Item 0 template, same roll on the Cabinet table for an Omakase order) — it only answers how a hundred genuine kegs get to a building with no room for them.
 
 ---
 
@@ -72,7 +72,7 @@ There are exactly three ways this goes.
 
 ### 1. "The Usual" — Rambui
 
-If the answer is yes (or anything that isn't a clear no), Alben pours **Rambui** — his own rambutan brandy, the one he shares with everyone eventually, family and near-strangers alike, bottled and sold under the brand **Uncle Alben's Rambui** ("Guaranteed Harsh" — see [rambui.md](rambui.md#the-brand-uncle-albens-rambui)). This is the default, the answer to silence, and the answer to enthusiasm. No roll needed; it's simply Rambui, straight from his own stock (see [inventory.md](inventory.md)).
+If the answer is yes (or anything that isn't a clear no), Alben pours **Rambui** — his own rambutan brandy, the one he shares with everyone eventually, family and near-strangers alike, bottled and sold under the brand **Uncle Alben's Rambui** ("Guaranteed Harsh" — see [rambui.md](rambui.md#the-brand-uncle-albens-rambui)). This is the default, the answer to silence, and the answer to enthusiasm. No roll needed; it's simply Rambui, straight from his own stock (see [inventory.md](../inventory.md)).
 
 ### 2. "Omakase" — Leave It to Alben
 
@@ -80,7 +80,7 @@ If someone instead says **"Omakase"** ("I'll leave it up to you") — or otherwi
 
 ### 3. The Called Drink — Poured from the Flask of Fellowship
 
-If someone names a specific drink — a particular spirit, a memory of home, something they haven't had in years — Alben doesn't reach for the Cabinet at all. He pulls out his **Flask of Fellowship** (see [inventory.md](inventory.md)) and pours *exactly* what was asked for, no matter how obscure or how far from Tian Xia it might be. This is the flask's own magic at work: whatever the target of the Make an Impression action would most like to drink pours out, letter-perfect. Mechanically, this triggers the Flask of Fellowship's Make an Impression activation, granting Alben a +1 item bonus to the Diplomacy check — but narratively, it's the moment his ritual becomes personal. He is, without fail, delighted whenever someone calls a specific drink instead of taking the usual or leaving it to him.
+If someone names a specific drink — a particular spirit, a memory of home, something they haven't had in years — Alben doesn't reach for the Cabinet at all. He pulls out his **Flask of Fellowship** (see [inventory.md](../inventory.md)) and pours *exactly* what was asked for, no matter how obscure or how far from Tian Xia it might be. This is the flask's own magic at work: whatever the target of the Make an Impression action would most like to drink pours out, letter-perfect. Mechanically, this triggers the Flask of Fellowship's Make an Impression activation, granting Alben a +1 item bonus to the Diplomacy check — but narratively, it's the moment his ritual becomes personal. He is, without fail, delighted whenever someone calls a specific drink instead of taking the usual or leaving it to him.
 
 ---
 
@@ -348,8 +348,8 @@ If someone names a specific drink — a particular spirit, a memory of home, som
 
 ## Cross-References
 
-- [inventory.md](inventory.md) — Full inventory/currency, including Rambui and container details
+- [inventory.md](../inventory.md) — Full inventory/currency, including Rambui and container details
 - [rambui.md](rambui.md) — Alben's own Rambui brewing process and crafting mechanics
-- [character.md](character.md) — Full mechanical character sheet
-- [background.md](background.md) — Narrative background
-- [concept.md](concept.md) — Character concept and voice
+- [character.md](../character.md) — Full mechanical character sheet
+- [background.md](../background.md) — Narrative background
+- [concept.md](../concept.md) — Character concept and voice

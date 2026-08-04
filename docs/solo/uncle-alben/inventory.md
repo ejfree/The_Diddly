@@ -49,7 +49,7 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 | Item | Quantity | Price (each) | Notes |
 |------|----------|---------------|-------|
 | Small Flask Liquor (Random) | 100 | 1 sp | Standard alcohol item; DC 12 Fortitude, onset 10 minutes, escalating stages from minor bonus to unconsciousness to death on repeated failures. |
-| Rambui (branded **Uncle Alben's Rambui**, "Guaranteed Harsh") | 150 | 1 sp | Alben's signature rambutan brandy — mechanically identical alcohol consumable, distinct in name/flavor per `background.md`/`concept.md`. See [rambui.md](rambui.md#the-brand-uncle-albens-rambui) for the full brand/label details. |
+| Rambui (branded **Uncle Alben's Rambui**, "Guaranteed Harsh") | 150 | 1 sp | Alben's signature rambutan brandy — mechanically identical alcohol consumable, distinct in name/flavor per `background.md`/`concept.md`. See [rambui.md](rambui/rambui.md#the-brand-uncle-albens-rambui) for the full brand/label details. |
 | Emergency Rambui (branded **Uncle Alben's Emergency Rambui**) | 40 | 1 sp | A dedicated backup stash. |
 | Rambui - The Last Drop (branded **Uncle Alben's Rambui — The Last Drop**) | 10 | 1 sp | The good stuff — reserved, presumably, for special occasions or genuine emergencies. |
 
@@ -97,7 +97,7 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 | Potion of Disguise (Lesser) | 5 | 30 gp | 1 |
 | Healing Potion (Moderate) | 6 | 50 gp | 1 (carried loose, not in a pouch) |
 
-**Note:** The Spacious Pouches double as the storage system behind the Cabinet's hundred-keg stock — kegs are purchased from real regional suppliers and delivered by magical courier, not conjured. See [liquor.md](liquor.md#stocking-the-cabinet-without-a-hundred-kegs).
+**Note:** The Spacious Pouches double as the storage system behind the Cabinet's hundred-keg stock — kegs are purchased from real regional suppliers and delivered by magical courier, not conjured. See [liquor.md](rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs).
 
 ---
 
@@ -116,6 +116,6 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 
 - [character.md](character.md) — Full mechanical character sheet
 - [spells.md](spells.md) — Spellcasting stats, prepared combat loadout, and deity details
-- [escapeplan.md](escapeplan.md) — Staged escape procedure using the Invisibility Potion and Potion of Disguise (Lesser) listed here
+- [escapeplan.md](plans/escapeplan.md) — Staged escape procedure using the Invisibility Potion and Potion of Disguise (Lesser) listed here
 - [concept.md](concept.md) — Character concept and voice
 - [background.md](background.md) — Narrative background

@@ -29,17 +29,30 @@ docs/solo/uncle-alben/
   character.md           — mechanical sheet (abilities, defenses, skills, feats, languages, feat timeline)
   inventory.md           — weapons, armor, worn items, containers, consumables, currency
   spells.md              — spellcasting stats, Prepared Combat/Social Loadouts, Divine Font, deity block
-  actionplans.md         — combat playbooks (melee, spell attacks, reactions, counters, battle tactics)
-  liquor.md              — 100-entry Tian Xia-themed hard liquor cabinet, drink-offering ritual, signature bottles
-  rambui.md              — Alben's personal Rambui brewing process, crafting mechanics, mishap table, HFCS legend
   purchase.md            — upcoming items Alben intends to buy (not yet in inventory.md)
-  liquor-roll.js         — FoundryVTT macro script for the drink-offering ritual (50% Rambui / 50% Cabinet roll)
+
+  church/
+    distillerysanctum.md — Alben's first fixed distillery, his inner sanctum
+    littlechurch.md       — the Little Church / Sippin' Club, his first public venue
+    bigchurch.md          — the multistory Big Church the Little Church grows into
+    megachurch.md         — stub for a future 24/7 mega-venue expansion (not yet developed)
+    first-aspirant.md     — Juna, the first Aspirant to join the Little Church
+
+  rambui/
+    rambui.md             — Alben's personal Rambui brewing process, crafting mechanics, mishap table, HFCS legend
+    liquor.md             — 100-entry Tian Xia-themed hard liquor cabinet, drink-offering ritual, signature bottles
+
+  plans/
+    actionplans.md        — combat playbooks (melee, spell attacks, reactions, counters, battle tactics)
+    campactivities.md     — downtime/camp activity notes
+    escapeplan.md         — staged combat escape procedure
+    planar.md             — known planes, tuning forks/planar keys, Interplanar Teleport notes
 
   assets/
-    foundryvttjson/      — FoundryVTT character export JSON(s) — source data for sheet updates
-    images/              — finished/rendered character art (currently empty)
-    raw/                 — in-progress or reference images (battle.png, portrait.png, soloman.png, tokensolomon.png)
-    scripts/             — additional script exports (currently empty)
+    foundryvttjson/       — FoundryVTT character export JSON(s) — source data for sheet updates
+    images/               — finished/rendered character art and tokens
+    raw/                  — in-progress or reference images awaiting processing
+    scripts/              — FoundryVTT macro scripts (e.g. liquor-roll.js, the drink-offering ritual roller)
 ```
 
 ---

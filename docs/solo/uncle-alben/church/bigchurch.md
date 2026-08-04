@@ -22,7 +22,7 @@ He still tends bar himself most nights. He still insists on it. It's just that "
 
 The original [Distillery Sanctum](distillerysanctum.md) forms the historic core of a much larger operating distillery beneath the building — the still that made the very first batch is still down here, preserved and still occasionally used, now surrounded by a genuine production-scale brewing operation built to keep the upper floors supplied.
 
-- **The Original Still** — preserved in place, still functional, still Alben's personal instrument for any batch he cares to make himself (see [rambui.md](rambui.md)).
+- **The Original Still** — preserved in place, still functional, still Alben's personal instrument for any batch he cares to make himself (see [rambui.md](../rambui/rambui.md)).
 - **Production Casking Hall** — rows of fermenting and aging casks at a scale the old Sanctum never needed, run by trusted staff trained under Alben's direct supervision.
 - **The Ruining Vault** — a secured room holding the charred stave shavings and ground rambutan pit stock, still off-limits to anyone but Alben for the actual Ruining step itself, even at this scale.
 - **Factory Tour** — a guided walking route through the basement, open to the public on a schedule, ending at a tasting stop where visitors sample a batch fresh off the still. Alben personally leads the tour whenever he's in the building, and treats every group like honored guests rather than customers.
@@ -33,9 +33,9 @@ The original [Distillery Sanctum](distillerysanctum.md) forms the historic core 
 
 The ground floor is equal parts public history and retail, built around the story of Rambui itself — and around the brand name that now sits on every bottle: **Uncle Alben's Rambui**, sold under the motto **"Guaranteed Harsh."**
 
-- **The Rambui Museum** — display cases and placards tracing the drink's origin among the jungle orc tribes, and Alben's own formalization of the process, right up through the founding of the original Sanctum. One case is dedicated entirely to **"Waste Not"**: dried and charred rambutan hulls beside the coasters and trinkets carved from the ones that never made it to the char, a jar of spent fermentation mash, and a loaf of the bakery-next-door's "Rambui Bread" (replaced fresh each week) — a small, deliberate reminder that nothing about a batch goes in the bin (see [rambui.md](rambui.md#waste-not-hulls-and-spent-mash)).
-- **The Process Hall** — an educational walk-through explaining the Harvest, Ferment, Distillation, Ruining, Cask, and QA Tester steps (see [rambui.md](rambui.md#ingredients--preparation)), including a life-sized diorama of Solomon performing the taste-test.
-- **Uncle Alben's Rambui Store** — the retail floor: bottled **Uncle Alben's Rambui** (standard), **Uncle Alben's Emergency Rambui**, and (on rare, well-advertised occasions) a bottle of **Uncle Alben's Rambui — The Last Drop** for sale to the public, alongside branded merchandise (tankards, holy symbols shaped like brandy casks, small carved mauls) bearing Alben's rambutan-fruit emblem and the "Guaranteed Harsh" motto. See [rambui.md](rambui.md#the-brand-uncle-albens-rambui) for the full label copy and branding details.
+- **The Rambui Museum** — display cases and placards tracing the drink's origin among the jungle orc tribes, and Alben's own formalization of the process, right up through the founding of the original Sanctum. One case is dedicated entirely to **"Waste Not"**: dried and charred rambutan hulls beside the coasters and trinkets carved from the ones that never made it to the char, a jar of spent fermentation mash, and a loaf of the bakery-next-door's "Rambui Bread" (replaced fresh each week) — a small, deliberate reminder that nothing about a batch goes in the bin (see [rambui.md](../rambui/rambui.md#waste-not-hulls-and-spent-mash)).
+- **The Process Hall** — an educational walk-through explaining the Harvest, Ferment, Distillation, Ruining, Cask, and QA Tester steps (see [rambui.md](../rambui/rambui.md#ingredients--preparation)), including a life-sized diorama of Solomon performing the taste-test.
+- **Uncle Alben's Rambui Store** — the retail floor: bottled **Uncle Alben's Rambui** (standard), **Uncle Alben's Emergency Rambui**, and (on rare, well-advertised occasions) a bottle of **Uncle Alben's Rambui — The Last Drop** for sale to the public, alongside branded merchandise (tankards, holy symbols shaped like brandy casks, small carved mauls) bearing Alben's rambutan-fruit emblem and the "Guaranteed Harsh" motto. See [rambui.md](../rambui/rambui.md#the-brand-uncle-albens-rambui) for the full label copy and branding details.
 
 ---
 
@@ -53,11 +53,11 @@ Squared off, roped rather than caged, with a raised platform a few feet above th
 
 ### Gladiatorial Arena
 
-The showpiece configuration, and Alben's personal favorite: a sand-floored circular arena ringed by low pillars and the occasional prop weapon rack, built specifically to give the Gladiator archetype's tools room to breathe (see [character.md](character.md#archetype-gladiator)) — **Big Debut**, **Play to the Crowd**, and **Living for the Applause** all read better in a space built to look like a real arena than a boxing ring ever could. Reserved for the nights Alben fights himself, or for a bout he wants the whole building buzzing about before it starts.
+The showpiece configuration, and Alben's personal favorite: a sand-floored circular arena ringed by low pillars and the occasional prop weapon rack, built specifically to give the Gladiator archetype's tools room to breathe (see [character.md](../character.md#archetype-gladiator)) — **Big Debut**, **Play to the Crowd**, and **Living for the Applause** all read better in a space built to look like a real arena than a boxing ring ever could. Reserved for the nights Alben fights himself, or for a bout he wants the whole building buzzing about before it starts.
 
 ### Sumo
 
-A raised clay-and-sand circle (a *dohyo*, sized down to what the pit floor allows), no weapons, no armor beyond a simple belt — the objective is a shove or a fall, not a fight to the finish. The most good-natured of the pit's modes, and the one most likely to end in laughter rather than a wound. Popular with regulars who want to test their **Athletics** against Alben's own (Expert, +19 — see [character.md](character.md)) without either of them reaching for a weapon; Alben's **Titan Wrestler** feat and Rainfall Orc bonuses to Athletics make him a genuine problem to shove out of the circle, and he knows it, and he loves it.
+A raised clay-and-sand circle (a *dohyo*, sized down to what the pit floor allows), no weapons, no armor beyond a simple belt — the objective is a shove or a fall, not a fight to the finish. The most good-natured of the pit's modes, and the one most likely to end in laughter rather than a wound. Popular with regulars who want to test their **Athletics** against Alben's own (Expert, +19 — see [character.md](../character.md)) without either of them reaching for a weapon; Alben's **Titan Wrestler** feat and Rainfall Orc bonuses to Athletics make him a genuine problem to shove out of the circle, and he knows it, and he loves it.
 
 ### Hazard Modes
 
@@ -110,7 +110,7 @@ For an added fee, either side of a bout can hire an **Arbiter** — a neutral, i
 An elevated, quieter lounge reserved for regulars, dignitaries, and anyone Solomon personally vouches for.
 
 - **The Clear Wall** — a magically reinforced transparent wall (or a mundane viewing gallery with heavy glass, depending on the budget the GM wants to assume) looking directly into the fighting pit below, letting VIP guests watch a bout in comfort without the noise and press of the general crowd.
-- **Private Service** — drink offerings here still follow the standard ritual (see [liquor.md](liquor.md#the-ritual-lets-have-a-drink)), but poured by hand-picked staff Alben trusts to represent him properly; Alben himself still makes an appearance most nights.
+- **Private Service** — drink offerings here still follow the standard ritual (see [liquor.md](../rambui/liquor.md#the-ritual-lets-have-a-drink)), but poured by hand-picked staff Alben trusts to represent him properly; Alben himself still makes an appearance most nights.
 - **Solomon's VIP Perch** — a more elaborate version of his original post, from which he still personally greets anyone he considers worth greeting.
 
 ---
@@ -121,7 +121,7 @@ Tiered public seating overlooking the fighting pit from above, the direct descen
 
 - **General Admission Pit Seating** — rows of seating with a full view down into the pit, standing room near the rail for the rowdier crowd.
 - **Concessions** — a satellite bar serving standard Cabinet pours and the everyday Rambui stock, so the crowd up here never has to leave for a drink mid-bout.
-- **Fight Announcements** — Alben, when he's fighting, is still introduced from this level's rail before making his way down — a direct descendant of the Big Debut / Play to the Crowd routine from his Gladiator archetype (see [character.md](character.md#archetype-gladiator)).
+- **Fight Announcements** — Alben, when he's fighting, is still introduced from this level's rail before making his way down — a direct descendant of the Big Debut / Play to the Crowd routine from his Gladiator archetype (see [character.md](../character.md#archetype-gladiator)).
 
 ---
 
@@ -131,7 +131,7 @@ The working floor of the building — less spectacle, more infrastructure.
 
 - **Training Hall** — practice space for fighters booked into the pit, sparring rings, and equipment storage.
 - **Operations Offices** — scheduling, staff management, supply logistics for keeping the Uncle Alben's Rambui Store and the bars stocked — the unglamorous machinery that lets Alben still spend most of his time on the floor instead of behind a desk.
-- **Staff Quarters** — modest rooms for live-in staff, notably including whoever currently holds the trusted role of Ruining-adjacent apprentice, the closest thing Alben has to a successor-in-training for parts of the process he can't personally handle at this scale.
+- **Staff Quarters** — modest rooms for live-in staff, notably including whoever currently holds the trusted role of Ruining-adjacent apprentice, the closest thing Alben has to a successor-in-training for parts of the process he can't personally handle at this scale. That role has belonged to [Juna, the first Aspirant](first-aspirant.md), since the Little Church days, and she now trains every Aspirant who's come after her.
 
 ---
 
@@ -148,16 +148,17 @@ At the very top, Alben's own private quarters — surprisingly modest given the 
 
 ## The Throughline
 
-Every floor of the Big Church exists because something in the Little Church outgrew its old room — the still outgrew the Sanctum's single chamber, the bar outgrew one counter, the pit outgrew a low wooden ring, and Solomon's hosting outgrew one perch by the door. None of it replaced what came before; it just built another floor over it. The original still is still down there. The original ethos — pour the drink, hear the trouble, answer real trouble with a swing of the maul and a follow-up mercy of healing (see [background.md](background.md#voice--presence)) — hasn't moved an inch, even as the building around it grew five stories tall.
+Every floor of the Big Church exists because something in the Little Church outgrew its old room — the still outgrew the Sanctum's single chamber, the bar outgrew one counter, the pit outgrew a low wooden ring, and Solomon's hosting outgrew one perch by the door. None of it replaced what came before; it just built another floor over it. The original still is still down there. The original ethos — pour the drink, hear the trouble, answer real trouble with a swing of the maul and a follow-up mercy of healing (see [background.md](../background.md#voice--presence)) — hasn't moved an inch, even as the building around it grew five stories tall.
 
 ---
 
 ## Cross-References
 
 - [littlechurch.md](littlechurch.md) — The original, single-room Sippin' Club this building grew from
+- [first-aspirant.md](first-aspirant.md) — Juna, the first Aspirant, who now runs Operations and the Ruining-adjacent apprenticeship on the 4th Floor
 - [distillerysanctum.md](distillerysanctum.md) — The original basement distillery, preserved at the heart of this building's larger operation
-- [rambui.md](rambui.md) — Full Rambui brewing process and crafting mechanics
-- [liquor.md](liquor.md) — The Liquor Cabinet and the drink-offering ritual
-- [background.md](background.md) — Narrative background, faith, and Solomon
-- [character.md](character.md) — Full mechanical character sheet, including the Gladiator archetype used across the pit floors
-- [inventory.md](inventory.md) — Current Rambui stock and inventory
+- [rambui.md](../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics
+- [liquor.md](../rambui/liquor.md) — The Liquor Cabinet and the drink-offering ritual
+- [background.md](../background.md) — Narrative background, faith, and Solomon
+- [character.md](../character.md) — Full mechanical character sheet, including the Gladiator archetype used across the pit floors
+- [inventory.md](../inventory.md) — Current Rambui stock and inventory

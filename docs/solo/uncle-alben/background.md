@@ -40,9 +40,9 @@ Rambutan brandy is not Alben's invention. It's a staple across the jungle orc tr
 
 The name is no accident, and neither is the flavor. Generations back, some orc trader got hold of a bottle of a smooth, honeyed, foreign spirit called Drambuie — refined, mellow, the kind of thing meant to be sipped slowly and respected. The jungle tribes took one taste and decided that smooth and mellow was the entire problem. So they set about fixing it. **Rambui** is what happens when a proud, deliberately unrefined culture takes everything restrained and pleasant about that original spirit and exaggerates every rough edge on purpose: harsher on the way in, harder on the way down, and engineered — not accidental — to leave a hangover worth bragging about the next morning. It is, by design, a joke at the original's expense, and the orcs who brew it wear that joke as a point of pride rather than an insult. A proper batch of Rambui should make a civilized drinker's eyes water and an orc grin.
 
-Alben makes his own — his personal recipe, tuned over years, the batch he's proudest of and shares most freely (see [inventory.md](inventory.md) and [liquor.md](liquor.md)). But he's also a collector at heart: wherever his travels take him through orc holds and jungle settlements, he seeks out the local Rambui, trades for it, samples it, argues good-naturedly about whose is worse, and packs a bottle away in his Spacious Pouches for later. His stock isn't one recipe — it's a running tally of every rough, proud, deliberately-terrible batch he's ever been poured, with his own brew simply being the one he trusts most.
+Alben makes his own — his personal recipe, tuned over years, the batch he's proudest of and shares most freely (see [inventory.md](inventory.md) and [liquor.md](rambui/liquor.md)). But he's also a collector at heart: wherever his travels take him through orc holds and jungle settlements, he seeks out the local Rambui, trades for it, samples it, argues good-naturedly about whose is worse, and packs a bottle away in his Spacious Pouches for later. His stock isn't one recipe — it's a running tally of every rough, proud, deliberately-terrible batch he's ever been poured, with his own brew simply being the one he trusts most.
 
-For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui.md). For where he actually brews it — from his first private still to the sprawling multistory temple to drink and combat it eventually becomes — see [distillerysanctum.md](distillerysanctum.md), [littlechurch.md](littlechurch.md), and [bigchurch.md](bigchurch.md).
+For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui/rambui.md). For where he actually brews it — from his first private still to the sprawling multistory temple to drink and combat it eventually becomes — see [distillerysanctum.md](church/distillerysanctum.md), [littlechurch.md](church/littlechurch.md), and [bigchurch.md](church/bigchurch.md).
 
 ---
 
@@ -145,8 +145,8 @@ Everything about Alben is oversized: his frame, his warmth, his generosity, his 
 - [concept.md](concept.md) — Original character concept
 - [character.md](character.md) — Full mechanical character sheet
 - [inventory.md](inventory.md) — Full inventory, including his own Rambui stock
-- [liquor.md](liquor.md) — The Liquor Cabinet, his collected drinks and drink-offering ritual
-- [rambui.md](rambui.md) — Alben's own Rambui brewing process and crafting mechanics
-- [distillerysanctum.md](distillerysanctum.md) — His first private distillery and inner sanctum
-- [littlechurch.md](littlechurch.md) — The Sippin' Club, his first public venue
-- [bigchurch.md](bigchurch.md) — The multistory evolution of the venue
+- [liquor.md](rambui/liquor.md) — The Liquor Cabinet, his collected drinks and drink-offering ritual
+- [rambui.md](rambui/rambui.md) — Alben's own Rambui brewing process and crafting mechanics
+- [distillerysanctum.md](church/distillerysanctum.md) — His first private distillery and inner sanctum
+- [littlechurch.md](church/littlechurch.md) — The Sippin' Club, his first public venue
+- [bigchurch.md](church/bigchurch.md) — The multistory evolution of the venue

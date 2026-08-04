@@ -6,7 +6,7 @@ tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 
 # Rambui
 
-> This page covers Alben's personal brewing process — how he actually *makes* his signature rambutan brandy. For the cultural origin of Rambui and its relationship to the foreign spirit "Drambuie" it mocks, see [background.md](background.md#rambui-the-orcish-brew). For the full hundred-bottle Cabinet of collected liquors and the drink-offering ritual, see [liquor.md](liquor.md).
+> This page covers Alben's personal brewing process — how he actually *makes* his signature rambutan brandy. For the cultural origin of Rambui and its relationship to the foreign spirit "Drambuie" it mocks, see [background.md](../background.md#rambui-the-orcish-brew). For the full hundred-bottle Cabinet of collected liquors and the drink-offering ritual, see [liquor.md](liquor.md).
 
 ---
 
@@ -24,7 +24,7 @@ He never wrote any of it down. It lives in his hands, his nose, and his **Lore: 
 2. **The Ferment** — Mash goes into a sealed cask with wild yeast (never a cultivated strain — cultivated yeast makes things smooth, and smooth is the enemy) for several days until it's aggressively alive. **The Water:** never pristine, never purified beforehand. Alben insists on mineral-heavy, slightly murky jungle water — pulled straight from a rambutan grove's own runoff or a silty river bend, warm at jungle-ambient temperature rather than cold. Filtering or boiling it first would be an act of smoothing something out before it even had the chance to be rough, which is as close to sacrilege as Alben's faith gets. The sediment and mineral content contribute their own edge to the final Ruining, and the warmth kicks the wild yeast into aggressive fermentation faster, keeping the mash "aggressively alive" on schedule. The one exception is a genuine emergency batch on the road with nothing but a Scroll of Create Water on hand — and even then, he'd rather hike to the nearest muddy ditch than waste pristine conjured water on a brew that's supposed to taste like a fight, not a truce.
 3. **The Distillation** — A single, rough pass through a still, deliberately under-refined. Where a proper Drambuie-style brandy would be distilled slow and clean to preserve the honeyed notes, Rambui is rushed and a little dirty on purpose, carrying over exactly the harsh, fusel notes a careful distiller would normally discard. In most distilleries, the 'Head' of the final product is discarded. In Alben's Rambui, it is the heart. During the heart of the distilation, boring is enouraged. Finally the hammer in the tail as the final distallates strip the flesh from your throat, though subtually...to an orc.
 4. **The Ruining** *(Alben's signature step)* — Before casking, he adds a handful of charred cask stave shavings and a pinch of ground rambutan pit back into the spirit. This is the step his old hold considered optional and Alben considers mandatory: it's what pushes a drinkable brandy into a proper Rambui. He jokes that this is the only step Drambuie's original distillers would recognize as a *mistake*.
-5. **The Cask** — Aged in whatever barrel is on hand, ideally one that's held Rambui before (a "virgin" barrel is considered wasted potential). Alben keeps a rotating set of travel-worn casks in his **Spacious Pouches** (see [inventory.md](inventory.md)) — they don't accelerate aging, but they let him carry a whole rotating cellar's worth of batches at various stages without adding a scrap of carried Bulk.
+5. **The Cask** — Aged in whatever barrel is on hand, ideally one that's held Rambui before (a "virgin" barrel is considered wasted potential). Alben keeps a rotating set of travel-worn casks in his **Spacious Pouches** (see [inventory.md](../inventory.md)) — they don't accelerate aging, but they let him carry a whole rotating cellar's worth of batches at various stages without adding a scrap of carried Bulk.
 6. **The QA Tester** — Before any batch is declared finished, it goes to **Solomon**. Alben pours a single drop onto a small dish and sets it in front of the duck, who inspects it with the same unbothered dignity he brings to everything else. A batch Solomon drinks without hesitation passes. A batch Solomon sniffs, considers, and pointedly ignores gets sent back for another round of Ruining. Alben insists this isn't superstition — "the bird's got a nose the collar only sharpens" — and refuses to bottle a single batch Solomon hasn't signed off on, no matter how good Alben's own tongue tells him it is. So far, no one's ever caught Solomon getting the call wrong.
 
 ---
@@ -33,8 +33,8 @@ He never wrote any of it down. It lives in his hands, his nose, and his **Lore: 
 
 Nothing about a batch goes in the bin once the good part is drawn off. Alben, cheap in the specific way most barkeeps are cheap, found a use for both leftovers years ago, and neither has changed since.
 
-- **The Hulls** — the tough, spiky rambutan skins peeled off during the Harvest are dried and set aside rather than discarded. Once fully dried, they're charred down in small batches — the same charring process used on the cask staves for the Ruining step (see Step 4 above) — meaning a good portion of every batch's signature bitterness technically started as the fruit's own skin, burned and folded back into the next batch it never belonged to. Whatever hulls aren't charred get carved or pressed into small trinkets: drink coasters, bag charms, and the rough-edged rambutan-emblem tokens sold at the [Uncle Alben's Rambui Store](bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store).
-- **The Spent Mash** — once the Distillation step has drawn everything drinkable out of a batch, what's left is a heavy, fibrous pulp with nothing left to offer a still. Alben doesn't waste it either: it goes next door, to the same **bakery** that trades him breakfast for [The Bunks](littlechurch.md#the-bunks). The bakery folds spent mash into feed for their own starter yeast and, on occasion, straight into a dense, faintly fruity loaf regulars have started calling "Rambui Bread" whether the bakery intended the name or not. It's one more thread in the same standing, informal trade that keeps Alben and his neighbor on good terms.
+- **The Hulls** — the tough, spiky rambutan skins peeled off during the Harvest are dried and set aside rather than discarded. Once fully dried, they're charred down in small batches — the same charring process used on the cask staves for the Ruining step (see Step 4 above) — meaning a good portion of every batch's signature bitterness technically started as the fruit's own skin, burned and folded back into the next batch it never belonged to. Whatever hulls aren't charred get carved or pressed into small trinkets: drink coasters, bag charms, and the rough-edged rambutan-emblem tokens sold at the [Uncle Alben's Rambui Store](../church/bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store).
+- **The Spent Mash** — once the Distillation step has drawn everything drinkable out of a batch, what's left is a heavy, fibrous pulp with nothing left to offer a still. Alben doesn't waste it either: it goes next door, to the same **bakery** that trades him breakfast for [The Bunks](../church/littlechurch.md#the-bunks). The bakery folds spent mash into feed for their own starter yeast and, on occasion, straight into a dense, faintly fruity loaf regulars have started calling "Rambui Bread" whether the bakery intended the name or not. It's one more thread in the same standing, informal trade that keeps Alben and his neighbor on good terms.
 
 ---
 
@@ -53,7 +53,7 @@ Nothing about a batch goes in the bin once the good part is drawn off. Alben, ch
 
 ### Degrees of Success
 
-The result of the check determines which of Alben's three named Rambui products (see [inventory.md](inventory.md)) the batch becomes:
+The result of the check determines which of Alben's three named Rambui products (see [inventory.md](../inventory.md)) the batch becomes:
 
 | Result | Product | Batch Size | Notes |
 |--------|---------|-----------|-------|
@@ -66,12 +66,12 @@ The result of the check determines which of Alben's three named Rambui products 
 
 ## The Brand: Uncle Alben's Rambui
 
-Once the Little Church's reputation grew large enough to need one, Alben settled on a brand name without much deliberation — everyone already called him Uncle Alben, so the bottle might as well say the same thing. The full name, printed (or burned, or stamped in wax) on every bottle sold at the [Big Church's retail floor](bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store), is:
+Once the Little Church's reputation grew large enough to need one, Alben settled on a brand name without much deliberation — everyone already called him Uncle Alben, so the bottle might as well say the same thing. The full name, printed (or burned, or stamped in wax) on every bottle sold at the [Big Church's retail floor](../church/bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store), is:
 
 > **UNCLE ALBEN'S RAMBUI**
 > *Guaranteed Harsh.*
 
-The motto is a deliberate, deadpan inversion of how any normal spirit would advertise itself. Where a refined foreign brandy might promise "smooth" or "mellow" on the label, Alben's promises the opposite outright — a direct, unapologetic extension of the whole cultural joke Rambui was built on in the first place (see [background.md](background.md#rambui-the-orcish-brew)). Regulars consider the motto as reliable as a contract; nobody has ever ordered a bottle expecting smoothness and been surprised.
+The motto is a deliberate, deadpan inversion of how any normal spirit would advertise itself. Where a refined foreign brandy might promise "smooth" or "mellow" on the label, Alben's promises the opposite outright — a direct, unapologetic extension of the whole cultural joke Rambui was built on in the first place (see [background.md](../background.md#rambui-the-orcish-brew)). Regulars consider the motto as reliable as a contract; nobody has ever ordered a bottle expecting smoothness and been surprised.
 
 The brand covers all three product tiers as a single line, not three separate products:
 
@@ -79,7 +79,7 @@ The brand covers all three product tiers as a single line, not three separate pr
 - **Uncle Alben's Emergency Rambui** — the backup-stash tier.
 - **Uncle Alben's Rambui — The Last Drop** — the rare, critical-success tier, sold only occasionally and always well-advertised when it is.
 
-The rambutan-fruit emblem already stamped into Alben's armor and gear (see [inventory.md](inventory.md)) doubles as the brand's visual mark, appearing on bottle labels, casks, and the merchandise sold alongside them at the Store.
+The rambutan-fruit emblem already stamped into Alben's armor and gear (see [inventory.md](../inventory.md)) doubles as the brand's visual mark, appearing on bottle labels, casks, and the merchandise sold alongside them at the Store.
 
 ---
 
@@ -101,11 +101,11 @@ Brewing isn't just a hobby — it's what keeps "Let's have a drink" (see [liquor
 
 ## Cross-References
 
-- [background.md](background.md) — Full cultural background on Rambui and Alben's relationship to it
+- [background.md](../background.md) — Full cultural background on Rambui and Alben's relationship to it
 - [liquor.md](liquor.md) — The Liquor Cabinet, drink-offering ritual, and mechanics shared by all alcohol items
-- [distillerysanctum.md](distillerysanctum.md) — Alben's first private distillery, where this process was first formalized
-- [littlechurch.md](littlechurch.md) — The Sippin' Club built above the Sanctum
-- [bigchurch.md](bigchurch.md) — The multistory expansion, including its own larger distillery
-- [inventory.md](inventory.md) — Current Rambui stock and full inventory
-- [character.md](character.md) — Full mechanical character sheet, including Lore: Alcohol
-- [concept.md](concept.md) — Original character concept and voice
+- [distillerysanctum.md](../church/distillerysanctum.md) — Alben's first private distillery, where this process was first formalized
+- [littlechurch.md](../church/littlechurch.md) — The Sippin' Club built above the Sanctum
+- [bigchurch.md](../church/bigchurch.md) — The multistory expansion, including its own larger distillery
+- [inventory.md](../inventory.md) — Current Rambui stock and full inventory
+- [character.md](../character.md) — Full mechanical character sheet, including Lore: Alcohol
+- [concept.md](../concept.md) — Original character concept and voice

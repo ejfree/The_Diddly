@@ -54,9 +54,9 @@ tags: ["solo", "uncle-alben", "pf2e", "planar"]
 
 ## Cross-References
 
-- [spells.md](spells.md) — Spellcasting stats and prepared loadouts (7th-rank slots not yet available)
-- [inventory.md](inventory.md) — Full inventory; would house any planar keys Alben eventually acquires
-- [purchase.md](purchase.md) — Upcoming items wishlist, same "not yet owned" framing as this page
+- [spells.md](../spells.md) — Spellcasting stats and prepared loadouts (7th-rank slots not yet available)
+- [inventory.md](../inventory.md) — Full inventory; would house any planar keys Alben eventually acquires
+- [purchase.md](../purchase.md) — Upcoming items wishlist, same "not yet owned" framing as this page
 - [escapeplan.md](escapeplan.md) — Interplanar Teleport to Elysium as the final phase of Alben's combat escape plan
-- [character.md](character.md) — Full mechanical character sheet
-- [background.md](background.md) — Narrative background, including Cayden Cailean's faith (relevant to Elysium)
+- [character.md](../character.md) — Full mechanical character sheet
+- [background.md](../background.md) — Narrative background, including Cayden Cailean's faith (relevant to Elysium)

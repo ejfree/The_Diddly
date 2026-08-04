@@ -6,7 +6,7 @@ tags: ["solo", "uncle-alben", "pf2e", "action-plans", "combat"]
 
 # Uncle Alben — Action Plans
 
-> Quick-reference combat playbooks built from his **Prepared Combat Loadout** ([spells.md](spells.md)) and class features/feats ([character.md](character.md)). Use this page mid-combat instead of re-deriving tactics from the full sheets every round.
+> Quick-reference combat playbooks built from his **Prepared Combat Loadout** ([spells.md](../spells.md)) and class features/feats ([character.md](../character.md)). Use this page mid-combat instead of re-deriving tactics from the full sheets every round.
 >
 > **Baseline numbers:** Melee Strike (maul) +20, 2d12+6 bludgeoning plus 1d6 fire; Spell Attack +19; Spell DC 29; AC 30; Focus Points 2/2.
 
@@ -87,7 +87,7 @@ Alben's two signature melee-spell hybrids both consume a prepared **Harm** (or *
 
 ### Counter Energy
 
-- **Scroll of Resist Energy (Rank 2) ×2** (see [inventory.md](inventory.md)) — cast for resistance against a specific energy type before or during a fight against known elemental threats.
+- **Scroll of Resist Energy (Rank 2) ×2** (see [inventory.md](../inventory.md)) — cast for resistance against a specific energy type before or during a fight against known elemental threats.
 - **Scroll/prepared Dispel Magic** (2nd- and 4th-rank Combat Loadout slots) — counteract ongoing magical effects, including persistent energy-based spells or auras.
 - **+1 Resilient Full Plate** — bonus to saves vs. targeted spells while worn, softening energy spell attacks specifically aimed at Alben.
 
@@ -110,7 +110,7 @@ Alben's two signature melee-spell hybrids both consume a prepared **Harm** (or *
 
 - **Shield Block** (reaction) — protect himself when tanking hits; Wooden Shield gives +2 AC raised plus Hardness 3 damage reduction.
 - **Dancing Shield** (2nd-rank Combat Loadout) — an animated shield that can defend an ally at range without Alben needing to be adjacent.
-- **Wall of Virtue** (Scroll, Rank 3, in [inventory.md](inventory.md)) — battlefield-spanning defensive line; use to block a chokepoint or shield squishier allies from incoming melee.
+- **Wall of Virtue** (Scroll, Rank 3, in [inventory.md](../inventory.md)) — battlefield-spanning defensive line; use to block a chokepoint or shield squishier allies from incoming melee.
 - **Blade Barrier** (6th-rank Combat Loadout) — doubles as a defensive wall (blocks/damages anything crossing it) and an offensive area denial tool.
 - Positioning: Alben's AC 30 and high HP pool (153) make him the natural target-soak — stand between enemies and squishier allies whenever possible.
 
@@ -126,7 +126,7 @@ Alben's two signature melee-spell hybrids both consume a prepared **Harm** (or *
 
 - **Heal** (1-action or 2-action touch/ranged version, Divine Font rank-6 slots ×5) — his primary single-target in-combat heal; use the Divine Font slots liberally since that's their only purpose.
 - **Restorative Strike** (class feat, 4th) — cast a 1-action *Harm* or *Heal* (loses manipulate) to heal himself, then Strike; on a hit, a second willing adjacent creature is healed the same amount. Excellent action-economy option: heal + attack + heal an ally in one sequence.
-- **Breath of Life** — emergency single-target heal/revive (check current prepared status; historically available as an option — confirm it's still in the active Combat Loadout before relying on it, see [spells.md](spells.md)).
+- **Breath of Life** — emergency single-target heal/revive (check current prepared status; historically available as an option — confirm it's still in the active Combat Loadout before relying on it, see [spells.md](../spells.md)).
 
 ### Mass Healing
 
@@ -145,8 +145,8 @@ Alben's two signature melee-spell hybrids both consume a prepared **Harm** (or *
 
 ## Cross-References
 
-- [spells.md](spells.md) — Full Prepared Combat Loadout, Spell Notes, and Divine Font details
-- [character.md](character.md) — Full mechanical character sheet, feats, and class features referenced above
-- [inventory.md](inventory.md) — Weapons, armor, and consumable scrolls/wands referenced above
-- [background.md](background.md) — Narrative background
-- [concept.md](concept.md) — Character concept and voice
+- [spells.md](../spells.md) — Full Prepared Combat Loadout, Spell Notes, and Divine Font details
+- [character.md](../character.md) — Full mechanical character sheet, feats, and class features referenced above
+- [inventory.md](../inventory.md) — Weapons, armor, and consumable scrolls/wands referenced above
+- [background.md](../background.md) — Narrative background
+- [concept.md](../concept.md) — Character concept and voice

@@ -12,7 +12,7 @@ tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 
 ## What This Place Is
 
-Before the Sanctum, Alben's Rambui was a road brewer's Rambui — mash in a sealed cask, a rough still packed in with his gear, casking whatever barrel was on hand (see [rambui.md](rambui.md)). It was good Rambui. It was not *settled* Rambui. The Sanctum is the first place Alben ever brewed from a fixed floor instead of a saddle, and the difference shows in every corner of it: nothing here is packed for travel, and everything here is exactly where it's meant to be, because for the first time in his life, it doesn't have to be anywhere else tomorrow.
+Before the Sanctum, Alben's Rambui was a road brewer's Rambui — mash in a sealed cask, a rough still packed in with his gear, casking whatever barrel was on hand (see [rambui.md](../rambui/rambui.md)). It was good Rambui. It was not *settled* Rambui. The Sanctum is the first place Alben ever brewed from a fixed floor instead of a saddle, and the difference shows in every corner of it: nothing here is packed for travel, and everything here is exactly where it's meant to be, because for the first time in his life, it doesn't have to be anywhere else tomorrow.
 
 It's small. It's cluttered. It smells permanently of scorched sugar, wet stone, and rambutan pulp. It is, without question, the most sacred room Alben owns — not because anyone told him to treat it that way, but because it's the first room that was ever entirely his.
 
@@ -32,7 +32,7 @@ Along one wall, a rack of sealed fermenting casks in various stages, each chalke
 
 ### The Ruining Station
 
-A dedicated workbench holding jars of charred stave shavings and ground rambutan pit — the components of **the Ruining**, his signature step (see [rambui.md](rambui.md#ingredients--preparation)). This is the one station in the room he never lets anyone else touch, staff or otherwise, even after the Sanctum stops being the only distillery he owns.
+A dedicated workbench holding jars of charred stave shavings and ground rambutan pit — the components of **the Ruining**, his signature step (see [rambui.md](../rambui/rambui.md#ingredients--preparation)). This is the one station in the room he never lets anyone else touch, staff or otherwise, even after the Sanctum stops being the only distillery he owns.
 
 ### The Shrine Nook
 
@@ -40,7 +40,7 @@ Tucked into a corner opposite the still: a small shrine to **Cayden Cailean**, l
 
 ### Solomon's Perch
 
-A modest wooden perch beside the shrine, worn smooth from use. This is where Solomon sits during the QA Tester step (see [rambui.md](rambui.md#ingredients--preparation)) — close enough to the shrine that Alben has, more than once, joked that the duck is as much a fixture of his faith as Cayden Cailean's tankard is.
+A modest wooden perch beside the shrine, worn smooth from use. This is where Solomon sits during the QA Tester step (see [rambui.md](../rambui/rambui.md#ingredients--preparation)) — close enough to the shrine that Alben has, more than once, joked that the duck is as much a fixture of his faith as Cayden Cailean's tankard is.
 
 ---
 
@@ -58,9 +58,9 @@ The Sanctum was never meant to hold customers, and for a long while, it didn't. 
 
 ## Cross-References
 
-- [rambui.md](rambui.md) — Full Rambui brewing process and crafting mechanics performed here
+- [rambui.md](../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics performed here
 - [littlechurch.md](littlechurch.md) — The Little Church, the venue this Sanctum becomes the basement of
 - [bigchurch.md](bigchurch.md) — The Big Church, the later multistory expansion with its own, larger basement distillery
-- [background.md](background.md) — Narrative background, faith, and Solomon
-- [inventory.md](inventory.md) — Current Rambui stock and the Spacious Pouches used to carry batches between Sanctum and road
-- [character.md](character.md) — Full mechanical character sheet
+- [background.md](../background.md) — Narrative background, faith, and Solomon
+- [inventory.md](../inventory.md) — Current Rambui stock and the Spacious Pouches used to carry batches between Sanctum and road
+- [character.md](../character.md) — Full mechanical character sheet

@@ -33,7 +33,7 @@ If distance alone won't cut it — pursuers who know his face, a crowd he needs 
 
 | Item | Effect | Source |
 |------|--------|--------|
-| **Potion of Disguise (Lesser)** | Single action (manipulate) to drink; takes on the appearance of a specific creature type for 2d12 hours (GM rolls duration in secret). Doesn't change stats, only appearance — shrinks to minimum Small or keeps size if the target creature is Alben's size or larger. | [inventory.md](inventory.md) |
+| **Potion of Disguise (Lesser)** | Single action (manipulate) to drink; takes on the appearance of a specific creature type for 2d12 hours (GM rolls duration in secret). Doesn't change stats, only appearance — shrinks to minimum Small or keeps size if the target creature is Alben's size or larger. | [inventory.md](../inventory.md) |
 
 ### Recommended Additions
 
@@ -54,7 +54,7 @@ When simply not being seen is more useful than looking like someone else — the
 
 | Item | Effect | Source |
 |------|--------|--------|
-| **Invisibility Potion** | Single action to drink; grants the effects of a 2nd-rank *Invisibility* spell — undetected to all creatures until Alben takes a hostile action, at which point the spell ends after that action resolves. | [inventory.md](inventory.md) |
+| **Invisibility Potion** | Single action to drink; grants the effects of a 2nd-rank *Invisibility* spell — undetected to all creatures until Alben takes a hostile action, at which point the spell ends after that action resolves. | [inventory.md](../inventory.md) |
 
 ### Recommended Additions
 
@@ -80,8 +80,8 @@ Once invisible or disguised, closing the literal distance between "still in dang
 
 ### Existing Mobility Already on the Sheet
 
-- **Unfettered Movement** / **Fly** (4th-rank Combat Loadout, see [spells.md](spells.md)) — already-prepared spells that serve the same purpose; use these first if the Potion of Quickness or Quick Runner's Shirt haven't been acquired yet.
-- **Spiritual Transport** (5th-rank Combat Loadout, see [spells.md](spells.md)) — 2-action divine teleportation spell, range 240 feet (1 mile when heightened to 7th, at which point line of sight to the destination is no longer required if he's been there before). This is Alben's best *currently prepared* short-range teleport: an unoccupied, visible space within range, bringing Solomon along if adjacent. Use this as the bridge between "still on the battlefield" and "somewhere safe enough to catch his breath" — it's uncommon, concentrate, manipulate, teleportation, and doesn't require a planar key since it stays on the same plane.
+- **Unfettered Movement** / **Fly** (4th-rank Combat Loadout, see [spells.md](../spells.md)) — already-prepared spells that serve the same purpose; use these first if the Potion of Quickness or Quick Runner's Shirt haven't been acquired yet.
+- **Spiritual Transport** (5th-rank Combat Loadout, see [spells.md](../spells.md)) — 2-action divine teleportation spell, range 240 feet (1 mile when heightened to 7th, at which point line of sight to the destination is no longer required if he's been there before). This is Alben's best *currently prepared* short-range teleport: an unoccupied, visible space within range, bringing Solomon along if adjacent. Use this as the bridge between "still on the battlefield" and "somewhere safe enough to catch his breath" — it's uncommon, concentrate, manipulate, teleportation, and doesn't require a planar key since it stays on the same plane.
 
 ---
 
@@ -91,7 +91,7 @@ The true last resort: leaving the plane entirely, to the one place with both str
 
 **Current status:** Not yet possible. Two gaps must close first:
 
-1. **Spell access** — *Interplanar Teleport* is rank 7. Alben's highest standing prepared slot is currently rank 6 (see [spells.md](spells.md)); he needs to advance far enough to prepare a rank 7 spell at all, then actually add *Interplanar Teleport* to a loadout (likely the Combat Loadout, given its purpose here).
+1. **Spell access** — *Interplanar Teleport* is rank 7. Alben's highest standing prepared slot is currently rank 6 (see [spells.md](../spells.md)); he needs to advance far enough to prepare a rank 7 spell at all, then actually add *Interplanar Teleport* to a loadout (likely the Combat Loadout, given its purpose here).
 2. **The planar key** — Per [planar.md](planar.md), Alben owns zero planar keys, Elysium's included (Uncommon rarity). One must be acquired — ideally through a Cayden Cailean-flavored quest (a boon from the church, a relic recovered from a fallen cleric) rather than a straight purchase, consistent with the note already on file in [planar.md](planar.md).
 
 **Once both are in place, the final escape sequence looks like this:**
@@ -117,10 +117,10 @@ The true last resort: leaving the plane entirely, to the one place with both str
 
 ## Cross-References
 
-- [spells.md](spells.md) — Full Prepared Combat Loadout, including Spiritual Transport and current rank-6 ceiling
-- [inventory.md](inventory.md) — Current Invisibility Potion and Potion of Disguise (Lesser); where new escape items should be added once acquired
-- [purchase.md](purchase.md) — Upcoming items wishlist; Potion of Disguise (Moderate/Greater), Potion of Quickness, and Quick Runner's Shirt belong here until purchased
+- [spells.md](../spells.md) — Full Prepared Combat Loadout, including Spiritual Transport and current rank-6 ceiling
+- [inventory.md](../inventory.md) — Current Invisibility Potion and Potion of Disguise (Lesser); where new escape items should be added once acquired
+- [purchase.md](../purchase.md) — Upcoming items wishlist; Potion of Disguise (Moderate/Greater), Potion of Quickness, and Quick Runner's Shirt belong here until purchased
 - [planar.md](planar.md) — Full planar key status and Interplanar Teleport mechanics, including why Elysium is the correct destination
 - [actionplans.md](actionplans.md) — General combat action plans (this page is the escape-specific companion to that one)
-- [character.md](character.md) — Full mechanical character sheet, including Zealous Rush and Shield Block
-- [background.md](background.md) — Narrative background, including Cayden Cailean's faith and Solomon
+- [character.md](../character.md) — Full mechanical character sheet, including Zealous Rush and Shield Block
+- [background.md](../background.md) — Narrative background, including Cayden Cailean's faith and Solomon
