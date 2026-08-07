@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — The Big Church
-updated: 2026-08-01
+updated: 2026-08-07
 tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 ---
 
@@ -135,28 +135,105 @@ The working floor of the building — less spectacle, more infrastructure.
 
 ---
 
+## Solomon's Road — The Warded Galleries
+
+Every floor above has a public route and a working route. There is a third one, and almost nobody who drinks here knows it exists.
+
+**Solomon's Road** runs the full height of the Big Church — basement to penthouse, six levels, two independent exits to the street — as a continuous duck-scale gallery built inside the walls. It is the direct descendant of the ten-inch hole Alben chiseled through the Sanctum wall before there was a building on top of it (see [The Duck Run](distillerysanctum.md#the-duck-run)), and the twelve-inch route Juna joined together and named in the Little Church (see [Solomon's Road](littlechurch.md#solomons-road)). It obeys the same three rules it did when it was a hole. It is simply now the single most carefully protected structure in a building that contains a museum, a vault, and a mechanized arena.
+
+Alben will not discuss it with patrons. Operations tracks it as "structural maintenance, sixth line." Juna has the only complete drawing, and it lives in her quarters rather than the Operations Offices.
+
+### The Standard
+
+Where the Little Church's road was Juna's careful joinery, the Big Church's was surveyed and built to a written spec — the first thing Alben ever had written down about Solomon, which he did only because a five-story building cannot be chiseled at midnight with a bar knife.
+
+- **Interior clearance:** 18 inches wide, 20 inches tall. Wide enough that Solomon never has to move at a dignified creature's expense.
+- **Grade:** No ramp steeper than one foot of rise in six of run, cleated the whole way. Solomon walks; the road accommodates that fact instead of arguing with it.
+- **Redundancy:** Never fewer than two ways off any landing, and no landing where both ways lead through the pit level. Alben was immovable on that second clause.
+- **Two street exits:** One is the original Old Run into the alley, preserved intact under the bottom step. The other comes out in the bakery's flour store next door — the [Bakery Leg](littlechurch.md#solomons-road), rebuilt but never rerouted, still with a saucer of water in it that nobody admits to filling.
+
+### The Landings
+
+Each floor has a **landing** — a boxed alcove inside the wall, roughly a foot and a half square, sitting behind a hatch that opens onto that floor near wherever Solomon works there. The landing is the point that's actually defended. The galleries between them are just corridor.
+
+| Level | Hatch opens at | Notes |
+|---|---|---|
+| **Basement** | Beside the Original Still, in the historic core | Deliberately not on the Factory Tour route. Tour groups walk within four feet of it twice a day and have never once noticed. |
+| **Main Floor** | The Rambui Museum, at the "Waste Not" case | Hatch is faced as a baseboard placard. Spare palanquin stationed here. |
+| **Pit Level** | Behind the pit-side service bar, never the pit floor itself | The only landing with a shutter Alben can drop from the *outside* — see The One Exception below. |
+| **2nd — VIP Lounge** | Under Solomon's VIP Perch | Solomon can leave a room full of dignitaries mid-appraisal without crossing it. He does this for effect at least once a week. |
+| **3rd — Pit-View Seating** | Behind the concessions bar | Loudest landing in the building; Solomon uses it least. |
+| **4th — Operations** | Juna's office wall, at ankle height | She had it put there. She did not ask. Alben pretended to be annoyed. |
+| **Penthouse** | Solomon's personal quarters | The Last Landing — see below. |
+
+**Spare palanquins.** Three of the landings — Main Floor, VIP, and Penthouse — keep a plain spare palanquin parked and ready, because the road is the one place in the building Solomon travels on foot, and Alben decided some years ago that his duck should never have to *arrive* anywhere undignified. They are simpler than the real one: no fringe, no gilding, just curved supports and a cushion. Solomon has never acknowledged that they exist, which Juna maintains is gratitude.
+
+### The Protections
+
+This is where the road stops being carpentry. Eighteen inches of clearance across six floors admits a great many things that are not a mandarin duck, and Alben understood that trade the moment the spec was drawn — the road got wider because Solomon needed it wider, and everything that made it better for Solomon made it better for anything Tiny and hostile with an interest in the building. The wards exist to close that gap, and they are the only line item in Operations' budget Alben has never once asked to trim.
+
+He does not maintain them personally. He can't — he's behind the bar most nights, and permanent magic was never his trade. Instead, the Big Church already has licensed spellcasters on the premises daily (see [Spell Support — Third-Party Arbiters](#spell-support--third-party-arbiters)), and **the road is a standing booking**: an on-shift Arbiter walks it and renews it on a fixed rotation, paid at the house's own rate rather than their own, tracked by Operations the same way ticket sales and the pit's 25% cut are.
+
+| Protection | Where | What it does |
+|---|---|---|
+| ***Alarm*** | Every landing, renewed three times daily | Mental alert to Alben and Juna only — no audible chime, nothing a crowd could hear or a stranger could trace. Trips on anything entering a landing that isn't Solomon. |
+| ***Illusory Object*** | Every floor-side hatch | Holds the hatch's disguise — baseboard, placard, cabinetry, wall trim. Cosmetic, cheap, renewed on the same walk as the *Alarm*. |
+| ***Lock*** | Both street exits, outer face only | Makes the alley board and the bakery hatch genuinely hard to open **from outside**. From inside, they open with a bill. That asymmetry is Rule 1, enforced magically. |
+| ***Sanctified Ground*** (ritual) | The Penthouse and Basement landings, renewed each morning | The two landings that matter most — the top of the road and the bottom of it — sit inside consecrated footprints, giving anything sheltering there a real defensive edge against the specific sorts of things a wealthy landmark eventually attracts. |
+| **Everburning shards** | Every turn and every landing | Descendants of the single chip Alben paid for in the Little Church, when he saw Solomon hesitate at a dark corner once. There are now nineteen of them. |
+| **The Collar of Empathy** | On Solomon | Still, after all of it, the actual alarm system. See below. |
+
+**The wards face one way.** Every protection on Solomon's Road is installed to keep things *out* of the road, and not one of them impedes anything leaving it. This is Rule 3, and Alben has enforced it against professional advice more than once — a competent warder will point out, correctly, that a one-way ward is half a ward, and that sealing the road at both ends would be strictly more secure. Alben's answer has never varied and is never elaborated on: nothing that keeps Solomon somewhere is going on this road. The people who work for him have stopped raising it. Juna knows the reason and has never told anyone (see [background.md](../background.md#how-they-met)).
+
+**The one thing that isn't installed.** For all the wards, all the shards, and all the Arbiter hours, the thing that has actually saved Solomon twice is the collar. It links his feeling to Alben's, it does not care about five floors of stone, and it does not need renewing (see [background.md](../background.md#the-collar-of-empathy)). Alben's real security system is that he can feel his duck being afraid from anywhere in the building, and that he will come. Everything in the table above exists to buy the seconds that takes.
+
+### The One Exception
+
+The Pit Level landing has a shutter — a plate of banded oak Alben can drop from the corridor side, sealing that one hatch, locking the road shut on that floor alone.
+
+It is the only thing in the whole building that violates Rule 3, and it exists for exactly one reason: the pit is the one place under this roof where something genuinely dangerous is *scheduled*, with a crowd, on purpose. On the rare nights Alben calls a bout he isn't fully comfortable with — an unfamiliar fighter, a hazard mode he doesn't like the look of, a grudge that came in the door too quiet — he drops the shutter before the changeover and the road simply doesn't go through the pit level that night.
+
+He hates it. He drops it anyway. Juna built a second, redundant hatch four feet down the gallery for the nights it's shut, which is how the road still satisfies "two ways off every landing" while that plate is down, and which is the closest either of them has come to admitting the shutter is a compromise rather than a solution.
+
+### The Last Landing
+
+At the top of the road, in the penthouse, inside Solomon's own quarters, the last landing is not a landing so much as a room — a bolt-hole sized for one duck, one palanquin, and nothing else.
+
+- Consecrated ground, renewed every morning without exception, on Alben's standing instruction.
+- Two everburning shards rather than one, so it is never dark in there.
+- A water dish, a shallow dish for a drop of Rambui, and a folded square of oilcloth — the same fixture, replaced how many times now, that Alben first tucked under a loose board in an alley behind a one-room cellar so his duck wouldn't have to stand in the mud (see [distillerysanctum.md](distillerysanctum.md#the-duck-run)).
+- A tankard carved into the lintel. Deep, centered, and immaculate; Juna's work, the fourth one she's cut. Alben blessed it with a full cup and a full toast the day the penthouse was finished, alone, in an empty room, exactly the way he did the first one.
+
+He has never once claimed it does anything.
+
+> **GM Note — Mechanics.** Solomon's Road admits **Tiny creatures freely and Small creatures squeezing** — that is the cost of the 18-inch spec, and it is the whole reason the wards exist. Alben still cannot use it, and it is still not his escape route (see [escapeplan.md](../plans/escapeplan.md)). Suggested numbers, all adjustable: floor-side hatches are **Perception DC 22** to spot through the *Illusory Object* facing (**DC 25** for the Main Floor placard, which is the best-disguised); street exits are **Thievery DC 30** from outside with the *Lock* active, and **automatic** from inside, always, no roll. *Alarm* renewal on a three-times-daily rotation means there is a real, exploitable **gap of up to eight hours** on any given landing if the party or an antagonist knows the schedule — Operations keeps that schedule in writing on the 4th Floor, which is a theft worth building an entire session around. If the wards ever go **quiet** rather than trip, Alben's assumption is *Dispel Magic*, and his response is to walk the road's length himself with his own prepared *Dispel Magic* (2nd- and 4th-rank, see [spells.md](../spells.md)) clearing it hatch by hatch — he cannot fit inside, so he does it from the corridor side, one plate at a time, and it takes him most of a night. Treat the exact effects of *Sanctified Ground* on the two consecrated landings as GM-set to whatever the table's PF2e version supports; the intent is "a real defensive edge for whatever is sheltering there," not a specific bonus this file needs to pin down.
+
+---
+
 ## Penthouse — Alben's Apartment
 
 At the very top, Alben's own private quarters — surprisingly modest given the scale of the building beneath it.
 
 - Simple, lived-in furnishings; nothing here performs "Uncle Alben" for anyone, the same way nothing in the original [Distillery Sanctum](distillerysanctum.md) ever did.
 - A small personal shrine to Cayden Cailean, a direct echo of the Sanctum's original shrine nook.
-- Solomon's personal quarters, including the palanquin at rest when he's not on duty below.
+- Solomon's personal quarters, including the palanquin at rest when he's not on duty below, and the top of [Solomon's Road](#solomons-road--the-warded-galleries) — the Last Landing, the most heavily protected square foot in the building.
 - A private stash of **Uncle Alben's Rambui — The Last Drop**, kept here rather than in the Store downstairs, for the same reason it was always kept separate: some batches aren't for selling.
 
 ---
 
 ## The Throughline
 
-Every floor of the Big Church exists because something in the Little Church outgrew its old room — the still outgrew the Sanctum's single chamber, the bar outgrew one counter, the pit outgrew a low wooden ring, and Solomon's hosting outgrew one perch by the door. None of it replaced what came before; it just built another floor over it. The original still is still down there. The original ethos — pour the drink, hear the trouble, answer real trouble with a swing of the maul and a follow-up mercy of healing (see [background.md](../background.md#voice--presence)) — hasn't moved an inch, even as the building around it grew five stories tall.
+Every floor of the Big Church exists because something in the Little Church outgrew its old room — the still outgrew the Sanctum's single chamber, the bar outgrew one counter, the pit outgrew a low wooden ring, and Solomon's hosting outgrew one perch by the door. None of it replaced what came before; it just built another floor over it. The original still is still down there. So is the original ten-inch hole in the Sanctum wall, now the bottom leg of a warded gallery that runs six floors, still latched so a bill can lift it, still with a crooked thumbnail tankard scratched into the plank above it. The original ethos — pour the drink, hear the trouble, answer real trouble with a swing of the maul and a follow-up mercy of healing (see [background.md](../background.md#voice--presence)) — hasn't moved an inch, even as the building around it grew five stories tall.
 
 ---
 
 ## Cross-References
 
-- [littlechurch.md](littlechurch.md) — The original, single-room Sippin' Club this building grew from
-- [first-aspirant.md](first-aspirant.md) — Juna, the first Aspirant, who now runs Operations and the Ruining-adjacent apprenticeship on the 4th Floor
-- [distillerysanctum.md](distillerysanctum.md) — The original basement distillery, preserved at the heart of this building's larger operation
+- [littlechurch.md](littlechurch.md) — The original, single-room Sippin' Club this building grew from, and the twelve-inch version of Solomon's Road
+- [first-aspirant.md](first-aspirant.md) — Juna, the first Aspirant, who now runs Operations and the Ruining-adjacent apprenticeship on the 4th Floor, and who holds the only complete drawing of Solomon's Road
+- [distillerysanctum.md](distillerysanctum.md) — The original basement distillery, preserved at the heart of this building's larger operation, and the original Duck Run
+- [escapeplan.md](../plans/escapeplan.md) — Alben's own staged bail-out procedure; Solomon's Road is not part of it and never was
+- [spells.md](../spells.md) — Prepared *Dispel Magic* slots used to walk and clear the road if the wards go quiet
 - [rambui.md](../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics
 - [liquor.md](../rambui/liquor.md) — The Liquor Cabinet and the drink-offering ritual
 - [background.md](../background.md) — Narrative background, faith, and Solomon

@@ -1,6 +1,6 @@
 ---
 title: House Veythrae — The Shadowfire Cadres
-updated: 2026-03-10
+updated: 2026-08-05
 tags: ["drow", "xil", "house-veythrae", "arc3"]
 ---
 
@@ -29,7 +29,7 @@ The rivalry with Xilrath is structural. Vel'dryn commands larger armies; Thalara
 | Name | Title | Level | Role |
 | --- | --- | --- | --- |
 | Thalara Veythrae | Matron Mother | Lvl 17 Wizard with Cleric dedication | Supreme authority; archmage and high priestess combined |
-| Sybrynn Veythrae | Archmage | Lvl 12 Wizard (Evocation) | Leads the Shadowfire Cadres in the field; spell doctrine |
+| [Sybrynn Veythrae](npc-sybrynn-veythrae.md) | Archmage | Lvl 14 Wizard (Evocation) | Leads the Shadowfire Cadres in the field; spell doctrine. Bodyguarded by *Ashcollar*, a bound glabrezu on personal contract |
 | Elvrae Veythrae | Demonmistress | Lvl 11 Wizard with Summoner dedication | Oversees binding pits and fiend contracts |
 
 ---
@@ -62,7 +62,7 @@ Grand Total: 1,200 — 520 drow + 680 auxiliaries
 | Giant Spiders | 80 | Patrol and disruption |
 | Pack Lizards | 80 | Cargo hauling for expedition-length deployments |
 | Magically Bound Servitors | 94 | Dominated creatures, alchemically altered thralls, minor fiends |
-| Bound Demons | 6 | Greater fiends under formal contract; controlled by Elvrae's pits |
+| Bound Demons | 6 | Greater fiends under formal contract; 4 Vrocks in Elvrae's pits, 1 glabrezu (*Ashcollar*) on Sybrynn's personal contract outside her registry, 1 unassigned |
 
 **Math:** 200 + 160 + 60 + 80 + 80 + 94 + 6 = **680**
 

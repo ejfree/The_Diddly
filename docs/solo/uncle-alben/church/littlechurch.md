@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — The Little Church (Sippin' Club)
-updated: 2026-08-01
+updated: 2026-08-07
 tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 ---
 
@@ -48,6 +48,33 @@ A small perch, barely **2 feet** across, tucked beside the front door. Solomon d
 
 A narrow **4-foot-wide** stair behind the bar, barely wide enough for Alben's shoulders, leading down into the Sanctum (see [distillerysanctum.md](distillerysanctum.md)) — now the Church's basement and back office. Staff, when there eventually are any, know better than to go down without Alben. Regulars mostly don't know it's there at all.
 
+### Solomon's Road
+
+The old [Duck Run](distillerysanctum.md#the-duck-run) — the ten-inch hole Alben chiseled out of the Sanctum wall before there was a building on top of it — is still down there, still open, still obeying the same three rules he laid down when he cut it. What changed is that it now has a building over it, which means it now has *floors*, which means for the first time it's a route rather than a hole.
+
+Juna named it. She'd been an Aspirant about a month (see [first-aspirant.md](first-aspirant.md)), found Alben on his knees behind the bar at midnight trying to chisel a duck-sized turn through a floor joist with a bar knife, told him he was going to bring the building down on his own head, and took the job off him. She widened the whole thing to **twelve inches by sixteen**, cut proper ramps at a grade a duck can actually walk, joined it like furniture instead of like a man in a hurry, and burned "SOLOMON'S RD." into the plank at the top with a poker. Alben has never called it anything else since. Neither has anyone else.
+
+**The route, bottom to top:**
+
+| Leg | Runs from | Runs to | Notes |
+|---|---|---|---|
+| **The Old Run** | Sanctum shrine wall | Alley, under the bottom step | Alben's original chisel work, untouched. Rule 1 latch — a bill lifts it, a hand outside can't. |
+| **The Joist Turn** | Sanctum ceiling, behind the cask rack | Lounge floor, behind the bar | Juna's work. Runs alongside the stair down rather than through it, so a duck on the road and an orc on the stairs never have to negotiate. |
+| **The Bar Gallery** | Behind the bar | Solomon's Post by the front door | Boxed in along the back wall behind the Cabinet shelving. Solomon can go from hosting to the basement without crossing one inch of open lounge floor. |
+| **The Bunk Ladder** | Lounge wall | The bunks above and behind | Ramped, not laddered. Rarely used; Solomon does not care for the bunks or, generally, the people in them. |
+| **The Bakery Leg** | Halfway up the Old Run | Under the bakery's party wall next door | Juna's idea, and the best thing on the road. Comes out in the bakery's flour store, which is warm, dry, and occupied at four in the morning by the one neighbor Alben trusts completely. |
+
+**The Bakery Leg** deserves its own note, because it turned a bolt-hole into somewhere worth going. The standing bread-for-brandy arrangement (see [The Bunks](#the-bunks) above) was never written down, and neither was this: Alben mentioned once that there was now a duck-sized hole in their shared wall, the baker said that was fine, and that was the entire negotiation. Solomon has taken to using it constantly and for no emergency reason whatsoever. There is a saucer of water in the flour store that nobody admits to filling.
+
+**First magic on the road.** Two things, and Alben paid for exactly one of them:
+
+- **The Everburning Shard.** A chip of an *everburning torch* set behind a pane of thick glass at the bottom of the Joist Turn, where the road is at its darkest and its steepest. Solomon has low-light vision, not darkvision, and Alben watched him hesitate at that turn once. The shard went in the following week. It is the single most expensive fixture in the Little Church that no paying customer will ever see.
+- **The Collar.** Not installed, not purchased, and by far the more important of the two. Solomon's **Collar of Empathy** (see [background.md](../background.md#the-collar-of-empathy)) links his feeling to Alben's, and it does not care about walls. If Solomon takes the road *frightened*, Alben knows before Solomon has reached the second turn — mid-pour, mid-sentence, mid-fight. This is the actual alarm system of the Little Church, and it is the reason Alben never bothered buying a real one at this scale.
+
+**The lintel, again.** Juna carved a proper tankard into the plank over the Bar Gallery hatch, neat and deep and centered, to replace the crooked thumbnail-sized one Alben scratched downstairs. Alben blessed it with a full cup and a full toast in front of a bar of confused regulars, then went downstairs and re-scratched his crooked one too, in case the first one felt slighted. He has never claimed either of them does anything.
+
+> **GM Note — Mechanics.** Still **Tiny creatures only** at twelve inches; Alben cannot use the road and never could. The Old Run's alley board is **Perception DC 17** from outside; the Bar Gallery hatch behind the Cabinet shelving is **DC 20** (it reads as cabinetry); the Bakery Leg's terminus is hidden by flour sacks and effectively unfindable from the bakery side without being told. Every hatch is **unlocked from the inside, always** — Rule 1, no exceptions, no mechanical override. The everburning shard makes the Joist Turn **dim light** rather than darkness; the rest of the road remains dark. Solomon's Road is still an **unwarded** route into the Church for anything Tiny and hostile — that risk grows with every foot Juna adds to it, and it's what finally forces genuine magical protection once the building goes multistory (see [bigchurch.md](bigchurch.md#solomons-road--the-warded-galleries)).
+
 ---
 
 ## The Nightly Promise
@@ -94,8 +121,8 @@ Alben likes the Little Church precisely because it's small enough to run himself
 
 ## Cross-References
 
-- [first-aspirant.md](first-aspirant.md) — Juna, the first Aspirant, whose near-death here on her first night gave the Nightly Promise its exact wording
-- [distillerysanctum.md](distillerysanctum.md) — The basement/back office beneath this venue, where the Rambui is actually made
+- [first-aspirant.md](first-aspirant.md) — Juna, the first Aspirant, whose near-death here on her first night gave the Nightly Promise its exact wording, and who built and named Solomon's Road
+- [distillerysanctum.md](distillerysanctum.md) — The basement/back office beneath this venue, where the Rambui is actually made, and the original Duck Run that Solomon's Road grew out of
 - [bigchurch.md](bigchurch.md) — The Big Church, the later multistory expansion of this venue
 - [rambui.md](../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics
 - [liquor.md](../rambui/liquor.md) — The Liquor Cabinet and the drink-offering ritual performed at this bar
