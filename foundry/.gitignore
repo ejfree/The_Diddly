@@ -1,0 +1,12 @@
+# The unzipped Foundry release — redistributable binaries, and large.
+# Re-download from https://foundryvtt.com/me/licenses instead of committing.
+app/
+
+# User data: worlds, systems, modules, assets, Logs.
+# Never commit this. Two reasons beyond size:
+#   1. Config/options.json and Config/license.json hold your license key.
+#   2. Worlds and compendia are LevelDB directories — binary, unmergeable,
+#      and they corrupt under git's line-ending handling.
+# To version-control campaign content, use the Foundry CLI to unpack
+# compendia to YAML/JSON first (see README.md).
+data/
