@@ -5,6 +5,7 @@ A self-contained Foundry VTT **v14** development server for The Diddly. Isolated
 ```
 foundry/
   dev.sh        # launcher (committed)
+  stop-dev.sh   # graceful shutdown (committed)
   .gitignore    # ignores app/ and data/ (committed)
   app/          # unzipped Foundry "Node.js" release  — NOT committed
   data/         # worlds, systems, modules, Config, Logs — NOT committed
@@ -76,7 +77,15 @@ FOUNDRY_UPNP=true ./dev.sh    # allow router port-forwarding (off by default)
 
 - **`--dataPath` is the isolation boundary.** Everything Foundry writes lands in `data/`. A throwaway scratch instance is just a copy of `dev.sh` with a different data dir.
 - **Logs:** `data/Logs/` — tail these rather than hunting the browser console.
-- **Stop it:** `pkill -f foundry/app/main.js`.
+
+**Stopping:**
+
+```bash
+./stop-dev.sh           # SIGTERM, escalating to SIGKILL after 10s
+./stop-dev.sh --force   # straight to SIGKILL
+```
+
+Prefer the graceful path. Foundry closes its LevelDB handles on a clean shutdown; a SIGKILL mid-write can leave a world's database needing recovery on next start. The script is scoped by absolute path to *this* `app/`, so another Foundry install elsewhere on the machine is untouched, and it exits 0 when nothing is running (safe to call unconditionally).
 
 ### Port and UPnP are not CLI flags
 

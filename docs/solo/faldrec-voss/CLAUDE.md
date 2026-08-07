@@ -1,8 +1,8 @@
-# idea2 — Solo Folder Knowledge Base
+# Faldrec Voss — Solo Folder Knowledge Base
 
 ## Isolation Rule (Read First)
 
-This folder (`docs/solo/idea2/`) is a **self-contained, isolated dataset** for the solo character **idea2** only, per the main repository's `docs/solo/` isolation convention.
+This folder (`docs/solo/faldrec-voss/`) is a **self-contained, isolated dataset** for the solo character **idea2** only, per the main repository's `docs/solo/` isolation convention.
 
 - **Only use material found within this folder** when working here. Do not pull in lore, stats, NPCs, or continuity from the main campaign (party, adventures, setting, university, iolokar) or from any other `docs/solo/<name>/` folder, unless the user explicitly asks for a crossover.
 - Nothing in this folder should be referenced or assumed when working on the main campaign or any other solo folder, unless explicitly instructed.
