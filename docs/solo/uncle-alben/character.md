@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Character Sheet
-updated: 2026-08-01
+updated: 2026-08-07
 tags: ["solo", "uncle-alben", "pf2e", "character-sheet"]
 ---
 
@@ -131,6 +131,29 @@ Dexterity and Intelligence have never been boosted.
 - **Living for the Applause** (archetype feat, 8th): See Defenses above.
 - **Big Debut** (archetype feat, 10th): Once per day, trigger before rolling initiative — Alben voluntarily goes last in the initiative order instead of rolling. Enemies who can see him must succeed at a Will save against his class DC or spell DC (whichever is higher) or become Stunned 1 (Stunned 2 on a critical failure). As his first action on his first turn, he can Interact to draw/stow a light-Bulk item as a free action; if it's a small garment or accessory (fan, gloves, wine glass, etc.), he gains a +1 circumstance bonus to Charisma-based skill checks until the end of his turn.
 
+#### Signature Moves — Big Debut
+
+Alben has three of these and rotates between them; which one he opens with is a read on the room, not a fixed routine. All three use the same numbers — **Will DC 29** (his spell DC, usable in place of class DC via Third Doctrine) — and all three lean on the same piece of the feat: **he goes last on purpose.** A barkeep's authority isn't exercised when the night starts. It's exercised when he decides the night is over.
+
+Each move also names the **light-Bulk accessory** he draws as his free Interact, which is what earns the +1 circumstance bonus to Charisma-based checks for that turn.
+
+**1. "Last Call"** — *barkeep's authority as a weapon.*
+He lets the entire round happen without him. Then he sets one boot on something solid — a table, a rail, a body — and calls last call the way he'd end any ordinary night: cheerfully, unhurried, and with absolute finality. The save isn't against fear. It's the involuntary flinch of every person in the room who has ever been told the night is over by a man that size.
+- **Accessory:** his keg holy symbol rung once against the cask head of his maul.
+- **Use it when:** the fight is already loud and going badly, and he needs the room to stop and look at him. This is his default when he's arriving *into* trouble rather than starting it.
+
+**2. "The Toast"** — *Cayden's own move.*
+Cup raised first to the god, then tilted to the enemy — a real toast, warmly meant, without a trace of irony in it. He wishes them well. He means it. They save against the dawning understanding that he is not remotely afraid of them and does not need to be. A direct descendant of the way he blesses a batch and toasts his god with the same cup in the Sanctum (see [distillerysanctum.md](church/distillerysanctum.md)).
+- **Accessory:** the cup itself, or the keg holy symbol raised in his off hand.
+- **Use it when:** the enemy is someone he'd genuinely rather not fight, or someone whose dignity he's about to take apart. This is the most Caydenite of the three and the one to reach for when the fight has a moral shape to it.
+
+**3. "Guaranteed Harsh"** — *the brand, as a delivery system.*
+He takes a long pull of his own Rambui. Holds it. Swallows. Exhales. The exhale is the threat. Anyone in the front rank saves against the fumes and everything the fumes imply about the man willing to drink that on purpose (see [rambui.md](rambui/rambui.md#the-brand-uncle-albens-rambui)).
+- **Accessory:** the bottle or flask he just drank from.
+- **Use it when:** the table needs a laugh, or the opposition has been taking themselves too seriously. Mechanically identical to the others; tonally the cheapest shot he owns, and he knows it.
+
+> **GM Note.** These are flavor variants on a single feat, not three separate abilities — Big Debut remains **once per day**, DC 29, Stunned 1 (Stunned 2 on a critical failure), and the accessory bonus is **+1 circumstance to Charisma-based skill checks until the end of that turn** regardless of which move is used. Pick the move at the table for tone; the numbers never change. Note also that the Gladiator Dedication temp HP (equal to level, with spectators) is already active before he acts, which is what lets him spend his opening beat on a performance instead of a defense.
+
 ### General Feats
 - **Toughness** (1st): Max HP increases by his level; recovery check DC reduced by 1.
 - **Thorough Search** (7th): see Skills above.
@@ -173,3 +196,6 @@ As recorded in the export: **none selected** (no additional language details giv
 - [inventory.md](inventory.md) — Weapons, armor, and full inventory/currency
 - [concept.md](concept.md) — Character concept and voice
 - [background.md](background.md) — Narrative background
+- [rambui.md](rambui/rambui.md) — The Rambui brand and brewing process behind the "Guaranteed Harsh" signature move
+- [distillerysanctum.md](church/distillerysanctum.md) — The shrine-and-still habit of toasting his god with the brewing cup, behind "The Toast"
+- [actionplans.md](plans/actionplans.md) — Combat playbooks; Big Debut's opening beat feeds the first-round sequence there
