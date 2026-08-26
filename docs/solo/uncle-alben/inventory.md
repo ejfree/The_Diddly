@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Inventory
-updated: 2026-08-01
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 ---
 
@@ -13,6 +13,24 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 | Weapon | Attack Bonus | Damage | Notes |
 |--------|-------------|--------|-------|
 | **+1 Striking Flaming Maul** | +20 (expert martial proficiency, +1 potency item bonus, Str +4) | 2d12+6 bludgeoning plus 1d6 fire (Striking + flaming rune, two-handed, 1.5× Str) | Two-handed, shove trait; martial hammer group; magical; held in two hands. Flavor: the maul's head is cast/carved in the shape of a squat brandy cask (complete with banding and a bunghole detail) rather than a plain hammer block — a nod to Alben's barkeep past, and it's the cask-shaped ends that ignite when the flaming rune triggers. |
+| **Tankard** (religious symbol) | +19 (expert simple proficiency, Str +4) | 1d6+4 bludgeoning (club stats, one-handed) | A plain tankard, not a real weapon — mundane, no runes, no bonuses. Doubles as his **religious symbol**. Useful mainly because it's one-handed. See below. |
+
+---
+
+### The Tankard
+
+A plain tankard. Cayden Cailean's religious symbol is a tankard (see [spells.md](spells.md)), so Alben's is the one he drinks out of — the same cup he offers you when he says *"let's have a drink"* (see [liquor.md](rambui/liquor.md#the-ritual-lets-have-a-drink)), and the one he raises in the Big Debut signature moves (see [character.md](character.md#signature-moves--big-debut)).
+
+Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it, use **club** stats — it isn't a real weapon and doesn't pretend to be.
+
+**What it's actually for.** The maul is **two-handed**, so wielding it leaves Alben no hand for anything else — no scroll, no potion, no raised symbol, and not the Wooden Shield he already owns. Any turn needing a free hand costs an extra Interact to regrip the maul before he can Strike again. Holding the tankard instead costs him almost all his damage but keeps a hand open:
+
+| Loadout | Turn that becomes possible |
+|---|---|
+| Tankard + free hand | Activate a scroll (1) + **Restorative Strike** (2) = 3 actions, **no regrip** (see [actionplans.md](plans/actionplans.md)) |
+| Tankard + Wooden Shield | Raise a Shield and still Strike — his shield is currently unusable alongside the maul |
+
+> **GM Note.** It's a religious symbol, which is a mundane item and needs no ruling. It is **not** a holy weapon and gets **no** favored-weapon benefits — Cayden's favored weapon is a rapier, so **Restorative Strike's +1 status bonus** and Third Doctrine's favored-weapon critical specialization do not apply here.
 
 ---
 

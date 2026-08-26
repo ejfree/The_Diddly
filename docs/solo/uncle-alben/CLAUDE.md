@@ -42,6 +42,11 @@ docs/solo/uncle-alben/
     rambui.md             — Alben's personal Rambui brewing process, crafting mechanics, mishap table, HFCS legend
     liquor.md             — 100-entry Tian Xia-themed hard liquor cabinet, drink-offering ritual, signature bottles
 
+  party/
+    party-member-1.md     — placeholder for notes on a fellow party member (unnamed)
+    party-member-2.md     — placeholder
+    party-member-3.md     — placeholder
+
   plans/
     actionplans.md        — combat playbooks (melee, spell attacks, reactions, counters, battle tactics)
     campactivities.md     — downtime/camp activity notes

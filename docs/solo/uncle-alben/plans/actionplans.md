@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Action Plans
-updated: 2026-08-01
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "pf2e", "action-plans", "combat"]
 ---
 
@@ -125,7 +125,9 @@ Alben's two signature melee-spell hybrids both consume a prepared **Harm** (or *
 ### Targeted Healing
 
 - **Heal** (1-action or 2-action touch/ranged version, Divine Font rank-6 slots ×5) — his primary single-target in-combat heal; use the Divine Font slots liberally since that's their only purpose.
-- **Restorative Strike** (class feat, 4th) — cast a 1-action *Harm* or *Heal* (loses manipulate) to heal himself, then Strike; on a hit, a second willing adjacent creature is healed the same amount. Excellent action-economy option: heal + attack + heal an ally in one sequence.
+- **Restorative Strike** (class feat, 4th) — **a single 2-action activity**, not two separate 1-action items. Feed it the 1-action version of *Harm* or *Heal* (which loses the manipulate trait) to heal himself, then Strike; on a hit, a second willing creature adjacent to the target is healed the same amount. Excellent action economy: heal + attack + heal an ally for 2 actions.
+  - **Hand economy is the trap.** The heal losing `manipulate` is precisely what lets it work while gripping a weapon — but the **maul is two-handed**, so any turn that also needs a free hand (scroll, potion, raised symbol) costs an extra Interact to regrip before he can Strike. Scroll + Restorative Strike with the maul is **4 actions**, not 3.
+  - **The fix:** hold his **tankard** instead — plain, mundane, one-handed (see [inventory.md](../inventory.md#the-tankard)). Scroll in the off hand → activate (1) + Restorative Strike (2) = **3 actions, no regrip**. Costs nearly all his damage (1d6+4 club stats vs. the maul's 2d12+6 plus fire) and grants no bonuses, so it's a free-hand loadout for utility turns, not a fighting choice.
 - **Breath of Life** — emergency single-target heal/revive (check current prepared status; historically available as an option — confirm it's still in the active Combat Loadout before relying on it, see [spells.md](../spells.md)).
 
 ### Mass Healing

@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Purchase List
-updated: 2026-08-01
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "pf2e", "inventory", "purchase-list"]
 ---
 

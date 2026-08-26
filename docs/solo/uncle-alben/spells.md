@@ -6,6 +6,8 @@ tags: ["solo", "uncle-alben", "pf2e", "spells"]
 
 # Uncle Alben — Spells
 
+https://foundryvtt.com/packages/spell-book
+
 ---
 
 ## Spellcasting
@@ -26,11 +28,11 @@ This is his standing daily prepared list on a stated combat day
 | Rank | Slots | Prepared |
 |------|-------|----------|
 | Cantrip | 5 | Guidance, Light, Message, Prestidigitation, Stabilize |
-| 1st | 3 | Bless, Command, Harm |
+| 1st | 3 | Bless, Command, Heal |
 | 2nd | 3 | Dancing Shield, Dispel Magic, Harm |
 | 3rd | 3 | Heroism, Roaring Applause, Whirling Scarves |
 | 4th | 3 | Unfettered Movement, Fly, Dispel Magic |
-| 5th | 3 | Spiritual Transport, Harm, Flame Strike |
+| 5th | 3 | Spiritual Transport, Heal, Flame Strike |
 | 6th | 2 | Blade Barrier, Dragon Form |
 
 ### Spell Notes
@@ -59,11 +61,11 @@ This is his standing daily prepared list on a downtime/non-combat day
 | Rank | Slots | Prepared |
 |------|-------|----------|
 | Cantrip | 5 | Guidance, Light, Message, Prestidigitation, Stabalize |
-| 1st | 3 | Command, Mending, Ventriloquism |
+| 1st | 3 | Command, Mending, Heal |
 | 2nd | 3 | Augury, Dispel Magic, Restoration |
 | 3rd | 3 | Far Reach, Locate, Show the Way (overland) / Ring of Truth (city) |
 | 4th | 3 | Unfettered Movement, Fly, Read Omens |
-| 5th | 3 | Marvelous Mount, Truespeech, Sending |
+| 5th | 3 | Marvelous Mount, Heal, Sending |
 | 6th | 2 | Dominate, Truesight |
 
 ### Spell Notes
