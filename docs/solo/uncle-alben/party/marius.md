@@ -1,12 +1,12 @@
 ---
-title: "Party Member 1 — TBD"
+title: "Marius"
 updated: 2026-08-21
-tags: ["solo", "uncle-alben", "party", "npc", "placeholder"]
+tags: ["solo", "uncle-alben", "party", "npc"]
 ---
 
-# Party Member 1 — *TBD*
+# Marius
 
-> **Placeholder.** Nothing here is filled in yet. Rename the file to a `kebab-case` slug once this character has a name, update the `title` and drop the `placeholder` tag. Fields marked **TBD** are prompts, not canon — delete any that don't apply rather than inventing an answer.
+> **Notes page for Marius.** The name is all that's established so far — everything below is still open. Fields marked **TBD** are prompts, not canon: fill them in as they come up at the table, and delete any that turn out not to apply rather than inventing an answer.
 
 ---
 
@@ -14,7 +14,7 @@ tags: ["solo", "uncle-alben", "party", "npc", "placeholder"]
 
 | Field | Value |
 |---|---|
-| **Name** | TBD |
+| **Name** | Marius |
 | **Pronouns** | TBD |
 | **Ancestry / Heritage** | TBD |
 | **Class / Role** | TBD |
@@ -88,4 +88,4 @@ Running log, newest at the bottom. Use `YYYY-MM-DD` dates.
 - [background.md](../background.md) — Alben's background, faith, and Solomon
 - [liquor.md](../rambui/liquor.md) — The Liquor Cabinet and the drink-offering ritual
 - [actionplans.md](../plans/actionplans.md) — Combat playbooks and party positioning
-- [party-member-2.md](party-member-2.md) · [party-member-3.md](party-member-3.md) — The other party placeholders
+- [Kuro](kuro.md) · [Scin](scin.md) — The other party members

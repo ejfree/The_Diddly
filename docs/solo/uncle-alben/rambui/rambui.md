@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Rambui
-updated: 2026-08-01
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 ---
 
@@ -12,7 +12,7 @@ tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 
 ## Where the Craft Comes From
 
-Alben didn't invent Rambui, but he did formalize it. He grew up watching his jungle-orc hold ferment rambutan by the barrelful with no fixed recipe — just instinct, argument, and whoever's batch made the elders wince hardest that year. It was during his years as a barkeep, hauling casks and keeping a professional bar's stock consistent night after night, that he started treating it like an actual process instead of a seasonal free-for-all: measured mash times, a repeatable "ruining" step, and batches he could reliably reproduce on the road once he traded the tap room for a maul.
+Alben didn't invent Rambui, but he did formalize it. He grew up watching his jungle-orc hold — in the wet highlands of **Atas Pulu**, in the Minata archipelago (see [background.md](../background.md#homeland-minata)) — ferment rambutan by the barrelful with no fixed recipe — just instinct, argument, and whoever's batch made the elders wince hardest that year. It was during his years as a barkeep, hauling casks and keeping a professional bar's stock consistent night after night, that he started treating it like an actual process instead of a seasonal free-for-all: measured mash times, a repeatable "ruining" step, and batches he could reliably reproduce on the road once he traded the tap room for a maul.
 
 He never wrote any of it down. It lives in his hands, his nose, and his **Lore: Alcohol** skill (Trained, +13) — the same skill that lets him talk shop with any bartender, distiller, or brewer he meets, and the one the ritual below runs on.
 
@@ -48,7 +48,7 @@ Nothing about a batch goes in the bin once the good part is drawn off. Alben, ch
 - **Activity:** Craft (downtime), using Lore: Alcohol in place of Crafting
 - **Time:** 4 days per batch (standard Craft activity timing)
 - **DC:** 14 (standard DC for a level-0 alchemical item), +2 if brewing away from a proper cellar/still (i.e., using field equipment or the Spacious Pouches' travel casks instead of a real distillery)
-- **Cost:** Negligible — rambutan fruit and basic cask materials are cheap and plentiful wherever jungle orc holds or comparable fruit markets exist; treat raw materials as effectively free for a single batch (GM may charge a token 1–2 gp for materials if Alben is somewhere rambutan doesn't grow)
+- **Cost:** Negligible — rambutan fruit and basic cask materials are cheap and plentiful across Minata, the Xa Hoi coast, and Dtang Ma, or anywhere with a comparable tropical fruit market; treat raw materials as effectively free for a single batch (GM may charge a token 1–2 gp for materials if Alben is somewhere rambutan doesn't grow)
 - **Batch size:** One Craft activity produces a working batch of roughly 10 doses (i.e., 10 individual Alcohol items per successful batch)
 
 ### Degrees of Success

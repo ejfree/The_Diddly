@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Background
-updated: 2026-08-01
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "background"]
 ---
 
@@ -18,6 +18,8 @@ Loud, warm, generous to a fault, and slightly drunk at all times — but never t
 
 He is an **orc**, specifically a **Rainfall Orc** — born in a rain forest, raised amid tangled trees and torrential storms, and adept at moving through jungle terrain and shrugging off the ailments common to humid environs. Before he ever picked up a maul in the name of his god, he worked as a **barkeep**: hefting barrels, polishing steins, holding his liquor, and rowdily socializing his way through a career defined by conversation as much as strength.
 
+That rain forest is in **Minata** — the great archipelago off the far southeastern edge of Tian Xia, the Wandering Isles, the most multicultural stretch of the continent. His hold sits inland on one of the larger isles of **Atas Pulu**, up where the rain comes down hard enough to drown a fire and the rivers run silty and warm all year. See [Homeland](#homeland-minata) below.
+
 ---
 
 ## Faith: Why an Orc Worships an Outsider God
@@ -31,6 +33,26 @@ Cayden Cailean — "The Accidental God" — is himself proof that divinity doesn
 Alben's edicts, by extension of his faith, are simple: **drink, aid the oppressed, seek glory and adventure.** His anathema is just as plainly stated: **don't waste alcohol, don't be mean or standoffish when drunk, and never oppress the vulnerable.** He follows all three without apparent effort — they're less commandments to him than just... who he already was.
 
 He carries his faith physically as well as spiritually: a tankard is Cayden Cailean's sacred symbol, and Alben's own holy symbol takes the shape of a brandy cask, swinging from his belt alongside his maul, the mallet head resembling a flaming cask.
+
+---
+
+## Homeland: Minata
+
+**Minata**, the Minata Archipelago, the Wandering Isles — a massive island chain off the far southeastern edge of Tian Xia, drawing on Malay and Filipino influences, home to the Tian-Sing, and the most multicultural region of the continent. Numerous small kingdoms claim pieces of it, some no larger than a single isle, and all of them trade hard with the mainland.
+
+**Alben's hold** is inland on one of the larger isles of **Atas Pulu**, in the wet highlands above the trade coast — a jungle-orc hold of the kind that doesn't appear on anybody's map of the archipelago's kingdoms, because it has never claimed to be one. Rambutan grows wild all through the valley below it. The river that runs past it is exactly the silty, mineral-heavy, jungle-warm water his brewing insists on (see [rambui.md](rambui/rambui.md#ingredients--preparation)) — he did not choose that water for its qualities, he simply never learned to want any other kind.
+
+**Why Minata and not the deep mainland jungle.** Three things about Alben only make sense in a place that trades:
+
+- **The fruit.** Rambutan is a Malay fruit, and Minata is Tian Xia's Malay-and-Filipino archipelago. He grew up in the one part of the continent where it falls off the trees by the barrelful.
+- **The bottle.** Rambui exists because *"some orc trader got hold of a bottle"* of a smooth foreign spirit called Drambuie (see below). In a trade-saturated archipelago that's a Tuesday. In a trackless interior jungle it's a miracle.
+- **The career.** A barkeep who ends up running a hundred-bottle cabinet sourced from every nation on the continent (see [liquor.md](rambui/liquor.md)) came from somewhere with ships in the harbor and eight languages on the dock.
+
+**Where he first poured for strangers.** Not at home. Alben crossed to the mainland young and took his first bar work in a port in **Xa Hoi** — the nearest mainland neighbor to the archipelago, a diverse and famously generous nation under the protection of a sovereign dragon. That's where hauling casks became a trade instead of a chore, and where he first started keeping stock consistent night after night, which is the habit that later turned Rambui from a seasonal free-for-all into an actual process (see [rambui.md](rambui/rambui.md)).
+
+His Rambui-collecting circuit still runs that same route in reverse: the Atas Pulu holds, the Xa Hoi ports, and inland to **Dtang Ma**, the jungle nation of dense canopy and hidden ruins whose own rough brews he rates highly and argues about constantly.
+
+> **GM Note — canon boundaries.** Minata, Atas Pulu, Xa Hoi, and Dtang Ma are published Tian Xia locations. **Alben's hold is not** — Tian Xia has essentially no documented orc presence (the Tian Xia Character Guide's orc-adjacent option is Hungerseed, which is oni-descended and unrelated). Placing him in Minata is deliberate on that count: the archipelago is canonically full of small unnamed peoples and single-isle kingdoms, so an undocumented jungle-orc hold in the highlands contradicts nothing. The hold itself is left unnamed on purpose — fill it in when it matters at the table.
 
 ---
 

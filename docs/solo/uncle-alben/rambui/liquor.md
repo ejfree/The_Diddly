@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — The Liquor Cabinet
-updated: 2026-08-01
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 ---
 
@@ -42,7 +42,7 @@ The question every visiting logistics-minded adventurer eventually asks: how doe
 
 ### The Kegs Are Real, Bought on Order
 
-Alben orders each regional spirit exactly as any importer would: standing arrangements with traders and regional distilleries across Tian Xia, paid for in coin (see [inventory.md](../inventory.md) for his running currency), each keg genuinely distilled where it claims to be from. A bottle of Kaoling gin in the Cabinet is real Kaoling gin, brewed by real Kaoling hands, ordered and paid for like any other trade good. There's no shortcut on the brewing or sourcing end — Alben isn't making any of it himself, the way he makes Rambui (see [rambui.md](rambui.md)). He's just buying it, the same as any well-connected barkeep would.
+Alben orders each regional spirit exactly as any importer would: standing arrangements with traders and regional distilleries across Tian Xia — a network he started building as a young barkeep on the Xa Hoi coast, working the same Minata trade routes he grew up beside (see [background.md](../background.md#homeland-minata)), paid for in coin (see [inventory.md](../inventory.md) for his running currency), each keg genuinely distilled where it claims to be from. A bottle of Kaoling gin in the Cabinet is real Kaoling gin, brewed by real Kaoling hands, ordered and paid for like any other trade good. There's no shortcut on the brewing or sourcing end — Alben isn't making any of it himself, the way he makes Rambui (see [rambui.md](rambui.md)). He's just buying it, the same as any well-connected barkeep would.
 
 ### The Magic Is in the Delivery, Not the Bottle
 
@@ -76,7 +76,7 @@ If the answer is yes (or anything that isn't a clear no), Alben pours **Rambui**
 
 ### 2. "Omakase" — Leave It to Alben
 
-If someone instead says **"Omakase"** ("I'll leave it up to you") — or otherwise declines to name a drink but wants something other than the usual — Alben reaches past the Rambui and pours from **the Cabinet** (see the regional lists below): a genuine surprise from his hundred-bottle collection across Tian Xia. This is the roll-driven option — use the [liquor-roll.js](liquor-roll.js) macro (cabinet branch) or roll a straight d100 against the Cabinet table to see what he pulls out. He will usually say a word or two about it as he pours — where it's from, what it tastes like, who gave it to him — because he can never resist.
+If someone instead says **"Omakase"** ("I'll leave it up to you") — or otherwise declines to name a drink but wants something other than the usual — Alben reaches past the Rambui and pours from **the Cabinet** (see the regional lists below): a genuine surprise from his hundred-bottle collection across Tian Xia. This is the roll-driven option — use the [liquor-roll.js](../assets/scripts/liquor-roll.js) macro (cabinet branch) or roll a straight d100 against the Cabinet table to see what he pulls out. He will usually say a word or two about it as he pours — where it's from, what it tastes like, who gave it to him — because he can never resist.
 
 ### 3. The Called Drink — Poured from the Flask of Fellowship
 

@@ -43,9 +43,9 @@ docs/solo/uncle-alben/
     liquor.md             — 100-entry Tian Xia-themed hard liquor cabinet, drink-offering ritual, signature bottles
 
   party/
-    party-member-1.md     — placeholder for notes on a fellow party member (unnamed)
-    party-member-2.md     — placeholder
-    party-member-3.md     — placeholder
+    kuro.md               — notes on party member Kuro (name only so far)
+    marius.md             — notes on party member Marius (name only so far)
+    scin.md               — notes on party member Scin (name only so far)
 
   plans/
     actionplans.md        — combat playbooks (melee, spell attacks, reactions, counters, battle tactics)
@@ -69,6 +69,7 @@ docs/solo/uncle-alben/
 - **Deity:** Cayden Cailean ("The Accidental God") — edicts: drink, aid the oppressed, seek glory and adventure.
 - **AC 30**, achieved via **Warpriest's Armor** (class feat) granting heavy armor training, worn with a **+1 Resilient Full Plate**.
 - **Signature weapon:** +1 Striking Flaming Maul, its head cast/carved to resemble a squat brandy cask (barrel banding, bunghole detail) rather than a plain hammer block.
+- **Homeland:** **Minata** — the archipelago off the far southeastern edge of **Tian Xia** (Malay/Filipino-influenced, most multicultural region of the continent). His jungle-orc hold is inland on one of the larger isles of **Atas Pulu**; he took his first barkeep work in a port in **Xa Hoi**, and his Rambui-collecting circuit runs Atas Pulu → Xa Hoi → **Dtang Ma**. Chosen because rambutan is a Malay fruit, a trading archipelago explains both the Drambuie bottle and his hundred-bottle Cabinet, and Tian Xia has no documented orc presence — so an unnamed highland hold among Minata's many single-isle peoples contradicts no canon. The hold is deliberately unnamed. See `background.md`.
 - **Rambui:** Alben's own rambutan brandy — a deliberate, proud exaggeration of every rough edge in a refined foreign spirit called "Drambuie." The best Rambui is judged purely on harshness (harsh → harsher is good; smooth/balanced is a failure). Brewed via a strip-mining-style harvest (deliberately mixing the most over-ripe and most under-ripe fruit, avoiding the "reasonable middle"), fermented with wild yeast, roughly distilled, and finished with a "Ruining" step. Every batch is QA-tested by Solomon before bottling. See `rambui.md` for full mechanics (Lore: Alcohol substitutes for Crafting) and the d20 Brewing Mishap & Flourish Table.
 - **HFCS:** An in-world legend/rumor Alben has chased for years — an impossibly sweet, mythical brewing ingredient he's never seen or sourced. Presented as an open GM hook, not a defined item (see `rambui.md`).
 - **Solomon:** Alben's mandarin duck companion (Pet general feat, minion trait). Wears a **Collar of Empathy** linking his emotional state to Alben's. Rides in a small ornate palanquin mounted on Alben's shoulder. Backstory: Solomon came from a dying regular at Alben's old bar (see `background.md`).
