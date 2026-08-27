@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Character Sheet
-updated: 2026-08-07
+updated: 2026-08-21
 tags: ["solo", "uncle-alben", "pf2e", "character-sheet"]
 ---
 
@@ -13,6 +13,8 @@ tags: ["solo", "uncle-alben", "pf2e", "character-sheet"]
 **Level:** 11
 **Gender:** He/Him
 **Age:** 36
+**Height:** 6 ft 9 in (2.06 m)
+**Weight:** 430 lb (195 kg)
 **Size:** Medium
 **Alignment/Key Ability:** Wisdom (key ability)
 

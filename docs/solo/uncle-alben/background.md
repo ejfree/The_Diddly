@@ -20,6 +20,17 @@ He is an **orc**, specifically a **Rainfall Orc** — born in a rain forest, rai
 
 That rain forest is in **Minata** — the great archipelago off the far southeastern edge of Tian Xia, the Wandering Isles, the most multicultural stretch of the continent. His hold sits inland on one of the larger isles of **Atas Pulu**, up where the rain comes down hard enough to drown a fire and the rivers run silty and warm all year. See [Homeland](#homeland-minata) below.
 
+### Build & Physicality
+
+**6 ft 9 in, 430 lb** (2.06 m, 195 kg). Tall even by orc standards — Player Core has orcs commonly topping seven feet, standing broad and bow-legged and slouching forward at the shoulders, which means Alben reads *wide* long before he reads *tall*. In a doorway he is simply the doorway.
+
+He is fat and he is enormously strong, and those are not in tension. The real-world comparison is a heavyweight sumo or a strongman competitor: **Str 19, Con 18**, Athletics Expert **+19**, **Titan Wrestler**, twenty years of hauling full barrels one-armed up cellar stairs, and a body built on a brewer's diet of his own product. He carries it the way those athletes do — thick through the chest and gut, tree-trunk legs, forearms like fenceposts, and a center of gravity that makes him nearly immovable. The sumo *dohyo* in the Big Church exists in part because shoving Alben out of a circle is one of the genuinely hard physical problems available to a mortal (see [bigchurch.md](church/bigchurch.md#sumo)).
+
+He moves well for it, too. Rainfall Orc reflexes and a childhood on wet jungle slopes mean he climbs and swims better than anyone his size has any business doing — the heritage's Climb and Swim bonuses are not decoration.
+
+> **GM Note — the modern framing.** By present-day human clinical standards, Alben's height and weight put him at a **BMI of about 46 — Class III ("morbid") obesity**. That is deliberate and correct for the character. It is also a *human* metric applied to an orc: orcs have thick bones and rock-hard muscle, so the ratio means something different on their frames, and an orc at "BMI 30" would read as an ordinary fit orc. Nobody in-world would frame his size as a medical condition. His hold prizes mass, his god's first edict is *drink*, and the orcs who raised him would look at 430 pounds of man who can still put a keg over his head and conclude he was doing life correctly. If a stranger tried to needle him about it, the joke is that Alben would not recognize it as an insult.
+
+
 ---
 
 ## Faith: Why an Orc Worships an Outsider God

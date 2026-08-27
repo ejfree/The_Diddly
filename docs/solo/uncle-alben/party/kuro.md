@@ -6,7 +6,7 @@ tags: ["solo", "uncle-alben", "party", "npc"]
 
 # Kuro
 
-> **Notes page for Kuro.** The name is all that's established so far — everything below is still open. Fields marked **TBD** are prompts, not canon: fill them in as they come up at the table, and delete any that turn out not to apply rather than inventing an answer.
+> **Notes page for Kuro.** Ninja. Popping out of shadows. Female. In tournament in the past. eliminated immediately. Full name Kuroichi Kaji. Fetchling, with an Efreet. 
 
 ---
 
