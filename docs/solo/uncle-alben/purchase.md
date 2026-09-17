@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Purchase List
-updated: 2026-08-21
+updated: 2026-09-16
 tags: ["solo", "uncle-alben", "pf2e", "inventory", "purchase-list"]
 ---
 
@@ -30,6 +30,27 @@ Sleeves of Storage
 | Scroll of Spiritual Transport | 5 | 9 | 150 gp | Backup copy of the already-prepared Combat Loadout spell (see [spells.md](spells.md)) for days it isn't prepared, or as a second casting in the same fight. |
 
 **Estimated total (priced items only):** 4,680 gp
+
+**Budget check (level-12 export):** he is carrying **≈ 2,011 gp** — roughly 43% of the list, and about fourteen times what he had at level 11. See the currency note in [inventory.md](inventory.md).
+
+---
+
+## Recently Acquired (not from this list)
+
+Between the level-11 and level-12 exports he bought **2,710 gp** of gear, none of which was on the wishlist above. Recorded here so the list doesn't get re-shopped:
+
+| Item | Level | Price | Now in |
+|------|-------|-------|--------|
+| Holy Prayer Beads (Greater) | 11 | 1,400 gp | [inventory.md](inventory.md) → Worn Magic Items |
+| Spacious Pouch (Type III) | 11 | 1,200 gp | [inventory.md](inventory.md) → Containers |
+| Aeon Stone (Pearly White Spindle) | 3 | 60 gp | [inventory.md](inventory.md) → Worn Magic Items |
+| Healer's Toolkit (Expanded) | 3 | 50 gp | [inventory.md](inventory.md) → Tools |
+
+> **⚙ ABP — do not put fundamental runes on this list.** The campaign uses **Automatic Bonus Progression**, so potency, striking, and resilient runes don't exist and can't be bought. Nothing currently on the wishlist is one, which is correct. **Property runes are the exception** — they still work, they no longer need a potency rune to sit in, and they're the *only* way to spend gold on his weapon. Given he's flush for the first time, a second property rune for the maul (alongside the existing flaming) is the most direct damage purchase available to him and isn't on this list yet.
+
+> **GM Note — one wishlist item is now partly redundant.** *Potion of Disguise (Greater)* and the escape-plan consumables still stand, but the **Holy Prayer Beads** grant a once-per-day 4th-rank *Cleanse Affliction* and *Heal* that overlap with some of the healing utility the scroll purchases were covering. Re-prioritise with the player before spending.
+>
+> **Still worth flagging:** the **Planar Key (Elysium)** remains the one entry that money can't solve — it's a quest item, not a purchase (see [planar.md](plans/planar.md)).
 
 ---
 

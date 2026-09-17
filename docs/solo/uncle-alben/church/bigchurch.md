@@ -57,7 +57,7 @@ The showpiece configuration, and Alben's personal favorite: a sand-floored circu
 
 ### Sumo
 
-A raised clay-and-sand circle (a *dohyo*, sized down to what the pit floor allows), no weapons, no armor beyond a simple belt — the objective is a shove or a fall, not a fight to the finish. The most good-natured of the pit's modes, and the one most likely to end in laughter rather than a wound. Popular with regulars who want to test their **Athletics** against Alben's own (Expert, +19 — see [character.md](../character.md)) without either of them reaching for a weapon; Alben's **Titan Wrestler** feat and Rainfall Orc bonuses to Athletics make him a genuine problem to shove out of the circle, and he knows it, and he loves it.
+A raised clay-and-sand circle (a *dohyo*, sized down to what the pit floor allows), no weapons, no armor beyond a simple belt — the objective is a shove or a fall, not a fight to the finish. The most good-natured of the pit's modes, and the one most likely to end in laughter rather than a wound. Popular with regulars who want to test their **Athletics** against Alben's own (Expert, +20 — see [character.md](../character.md)) without either of them reaching for a weapon; Alben's **Titan Wrestler** feat and Rainfall Orc bonuses to Athletics make him a genuine problem to shove out of the circle, and he knows it, and he loves it.
 
 ### Hazard Modes
 
