@@ -6,7 +6,7 @@ tags: ["solo", "uncle-alben", "party", "npc"]
 
 # Scin
 
-> **Notes page for Scin.** The name is all that's established so far — everything below is still open. Fields marked **TBD** are prompts, not canon: fill them in as they come up at the table, and delete any that turn out not to apply rather than inventing an answer.
+> **Notes page for Scin.** Scin Vanoris. From geb. He is a ratkin necromancer. Worked for a gravekeeper and learned necromancy. Pragmatic rat. Alchemist. 
 
 ---
 
