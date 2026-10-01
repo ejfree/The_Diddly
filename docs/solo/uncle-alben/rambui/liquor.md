@@ -76,7 +76,7 @@ If the answer is yes (or anything that isn't a clear no), Alben pours **Rambui**
 
 ### 2. "Omakase" — Leave It to Alben
 
-If someone instead says **"Omakase"** ("I'll leave it up to you") — or otherwise declines to name a drink but wants something other than the usual — Alben reaches past the Rambui and pours from **the Cabinet** (see the regional lists below): a genuine surprise from his hundred-bottle collection across Tian Xia. This is the roll-driven option — use the [liquor-roll.js](../assets/scripts/liquor-roll.js) macro (cabinet branch) or roll a straight d100 against the Cabinet table to see what he pulls out. He will usually say a word or two about it as he pours — where it's from, what it tastes like, who gave it to him — because he can never resist.
+If someone instead says **"Omakase"** ("I'll leave it up to you") — or otherwise declines to name a drink but wants something other than the usual — Half the time, Alben reaches past the Rambui and pours from **the Cabinet** (see the regional lists below): a genuine surprise from his hundred-bottle collection across Tian Xia. This is the roll-driven option — use the [liquor-roll.js](../assets/scripts/liquor-roll.js) macro (cabinet branch) or roll a straight d100 against the Cabinet table to see what he pulls out. He will usually say a word or two about it as he pours — where it's from, what it tastes like, who gave it to him. For the other half Alben serves Rambui.
 
 ### 3. The Called Drink — Poured from the Flask of Fellowship
 

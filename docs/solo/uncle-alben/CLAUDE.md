@@ -35,7 +35,7 @@ docs/solo/uncle-alben/
     distillerysanctum.md — Alben's first fixed distillery, his inner sanctum
     littlechurch.md       — the Little Church / Sippin' Club, his first public venue
     bigchurch.md          — the multistory Big Church the Little Church grows into
-    megachurch.md         — stub for a future 24/7 mega-venue expansion (not yet developed)
+    megachurch.md         — the Accidental Cathedral: the Big Church run 24/7 as a compound with a casino (Cask House) and hotel (the Bunks); staff, Keepers of the Promise, cost estimates
     first-aspirant.md     — Juna, the first Aspirant to join the Little Church
 
   rambui/

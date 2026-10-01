@@ -1,3 +1,9 @@
+Qualifiers Session 4 (Day 2 continued afternoon)
+Fought a few things
+
+
+
+
 Qualifiers Session 3 (day 2 Continued)
 MOnte Hall type game
 7 total feathers

@@ -230,6 +230,7 @@ Every floor of the Big Church exists because something in the Little Church outg
 ## Cross-References
 
 - [littlechurch.md](littlechurch.md) — The original, single-room Sippin' Club this building grew from, and the twelve-inch version of Solomon's Road
+- [megachurch.md](megachurch.md) — What this building becomes: the Tower of a 24-hour compound with a casino and hotel
 - [first-aspirant.md](first-aspirant.md) — Juna, the first Aspirant, who now runs Operations and the Ruining-adjacent apprenticeship on the 4th Floor, and who holds the only complete drawing of Solomon's Road
 - [distillerysanctum.md](distillerysanctum.md) — The original basement distillery, preserved at the heart of this building's larger operation, and the original Duck Run
 - [escapeplan.md](../plans/escapeplan.md) — Alben's own staged bail-out procedure; Solomon's Road is not part of it and never was
