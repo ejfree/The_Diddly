@@ -5,3 +5,5 @@ Specifically smuggling.
 what is his code.
 always appears as someone different with spells
 Should have several standard different disguises.
+changling
+more illusion mage

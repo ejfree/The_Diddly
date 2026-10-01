@@ -1,12 +1,12 @@
 ---
 title: Uncle Alben — Character Sheet
-updated: 2026-09-16
+updated: 2026-09-30
 tags: ["solo", "uncle-alben", "pf2e", "character-sheet"]
 ---
 
 # Uncle Alben
 
-> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` (current export, level 12). Prior export: `unclealben11v1.json` (level 11). See "GM Note — Changes from prior export" at the bottom of this file.
+> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX-2.json` (current export, level 12). **Nothing on this sheet changed from the previous level-12 export** (`fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json`); that export's differences were inventory-only, see [inventory.md](inventory.md). Level-11 export: `unclealben11v1.json`. See "GM Note — Changes from prior export" at the bottom of this file.
 >
 > **⚙ This campaign uses Automatic Bonus Progression.** Fundamental runes (potency, striking, resilient) don't exist; their equivalents are granted automatically by level. Property runes still work normally. Every derived number on this sheet already includes his ABP bonuses — see [Automatic Bonus Progression](#automatic-bonus-progression) below for the table and what's still unassigned.
 

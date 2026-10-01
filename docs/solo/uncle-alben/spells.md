@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Spells
-updated: 2026-09-16
+updated: 2026-09-30
 tags: ["solo", "uncle-alben", "pf2e", "spells"]
 ---
 
@@ -8,7 +8,7 @@ tags: ["solo", "uncle-alben", "pf2e", "spells"]
 
 https://foundryvtt.com/packages/spell-book
 
-> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` (current export, level 12).
+> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX-2.json` (current export, level 12). No spellcasting changes from the previous level-12 export: same known spells, same prepared slots.
 
 ---
 
@@ -41,7 +41,7 @@ This is his standing daily prepared list on a stated combat day. **This table no
 | 5th | 3 | **Marvelous Mount**, Flame Strike, **Harm** |
 | 6th | 2 | Blade Barrier, Dragon Form |
 
-> **GM Note — two corrections against the export.** Earlier revisions of this table listed **Heal** in a 1st-rank slot and **Spiritual Transport + Heal** in the 5th; neither matches the saved loadout, and **Spiritual Transport isn't on his known-spell list at all** (see Known Spells below — buying a scroll of it is still on [purchase.md](purchase.md)). The export prepares **Harm** in the 1st- and 5th-rank slots and **Marvelous Mount** heightened into the 5th. This makes his Harm count **three per day at three ranks** (1st, 2nd, 5th), which is what [actionplans.md](plans/actionplans.md) already assumes, and it means **all** of his standard-slot healing lives in the Divine Font. These slots are unchanged from the level-11 export — the loadout was not re-prepared on level-up.
+> **GM Note — two corrections against the export.** Earlier revisions of this table listed **Heal** in a 1st-rank slot and **Spiritual Transport + Heal** in the 5th; neither matches the saved loadout, and **Spiritual Transport isn't on his known-spell list at all** (see Known Spells below; he now carries a **Scroll of Spiritual Transport (Rank 5)**, see [inventory.md](inventory.md)). The export prepares **Harm** in the 1st- and 5th-rank slots and **Marvelous Mount** heightened into the 5th. This makes his Harm count **three per day at three ranks** (1st, 2nd, 5th), which is what [actionplans.md](plans/actionplans.md) already assumes, and it means **all** of his standard-slot healing lives in the Divine Font. These slots are unchanged from the level-11 export — the loadout was not re-prepared on level-up.
 
 ### Spell Notes
 - **Bless** — aura, concentrate, manipulate, mental
@@ -164,6 +164,6 @@ Cayden Cailean is one of the Ascended — mortals who reached godhood after conq
 
 - [character.md](character.md) — Full mechanical character sheet
 - [inventory.md](inventory.md) — Weapons, armor, and full inventory/currency
-- [escapeplan.md](plans/escapeplan.md) — Staged escape procedure using Spiritual Transport and other combat spells
+- [escapeplan.md](plans/escapeplan.md) — Staged escape procedure using Fly, Unfettered Movement, and the Spiritual Transport / Rewinding Step scrolls
 - [concept.md](concept.md) — Character concept and voice
 - [background.md](background.md) — Narrative background

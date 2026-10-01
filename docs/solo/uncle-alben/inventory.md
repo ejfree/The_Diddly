@@ -1,12 +1,12 @@
 ---
 title: Uncle Alben — Inventory
-updated: 2026-09-16
+updated: 2026-09-30
 tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 ---
 
 # Uncle Alben — Inventory
 
-> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` (current export, level 12). Prior export: `unclealben11v1.json`.
+> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX-2.json` (current export, level 12). Prior exports: `fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` (level 12), `unclealben11v1.json` (level 11).
 
 > ### ⚙ This game uses Automatic Bonus Progression
 >
@@ -86,9 +86,10 @@ Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it,
 | **Collar of Empathy** | 9 | 600 gp | Worn/**invested**, companion + invested + primal traits. Paired with a matching bracelet (worn by the companion's owner) — when both are worn and invested, wearer and companion can always sense each other's emotional states and basic physical wants/needs. Activate (1 action, concentrate): perceive through the companion's senses instead of your own (sustainable); you're unaware of your own surroundings while active. |
 | **Holy Prayer Beads (Greater)** ⭑ **new** | 11 | 1,400 gp | Held in one hand; divine, healing, vitality. Attunes to Cayden Cailean the first time he casts a divine spell while holding them, reshaping to carry the tankard iconography. **Whenever he casts a divine spell from his own slots while holding the beads, he recovers 1d4 HP** — and if the spell was a healing spell he can hand that 1d4 to one of its targets instead. **Activate (Cast a Spell):** 4th-rank *Bless*, *Divine Wrath*, *Heal*, or *Cleanse Affliction*, **each once per day**. |
 | **Aeon Stone (Pearly White Spindle)** ⭑ **new** | 3 | 60 gp | Worn/**invested**; uncommon, magical. Restores **1 HP per minute**, continuously, out of combat — effectively free between-encounter healing. Resonant power (if slotted into a wayfinder): **resistance 1 to void damage**. |
+| **Quick Runner's Shirt** ⭑ **new** | 5 | 150 gp | Worn/**invested**; uncommon, magical. **Activate (2 actions, envision), once per hour:** Stride twice with a **+10-foot item bonus** to Speed during those Strides. Reusable — his standing "get out of here" button (see [escapeplan.md](plans/escapeplan.md)). In Full Plate his Speed is 20 ft (25 base, −10 armor penalty reduced to −5 because he meets the Str +4 requirement), so each Stride is 30 ft: **60 ft total for 2 actions**, against 40 ft for two ordinary Strides. |
 | **Flask of Fellowship** | 2 | 25 gp | Activate: Make an Impression. Pours a drink perfectly suited to the target's tastes as part of the action; grants a +1 item bonus to the Diplomacy check. Purely social — doesn't intoxicate or quench serious thirst. GM may disallow if contextually inappropriate. |
 
-**Invested items:** 3 of 10 — Full Plate, Collar of Empathy, Aeon Stone. The Holy Prayer Beads are *held*, not invested, so they cost him a hand rather than an investiture slot.
+**Invested items:** 4 of 10 — Full Plate, Collar of Empathy, Aeon Stone, Quick Runner's Shirt. The Holy Prayer Beads are *held*, not invested, so they cost him a hand rather than an investiture slot.
 
 > **GM Note — the beads and the two-handed maul.** The Holy Prayer Beads are **held in one hand**, which collides head-on with the hand-economy problem documented under The Tankard below. Holding beads + maul is impossible; holding beads + tankard works and turns every divine spell he casts into a free 1d4. This makes the **tankard loadout meaningfully better than it was** — a utility turn now heals him passively — and it is the strongest argument yet for the tankard as his default grip outside of pure damage rounds. Worth revisiting [actionplans.md](plans/actionplans.md) with the player.
 
@@ -99,7 +100,7 @@ Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it,
 | Item | Level | Price | Capacity | Contents |
 |------|-------|-------|----------|----------|
 | **Spacious Pouch (Type I)** #1 | 4 | 75 gp | 25 Bulk | **The bar.** Small Flask Liquor (Random) ×100 and Rambui ×150 — nothing else. |
-| **Spacious Pouch (Type I)** #2 | 4 | 75 gp | 25 Bulk | **Everything else.** All scrolls, wands, potions, plus Emergency Rambui ×40 and Rambui — The Last Drop ×10. |
+| **Spacious Pouch (Type I)** #2 | 4 | 75 gp | 25 Bulk | **Everything else.** All scrolls, all wands, every potion except the two carried loose (Healing Potion (Moderate), Potion of Quickness), plus Emergency Rambui ×40 and Rambui — The Last Drop ×10. |
 | **Spacious Pouch (Type III)** ⭑ **new** | 11 | 1,200 gp | **100 Bulk** | **Currently empty.** Extradimensional, magical; held in two hands to use. Four times the capacity of either Type I. |
 
 All three are extradimensional and magical, functioning like a bag of holding — contents don't count toward carried Bulk. **Correction:** earlier revisions said the liquor was spread "across both Spacious Pouches"; the export has the bar cleanly separated into pouch #1, with the backup Rambui and the Last Drop filed with the scrolls in #2.
@@ -131,7 +132,7 @@ All four quantities are **unchanged from the prior export** — nothing was drun
 
 ### Scrolls, Wands, and Potions (stored in Spacious Pouch #2 unless noted)
 
-Every line below is **unchanged from the prior export** — no scroll was consumed or acquired between level 11 and 12.
+Items marked ⭑ **new** were bought between the two level-12 exports, all off the wishlist in [purchase.md](purchase.md). Nothing was consumed — every pre-existing line has the same quantity as before.
 
 | Item | Level | Price | Quantity |
 |------|-------|-------|----------|
@@ -169,10 +170,19 @@ Every line below is **unchanged from the prior export** — no scroll was consum
 | Scroll of Discern Lies (Rank 4) | 7 | 70 gp | 1 |
 | Scroll of Ghostly Tragedy (Rank 4) | 7 | 70 gp | 1 |
 | Scroll of Implement of Destruction (Rank 4) | 7 | 70 gp | 1 |
+| Scroll of Planar Tether (Rank 4) ⭑ **new** | 7 | 70 gp | 1 |
+| Scroll of Banishment (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
+| Scroll of Rewinding Step (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
+| Scroll of Speak with Stones (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
+| Scroll of Spiritual Transport (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
 | Wand of Heal (Rank 1) | 3 | 60 gp | 1 |
 | Wand of Pampered Pet | 4 | 75 gp | 1 |
+| Wand of Dispel Magic (Rank 2) ⭑ **new** | 5 | 160 gp | 1 |
+| Wand of Marvelous Mount (Rank 2) ⭑ **new** | 5 | 160 gp | 1 |
 | Invisibility Potion | 4 | 20 gp | 1 |
 | Potion of Disguise (Lesser) | 5 | 30 gp | 1 |
+| Potion of Disguise (Moderate) ⭑ **new** | 8 | 100 gp | 1 |
+| Potion of Quickness ⭑ **new** | 8 | 90 gp | 1 (carried loose, not in a pouch) |
 | Healing Potion (Moderate) | 6 | 50 gp | 1 (carried loose, not in a pouch) |
 
 **Note:** The Spacious Pouches double as the storage system behind the Cabinet's hundred-keg stock — kegs are purchased from real regional suppliers and delivered by magical courier, not conjured. See [liquor.md](rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs).
@@ -181,22 +191,49 @@ Every line below is **unchanged from the prior export** — no scroll was consum
 
 ## Currency
 
-| Denomination | Quantity | Prior export |
-|---------------|----------|--------------|
-| Platinum Pieces | 0 | 0 |
-| **Gold Pieces** | **1,986** | 135 |
-| **Silver Pieces** | **218** | 0 |
-| **Copper Pieces** | **329** | 0 |
+| Denomination | Quantity | Prior export (L12) | Level-11 export |
+|---------------|----------|--------------------|-----------------|
+| Platinum Pieces | 0 | 0 | 0 |
+| **Gold Pieces** | **746** | 1,986 | 135 |
+| Silver Pieces | 218 | 218 | 0 |
+| Copper Pieces | 329 | 329 | 0 |
 
-**Total on hand: ≈ 2,011 gp.**
+**Total on hand: ≈ 771 gp.**
 
-> **GM Note — a large unexplained windfall.** Gold went from 135 gp to 1,986 gp *and* he bought 2,710 gp of new gear in the same interval (Holy Prayer Beads 1,400 + Spacious Pouch III 1,200 + Aeon Stone 60 + Healer's Toolkit 50). That implies roughly **4,560 gp of income** since the level-11 export, plus the odd silver and copper. The Qualifiers are the obvious source (see [qualifiers.md](qualifiers.md) — "Monte Hall type game," 7 feathers, prize challenges), but nothing in this folder records the actual award. Worth writing down while it's still fresh; it's the largest single change in his finances on record.
+> **GM Note — the shopping trip is 90 gp short.** At list price the ten new items cost **1,330 gp**, but gold dropped by only **1,240 gp** (1,986 → 746), and silver and copper didn't move. The gap is exactly the price of the **Potion of Quickness** (90 gp), which is also the only new purchase that isn't filed in pouch #2 — it's carried loose. Likely explanations: the potion came from somewhere else (loot, a gift, a Qualifiers prize), or the ledger missed one purchase. Worth a one-line confirmation. It doesn't change anything mechanically.
+
+> **GM Note — a large unexplained windfall (level-11 → first level-12 export).** Gold went from 135 gp to 1,986 gp *and* he bought 2,710 gp of new gear in the same interval (Holy Prayer Beads 1,400 + Spacious Pouch III 1,200 + Aeon Stone 60 + Healer's Toolkit 50). That implies roughly **4,560 gp of income** since the level-11 export, plus the odd silver and copper. The Qualifiers are the obvious source (see [qualifiers.md](qualifiers.md) — "Monte Hall type game," 7 feathers, prize challenges), but nothing in this folder records the actual award. Worth writing down while it's still fresh; it's the largest single change in his finances on record.
 
 ---
 
 ## GM Note — Changes from prior export
 
-Diff of `fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` against `unclealben11v1.json`. Only these inventory lines moved:
+### `…QX-2.json` vs. `…QX.json` (both level 12)
+
+Only the inventory changed. Level, HP, ability scores, skill ranks, save and armor proficiencies, feats, known spells, and every prepared slot are identical, and so is every pre-existing item.
+
+**Acquired (10 items, 1,330 gp at list, 1,240 gp actually spent — see Currency):**
+
+| Item | Level | Price | Stored |
+|------|-------|-------|--------|
+| Wand of Dispel Magic (Rank 2) | 5 | 160 gp | Pouch #2 |
+| Wand of Marvelous Mount (Rank 2) | 5 | 160 gp | Pouch #2 |
+| Scroll of Planar Tether (Rank 4) | 7 | 70 gp | Pouch #2 |
+| Scroll of Banishment (Rank 5) | 9 | 150 gp | Pouch #2 |
+| Scroll of Rewinding Step (Rank 5) | 9 | 150 gp | Pouch #2 |
+| Scroll of Speak with Stones (Rank 5) | 9 | 150 gp | Pouch #2 |
+| Scroll of Spiritual Transport (Rank 5) | 9 | 150 gp | Pouch #2 |
+| Potion of Disguise (Moderate) | 8 | 100 gp | Pouch #2 |
+| Potion of Quickness | 8 | 90 gp | carried loose |
+| Quick Runner's Shirt | 5 | 150 gp | worn, invested |
+
+All ten came off [purchase.md](purchase.md), which has been trimmed to the three items still outstanding.
+
+**Still empty:** the Spacious Pouch (Type III). Everything new went into the already-crowded pouch #2.
+
+### `…QX.json` (level 12) vs. `unclealben11v1.json` (level 11)
+
+Only these inventory lines moved:
 
 **Acquired (4 items, 2,710 gp):**
 
@@ -211,7 +248,7 @@ Diff of `fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` against `unclealben11v1.j
 
 **Unchanged:** everything else. All 44 consumables at identical quantities, both Type I pouches and their contents, the Full Plate and its (ABP-suppressed) runes, the Wooden Shield, the Collar of Empathy, and the Flask of Fellowship.
 
-**Note on the purchase list:** none of the four new items were on [purchase.md](purchase.md), and nothing on that wishlist was bought. The wishlist is unaffected and still stands at ~4,680 gp — which he can now nearly afford outright.
+**Note on the purchase list:** none of these four items were on [purchase.md](purchase.md). The wishlist purchases came in the next export (above).
 
 ---
 
@@ -219,6 +256,7 @@ Diff of `fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` against `unclealben11v1.j
 
 - [character.md](character.md) — Full mechanical character sheet
 - [spells.md](spells.md) — Spellcasting stats, prepared combat loadout, and deity details
-- [escapeplan.md](plans/escapeplan.md) — Staged escape procedure using the Invisibility Potion and Potion of Disguise (Lesser) listed here
+- [escapeplan.md](plans/escapeplan.md) — Staged escape procedure using the Invisibility Potion, both Potions of Disguise, the Potion of Quickness, the Quick Runner's Shirt, and the Rewinding Step and Spiritual Transport scrolls listed here
+- [purchase.md](purchase.md) — What's still on the wishlist
 - [concept.md](concept.md) — Character concept and voice
 - [background.md](background.md) — Narrative background

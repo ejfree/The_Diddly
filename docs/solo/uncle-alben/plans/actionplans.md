@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Action Plans
-updated: 2026-09-16
+updated: 2026-09-30
 tags: ["solo", "uncle-alben", "pf2e", "action-plans", "combat"]
 ---
 
@@ -104,9 +104,14 @@ This is now the single biggest button on his sheet and it costs no spell slot. T
 ### Counter Energy
 
 - **Scroll of Resist Energy (Rank 2) ×2** (see [inventory.md](../inventory.md)) — cast for resistance against a specific energy type before or during a fight against known elemental threats.
-- **Scroll/prepared Dispel Magic** (2nd- and 4th-rank Combat Loadout slots) — counteract ongoing magical effects, including persistent energy-based spells or auras.
+- **Dispel Magic** — prepared at 2nd and 4th rank, plus the new **Wand of Dispel Magic (Rank 2)** (once per day, no slot) and a 2nd-rank scroll. Spend the wand first; keep the 4th-rank slot for effects the 2nd-rank casting can't counteract.
 - **Full Plate + ABP** — his **+1 item bonus to every saving throw** comes from **ABP Save Potency**, not from the armour's (suppressed) resilient rune, so it applies even out of armour and rises to **+2 at 14th**. Already baked into the Fort +21 / Ref +17 / Will +23 baseline above.
 - **Aeon Stone (Pearly White Spindle)** — resonant power grants **resistance 1 to void damage** when slotted into a wayfinder (he doesn't own one yet); worn on its own it still restores **1 HP/minute**, which quietly refills him between encounters.
+
+### Counter Outsiders & Teleporters (new scrolls)
+
+- **Scroll of Banishment (Rank 5)** — sends an extraplanar creature home on a failed Will save (DC 30). It has the incapacitation trait, so it's unreliable against anything above his level.
+- **Scroll of Planar Tether (Rank 4)** — pins a target to its current plane, which shuts down a fiend or caster trying to teleport or plane-shift away. Use it on the thing that's about to escape, not the thing that's winning.
 
 ### Counter Undead
 
