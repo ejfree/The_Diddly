@@ -1,10 +1,14 @@
 ---
 title: Uncle Alben — The Megachurch (The Accidental Cathedral)
-updated: 2026-09-30
+updated: 2026-10-14
 tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 ---
 
 # The Megachurch
+
+> **Planning Document — Not Part of the World.** Everything in this file is out-of-world planning material. The church, its staff, its rules, and its prices do not exist in the setting and are for planning purposes only.
+>
+> Alben calls Cayden Cailean **C²** (Alcohol² + Battle²), and the staff are his clergy, **C³** (Cayden Cailean Clergy). See [staff.md](staff.md#the-clerical-structure--c-cubed).
 
 > The round-the-clock evolution of [bigchurch.md](bigchurch.md): the same tower, never closed, joined by a casino, a hotel, and a hall long enough to hold ten Little Church bars end to end. Alben calls it "the house." Everyone else calls it **the Accidental Cathedral**, half for the god it was built to and half because nobody, Alben least of all, ever meant to build it. The Big Church was the first building he couldn't watch every corner of at once. This is the first one that's open more hours than he's awake.
 
@@ -12,7 +16,7 @@ tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 
 ## What This Place Is
 
-The Big Church closed. Not for long, and not every night, but there was always an hour near dawn when the last regular went home, the pit floor sat dark, and Alben poured himself one and sat with Solomon in a quiet building he owned. The Megachurch exists because that hour stopped being possible. The doors kept filling past it. Caravans arrived at three in the morning wanting the Cabinet. Fighters off the night docks wanted the pit at an hour when the day crowd was asleep. Every night the last hour got shorter, until one morning Juna pointed out that the place hadn't actually closed in eleven days and asked whether he wanted to start pretending it did, or start running it properly.
+The Big Church closed. Not for long, and not every night, but there was always an hour near dawn when the last regular went home, the pit floor sat dark, and Alben poured himself one and sat with Solomon in a quiet building he owned. The Megachurch exists because that hour stopped being possible. The doors kept filling past it. Caravans arrived at three in the morning wanting the Cabinet. Fighters off the night docks wanted the pit at an hour when the day crowd was asleep. Every night the last hour got shorter, until one morning the House pointed out that the place hadn't actually closed in eleven days and asked whether he wanted to start pretending it did, or start running it properly.
 
 He chose properly. That meant the building had to learn to run without him in it. In every iteration before this one, Alben was the room's constant: the Sanctum was his alone, the Little Church was his bar, and even in the Big Church he tended bar most nights and walked every floor. Here he tends one shift of three. For the other sixteen hours of every day the house runs on other people's hands, and the hardest part of building it was deciding which of his habits could be handed to someone else and which could not.
 
@@ -48,7 +52,7 @@ Shifts are called **Pours**, because Alben refused to call them anything a facto
 |---|---|---|---|
 | **Morning Pour** | Sunup to early afternoon | Breakfast, the Factory Tour, the Matinee Card, travellers checking out, the Bunks being turned over. The gentlest hours. | A Shift Warden |
 | **High Pour** | Early afternoon to late evening | The main event: the Main Card in the pit, the Cask House at full roar, the VIP Lounge lit. | **Alben**, behind the Long Bar |
-| **Long Pour** | Late evening to sunup | Night-dock crowds, caravan arrivals, the Long Card, the serious gamblers, and the people who don't want to be home. The hardest shift to run well. | A Shift Warden, with Juna on call |
+| **Long Pour** | Late evening to sunup | Night-dock crowds, caravan arrivals, the Long Card, the serious gamblers, and the people who don't want to be home. The hardest shift to run well. | A Shift Warden, with the House on call |
 
 Alben works High Pour. He works it at the **Long Bar**, which is a hundred and twenty feet of polished counter, and he only ever works **the first twelve feet of it**, the twelve feet nearest the door. That's the length of the bar in the Little Church (see [littlechurch.md](littlechurch.md#the-bar)), and he has never seen a reason to tend more bar than one man can reach. The other hundred and eight feet are staffed. The first twelve are his, and when he's away they go dark. Nobody else pours there. Nobody had to be told.
 
@@ -75,7 +79,7 @@ The Nightly Promise (see [littlechurch.md](littlechurch.md#the-nightly-promise))
 The pit's spellcasters are **Arbiters**: licensed independents who set their own prices and pay the house a 25% cut (see [bigchurch.md](bigchurch.md#spell-support--third-party-arbiters)). The Promise's are **Keepers**, and they're the opposite in every respect that matters to Alben.
 
 - **House staff, never contractors.** Keepers are paid by the house, at the house's rate, and they don't set prices. Nobody healed under the Promise is ever charged for it.
-- **Aspirants first.** Every Keeper was an Aspirant before they were a Keeper (see [first-aspirant.md](first-aspirant.md#her-role-today)). Most are clerics of Cayden Cailean who took their vows somewhere in the Church's own history. The rest are medics trained the long way, watching Alben work.
+- **C³ first.** Every Keeper was an Aspirant before they were a Keeper (see [first-aspirant.md](first-aspirant.md#her-role-today)). Most are clerics of Cayden Cailean who took their vows somewhere in the Church's own history. The rest are medics trained the long way, watching Alben work.
 - **Three per Pour, always.** One rides the pit rail. One walks the Cask House and the Long Hall. One sleeps lightly in a room on the Bunks' ground floor with the door propped open.
 - **They stabilize on sight and heal on the spot.** Nobody waits for sunup. "Past sunup" is the deadline, not the schedule.
 
@@ -83,9 +87,9 @@ The pit's spellcasters are **Arbiters**: licensed independents who set their own
 
 Every combatant, every brawler, and every guest who was hurt under the roof that day is written into the **Sunup Ledger** by name: who, what, which Keeper treated them, and the words *"whole, by sunup."* At the Sunup Toast, whoever holds the first twelve feet of the Long Bar reads the day's ledger before calling last call.
 
-When Alben is home, he reads it. When he's away, Juna reads it, and he reads every page he missed the morning he gets back, in order, standing at the bar, before he's taken his pack off. There has never been a line in it without those last three words. He checks anyway.
+When Alben is home, he reads it. When he's away, the House reads it, and he reads every page he missed the morning he gets back, in order, standing at the bar, before he's taken his pack off. There has never been a line in it without those last three words. He checks anyway.
 
-> **GM Note — Mechanics.** Keepers are a staff pool, not a stat block. A baseline Keeper is a **level 5–7 NPC cleric of Cayden Cailean** (healing font) or a **level 5–7 medic with expert Medicine** and the Treat Wounds feats the GM likes. That's enough to keep the pit's ordinary injuries at "a few rounds of pain and a story," the same standard the Little Church set. What three Keepers per Pour **can't** handle is anything the pit doesn't normally produce: a death effect, a curse, a disease, a creature the Arbiters' Approved List was never meant to admit. Those still go to Alben. If he's away, they go to whatever the GM decides the house has (a sending to wherever he is, a favour from another temple, a very long night for Juna). **That gap is the most dramatically useful thing in this file.** The Promise doesn't break when Alben leaves town. It just gets more expensive to keep.
+> **GM Note — Mechanics.** Keepers are a staff pool, not a stat block. A baseline Keeper is a **level 5–7 NPC cleric of Cayden Cailean** (healing font) or a **level 5–7 medic with expert Medicine** and the Treat Wounds feats the GM likes. That's enough to keep the pit's ordinary injuries at "a few rounds of pain and a story," the same standard the Little Church set. What three Keepers per Pour **can't** handle is anything the pit doesn't normally produce: a death effect, a curse, a disease, a creature the Arbiters' Approved List was never meant to admit. Those still go to Alben. If he's away, they go to whatever the GM decides the house has (a sending to wherever he is, a favour from another temple, a very long night for the House). **That gap is the most dramatically useful thing in this file.** The Promise doesn't break when Alben leaves town. It just gets more expensive to keep.
 
 ---
 
@@ -98,7 +102,7 @@ The Tower is the Big Church, floor for floor. Running it twenty-four hours chang
 - **The Pit — three cards a day.** The **Matinee** (Morning Pour) is sparring, Aspirant tests, and Sumo. The **Main Card** (High Pour) is the main event, and Alben's own bouts, Gladiatorial Arena nights, and anything he wants the building buzzing about are only ever on it. The **Long Card** (Long Pour) favours the hazard modes, especially **Low Light**, which the night crowd has made its own (see [bigchurch.md](bigchurch.md#hazard-modes)).
 - **2nd Floor — VIP Lounge.** Now opens onto the Skybridge. VIP guests can drink, watch the pit through the Clear Wall, cross to the Cask House's High Table, and never once touch the public floor.
 - **3rd Floor — Pit-View Seating.** Unchanged, apart from a second stair cut through for egress (see [The Doors That Don't Lock](#the-doors-that-dont-lock)).
-- **4th Floor — Operations.** Now runs all four structures. Juna calls it "the House," capital H, and has taken over most of the floor.
+- **4th Floor — Operations.** Now runs all four structures. The First Aspirant, now called "the House," capital H, runs it and has taken over most of the floor.
 - **Penthouse.** The one floor where twenty-four-hour running made something *quieter*. The penthouse got a second set of walls and a packed-earth sound break, so that Alben and Solomon can sleep through the Long Card. It's the most expensive renovation in the Tower and the only one done for Alben's own comfort, and he argued against it for a month.
 
 ---
@@ -138,7 +142,7 @@ Every game in the house is themed on something Alben already loved before he own
 A casino is the easiest building in the world to turn into something that preys on people, and Cayden's anathema is explicit: **never oppress the vulnerable.** The Cask House's rules exist to keep it on the right side of that line. They're posted at every table and enforced by the Pit Bosses.
 
 1. **No markers.** The house never extends credit. You play with what you walked in with, and nothing else.
-2. **The Rent Rule.** Anyone who says, out loud, that they're betting their rent gets their stake handed back with a drink and a bunk for the night. Juna wrote this one. She has never explained where the wording came from, and nobody has asked.
+2. **The Rent Rule.** Anyone who says, out loud, that they're betting their rent gets their stake handed back with a drink and a bunk for the night. The First Aspirant wrote this one. She has never explained where the wording came from, and nobody has asked.
 3. **Stage three, you're done.** Drinking is free at the tables. Wagering is not free of drinking: anyone who reaches **stage 3 of the alcohol affliction** (Clumsy 1, off-guard, Stupefied 2; see [liquor.md](../rambui/liquor.md#mechanics-shared-by-all-entries)) is cut off from wagering until they're back under it. They aren't cut off from drinking. This is a drinking establishment.
 4. **No magic on the floor.** Arbiters are licensed for the pit and nowhere else. A licensed Arbiter can't play or work the Cask House, and the Pit Bosses run *Detect Magic* sweeps at every shift change.
 5. **Cheats get the pit, not the alley.** A caught cheat is offered a bout against the on-shift Pit Boss on the next card, under the Promise like anyone else, instead of being thrown into the street. Most accept. The Pit Book takes bets on those bouts and the house books it as a fee.
@@ -165,7 +169,7 @@ Eighty rooms over four floors, joined to the Long Hall at the ground floor. Albe
 | **Room** | 32 | 15 gp | A private room for two, breakfast, and a bath on the floor. |
 | **Cask Room** | 8 | 40 gp | Suites on the top floor, each built around a cask-head fireplace, with breakfast brought up and a standing pour from the Cabinet. |
 
-**Nobody is turned away who can't pay for a bunk.** That's Juna's rule, carried over from the Little Church (see [first-aspirant.md](first-aspirant.md#faith)), and the front desk keeps five bunks back every night to honour it. On nights the five fill, the desk finds a sixth.
+**Nobody is turned away who can't pay for a bunk.** That's the First Aspirant's rule, carried over from the Little Church (see [first-aspirant.md](first-aspirant.md#faith)), and the front desk keeps five bunks back every night to honour it. On nights the five fill, the desk finds a sixth.
 
 **The Bunks is the one building without Solomon.** He didn't care for the Little Church's bunks, or for the people in them (see [littlechurch.md](littlechurch.md#solomons-road)), and nothing about eighty rooms of strangers has changed his mind. He has been carried into the lobby exactly once, and turned his head to the wall until he was carried out again. Solomon's Road has no leg in the Bunks, and doesn't need one: Rule 2 is about rooms Solomon sits in, and he will never sit in this one.
 
@@ -183,14 +187,18 @@ The saucer of water in the bakery's flour store is still there. The Bakery Leg o
 
 The Little Church had no staff. The Big Church had a few dozen, all of whom Alben knew by name. The Megachurch has close to three hundred, and he does not know all of their names, and it bothers him in the specific, low, permanent way the Big Church's unwatched corners always did.
 
+The staff are the clergy of **C²**, which makes them **C³** (Cayden Cailean Clergy). The house is organized as a church with two sacraments, the **Cup** (hard liquor) and the **Fist** (battle), plus the **Hearth** that keeps the doors open for both. Departments, ranks, and the Aspirant pipeline are laid out in [staff.md](staff.md#the-clerical-structure--c-cubed).
+
 ### Leadership
 
-- **Alben — the Host.** Still the face of the house, still behind the first twelve feet of the Long Bar every High Pour he's home, still the one who reads the Sunup Ledger. He doesn't run the house. He's what it's for.
-- **Juna — the House.** Runs Operations for all four structures, and for the first time in her life wears a title she didn't invent herself: the staff call her *the House*, as in "ask the House," as in "the House said no." She still runs the Ruining-adjacent apprenticeship, still holds the only complete drawing of Solomon's Road, and still tests every Aspirant in the Octagon before they're trusted with the Vault (see [first-aspirant.md](first-aspirant.md#her-role-today)).
-- **Shift Wardens (3).** One per Pour, each an Aspirant of long standing. The Wardens lead Morning and Long Pour outright, and run High Pour's floor while Alben runs its bar.
-- **Pit Bosses (3).** One per Pour, running the Cask House.
+- **Alben — the Host.** The head of C³ and its only ordained cleric. Still the face of the house, still behind the first twelve feet of the Long Bar every High Pour he's home, still the one who reads the Sunup Ledger. He doesn't run the house. He's what it's for.
+- **The First Aspirant — the House.** The prioress of C³. Runs Operations for all four structures, and for the first time in her life wears a title she didn't invent herself: the staff call her *the House*, as in "ask the House," as in "the House said no." She still runs the Ruining-adjacent apprenticeship, still holds the only complete drawing of Solomon's Road, and still tests every Aspirant in the Octagon before they're trusted with the Vault (see [first-aspirant.md](first-aspirant.md#her-role-today)).
+- **Shift Wardens (3).** One per Pour, each an Aspirant (novice of C³) of long standing, presiding over their Pour like a vicar. The Wardens lead Morning and Long Pour outright, and run High Pour's floor while Alben runs its bar.
+- **Pit Bosses (3).** One per Pour, running the Cask House. In C³ they are called **Marshals** of the Fist.
 
 ### Headcount & Payroll
+
+The table below is the whole of C³ plus support staff, grouped by Order in [staff.md](staff.md#megachurch-headcount).
 
 Wages use the PF2e rates for hirelings (**untrained 1 sp/day, trained 5 sp/day**). Roles above trained use the house rates noted, which are assumptions for this file to tune.
 
@@ -221,7 +229,7 @@ Wages use the PF2e rates for hirelings (**untrained 1 sp/day, trained 5 sp/day**
 
 ## Solomon's Road — The Long Road
 
-The road runs on. Basement to penthouse in the Tower, unchanged, plus a new leg the length of the Skybridge's underside and three new landings in the Cask House. Juna calls the whole thing **the Long Road**. Alben still calls it Solomon's Road, and so does the plank at the top of the Tower, which has said "SOLOMON'S RD." since the day she burned it there (see [littlechurch.md](littlechurch.md#solomons-road)).
+The road runs on. Basement to penthouse in the Tower, unchanged, plus a new leg the length of the Skybridge's underside and three new landings in the Cask House. The House calls the whole thing **the Long Road**. Alben still calls it Solomon's Road, and so does the plank at the top of the Tower, which has said "SOLOMON'S RD." since the day she burned it there (see [littlechurch.md](littlechurch.md#solomons-road)).
 
 The spec is the Big Church's, unchanged: eighteen inches wide by twenty tall, a cleated grade a duck can walk, never fewer than two ways off any landing, and nothing on it that stops Solomon leaving (see [bigchurch.md](bigchurch.md#the-standard)). The three rules from the first hole in the Sanctum wall still hold (see [distillerysanctum.md](distillerysanctum.md#the-duck-run)).
 
@@ -238,21 +246,21 @@ The spec is the Big Church's, unchanged: eighteen inches wide by twenty tall, a 
 
 ### Closing the Gap
 
-The Big Church's wards had a known weakness: *Alarm*, renewed three times a day, left a window of up to eight hours on any landing, and the renewal schedule was written down on the 4th Floor (see the GM Note under [The Last Landing](bigchurch.md#the-last-landing)). In a building that never closes there's no quiet hour to hide a renewal in, so Juna redesigned the rotation.
+The Big Church's wards had a known weakness: *Alarm*, renewed three times a day, left a window of up to eight hours on any landing, and the renewal schedule was written down on the 4th Floor (see the GM Note under [The Last Landing](bigchurch.md#the-last-landing)). In a building that never closes there's no quiet hour to hide a renewal in, so the House redesigned the rotation.
 
 - **Renewal every six hours, staggered.** Each landing's *Alarm* and *Illusory Object* are recast every six hours by Arbiters on offset rotations, so a fresh *Alarm* always lands before the old one runs out. There is no longer a gap on any landing.
-- **No written schedule.** An Arbiter learns their next ward walk from Juna at the start of their shift, in person, and not before. The Operations Office no longer holds the rotation in writing, and the Big Church's ward book was burned in the Long Hall kitchen stove the day the new rotation went live.
+- **No written schedule.** An Arbiter learns their next ward walk from the House at the start of their shift, in person, and not before. The Operations Office no longer holds the rotation in writing, and the Big Church's ward book was burned in the Long Hall kitchen stove the day the new rotation went live.
 - ***Sanctified Ground*** is still renewed every morning on the two landings that matter most, the top and bottom of the road: the Last Landing in the penthouse and the basement hatch beside the Original Still.
 
-**The new weakness** is the Arbiters themselves. A road warded every six hours across ten landings needs far more ward walks than the Big Church ever did, which means more licensed independents than ever before have walked it, and every one of them now knows it exists. Juna tracks exactly who. That list is in her head, not on paper.
+**The new weakness** is the Arbiters themselves. A road warded every six hours across ten landings needs far more ward walks than the Big Church ever did, which means more licensed independents than ever before have walked it, and every one of them now knows it exists. The House tracks exactly who. That list is in her head, not on paper.
 
 ### When They're Away
 
 Solomon rides on Alben's shoulder and hasn't willingly left it since the night they met (see [background.md](../background.md#how-they-met)). When Alben travels, Solomon travels. That means that for weeks at a time, the most carefully protected structure in the compound guards a route nobody is using.
 
-The wards are renewed anyway, every six hours, on Alben's standing instruction. The water dish in the Last Landing is refilled every morning. The everburning shards stay lit. Juna has never questioned the expense. When a new Arbiter asked her once why the house was paying to ward an empty road, she told them it was for when he comes home, and gave them the next walk.
+The wards are renewed anyway, every six hours, on Alben's standing instruction. The water dish in the Last Landing is refilled every morning. The everburning shards stay lit. The House has never questioned the expense. When a new Arbiter asked her once why the house was paying to ward an empty road, she told them it was for when he comes home, and gave them the next walk.
 
-> **GM Note — Mechanics.** The Big Church's DCs still apply to the Tower's landings (see [bigchurch.md](bigchurch.md#the-last-landing)). The Cask House hatches are **Perception DC 25** to spot through the *Illusory Object* facing; the High Table hatch is under a perch everyone stares at, which makes it the hardest to see (**DC 28**). The Gutter Leg grate is **Thievery DC 30** from outside with the *Lock* active, and opens automatically from inside. **The eight-hour gap is gone.** The road's exploitable weakness is now *people*: the roster of Arbiters who have walked it, which exists only in Juna's memory. A party, or an antagonist, who wants to get into Solomon's Road now has to get to an Arbiter, or to Juna. That's a better session than a stolen ward book ever was. **The Collar of Empathy's range** is left to the GM: the folder establishes that it ignores walls and floors (see [background.md](../background.md#the-collar-of-empathy)), but not whether it reaches across a city. Since Solomon is almost always on Alben's shoulder, this only matters if they're ever separated, and if they are, it should matter a great deal.
+> **GM Note — Mechanics.** The Big Church's DCs still apply to the Tower's landings (see [bigchurch.md](bigchurch.md#the-last-landing)). The Cask House hatches are **Perception DC 25** to spot through the *Illusory Object* facing; the High Table hatch is under a perch everyone stares at, which makes it the hardest to see (**DC 28**). The Gutter Leg grate is **Thievery DC 30** from outside with the *Lock* active, and opens automatically from inside. **The eight-hour gap is gone.** The road's exploitable weakness is now *people*: the roster of Arbiters who have walked it, which exists only in the House's memory. A party, or an antagonist, who wants to get into Solomon's Road now has to get to an Arbiter, or to the House. That's a better session than a stolen ward book ever was. **The Collar of Empathy's range** is left to the GM: the folder establishes that it ignores walls and floors (see [background.md](../background.md#the-collar-of-empathy)), but not whether it reaches across a city. Since Solomon is almost always on Alben's shoulder, this only matters if they're ever separated, and if they are, it should matter a great deal.
 
 ---
 
@@ -268,7 +276,7 @@ He did it himself, the morning after the eleventh night, with a pry bar, and had
 - Every interior door that has a lock (hotel rooms, the Cage, the Ruining Vault, the Operations Office) locks **from the outside only** and opens **from the inside, always, without a key.** Hotel guests can lock strangers out. Nobody can be locked in.
 - Every floor of every structure has at least two ways out. The Tower got a second stair cut through to make that true. It was the most disruptive work of the whole build.
 
-These are Solomon's rules. All three were laid down at a ten-inch hole in a cellar wall, for a duck, by a man who had once watched someone die in a room with nobody in it who knew what to do (see [background.md](../background.md#how-they-met)). The Megachurch is the first building where Alben applied them to people. He has never said so. Juna noticed, and said nothing either.
+These are Solomon's rules. All three were laid down at a ten-inch hole in a cellar wall, for a duck, by a man who had once watched someone die in a room with nobody in it who knew what to do (see [background.md](../background.md#how-they-met)). The Megachurch is the first building where Alben applied them to people. He has never said so. The House noticed, and said nothing either.
 
 The **Little Church's front door**, the only one he kept, hangs open on the wall of the Long Hall, opposite the first twelve feet of the bar, on a hinge that no longer turns.
 
@@ -313,7 +321,7 @@ Pathfinder 2e has no construction rules, so the figures below are a **GM ballpar
 | Bunks consumables | Linen, laundry, firewood for the Cask Rooms | 50 |
 | Maintenance | Pit machinery, the Clear Wall, the Skybridge, ordinary repairs | 90 |
 | City levy & gaming license | *(assumption; set by the town)* | 150 |
-| **The Open Hand** | **10% of gross**, Alben's standing tithe to "aid the oppressed": the free bunks, comped drinks, and whatever Juna decides the town needs that week | 203 |
+| **The Open Hand** | **10% of gross**, Alben's standing tithe to "aid the oppressed": the free bunks, comped drinks, and whatever the House decides the town needs that week | 203 |
 | **Total costs** | | **≈ 1,277** |
 
 **Revenue per day:**
@@ -345,7 +353,7 @@ Alben owns the Tower outright. He did not have 134,000 gp, and never will by bar
 
 - **The financier.** Who they are, what they want, and which House Rule they'd most like gone.
 - **The Long Pour.** The shift Alben never works. Whatever happens in the building between late evening and dawn, he hears about at sunup, from a ledger.
-- **The Arbiter roster.** Every licensed independent who has ever walked Solomon's Road, held only in Juna's memory.
+- **The Arbiter roster.** Every licensed independent who has ever walked Solomon's Road, held only in the House's memory.
 - **A line without "whole, by sunup."** The first one, ever.
 - **Three Casks.** Someone who always switches, and never loses.
 - **The empty road.** Something that knows Alben and Solomon are away, and that the wards are guarding nothing.
@@ -357,7 +365,7 @@ Alben owns the Tower outright. He did not have 134,000 gp, and never will by bar
 
 The Sanctum was a room only Alben could use. The Little Church was a room he could see all of at once. The Big Church was a building he could walk the whole of in a night. The Megachurch is the first place that doesn't fit inside him, or inside one shift, or inside one pair of hands, and every part of it was built around that fact.
 
-So he gave almost everything away. The pit went to the Arbiters. The house went to Juna. The tables went to the Pit Bosses and the healing to the Keepers. What he kept is small enough to fit behind a bar: the first twelve feet of it, the Ruining, the reading of a ledger at sunup, and one cheerful last call in a building that never closes. Everything else in the Accidental Cathedral is there to make sure those few things never have to change.
+So he gave almost everything away. The pit went to the Arbiters. The house went to the First Aspirant. The tables went to the Pit Bosses and the healing to the Keepers. What he kept is small enough to fit behind a bar: the first twelve feet of it, the Ruining, the reading of a ledger at sunup, and one cheerful last call in a building that never closes. Everything else in the Accidental Cathedral is there to make sure those few things never have to change.
 
 Underneath all of it, the rules haven't moved since he chiselled them into a cellar wall for a duck. Every door opens from the inside. There are always two ways out. Nothing keeps anyone in. It took him four buildings to notice that they were never really rules about Solomon.
 
@@ -368,7 +376,8 @@ Underneath all of it, the rules haven't moved since he chiselled them into a cel
 - [bigchurch.md](bigchurch.md) — The Big Church, which the Megachurch keeps intact as the Tower; source of the Arbiters, the pit's modes, and the original Warded Galleries
 - [littlechurch.md](littlechurch.md) — The Little Church, origin of the twelve-foot bar, the 10 gp bunks, the bakery arrangement, the Nightly Promise, and the front door now hanging in the Long Hall
 - [distillerysanctum.md](distillerysanctum.md) — The original Sanctum and the Duck Run, where Solomon's three rules were laid down
-- [first-aspirant.md](first-aspirant.md) — Juna, now *the House*, who wrote the Rent Rule, closed the ward gap, and holds the road's only drawing and its only roster
+- [staff.md](staff.md) — Summary of staff requirements by stage, including the Aspirant posts
+- [first-aspirant.md](first-aspirant.md) — The First Aspirant, now *the House*, who wrote the Rent Rule, closed the ward gap, and holds the road's only drawing and its only roster
 - [rambui.md](../rambui/rambui.md) — The Ruining, which Alben still does alone, and the brand sold in the Store
 - [liquor.md](../rambui/liquor.md) — The Liquor Cabinet behind the Omakase Wheel, the alcohol affliction behind the stage-three rule, and the courier restocking
 - [liquor-roll.js](../assets/scripts/liquor-roll.js) — The Cabinet roller, usable as the Omakase Wheel

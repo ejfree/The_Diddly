@@ -1,10 +1,14 @@
 ---
 title: Uncle Alben — The Distillery Sanctum
-updated: 2026-08-07
+updated: 2026-10-14
 tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 ---
 
 # The Distillery Sanctum
+
+> **Planning Document — Not Part of the World.** Everything in this file is out-of-world planning material. The church, its staff, its rules, and its prices do not exist in the setting and are for planning purposes only.
+>
+> Alben calls Cayden Cailean **C²** (Alcohol² + Battle²), and the staff are his clergy, **C³** (Cayden Cailean Clergy). See [staff.md](staff.md#the-clerical-structure--c-cubed).
 
 > Alben's first true, fixed distillation setup — the place where Rambui stopped being something he brewed out of a travel cask on the road and became something he could *make properly*, on his own ground, on his own schedule. This is his inner sanctum: half shrine, half still, entirely personal. It later becomes the basement/back office of [littlechurch.md](littlechurch.md), and later still the much larger basement distillery beneath [bigchurch.md](bigchurch.md).
 
@@ -36,7 +40,7 @@ A dedicated workbench holding jars of charred stave shavings and ground rambutan
 
 ### The Shrine Nook
 
-Tucked into a corner opposite the still: a small shrine to **Cayden Cailean**, little more than a shelf, a tankard-shaped icon, and a scorched brandy cask serving as an altar. Alben prays here the same way he brews — informally, out loud, mid-task, more conversation than ceremony. He's been known to bless a batch and toast his god in the same breath, using the same cup.
+Tucked into a corner opposite the still: a small shrine to **Cayden Cailean**, whom Alben calls **C²** (Alcohol² and Battle², in his own words), little more than a shelf, a tankard-shaped icon, and a scorched brandy cask serving as an altar. Alben prays here the same way he brews — informally, out loud, mid-task, more conversation than ceremony. He's been known to bless a batch and toast his god in the same breath, using the same cup.
 
 ### Solomon's Perch
 
