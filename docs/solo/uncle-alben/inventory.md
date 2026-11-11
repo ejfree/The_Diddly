@@ -1,12 +1,12 @@
 ---
 title: Uncle Alben — Inventory
-updated: 2026-09-30
+updated: 2026-10-28
 tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 ---
 
 # Uncle Alben — Inventory
 
-> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX-2.json` (current export, level 12). Prior exports: `fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` (level 12), `unclealben11v1.json` (level 11).
+> **Source:** reconciled against `assets/foundryvttjson/fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX-3.json` (current export, **level 13**). Prior exports: `…QX-2.json` (level 12), `…QX.json` (level 12), `unclealben11v1.json` (level 11).
 
 > ### ⚙ This game uses Automatic Bonus Progression
 >
@@ -14,18 +14,18 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 >
 > This explains the export cleanly: the maul reads `potency: 0, striking: 0, property: ["flaming"]` because that is **exactly correct** under ABP. It was not a data glitch. (An earlier revision of this file flagged it as one — that note was wrong and has been removed.)
 >
-> **What Alben gets at level 12:**
+> **What Alben gets at level 13:**
 >
-> | ABP benefit | Value at 12 | Gained at | Next upgrade |
+> | ABP benefit | Value at 13 | Gained at | Next upgrade |
 > |---|---|---|---|
 > | Attack Potency | **+2** item bonus to weapon/unarmed attack rolls | L10 | +3 at L16 |
-> | Devastating Attacks | **3 weapon damage dice** | **L12 — brand new this level** | 4 dice at L18 |
+> | Devastating Attacks | **3 weapon damage dice** | L12 | 4 dice at L18 |
 > | Defense Potency | **+2** item bonus to AC | L11 | +3 at L17 |
 > | Save Potency | **+1** item bonus to all saves | L8 | +2 at L14 |
-> | Perception Potency | **+1** item bonus to Perception | L7 | +2 at L13 |
-> | Skill Potency | +1 to one skill, +1 to a second, **+2** to one of them | L3 / L6 / L9 | +1 to a third at L13 |
+> | Perception Potency | **+2** item bonus to Perception | L7, +2 at **L13 (new)** | +3 at L19 |
+> | Skill Potency | +1 to one skill, +1 to a second, **+2** to one of them, **+1 to a third** | L3 / L6 / L9 / **L13 (new)** | — |
 >
-> **Devastating Attacks going from 2 dice to 3 is the single biggest thing that happened to Alben at this level** — a bigger swing than any of his three new feats. His maul went from 2d12+6 to 3d12+6.
+> At 13th the weapon side added **Weapon Specialization** (+2 damage with weapons he's expert in), so the maul is now 3d12+8 and the tankard 3d6+6.
 >
 > **Skill Potency is unassigned** — see the skills table in [character.md](character.md).
 
@@ -33,14 +33,14 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 
 | Weapon | Attack Bonus | Damage | Notes |
 |--------|-------------|--------|-------|
-| **Flaming Maul** | **+22** (expert martial +16, Str +4, **ABP Attack Potency +2**) | **3d12+6** bludgeoning plus **1d6 fire** (3 dice from ABP Devastating Attacks; two-handed, 1.5× Str; flaming property rune) | Two-handed, shove trait; martial hammer group; magical. **No potency or striking rune — correct under ABP.** The flaming rune is the only rune on it, and the only kind of rune worth buying for it. |
-| **Tankard** (religious symbol) | **+22** (expert simple +16, Str +4, **ABP Attack Potency +2**) | **3d6+4** bludgeoning (club stats, one-handed) | A plain tankard, not a real weapon — no runes, no magic. Doubles as his **religious symbol**. See below. |
+| **Greater Flaming Maul** | **+23** (expert martial +17, Str +4, **ABP Attack Potency +2**) | **3d12+8** bludgeoning (3 dice from ABP Devastating Attacks; two-handed, 1.5× Str; **+2 Weapon Specialization**) plus fire from the **greater flaming** property rune | Two-handed, shove trait; martial hammer group; magical. **No potency or striking rune — correct under ABP.** The flaming rune was **upgraded to greater flaming** since the level-12 export. Check the rune's current text for its exact fire and persistent damage, which isn't recorded in this file. |
+| **Tankard** (religious symbol) | **+23** (expert simple +17, Str +4, **ABP Attack Potency +2**) | **3d6+6** bludgeoning (club stats, one-handed; includes **+2 Weapon Specialization**) | A plain tankard, not a real weapon — no runes, no magic. Doubles as his **religious symbol**. See below. |
 
-> **GM Note — ABP quietly rehabilitated the tankard.** Under standard runes, swapping the maul for the tankard cost him his potency bonus, his striking rune, *and* his weapon die — the old sheet put it at +19 for 1d6+4 against the maul's +20 for 2d12+6 plus fire, which made it a joke weapon. Under ABP, **attack potency and devastating attacks follow the character, not the weapon**: the tankard hits at the *same* +22 and rolls 3d6+4. It's now roughly half the maul's damage rather than a fifth of it, at no penalty to hit. Every "free hand" turn in [actionplans.md](plans/actionplans.md) got substantially cheaper, and combined with the new Holy Prayer Beads (below) the tankard loadout is now a real tactical option rather than a last resort.
+> **GM Note — ABP quietly rehabilitated the tankard.** Under standard runes, swapping the maul for the tankard cost him his potency bonus, his striking rune, *and* his weapon die — the old sheet put it at +19 for 1d6+4 against the maul's +20 for 2d12+6 plus fire, which made it a joke weapon. Under ABP, **attack potency and devastating attacks follow the character, not the weapon**: the tankard hits at the *same* +23 and rolls 3d6+6. It's now roughly half the maul's damage rather than a fifth of it, at no penalty to hit. Every "free hand" turn in [actionplans.md](plans/actionplans.md) got substantially cheaper, and combined with the new Holy Prayer Beads (below) the tankard loadout is now a real tactical option rather than a last resort.
 
 **Flavor (unchanged):** the maul's head is cast/carved in the shape of a squat brandy cask — complete with banding and a bunghole detail — rather than a plain hammer block. A nod to Alben's barkeep past, and it's the cask-shaped ends that ignite when the flaming rune triggers.
 
-> **GM Note — no rapier.** Alben still owns no rapier, which is Cayden Cailean's favored weapon. That leaves three separate abilities inert: **Restorative Strike's** +1 status bonus, **Third Doctrine's** favored-weapon critical specialization, and — new at 12th — **Replenishment of War's** temp HP. See [character.md](character.md).
+> **GM Note — no rapier.** Alben still owns no rapier, which is Cayden Cailean's favored weapon. That leaves three separate abilities inert: **Restorative Strike's** +1 status bonus, **Third Doctrine's** favored-weapon critical specialization, and **Replenishment of War's** temp HP. See [character.md](character.md).
 
 ---
 
@@ -48,28 +48,28 @@ tags: ["solo", "uncle-alben", "pf2e", "inventory"]
 
 A plain tankard. Cayden Cailean's religious symbol is a tankard (see [spells.md](spells.md)), so Alben's is the one he drinks out of — the same cup he offers you when he says *"let's have a drink"* (see [liquor.md](rambui/liquor.md#the-ritual-lets-have-a-drink)), and the one he raises in the Big Debut signature moves (see [character.md](character.md#signature-moves--big-debut)).
 
-Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it, use **club** stats — it isn't a real weapon and doesn't pretend to be. It does, however, benefit from ABP like anything else he swings: **+22 to hit, 3d6+4**.
+Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it, use **club** stats — it isn't a real weapon and doesn't pretend to be. It does, however, benefit from ABP like anything else he swings: **+23 to hit, 3d6+6**.
 
-**What it's actually for.** The maul is **two-handed**, so wielding it leaves Alben no hand for anything else — no scroll, no potion, no raised symbol, and not the Wooden Shield he already owns. Any turn needing a free hand costs an extra Interact to regrip the maul before he can Strike again. Holding the tankard instead costs him about half his damage — but nothing at all on the attack roll — and keeps a hand open:
+**What it's actually for.** The maul is **two-handed**, so wielding it leaves Alben no hand for anything else — no scroll, no potion, and no raised symbol. (He no longer owns a shield; see Armor below.) Any turn needing a free hand costs an extra Interact to regrip the maul before he can Strike again. Holding the tankard instead costs him about half his damage — but nothing at all on the attack roll — and keeps a hand open:
 
 | Loadout | Turn that becomes possible |
 |---|---|
 | Tankard + free hand | Activate a scroll (1) + **Restorative Strike** (2) = 3 actions, **no regrip** (see [actionplans.md](plans/actionplans.md)) |
-| Tankard + Wooden Shield | Raise a Shield and still Strike — his shield is currently unusable alongside the maul |
 | Tankard + **Holy Prayer Beads** ⭑ **new** | Every divine spell he casts heals him **1d4**, or heals one target of a healing spell instead. Also unlocks the beads' once-per-day 4th-rank *Bless*, *Divine Wrath*, *Heal*, or *Cleanse Affliction*. The beads are held-in-one-hand, so this is a tankard-only loadout. |
 
-**Cost of the swap, level 12:** maul 3d12+6 plus 1d6 fire (avg ≈ 29) → tankard 3d6+4 (avg ≈ 14.5). Both at **+22**. Roughly half his damage for a free hand, a raised shield, or a 1d4 heal on every spell — a real decision now, where it used to be an obvious no.
+**Cost of the swap, level 13:** maul 3d12+8 plus the greater flaming rune's fire → tankard 3d6+6 (avg ≈ 16.5). Both at **+23**. Less than half his damage once the fire is counted, for a free hand or a 1d4 heal on every spell, which is a real decision now.
 
 > **GM Note.** It's a religious symbol, which is a mundane item and needs no ruling. It is **not** a holy weapon and gets **no** favored-weapon benefits — Cayden's favored weapon is a rapier, so **Restorative Strike's +1 status bonus** and Third Doctrine's favored-weapon critical specialization do not apply here.
 
 ---
 
-## Armor & Shield
+## Armor
 
 | Item | AC Bonus | Notes |
 |------|----------|-------|
-| **Full Plate** | **+6 item AC** (the armour's own bonus only) | Heavy armor, plate group; Str requirement 4, Dex cap +0, Check Penalty −3, Speed Penalty −10 ft; worn and invested. His **+2 to AC comes from ABP Defense Potency**, not from the armour. |
-| **Wooden Shield** | +2 AC (raised) | Hardness 3, HP 12, BT 6; standard wooden shield, no reinforcing rune. Worn, not held — see the Tankard section on why he can't use it with the maul. |
+| **Full Plate** | **+6 item AC** (the armour's own bonus only) | Heavy armor, plate group; Str requirement 4, Dex cap +0, Check Penalty −3, Speed Penalty −10 ft; worn and invested. His **+2 to AC comes from ABP Defense Potency**, not from the armour. **New property rune: Size Changing** (a property slot; ABP Defense Potency +2 allows two). |
+
+> **GM Note — the Wooden Shield is gone.** It was on the level-12 sheet and isn't in the level-13 export. Nothing in the folder records why (sold, lost, or just dropped). **Shield Block** (a General feat granted by First Doctrine) is now inert without a shield, and the **Dancing Shield** spell is the closest replacement. See [actionplans.md](plans/actionplans.md).
 
 > **GM Note — the plate's runes are dead weight under ABP.** The export still records `potency: 1, resilient: 1` on the Full Plate, left over from before ABP was adopted. Under ABP **both are suppressed and contribute nothing** — his AC bonus comes from **Defense Potency +2** (L11) and his save bonus from **Save Potency +1** (L8). Note that ABP is currently *better* than the runes on both counts, so nothing is being lost; the entries are just stale. Two loose ends for the table:
 > - **Clean them off the Foundry item** so the sheet stops implying a bonus it isn't granting. The maul was already cleaned this way; the plate was missed.
@@ -87,9 +87,10 @@ Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it,
 | **Holy Prayer Beads (Greater)** ⭑ **new** | 11 | 1,400 gp | Held in one hand; divine, healing, vitality. Attunes to Cayden Cailean the first time he casts a divine spell while holding them, reshaping to carry the tankard iconography. **Whenever he casts a divine spell from his own slots while holding the beads, he recovers 1d4 HP** — and if the spell was a healing spell he can hand that 1d4 to one of its targets instead. **Activate (Cast a Spell):** 4th-rank *Bless*, *Divine Wrath*, *Heal*, or *Cleanse Affliction*, **each once per day**. |
 | **Aeon Stone (Pearly White Spindle)** ⭑ **new** | 3 | 60 gp | Worn/**invested**; uncommon, magical. Restores **1 HP per minute**, continuously, out of combat — effectively free between-encounter healing. Resonant power (if slotted into a wayfinder): **resistance 1 to void damage**. |
 | **Quick Runner's Shirt** ⭑ **new** | 5 | 150 gp | Worn/**invested**; uncommon, magical. **Activate (2 actions, envision), once per hour:** Stride twice with a **+10-foot item bonus** to Speed during those Strides. Reusable — his standing "get out of here" button (see [escapeplan.md](plans/escapeplan.md)). In Full Plate his Speed is 20 ft (25 base, −10 armor penalty reduced to −5 because he meets the Str +4 requirement), so each Stride is 30 ft: **60 ft total for 2 actions**, against 40 ft for two ordinary Strides. |
+| **Decanter of Endless Water** ⭑ **new** | 7 | 320 gp | Worn (0.1 Bulk). Not invested. Command-word activations: pulling the stopper out makes fresh water, rotating it as you pull makes salt water; "stream", "fountain", and "geyser" change how it pours. Pours until plugged. Useful behind a bar, and for putting out fires. |
 | **Flask of Fellowship** | 2 | 25 gp | Activate: Make an Impression. Pours a drink perfectly suited to the target's tastes as part of the action; grants a +1 item bonus to the Diplomacy check. Purely social — doesn't intoxicate or quench serious thirst. GM may disallow if contextually inappropriate. |
 
-**Invested items:** 4 of 10 — Full Plate, Collar of Empathy, Aeon Stone, Quick Runner's Shirt. The Holy Prayer Beads are *held*, not invested, so they cost him a hand rather than an investiture slot.
+**Invested items:** 6 of 10 — Full Plate, Collar of Empathy, Aeon Stone, Quick Runner's Shirt, **Retrieval Belt (Greater)**, **Sleeves of Storage (Greater)**. The Holy Prayer Beads are *held*, not invested, so they cost him a hand rather than an investiture slot.
 
 > **GM Note — the beads and the two-handed maul.** The Holy Prayer Beads are **held in one hand**, which collides head-on with the hand-economy problem documented under The Tankard below. Holding beads + maul is impossible; holding beads + tankard works and turns every divine spell he casts into a free 1d4. This makes the **tankard loadout meaningfully better than it was** — a utility turn now heals him passively — and it is the strongest argument yet for the tankard as his default grip outside of pure damage rounds. Worth revisiting [actionplans.md](plans/actionplans.md) with the player.
 
@@ -101,11 +102,15 @@ Mundane. No runes, no magic, no bonuses of any kind. If he hits someone with it,
 |------|-------|-------|----------|----------|
 | **Spacious Pouch (Type I)** #1 | 4 | 75 gp | 25 Bulk | **The bar.** Small Flask Liquor (Random) ×100 and Rambui ×150 — nothing else. |
 | **Spacious Pouch (Type I)** #2 | 4 | 75 gp | 25 Bulk | **Everything else.** All scrolls, all wands, every potion except the two carried loose (Healing Potion (Moderate), Potion of Quickness), plus Emergency Rambui ×40 and Rambui — The Last Drop ×10. |
-| **Spacious Pouch (Type III)** ⭑ **new** | 11 | 1,200 gp | **100 Bulk** | **Currently empty.** Extradimensional, magical; held in two hands to use. Four times the capacity of either Type I. |
+| **Spacious Pouch (Type III)** | 11 | 1,200 gp | **100 Bulk** | **Currently empty.** Extradimensional, magical; held in two hands to use. Four times the capacity of either Type I. |
+| **Sleeves of Storage (Greater)** ⭑ **new** | 9 | 600 gp | **2 × 20 Bulk** (no item over 1 Bulk) | Worn and **invested**. Currently empty. Each sleeve acts as a Spacious Pouch (Type I); an item goes in or out with one free hand and a single Interact. |
+| **Retrieval Belt (Greater)** ⭑ **new** | 9 | 600 gp | **3 items, 1 Bulk or less each** | Worn and **invested**. Holds the **Scroll of Spiritual Transport (Rank 5)**, moved here from pouch #2. Only the wearer can store or retrieve items, and anyone holding it can sense what's inside. |
 
-All three are extradimensional and magical, functioning like a bag of holding — contents don't count toward carried Bulk. **Correction:** earlier revisions said the liquor was spread "across both Spacious Pouches"; the export has the bar cleanly separated into pouch #1, with the backup Rambui and the Last Drop filed with the scrolls in #2.
+All five are extradimensional and magical, functioning like a bag of holding — contents don't count toward carried Bulk. **Correction:** earlier revisions said the liquor was spread "across both Spacious Pouches"; the export has the bar cleanly separated into pouch #1, with the backup Rambui and the Last Drop filed with the scrolls in #2.
 
-> **GM Note — what is the Type III for?** It's brand new, cost 1,200 gp, and holds nothing. 100 Bulk is far more than his scroll library needs, which points at a logistics purpose rather than an adventuring one — moving kegs, stock, or Church fittings (see [littlechurch.md](church/littlechurch.md) and [bigchurch.md](church/bigchurch.md), and the courier arrangement in [liquor.md](rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs)). Ask the player what he bought it to carry; it's a large, deliberate purchase with an obvious in-fiction hook attached.
+> **GM Note — what are the Type III and the Sleeves for?** The Sleeves of Storage add another 40 Bulk, also empty, so he now carries 140 Bulk of empty storage on top of the two Type I pouches. The Retrieval Belt is a combat tool, since drawing from it is quicker than reaching into a pouch.
+>
+> **What is the Type III for?** It's brand new, cost 1,200 gp, and holds nothing. 100 Bulk is far more than his scroll library needs, which points at a logistics purpose rather than an adventuring one — moving kegs, stock, or Church fittings (see [littlechurch.md](church/plans/littlechurch.md) and [bigchurch.md](church/plans/bigchurch.md), and the courier arrangement in [liquor.md](rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs)). Ask the player what he bought it to carry; it's a large, deliberate purchase with an obvious in-fiction hook attached.
 
 ---
 
@@ -113,7 +118,7 @@ All three are extradimensional and magical, functioning like a bag of holding �
 
 | Item | Level | Price | Notes |
 |------|-------|-------|-------|
-| **Healer's Toolkit (Expanded)** ⭑ **new** | 3 | 50 gp | 1 Bulk, **worn**. Required for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds, and grants a **+1 item bonus** to all of them — so Treat Wounds at **+19**. Because it's worn rather than stowed, he draws and replaces the tools as part of the action that uses them, costing no extra Interact. **ABP caveat:** Skill Potency is also an *item* bonus, so if Medicine ends up being one of his Skill Potency picks the two **do not stack** — take the higher. At a +2 Skill Potency the toolkit's bonus would be entirely redundant, though he'd still need to carry it, since Treat Wounds requires the kit regardless. |
+| **Healer's Toolkit (Expanded)** ⭑ **new** | 3 | 50 gp | 1 Bulk, **worn**. Required for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds, and grants a **+1 item bonus** to all of them — so Treat Wounds at **+20**. Because it's worn rather than stowed, he draws and replaces the tools as part of the action that uses them, costing no extra Interact. **ABP caveat:** Skill Potency is also an *item* bonus, so if Medicine ends up being one of his Skill Potency picks the two **do not stack** — take the higher. At a +2 Skill Potency the toolkit's bonus would be entirely redundant, though he'd still need to carry it, since Treat Wounds requires the kit regardless. |
 
 ---
 
@@ -132,7 +137,7 @@ All four quantities are **unchanged from the prior export** — nothing was drun
 
 ### Scrolls, Wands, and Potions (stored in Spacious Pouch #2 unless noted)
 
-Items marked ⭑ **new** were bought between the two level-12 exports, all off the wishlist in [purchase.md](purchase.md). Nothing was consumed — every pre-existing line has the same quantity as before.
+Items marked ⭑ **new** appeared between the level-12 and level-13 exports. Two lines are **gone**: the **Potion of Quickness** and the **Scroll of Lock (Rank 1)**, presumably used. Every other line has the same quantity as before.
 
 | Item | Level | Price | Quantity |
 |------|-------|-------|----------|
@@ -145,7 +150,6 @@ Items marked ⭑ **new** were bought between the two level-12 exports, all off t
 | Scroll of Heal (Rank 1) | 1 | 4 gp | 2 |
 | Scroll of Bless (Rank 1) | 1 | 4 gp | 1 |
 | Scroll of Command (Rank 1) | 1 | 4 gp | 2 |
-| Scroll of Lock (Rank 1) | 1 | 4 gp | 1 |
 | Scroll of Water Breathing (Rank 2) | 3 | 12 gp | 1 |
 | Scroll of Resist Energy (Rank 2) | 3 | 12 gp | 2 |
 | Scroll of Darkness (Rank 2) | 3 | 12 gp | 1 |
@@ -174,15 +178,17 @@ Items marked ⭑ **new** were bought between the two level-12 exports, all off t
 | Scroll of Banishment (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
 | Scroll of Rewinding Step (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
 | Scroll of Speak with Stones (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
-| Scroll of Spiritual Transport (Rank 5) ⭑ **new** | 9 | 150 gp | 1 |
+| Scroll of Spiritual Transport (Rank 5) | 9 | 150 gp | 1 (**in the Retrieval Belt**, not pouch #2) |
 | Wand of Heal (Rank 1) | 3 | 60 gp | 1 |
 | Wand of Pampered Pet | 4 | 75 gp | 1 |
 | Wand of Dispel Magic (Rank 2) ⭑ **new** | 5 | 160 gp | 1 |
-| Wand of Marvelous Mount (Rank 2) ⭑ **new** | 5 | 160 gp | 1 |
+| Wand of Marvelous Mount (Rank 2) | 5 | 160 gp | 1 |
+| Wand of Haste (Rank 3) ⭑ **new** | 7 | 360 gp | 1 |
+| Wand of Invisibility (Rank 2) ⭑ **new** | 5 | 160 gp | 1 |
+| Wand of Tailwind (Rank 2) ⭑ **new** | 5 | 160 gp | 1 |
 | Invisibility Potion | 4 | 20 gp | 1 |
 | Potion of Disguise (Lesser) | 5 | 30 gp | 1 |
 | Potion of Disguise (Moderate) ⭑ **new** | 8 | 100 gp | 1 |
-| Potion of Quickness ⭑ **new** | 8 | 90 gp | 1 (carried loose, not in a pouch) |
 | Healing Potion (Moderate) | 6 | 50 gp | 1 (carried loose, not in a pouch) |
 
 **Note:** The Spacious Pouches double as the storage system behind the Cabinet's hundred-keg stock — kegs are purchased from real regional suppliers and delivered by magical courier, not conjured. See [liquor.md](rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs).
@@ -191,14 +197,16 @@ Items marked ⭑ **new** were bought between the two level-12 exports, all off t
 
 ## Currency
 
-| Denomination | Quantity | Prior export (L12) | Level-11 export |
+| Denomination | Quantity | Prior export (L12, `…QX-2`) | First L12 export |
 |---------------|----------|--------------------|-----------------|
 | Platinum Pieces | 0 | 0 | 0 |
-| **Gold Pieces** | **746** | 1,986 | 135 |
+| **Gold Pieces** | **3,706** | 746 | 1,986 |
 | Silver Pieces | 218 | 218 | 0 |
 | Copper Pieces | 329 | 329 | 0 |
 
-**Total on hand: ≈ 771 gp.**
+**Total on hand: ≈ 3,731 gp.**
+
+> **GM Note — another large gold increase (level 12 → 13).** Gold rose by **2,960 gp** (746 → 3,706) *and* he acquired **2,200 gp** of new gear at list: Retrieval Belt 600, Sleeves of Storage 600, Decanter of Endless Water 320, Wand of Haste 360, Wand of Invisibility 160, Wand of Tailwind 160. That implies roughly **5,160 gp of income** since the last export, if every purchase was at list. Nothing in this folder records the source. The Greater Flaming and Size Changing runes are also unaccounted for, since nothing records buying them, so the real total may be higher.
 
 > **GM Note — the shopping trip is 90 gp short.** At list price the ten new items cost **1,330 gp**, but gold dropped by only **1,240 gp** (1,986 → 746), and silver and copper didn't move. The gap is exactly the price of the **Potion of Quickness** (90 gp), which is also the only new purchase that isn't filed in pouch #2 — it's carried loose. Likely explanations: the potion came from somewhere else (loot, a gift, a Qualifiers prize), or the ledger missed one purchase. Worth a one-line confirmation. It doesn't change anything mechanically.
 
@@ -207,6 +215,31 @@ Items marked ⭑ **new** were bought between the two level-12 exports, all off t
 ---
 
 ## GM Note — Changes from prior export
+
+### `…QX-3.json` (level 13) vs. `…QX-2.json` (level 12)
+
+**Acquired (6 items, 2,200 gp at list):**
+
+| Item | Level | Price | Stored |
+|------|-------|-------|--------|
+| Retrieval Belt (Greater) | 9 | 600 gp | worn, invested |
+| Sleeves of Storage (Greater) | 9 | 600 gp | worn, invested |
+| Decanter of Endless Water | 7 | 320 gp | worn |
+| Wand of Haste (Rank 3) | 7 | 360 gp | Pouch #2 |
+| Wand of Invisibility (Rank 2) | 5 | 160 gp | Pouch #2 |
+| Wand of Tailwind (Rank 2) | 5 | 160 gp | Pouch #2 |
+
+**Gone:** Wooden Shield, Potion of Quickness, Scroll of Lock (Rank 1).
+
+**Moved:** Scroll of Spiritual Transport (Rank 5) from pouch #2 to the Retrieval Belt.
+
+**Upgraded:** Maul rune **flaming → greater flaming**. Full Plate gained a **Size Changing** property rune.
+
+**Changed:** gold 746 → 3,706 (silver and copper unchanged).
+
+**Unchanged:** both Type I pouches and their contents (apart from the items above), the Type III pouch (still empty), Collar of Empathy, Flask of Fellowship, Holy Prayer Beads, Aeon Stone, Quick Runner's Shirt, Healer's Toolkit, and all four alcohol lines at the same quantities.
+
+---
 
 ### `…QX-2.json` vs. `…QX.json` (both level 12)
 

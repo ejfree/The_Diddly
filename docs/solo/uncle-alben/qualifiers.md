@@ -1,3 +1,13 @@
+
+Goka Sponsors
+
+Malachai Dow - Business Leader & Teachr of mystic arts - she
+Lord Aldenar unmar - Alchemy Mogul & Potion maker - he
+Lady Xhai Zhia - Fine Arts patron & collectot - her
+Lady Mei - noble - her
+general Casohido - Merc Leader - he
+
+
 Qualifiers Session 4 (Day 2 continued afternoon)
 Fought a few things
 

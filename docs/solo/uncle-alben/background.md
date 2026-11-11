@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Background
-updated: 2026-08-21
+updated: 2026-10-28
 tags: ["solo", "uncle-alben", "background"]
 ---
 
@@ -24,7 +24,7 @@ That rain forest is in **Minata** — the great archipelago off the far southeas
 
 **6 ft 9 in, 430 lb** (2.06 m, 195 kg). Tall even by orc standards — Player Core has orcs commonly topping seven feet, standing broad and bow-legged and slouching forward at the shoulders, which means Alben reads *wide* long before he reads *tall*. In a doorway he is simply the doorway.
 
-He is fat and he is enormously strong, and those are not in tension. The real-world comparison is a heavyweight sumo or a strongman competitor: **Str 19, Con 18**, Athletics Expert **+20**, **Titan Wrestler**, twenty years of hauling full barrels one-armed up cellar stairs, and a body built on a brewer's diet of his own product. He carries it the way those athletes do — thick through the chest and gut, tree-trunk legs, forearms like fenceposts, and a center of gravity that makes him nearly immovable. The sumo *dohyo* in the Big Church exists in part because shoving Alben out of a circle is one of the genuinely hard physical problems available to a mortal (see [bigchurch.md](church/bigchurch.md#sumo)).
+He is fat and he is enormously strong, and those are not in tension. The real-world comparison is a heavyweight sumo or a strongman competitor: **Str 19, Con 18**, Athletics Expert **+21**, **Titan Wrestler**, twenty years of hauling full barrels one-armed up cellar stairs, and a body built on a brewer's diet of his own product. He carries it the way those athletes do — thick through the chest and gut, tree-trunk legs, forearms like fenceposts, and a center of gravity that makes him nearly immovable. The sumo *dohyo* in the Big Church exists in part because shoving Alben out of a circle is one of the genuinely hard physical problems available to a mortal (see [bigchurch.md](church/plans/bigchurch.md#sumo)).
 
 He moves well for it, too. Rainfall Orc reflexes and a childhood on wet jungle slopes mean he climbs and swims better than anyone his size has any business doing — the heritage's Climb and Swim bonuses are not decoration.
 
@@ -75,7 +75,7 @@ The name is no accident, and neither is the flavor. Generations back, some orc t
 
 Alben makes his own — his personal recipe, tuned over years, the batch he's proudest of and shares most freely (see [inventory.md](inventory.md) and [liquor.md](rambui/liquor.md)). But he's also a collector at heart: wherever his travels take him through orc holds and jungle settlements, he seeks out the local Rambui, trades for it, samples it, argues good-naturedly about whose is worse, and packs a bottle away in his Spacious Pouches for later. His stock isn't one recipe — it's a running tally of every rough, proud, deliberately-terrible batch he's ever been poured, with his own brew simply being the one he trusts most.
 
-For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui/rambui.md). For where he actually brews it — from his first private still to the sprawling multistory temple to drink and combat it eventually becomes — see [distillerysanctum.md](church/distillerysanctum.md), [littlechurch.md](church/littlechurch.md), and [bigchurch.md](church/bigchurch.md).
+For the actual step-by-step process he uses to brew it — and the downtime crafting rules behind it — see [rambui.md](rambui/rambui.md). For where he actually brews it — from his first private still to the sprawling multistory temple to drink and combat it eventually becomes — see [distillerysanctum.md](church/plans/distillerysanctum.md), [littlechurch.md](church/plans/littlechurch.md), and [bigchurch.md](church/plans/bigchurch.md).
 
 ---
 
@@ -180,6 +180,6 @@ Everything about Alben is oversized: his frame, his warmth, his generosity, his 
 - [inventory.md](inventory.md) — Full inventory, including his own Rambui stock
 - [liquor.md](rambui/liquor.md) — The Liquor Cabinet, his collected drinks and drink-offering ritual
 - [rambui.md](rambui/rambui.md) — Alben's own Rambui brewing process and crafting mechanics
-- [distillerysanctum.md](church/distillerysanctum.md) — His first private distillery and inner sanctum
-- [littlechurch.md](church/littlechurch.md) — The Sippin' Club, his first public venue
-- [bigchurch.md](church/bigchurch.md) — The multistory evolution of the venue
+- [distillerysanctum.md](church/plans/distillerysanctum.md) — His first private distillery and inner sanctum
+- [littlechurch.md](church/plans/littlechurch.md) — The Sippin' Club, his first public venue
+- [bigchurch.md](church/plans/bigchurch.md) — The multistory evolution of the venue

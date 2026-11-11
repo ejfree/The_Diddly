@@ -1,0 +1,130 @@
+{
+  "snapshot_id": "sha256:44d2d994a268ff6b8dd7810717489118684a51e6ac3fb69fe42bde7eceaf55b3",
+  "format_version": 1,
+  "enola_version": "0.4.21",
+  "extractor_version": "v270",
+  "generated_at": "2026-10-29T19:27:44Z",
+  "duration": "3.522561667s",
+  "repo_path": "/Users/erik/rpg/The_Diddly",
+  "git": {
+    "ref": "main",
+    "commit": "9b4cf15aedd1d5233b2bf8431dac5894a4088e2f",
+    "dirty": true,
+    "remote": "github-ejfree/ejfree/the_diddly"
+  },
+  "extractors": [
+    "manifests",
+    "mdintent",
+    "python",
+    "typescript"
+  ],
+  "explainers": [
+    "cycles",
+    "layers",
+    "crossrepo",
+    "coverage",
+    "unused-routes",
+    "domain",
+    "query-loops",
+    "dead-methods",
+    "entry-points",
+    "messaging-coverage",
+    "god-class",
+    "hotspots",
+    "dependency-depth",
+    "exported-surface",
+    "complexity-outliers",
+    "intent",
+    "constraints",
+    "vendored-candidates",
+    "import-closure",
+    "package-metrics",
+    "dead-code",
+    "performance"
+  ],
+  "renderers": [
+    "llm_context"
+  ],
+  "config_hash": "sha256:73d78ea79f51e19979d4c7d00bd9463ae684ebcb909116abad86675323c32c05",
+  "ignore_glob_hash": "sha256:7523cc6397a498e151125a682d28fbf6df20c6f51f6dfaf18fd8f5239a20d2d8",
+  "output_hashes": {
+    "facts.jsonl": "sha256:af25016efdd66ef65071016052f9da21d67ba63f658a33861c0649f12ed176e9",
+    "insights.json": "sha256:9da631ac6a60d1a684c8cad6c31a1e5bcf6cd06afbd91dbf6d79ebe23855abcf",
+    "llm_context.md": "sha256:825c90f8501e5543e1d4c1cd88f96529da7268548fae3dfb154f006e6baa17b5"
+  },
+  "fact_count": 25263,
+  "insight_count": 207,
+  "quality": {
+    "files_seen": 15692,
+    "files_parsed": 1474,
+    "files_skipped": 1,
+    "dirs_skipped": 4,
+    "skipped_sample": [
+      ".git/ (glob: **/.git/**)",
+      "foundry/app/dist/ (glob: **/dist/**)",
+      "foundry/app/node_modules/ (glob: **/node_modules/**)",
+      "foundry/app/public/scripts/greensock/dist/ (glob: **/dist/**)",
+      "foundry/data/Data/systems/pf2e/lib/tooltipster.bundle.min.js (glob: **/*.min.js)"
+    ],
+    "parse_errors": 0,
+    "heuristic_insights": 203,
+    "coverage": {
+      "services_total": 0,
+      "coverage_gaps": 0,
+      "unresolved_edges": 0,
+      "extractors_reporting": 1,
+      "extraction_unresolved": 886
+    },
+    "census": {
+      "files_walked": 15693,
+      "parsed": 1474,
+      "excluded_by_ignore": 1,
+      "excluded_by_kind": 13659,
+      "excluded_kinds": {
+        "(no extension)": 453,
+        ".css": 8,
+        ".csv": 7,
+        ".docx": 1,
+        ".ds_store": 18,
+        ".editorconfig": 1,
+        ".gitattributes": 1,
+        ".gitignore": 2,
+        ".icns": 1,
+        ".ico": 1,
+        ".jpg": 43,
+        ".json": 72,
+        ".ldb": 104,
+        ".less": 42,
+        ".log": 114,
+        ".mts": 2,
+        ".ogg": 87,
+        ".old": 97,
+        ".pdf": 3,
+        ".pegjs": 1,
+        ".pl": 9,
+        ".png": 60,
+        ".pptx": 1,
+        ".sh": 9,
+        ".svg": 229,
+        ".txt": 18,
+        ".wasm": 2,
+        ".wav": 5,
+        ".webm": 15,
+        ".webp": 12186,
+        ".woff2": 66,
+        ".yml": 1
+      },
+      "skipped_with_cause": 559,
+      "top_skip_causes": [
+        {
+          "cause": "claimed by typescript, no facts emitted",
+          "count": 558
+        },
+        {
+          "cause": "claimed by manifests, no facts emitted",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

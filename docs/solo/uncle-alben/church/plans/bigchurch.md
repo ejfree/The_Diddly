@@ -22,11 +22,17 @@ He still tends bar himself most nights. He still insists on it. It's just that "
 
 ---
 
+## Footprint
+
+The Big Church keeps the **55 × 70 ft footprint** of the [First Church](../firstchurch.md) and grows upward instead of outward: basement, four floors, and a penthouse, about 3,850 square feet a floor.
+
+---
+
 ## Basement — Expanded Distillery & Factory Tour
 
 The original [Distillery Sanctum](distillerysanctum.md) forms the historic core of a much larger operating distillery beneath the building — the still that made the very first batch is still down here, preserved and still occasionally used, now surrounded by a genuine production-scale brewing operation built to keep the upper floors supplied.
 
-- **The Original Still** — preserved in place, still functional, still Alben's personal instrument for any batch he cares to make himself (see [rambui.md](../rambui/rambui.md)).
+- **The Original Still** — preserved in place, still functional, still Alben's personal instrument for any batch he cares to make himself (see [rambui.md](../../rambui/rambui.md)).
 - **Production Casking Hall** — rows of fermenting and aging casks at a scale the old Sanctum never needed, run by trusted staff of the **Order of the Cup** (see [staff.md](staff.md#the-clerical-structure--c-cubed)), trained under Alben's direct supervision.
 - **The Ruining Vault** — a secured room holding the charred stave shavings and ground rambutan pit stock, still off-limits to anyone but Alben for the actual Ruining step itself, even at this scale.
 - **Factory Tour** — a guided walking route through the basement, open to the public on a schedule, ending at a tasting stop where visitors sample a batch fresh off the still. Alben personally leads the tour whenever he's in the building, and treats every group like honored guests rather than customers.
@@ -37,9 +43,9 @@ The original [Distillery Sanctum](distillerysanctum.md) forms the historic core 
 
 The ground floor is equal parts public history and retail, built around the story of Rambui itself — and around the brand name that now sits on every bottle: **Uncle Alben's Rambui**, sold under the motto **"Guaranteed Harsh."**
 
-- **The Rambui Museum** — display cases and placards tracing the drink's origin among the jungle orc tribes, and Alben's own formalization of the process, right up through the founding of the original Sanctum. One case is dedicated entirely to **"Waste Not"**: dried and charred rambutan hulls beside the coasters and trinkets carved from the ones that never made it to the char, a jar of spent fermentation mash, and a loaf of the bakery-next-door's "Rambui Bread" (replaced fresh each week) — a small, deliberate reminder that nothing about a batch goes in the bin (see [rambui.md](../rambui/rambui.md#waste-not-hulls-and-spent-mash)).
-- **The Process Hall** — an educational walk-through explaining the Harvest, Ferment, Distillation, Ruining, Cask, and QA Tester steps (see [rambui.md](../rambui/rambui.md#ingredients--preparation)), including a life-sized diorama of Solomon performing the taste-test.
-- **Uncle Alben's Rambui Store** — the retail floor: bottled **Uncle Alben's Rambui** (standard), **Uncle Alben's Emergency Rambui**, and (on rare, well-advertised occasions) a bottle of **Uncle Alben's Rambui — The Last Drop** for sale to the public, alongside branded merchandise (tankards, holy symbols shaped like brandy casks, small carved mauls) bearing Alben's rambutan-fruit emblem and the "Guaranteed Harsh" motto. See [rambui.md](../rambui/rambui.md#the-brand-uncle-albens-rambui) for the full label copy and branding details.
+- **The Rambui Museum** — display cases and placards tracing the drink's origin among the jungle orc tribes, and Alben's own formalization of the process, right up through the founding of the original Sanctum. One case is dedicated entirely to **"Waste Not"**: dried and charred rambutan hulls beside the coasters and trinkets carved from the ones that never made it to the char, a jar of spent fermentation mash, and a loaf of the bakery-next-door's "Rambui Bread" (replaced fresh each week) — a small, deliberate reminder that nothing about a batch goes in the bin (see [rambui.md](../../rambui/rambui.md#waste-not-hulls-and-spent-mash)).
+- **The Process Hall** — an educational walk-through explaining the Harvest, Ferment, Distillation, Ruining, Cask, and QA Tester steps (see [rambui.md](../../rambui/rambui.md#ingredients--preparation)), including a life-sized diorama of Solomon performing the taste-test.
+- **Uncle Alben's Rambui Store** — the retail floor: bottled **Uncle Alben's Rambui** (standard), **Uncle Alben's Emergency Rambui**, and (on rare, well-advertised occasions) a bottle of **Uncle Alben's Rambui — The Last Drop** for sale to the public, alongside branded merchandise (tankards, holy symbols shaped like brandy casks, small carved mauls) bearing Alben's rambutan-fruit emblem and the "Guaranteed Harsh" motto. See [rambui.md](../../rambui/rambui.md#the-brand-uncle-albens-rambui) for the full label copy and branding details.
 
 ---
 
@@ -57,11 +63,11 @@ Squared off, roped rather than caged, with a raised platform a few feet above th
 
 ### Gladiatorial Arena
 
-The showpiece configuration, and Alben's personal favorite: a sand-floored circular arena ringed by low pillars and the occasional prop weapon rack, built specifically to give the Gladiator archetype's tools room to breathe (see [character.md](../character.md#archetype-gladiator)) — **Big Debut**, **Play to the Crowd**, and **Living for the Applause** all read better in a space built to look like a real arena than a boxing ring ever could. Reserved for the nights Alben fights himself, or for a bout he wants the whole building buzzing about before it starts.
+The showpiece configuration, and Alben's personal favorite: a sand-floored circular arena ringed by low pillars and the occasional prop weapon rack, built specifically to give the Gladiator archetype's tools room to breathe (see [character.md](../../character.md#archetype-gladiator)) — **Big Debut**, **Play to the Crowd**, and **Living for the Applause** all read better in a space built to look like a real arena than a boxing ring ever could. Reserved for the nights Alben fights himself, or for a bout he wants the whole building buzzing about before it starts.
 
 ### Sumo
 
-A raised clay-and-sand circle (a *dohyo*, sized down to what the pit floor allows), no weapons, no armor beyond a simple belt — the objective is a shove or a fall, not a fight to the finish. The most good-natured of the pit's modes, and the one most likely to end in laughter rather than a wound. Popular with regulars who want to test their **Athletics** against Alben's own (Expert, +20 — see [character.md](../character.md)) without either of them reaching for a weapon; Alben's **Titan Wrestler** feat and Rainfall Orc bonuses to Athletics make him a genuine problem to shove out of the circle, and he knows it, and he loves it.
+A raised clay-and-sand circle (a *dohyo*, sized down to what the pit floor allows), no weapons, no armor beyond a simple belt — the objective is a shove or a fall, not a fight to the finish. The most good-natured of the pit's modes, and the one most likely to end in laughter rather than a wound. Popular with regulars who want to test their **Athletics** against Alben's own (Expert, +20 — see [character.md](../../character.md)) without either of them reaching for a weapon; Alben's **Titan Wrestler** feat and Rainfall Orc bonuses to Athletics make him a genuine problem to shove out of the circle, and he knows it, and he loves it.
 
 ### Hazard Modes
 
@@ -114,7 +120,7 @@ For an added fee, either side of a bout can hire an **Arbiter** — a neutral, i
 An elevated, quieter lounge reserved for regulars, dignitaries, and anyone Solomon personally vouches for.
 
 - **The Clear Wall** — a magically reinforced transparent wall (or a mundane viewing gallery with heavy glass, depending on the budget the GM wants to assume) looking directly into the fighting pit below, letting VIP guests watch a bout in comfort without the noise and press of the general crowd.
-- **Private Service** — drink offerings here still follow the standard ritual (see [liquor.md](../rambui/liquor.md#the-ritual-lets-have-a-drink)), but poured by hand-picked staff Alben trusts to represent him properly; Alben himself still makes an appearance most nights.
+- **Private Service** — drink offerings here still follow the standard ritual (see [liquor.md](../../rambui/liquor.md#the-ritual-lets-have-a-drink)), but poured by hand-picked staff Alben trusts to represent him properly; Alben himself still makes an appearance most nights.
 - **Solomon's VIP Perch** — a more elaborate version of his original post, from which he still personally greets anyone he considers worth greeting.
 
 ---
@@ -125,7 +131,7 @@ Tiered public seating overlooking the fighting pit from above, the direct descen
 
 - **General Admission Pit Seating** — rows of seating with a full view down into the pit, standing room near the rail for the rowdier crowd.
 - **Concessions** — a satellite bar serving standard Cabinet pours and the everyday Rambui stock, so the crowd up here never has to leave for a drink mid-bout.
-- **Fight Announcements** — Alben, when he's fighting, is still introduced from this level's rail before making his way down — a direct descendant of the Big Debut / Play to the Crowd routine from his Gladiator archetype (see [character.md](../character.md#archetype-gladiator)).
+- **Fight Announcements** — Alben, when he's fighting, is still introduced from this level's rail before making his way down — a direct descendant of the Big Debut / Play to the Crowd routine from his Gladiator archetype (see [character.md](../../character.md#archetype-gladiator)).
 
 ---
 
@@ -187,9 +193,9 @@ He does not maintain them personally. He can't — he's behind the bar most nigh
 | **Everburning shards** | Every turn and every landing | Descendants of the single chip Alben paid for in the Little Church, when he saw Solomon hesitate at a dark corner once. There are now nineteen of them. |
 | **The Collar of Empathy** | On Solomon | Still, after all of it, the actual alarm system. See below. |
 
-**The wards face one way.** Every protection on Solomon's Road is installed to keep things *out* of the road, and not one of them impedes anything leaving it. This is Rule 3, and Alben has enforced it against professional advice more than once — a competent warder will point out, correctly, that a one-way ward is half a ward, and that sealing the road at both ends would be strictly more secure. Alben's answer has never varied and is never elaborated on: nothing that keeps Solomon somewhere is going on this road. The people who work for him have stopped raising it. The First Aspirant knows the reason and has never told anyone (see [background.md](../background.md#how-they-met)).
+**The wards face one way.** Every protection on Solomon's Road is installed to keep things *out* of the road, and not one of them impedes anything leaving it. This is Rule 3, and Alben has enforced it against professional advice more than once — a competent warder will point out, correctly, that a one-way ward is half a ward, and that sealing the road at both ends would be strictly more secure. Alben's answer has never varied and is never elaborated on: nothing that keeps Solomon somewhere is going on this road. The people who work for him have stopped raising it. The First Aspirant knows the reason and has never told anyone (see [background.md](../../background.md#how-they-met)).
 
-**The one thing that isn't installed.** For all the wards, all the shards, and all the Arbiter hours, the thing that has actually saved Solomon twice is the collar. It links his feeling to Alben's, it does not care about five floors of stone, and it does not need renewing (see [background.md](../background.md#the-collar-of-empathy)). Alben's real security system is that he can feel his duck being afraid from anywhere in the building, and that he will come. Everything in the table above exists to buy the seconds that takes.
+**The one thing that isn't installed.** For all the wards, all the shards, and all the Arbiter hours, the thing that has actually saved Solomon twice is the collar. It links his feeling to Alben's, it does not care about five floors of stone, and it does not need renewing (see [background.md](../../background.md#the-collar-of-empathy)). Alben's real security system is that he can feel his duck being afraid from anywhere in the building, and that he will come. Everything in the table above exists to buy the seconds that takes.
 
 ### The One Exception
 
@@ -210,7 +216,7 @@ At the top of the road, in the penthouse, inside Solomon's own quarters, the las
 
 He has never once claimed it does anything.
 
-> **GM Note — Mechanics.** Solomon's Road admits **Tiny creatures freely and Small creatures squeezing** — that is the cost of the 18-inch spec, and it is the whole reason the wards exist. Alben still cannot use it, and it is still not his escape route (see [escapeplan.md](../plans/escapeplan.md)). Suggested numbers, all adjustable: floor-side hatches are **Perception DC 22** to spot through the *Illusory Object* facing (**DC 25** for the Main Floor placard, which is the best-disguised); street exits are **Thievery DC 30** from outside with the *Lock* active, and **automatic** from inside, always, no roll. *Alarm* renewal on a three-times-daily rotation means there is a real, exploitable **gap of up to eight hours** on any given landing if the party or an antagonist knows the schedule — Operations keeps that schedule in writing on the 4th Floor, which is a theft worth building an entire session around. If the wards ever go **quiet** rather than trip, Alben's assumption is *Dispel Magic*, and his response is to walk the road's length himself with his own prepared *Dispel Magic* (2nd- and 4th-rank, see [spells.md](../spells.md)) clearing it hatch by hatch — he cannot fit inside, so he does it from the corridor side, one plate at a time, and it takes him most of a night. Treat the exact effects of *Sanctified Ground* on the two consecrated landings as GM-set to whatever the table's PF2e version supports; the intent is "a real defensive edge for whatever is sheltering there," not a specific bonus this file needs to pin down.
+> **GM Note — Mechanics.** Solomon's Road admits **Tiny creatures freely and Small creatures squeezing** — that is the cost of the 18-inch spec, and it is the whole reason the wards exist. Alben still cannot use it, and it is still not his escape route (see [escapeplan.md](../../plans/escapeplan.md)). Suggested numbers, all adjustable: floor-side hatches are **Perception DC 22** to spot through the *Illusory Object* facing (**DC 25** for the Main Floor placard, which is the best-disguised); street exits are **Thievery DC 30** from outside with the *Lock* active, and **automatic** from inside, always, no roll. *Alarm* renewal on a three-times-daily rotation means there is a real, exploitable **gap of up to eight hours** on any given landing if the party or an antagonist knows the schedule — Operations keeps that schedule in writing on the 4th Floor, which is a theft worth building an entire session around. If the wards ever go **quiet** rather than trip, Alben's assumption is *Dispel Magic*, and his response is to walk the road's length himself with his own prepared *Dispel Magic* (2nd- and 4th-rank, see [spells.md](../../spells.md)) clearing it hatch by hatch — he cannot fit inside, so he does it from the corridor side, one plate at a time, and it takes him most of a night. Treat the exact effects of *Sanctified Ground* on the two consecrated landings as GM-set to whatever the table's PF2e version supports; the intent is "a real defensive edge for whatever is sheltering there," not a specific bonus this file needs to pin down.
 
 ---
 
@@ -227,7 +233,7 @@ At the very top, Alben's own private quarters — surprisingly modest given the 
 
 ## The Throughline
 
-Every floor of the Big Church exists because something in the Little Church outgrew its old room — the still outgrew the Sanctum's single chamber, the bar outgrew one counter, the pit outgrew a low wooden ring, and Solomon's hosting outgrew one perch by the door. None of it replaced what came before; it just built another floor over it. The original still is still down there. So is the original ten-inch hole in the Sanctum wall, now the bottom leg of a warded gallery that runs six floors, still latched so a bill can lift it, still with a crooked thumbnail tankard scratched into the plank above it. The original ethos — pour the drink, hear the trouble, answer real trouble with a swing of the maul and a follow-up mercy of healing (see [background.md](../background.md#voice--presence)) — hasn't moved an inch, even as the building around it grew five stories tall.
+Every floor of the Big Church exists because something in the Little Church outgrew its old room — the still outgrew the Sanctum's single chamber, the bar outgrew one counter, the pit outgrew a low wooden ring, and Solomon's hosting outgrew one perch by the door. None of it replaced what came before; it just built another floor over it. The original still is still down there. So is the original ten-inch hole in the Sanctum wall, now the bottom leg of a warded gallery that runs six floors, still latched so a bill can lift it, still with a crooked thumbnail tankard scratched into the plank above it. The original ethos — pour the drink, hear the trouble, answer real trouble with a swing of the maul and a follow-up mercy of healing (see [background.md](../../background.md#voice--presence)) — hasn't moved an inch, even as the building around it grew five stories tall.
 
 ---
 
@@ -237,10 +243,10 @@ Every floor of the Big Church exists because something in the Little Church outg
 - [megachurch.md](megachurch.md) — What this building becomes: the Tower of a 24-hour compound with a casino and hotel
 - [first-aspirant.md](first-aspirant.md) — The First Aspirant, who now runs Operations and the Ruining-adjacent apprenticeship on the 4th Floor, and who holds the only complete drawing of Solomon's Road
 - [distillerysanctum.md](distillerysanctum.md) — The original basement distillery, preserved at the heart of this building's larger operation, and the original Duck Run
-- [escapeplan.md](../plans/escapeplan.md) — Alben's own staged bail-out procedure; Solomon's Road is not part of it and never was
-- [spells.md](../spells.md) — Prepared *Dispel Magic* slots used to walk and clear the road if the wards go quiet
-- [rambui.md](../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics
-- [liquor.md](../rambui/liquor.md) — The Liquor Cabinet and the drink-offering ritual
-- [background.md](../background.md) — Narrative background, faith, and Solomon
-- [character.md](../character.md) — Full mechanical character sheet, including the Gladiator archetype used across the pit floors
-- [inventory.md](../inventory.md) — Current Rambui stock and inventory
+- [escapeplan.md](../../plans/escapeplan.md) — Alben's own staged bail-out procedure; Solomon's Road is not part of it and never was
+- [spells.md](../../spells.md) — Prepared *Dispel Magic* slots used to walk and clear the road if the wards go quiet
+- [rambui.md](../../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics
+- [liquor.md](../../rambui/liquor.md) — The Liquor Cabinet and the drink-offering ritual
+- [background.md](../../background.md) — Narrative background, faith, and Solomon
+- [character.md](../../character.md) — Full mechanical character sheet, including the Gladiator archetype used across the pit floors
+- [inventory.md](../../inventory.md) — Current Rambui stock and inventory

@@ -1,12 +1,19 @@
 ---
 title: Uncle Alben — Escape Plan
-updated: 2026-09-30
+updated: 2026-10-28
 tags: ["solo", "uncle-alben", "pf2e", "action-plans", "escape-plan"]
 ---
 
 # Uncle Alben — Escape Plan
 
 > A staged bail-out procedure for when Alben is in combat and **must** disengage — outmatched, out of resources, protecting Solomon, or under orders (divine or otherwise) to survive rather than fight. This assumes things have already gone wrong: allies down or scattered, retreat the only sane option. Read top to bottom as escalating phases, not a strict script — skip a phase if the fight demands it.
+
+
+> **GM Note — updated for level 13.** This plan was written against the level-12 kit and is partly out of date.
+> - **The Potion of Quickness is gone** from the level-13 export, so every step below that drinks one now has no potion. The new **Wand of Haste (Rank 3)** (once per day, plus overcharge) replaces it, and costs a hand and a spell action instead of a single-action drink.
+> - **New wands in pouch #2:** Haste (Rank 3), **Invisibility (Rank 2)**, and **Tailwind (Rank 2)**, all in [inventory.md](../inventory.md). The Wand of Invisibility covers Phase 3 without the potion.
+> - **Fly and Unfettered Movement are no longer prepared**, and Spiritual Transport is now a **prepared 7th-rank spell** as well as a scroll (the scroll is kept in the **Retrieval Belt**). See [spells.md](../spells.md).
+> - **Shield Block is inert**, since the Wooden Shield is gone.
 
 ---
 
@@ -98,7 +105,7 @@ Once invisible or disguised, closing the literal distance between "still in dang
 
 ### Existing Mobility Already on the Sheet
 
-- **Unfettered Movement** / **Fly** (4th-rank Combat Loadout, see [spells.md](../spells.md)) — already-prepared spells that serve the same purpose. Now that he has the Potion and the Shirt, save *Fly* for when there's a vertical escape route, and save *Unfettered Movement* for when he's grabbed, restrained, or stuck in difficult terrain.
+- **Unfettered Movement** / **Fly** (**no longer prepared at 13th**; both are still on his known-spell list, see [spells.md](../spells.md)) — spells that serve the same purpose. Now that he has the Potion and the Shirt, save *Fly* for when there's a vertical escape route, and save *Unfettered Movement* for when he's grabbed, restrained, or stuck in difficult terrain.
 - **Spiritual Transport** — now owned as a **Scroll of Spiritual Transport (Rank 5)** ⭑. *(Correction: earlier revisions listed it as a prepared 5th-rank spell. It has never been in the Foundry loadout or on his known-spell list, see [spells.md](../spells.md). The scroll is his only access.)* 2-action divine teleportation spell, range 240 feet (1 mile when heightened to 7th, at which point line of sight to the destination is no longer required if he's been there before). This is Alben's best short-range teleport, and it's single-use: an unoccupied, visible space within range, bringing Solomon along if adjacent. Use this as the bridge between "still on the battlefield" and "somewhere safe enough to catch his breath" — it's uncommon, concentrate, manipulate, teleportation, and doesn't require a planar key since it stays on the same plane.
 - **Scroll of Rewinding Step (Rank 5)** ⭑ *acquired* — cast it *before* things go wrong. It anchors his current space; later he can spend a single concentrate action within 500 feet to snap back to that spot instantly. Casting it at the fight's safe edge on round 1 turns a later bail-out into one action instead of a chase. It pairs naturally with the Shirt, since he can rewind to the anchor and then run from there.
 - **Wand of Marvelous Mount (Rank 2)** ⭑ *acquired* — a Large mount (Speed 40 ft) once per day, without spending a slot. That's double his armored Speed, and Solomon can ride along. Best cast after the fight is disengaged, since it's an exploration tool rather than a combat getaway. Overcharging it for a second mount (DC 10 flat check or the wand breaks) is an acceptable risk in a genuine emergency.

@@ -16,7 +16,7 @@ tags: ["solo", "uncle-alben", "pf2e", "location", "rambui"]
 
 ## What This Place Is
 
-Before the Sanctum, Alben's Rambui was a road brewer's Rambui — mash in a sealed cask, a rough still packed in with his gear, casking whatever barrel was on hand (see [rambui.md](../rambui/rambui.md)). It was good Rambui. It was not *settled* Rambui. The Sanctum is the first place Alben ever brewed from a fixed floor instead of a saddle, and the difference shows in every corner of it: nothing here is packed for travel, and everything here is exactly where it's meant to be, because for the first time in his life, it doesn't have to be anywhere else tomorrow.
+Before the Sanctum, Alben's Rambui was a road brewer's Rambui — mash in a sealed cask, a rough still packed in with his gear, casking whatever barrel was on hand (see [rambui.md](../../rambui/rambui.md)). It was good Rambui. It was not *settled* Rambui. The Sanctum is the first place Alben ever brewed from a fixed floor instead of a saddle, and the difference shows in every corner of it: nothing here is packed for travel, and everything here is exactly where it's meant to be, because for the first time in his life, it doesn't have to be anywhere else tomorrow.
 
 It's small. It's cluttered. It smells permanently of scorched sugar, wet stone, and rambutan pulp. It is, without question, the most sacred room Alben owns — not because anyone told him to treat it that way, but because it's the first room that was ever entirely his.
 
@@ -36,7 +36,7 @@ Along one wall, a rack of sealed fermenting casks in various stages, each chalke
 
 ### The Ruining Station
 
-A dedicated workbench holding jars of charred stave shavings and ground rambutan pit — the components of **the Ruining**, his signature step (see [rambui.md](../rambui/rambui.md#ingredients--preparation)). This is the one station in the room he never lets anyone else touch, staff or otherwise, even after the Sanctum stops being the only distillery he owns.
+A dedicated workbench holding jars of charred stave shavings and ground rambutan pit — the components of **the Ruining**, his signature step (see [rambui.md](../../rambui/rambui.md#ingredients--preparation)). This is the one station in the room he never lets anyone else touch, staff or otherwise, even after the Sanctum stops being the only distillery he owns.
 
 ### The Shrine Nook
 
@@ -44,7 +44,7 @@ Tucked into a corner opposite the still: a small shrine to **Cayden Cailean**, w
 
 ### Solomon's Perch
 
-A modest wooden perch beside the shrine, worn smooth from use. This is where Solomon sits during the QA Tester step (see [rambui.md](../rambui/rambui.md#ingredients--preparation)) — close enough to the shrine that Alben has, more than once, joked that the duck is as much a fixture of his faith as Cayden Cailean's tankard is.
+A modest wooden perch beside the shrine, worn smooth from use. This is where Solomon sits during the QA Tester step (see [rambui.md](../../rambui/rambui.md#ingredients--preparation)) — close enough to the shrine that Alben has, more than once, joked that the duck is as much a fixture of his faith as Cayden Cailean's tankard is.
 
 ### The Duck Run
 
@@ -54,7 +54,7 @@ It is **ten inches wide and fourteen inches tall**, framed in scrap plank, and i
 
 Alben cut it the same week he finished the still, and he has never once explained why to anyone who asked.
 
-The reason is simple enough. The Sanctum is a stone box with exactly one way in and out, and that way is a narrow stair. Alben worked that out standing at the bottom of it one night with a cup in his hand, and what he thought about was not thieves or fire. He thought about a man dying on a bar with no one in the room who knew what to do, and a duck standing on his chest with nowhere to go (see [background.md](../background.md#how-they-met)). Then he put the cup down, found a chisel, and started cutting.
+The reason is simple enough. The Sanctum is a stone box with exactly one way in and out, and that way is a narrow stair. Alben worked that out standing at the bottom of it one night with a cup in his hand, and what he thought about was not thieves or fire. He thought about a man dying on a bar with no one in the room who knew what to do, and a duck standing on his chest with nowhere to go (see [background.md](../../background.md#how-they-met)). Then he put the cup down, found a chisel, and started cutting.
 
 **The Rule.** Everything Alben has ever built for Solomon since obeys three conditions he laid down here, at the first hole in the first wall, without ever writing them anywhere:
 
@@ -66,7 +66,7 @@ The reason is simple enough. The Sanctum is a stone box with exactly one way in 
 
 **The lintel.** Scratched into the plank frame at the bottom of the run is a crooked tankard, about the size of a thumbnail, and Alben blessed it out loud the day he cut it — a full toast, cup raised, in an empty cellar, to a duck who wasn't paying attention. It is not a spell. It does nothing. He knows it does nothing. He re-scratches it whenever the wood wears smooth.
 
-> **GM Note — Mechanics.** The Duck Run admits **Tiny creatures only**; Alben cannot fit, and that is the entire point — this is Solomon's route, not an escape hatch for its owner. Alben's own bail-out procedure is a separate matter entirely (see [escapeplan.md](../plans/escapeplan.md)). There is **no magic on the run at this stage of Alben's life** — no wards, no alarms, no light. Solomon has low-light vision, and the run is dark; treat the middle stretch as **dim to no light** and let that cost him a round if it matters. Finding the alley board from outside is **Perception DC 25** (it reads as foundation trim); the board itself is unlocked, because of Rule 1. A hostile Tiny creature can use the run in either direction, and nothing here prevents it. That vulnerability is deliberate, unresolved, and the reason later versions of the run get wards on them.
+> **GM Note — Mechanics.** The Duck Run admits **Tiny creatures only**; Alben cannot fit, and that is the entire point — this is Solomon's route, not an escape hatch for its owner. Alben's own bail-out procedure is a separate matter entirely (see [escapeplan.md](../../plans/escapeplan.md)). There is **no magic on the run at this stage of Alben's life** — no wards, no alarms, no light. Solomon has low-light vision, and the run is dark; treat the middle stretch as **dim to no light** and let that cost him a round if it matters. Finding the alley board from outside is **Perception DC 25** (it reads as foundation trim); the board itself is unlocked, because of Rule 1. A hostile Tiny creature can use the run in either direction, and nothing here prevents it. That vulnerability is deliberate, unresolved, and the reason later versions of the run get wards on them.
 
 ---
 
@@ -84,10 +84,10 @@ The Sanctum was never meant to hold customers, and for a long while, it didn't. 
 
 ## Cross-References
 
-- [rambui.md](../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics performed here
+- [rambui.md](../../rambui/rambui.md) — Full Rambui brewing process and crafting mechanics performed here
 - [littlechurch.md](littlechurch.md) — The Little Church, the venue this Sanctum becomes the basement of; the Duck Run becomes the bottom leg of Solomon's Road there
-- [escapeplan.md](../plans/escapeplan.md) — Alben's own staged bail-out procedure, entirely separate from the Duck Run
+- [escapeplan.md](../../plans/escapeplan.md) — Alben's own staged bail-out procedure, entirely separate from the Duck Run
 - [bigchurch.md](bigchurch.md) — The Big Church, the later multistory expansion with its own, larger basement distillery
-- [background.md](../background.md) — Narrative background, faith, and Solomon
-- [inventory.md](../inventory.md) — Current Rambui stock and the Spacious Pouches used to carry batches between Sanctum and road
-- [character.md](../character.md) — Full mechanical character sheet
+- [background.md](../../background.md) — Narrative background, faith, and Solomon
+- [inventory.md](../../inventory.md) — Current Rambui stock and the Spacious Pouches used to carry batches between Sanctum and road
+- [character.md](../../character.md) — Full mechanical character sheet

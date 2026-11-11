@@ -52,7 +52,7 @@ Alben's standing habit is to offer one (see [liquor.md](../rambui/liquor.md#the-
 
 **What Alben covers for them.** TBD — the specific gap he's decided is his to fill (see [actionplans.md](../plans/actionplans.md)).
 
-**Healing priority.** TBD — where they fall in his triage, and whether they'd argue about it. The Nightly Promise is a rule about his own house (see [littlechurch.md](../church/littlechurch.md#the-nightly-promise)), but Alben does not appear to distinguish, and has never been asked to.
+**Healing priority.** TBD — where they fall in his triage, and whether they'd argue about it. The Nightly Promise is a rule about his own house (see [littlechurch.md](../church/plans/littlechurch.md#the-nightly-promise)), but Alben does not appear to distinguish, and has never been asked to.
 
 ---
 

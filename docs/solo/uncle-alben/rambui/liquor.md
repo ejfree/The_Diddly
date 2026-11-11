@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — The Liquor Cabinet
-updated: 2026-08-21
+updated: 2026-10-23
 tags: ["solo", "uncle-alben", "pf2e", "liquor", "tian-xia"]
 ---
 
@@ -38,7 +38,7 @@ You can't recover from the sickened condition from alcohol while affected. If yo
 
 ## Stocking the Cabinet Without a Hundred Kegs
 
-The question every visiting logistics-minded adventurer eventually asks: how does one modest room above the Sanctum (see [littlechurch.md](../church/littlechurch.md#dimensions--capacity), roughly 1,200 square feet total) actually hold a hundred distinct bottles' worth of stock, night after night, without a warehouse out back? The answer has nothing to do with spellcasting. Every bottle in the Cabinet is entirely genuine, purchased the ordinary way from ordinary suppliers — Alben has simply solved the storage and delivery problem with magic, not the liquor itself.
+The question every visiting logistics-minded adventurer eventually asks: how does one modest room above the Sanctum (see [littlechurch.md](../church/plans/littlechurch.md#dimensions--capacity), roughly 1,200 square feet total) actually hold a hundred distinct bottles' worth of stock, night after night, without a warehouse out back? The answer has nothing to do with spellcasting. Every bottle in the Cabinet is entirely genuine, purchased the ordinary way from ordinary suppliers — Alben has simply solved the storage and delivery problem with magic, not the liquor itself.
 
 ### The Kegs Are Real, Bought on Order
 
@@ -54,17 +54,17 @@ What actually makes a hundred-keg rotating stock possible out of a building with
 
 ### Why This, Not a Cellar Full of Kegs
 
-- **Space.** The Little Church has no cellar to spare for a hundred kegs — the Sanctum below is a working distillery for Rambui specifically, not general storage (see [distillerysanctum.md](../church/distillerysanctum.md)), and the lounge above tops out around 1,200 square feet total. A hundred true kegs simply do not fit in the building itself; they fit in the Pouches instead.
+- **Space.** The Little Church has no cellar to spare for a hundred kegs — the Sanctum below is a working distillery for Rambui specifically, not general storage (see [distillerysanctum.md](../church/plans/distillerysanctum.md)), and the lounge above tops out around 1,200 square feet total. A hundred true kegs simply do not fit in the building itself; they fit in the Pouches instead.
 - **Cost, solved by scale, not magic.** The kegs themselves are paid for in ordinary coin, same as any tavern's stock — the courier service is the one added expense, and it's one Alben's willing to carry given how central the Cabinet is to the Little Church's reputation.
 - **It's on-brand.** Alben would rather spend coin on a courier than spend a night manufacturing drinks one at a time behind the bar — his actual magic, spell slots included, is reserved for healing, protecting, and fighting for his flock (see [character.md](../character.md)), not running a liquor supply chain.
 
-**GM Note:** This mechanic exists to explain the Cabinet's scale without requiring a literal hundred-keg storeroom in [littlechurch.md](../church/littlechurch.md) or [bigchurch.md](../church/bigchurch.md), and without spending any of Alben's own prepared spells to do it. It changes nothing about how a drink resolves once poured (same Item 0 template, same roll on the Cabinet table for an Omakase order) — it only answers how a hundred genuine kegs get to a building with no room for them.
+**GM Note:** This mechanic exists to explain the Cabinet's scale without requiring a literal hundred-keg storeroom in [littlechurch.md](../church/plans/littlechurch.md) or [bigchurch.md](../church/plans/bigchurch.md), and without spending any of Alben's own prepared spells to do it. It changes nothing about how a drink resolves once poured (same Item 0 template, same roll on the Cabinet table for an Omakase order) — it only answers how a hundred genuine kegs get to a building with no room for them.
 
 ---
 
 ## The Ritual: "Let's Have a Drink"
 
-Alben has a habit, and it never changes. Before a fight, after one, at the start of a long night, or for no reason at all — he'll clap his hands together, look around at whoever's nearby, and ask the same question:
+Alben has a habit, and it never changes. Before a fight, after one, at the start of a long night, or for no reason at all, but especially on meeting someone new in his "church" — he'll clap his hands together, and ask the same question:
 
 > *"Let's have a drink. You want the usual?"*
 
@@ -81,6 +81,46 @@ If someone instead says **"Omakase"** ("I'll leave it up to you") — or otherwi
 ### 3. The Called Drink — Poured from the Flask of Fellowship
 
 If someone names a specific drink — a particular spirit, a memory of home, something they haven't had in years — Alben doesn't reach for the Cabinet at all. He pulls out his **Flask of Fellowship** (see [inventory.md](../inventory.md)) and pours *exactly* what was asked for, no matter how obscure or how far from Tian Xia it might be. This is the flask's own magic at work: whatever the target of the Make an Impression action would most like to drink pours out, letter-perfect. Mechanically, this triggers the Flask of Fellowship's Make an Impression activation, granting Alben a +1 item bonus to the Diplomacy check — but narratively, it's the moment his ritual becomes personal. He is, without fail, delighted whenever someone calls a specific drink instead of taking the usual or leaving it to him.
+
+### The Ceremony
+
+Choosing the drink is only the first step. Whichever of the three ways it goes, the pour is a short, practiced performance, closer to a tea ceremony than to a bartender slapping a glass on a counter. It takes about a minute, it is the same every time, and Alben never rushes it, even mid-brawl.
+
+#### Step 1 — The Selection
+
+**The customer chooses the drink. Alben chooses the glass.** The drink comes first (the usual, the Cabinet, or the called drink, above). Then Alben reaches into his Spacious Pouches (see [inventory.md](../inventory.md)) for the vessel, and no customer ever picks it.
+
+All of his glassware and barware is **bamboo**, and it all lives in the pouches. It is **real, carried stock and nothing is created or conjured for the ceremony**: if it isn't in the pouch, he doesn't have it. The stock covers **every standard bar type**: shot glasses, cups, mugs, tumblers, coupes, highballs, lowballs, and the rest of a full bar's set, all carved from bamboo.
+
+Every piece is marked with **C²**, the symbol of Cayden Cailean, on the mug, cup, or glass. The mark is carved or burned into the bamboo, and no vessel ever leaves the pouch without it.
+
+- **Rambui goes in a shot glass.** Always. Rambui is traditionally poured in a small, thick-walled shot glass, because it is meant to be taken in one swallow and not sipped.
+- **Everything else gets the glass that fits the drink.** A delicate spirit might go in a cup, a cocktail-leaning pour in a coupe, a long drink in a highball, and a sipping whiskey in a lowball. Alben picks without asking and says why in a word or two.
+- **Called drinks are chosen by the customer too, and the glass is still Alben's.** The Flask of Fellowship supplies the drink, and the bamboo vessel is still from the pouch.
+
+#### Step 2 — The Presentation
+
+Alben sets the chosen vessel on the bar (or on his knee, or on a barrel head, wherever the night finds them) and turns it a quarter-turn so the **C²** faces the guest. He knocks the bamboo once with a knuckle, like testing a drum, and listens. He does this for every piece and has never explained why.
+
+#### Step 3 — The Pour
+
+He pours in one unbroken motion, from a height, without spilling a drop. The pour is steady and slow, and the room tends to go quiet for it. He fills the vessel to the same mark every time and says the name of the drink aloud as he finishes, in the voice he uses for prayers.
+
+#### Step 4 — The Offering
+
+He does not hand the drink over. He slides it across with two fingers and makes a small gesture toward the guest with the open hand, as a host presents a cup to a guest. Then he pours a second, smaller measure for himself, which is why the ritual is "let's have a drink" and not "have a drink."
+
+#### Step 5 — The Toast
+
+They raise the cups together. Alben says a short blessing to Cayden Cailean, usually the same few words or a version of them, something plain about luck, company, and the open road. Then he drinks first, to show the cup is honest, and the guest follows. In the church the toast gets a little louder, and anyone nearby who's heard it before says the last line along with him.
+
+#### Step 6 — The Quiet Moment
+
+After the drink, he doesn't talk for a few seconds. He sets his empty cup down mouth-down on the bar. This is the end of the ceremony, and the point where guests usually start telling him things.
+
+> **GM Note — Mechanics.** The ceremony is flavor by default and adds no roll or action cost outside a scene that wants it. If a guest follows the whole thing without interrupting or refusing the cup, the GM can award a **+1 circumstance bonus to the next Diplomacy check** Alben makes against that guest during the same scene, or a free **Make an Impression** attempt if the ritual should carry real weight. Refusing the cup or breaking the ceremony midway doesn't penalize Alben but may cost the guest the bonus. In combat Alben shortens the ceremony to the pour and the toast and still insists on the shot glass for Rambui.
+
+> **GM Note — Open Items.** `inventory.md` does not list the glassware, which is bamboo, carried in the pouches, and sized to a full standard bar's set. Quantities are a planning assumption, and nothing in the ceremony is created by magic. The C² mark, the quarter-turn, the toast wording, and the six-step structure are planning flavor and can be tuned.
 
 ---
 

@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find changed docs
+        id: changed
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            base="${{ github.event.pull_request.base.sha }}"
+          else
+            base="${{ github.event.before }}"
+          fi
+          # New branch pushes have an all-zero "before" SHA; fall back to the parent commit.
+          git cat-file -e "$base^{commit}" 2>/dev/null || base="HEAD~1"
+          git diff --name-only --diff-filter=d "$base" HEAD -- 'docs/**/*.md' > changed.txt
+          cat changed.txt
+
+      - name: Check frontmatter and relative links (changed files)
+        run: |
+          if [ -s changed.txt ]; then
+            xargs -a changed.txt python3 -I scripts/check_docs.py
+          else
+            echo "No docs changed."
+          fi

@@ -30,7 +30,7 @@ Where the Little Church was one room and the Big Church was one building, the Me
 
 | Structure | Footprint | Floors | What it is |
 |---|---|---|---|
-| **The Tower** | Unchanged | Basement + 4 + penthouse | The Big Church, kept floor for floor. See [bigchurch.md](bigchurch.md); changes for 24-hour running are under [The Tower](#the-tower--what-changed) below. |
+| **The Tower** | 55 × 70 ft (unchanged) | Basement + 4 + penthouse | The Big Church, kept floor for floor. See [bigchurch.md](bigchurch.md); changes for 24-hour running are under [The Tower](#the-tower--what-changed) below. |
 | **The Long Hall** | 140 × 40 ft | 1 | The ground-floor spine joining the Tower to everything else. Home of the Long Bar and the house kitchen. |
 | **The Cask House** | 120 × 80 ft | 2 (floor + mezzanine) | The casino. |
 | **The Bunks** | 100 × 60 ft | 4 | The hotel. Eighty rooms. Still called "the bunks." |
@@ -62,7 +62,7 @@ The Megachurch has no closing time. It has a **last call** anyway.
 
 Every morning at sunup the whole house stops for about a minute. Dealers lift their hands from the tables. The pit, if a bout is running, calls a hold. The bar staff pour one cup each. Whoever holds the first twelve feet of the Long Bar (Alben, when he's home) sets a boot on the rail and calls it the way he called last call in every bar he ever worked: cheerfully, unhurried, and final. Then the whole building toasts, and the day starts over.
 
-It's a direct descendant of **"Last Call,"** the first of his Big Debut signature moves (see [character.md](../character.md#signature-moves--big-debut)), with the menace taken out. Alben's explanation is that every house needs a last call, and this one just has its last call at breakfast.
+It's a direct descendant of **"Last Call,"** the first of his Big Debut signature moves (see [character.md](../../character.md#signature-moves--big-debut)), with the menace taken out. Alben's explanation is that every house needs a last call, and this one just has its last call at breakfast.
 
 What the toast actually marks is the Promise. See below.
 
@@ -97,7 +97,7 @@ When Alben is home, he reads it. When he's away, the House reads it, and he read
 
 The Tower is the Big Church, floor for floor. Running it twenty-four hours changed how each floor is used, but not what it is.
 
-- **Basement — Distillery & Factory Tour.** Production now runs through all three Pours to keep a compound this size supplied. The Factory Tour runs twice in Morning Pour and once in High Pour; Alben leads the High Pour tour when he's home. **The Ruining is unchanged**: Alben alone, at the Original Still, on his schedule, and the house simply stockpiles around it. When he's away for long stretches, the Ruining Vault's reserves are the only thing that ever genuinely runs low (see [rambui.md](../rambui/rambui.md#the-ritual-loop)).
+- **Basement — Distillery & Factory Tour.** Production now runs through all three Pours to keep a compound this size supplied. The Factory Tour runs twice in Morning Pour and once in High Pour; Alben leads the High Pour tour when he's home. **The Ruining is unchanged**: Alben alone, at the Original Still, on his schedule, and the house simply stockpiles around it. When he's away for long stretches, the Ruining Vault's reserves are the only thing that ever genuinely runs low (see [rambui.md](../../rambui/rambui.md#the-ritual-loop)).
 - **Main Floor — Museum & Store.** Open all hours. The Store's night trade is mostly caravan buyers ordering by the cask.
 - **The Pit — three cards a day.** The **Matinee** (Morning Pour) is sparring, Aspirant tests, and Sumo. The **Main Card** (High Pour) is the main event, and Alben's own bouts, Gladiatorial Arena nights, and anything he wants the building buzzing about are only ever on it. The **Long Card** (Long Pour) favours the hazard modes, especially **Low Light**, which the night crowd has made its own (see [bigchurch.md](bigchurch.md#hazard-modes)).
 - **2nd Floor — VIP Lounge.** Now opens onto the Skybridge. VIP guests can drink, watch the pit through the Clear Wall, cross to the Cask House's High Table, and never once touch the public floor.
@@ -111,7 +111,7 @@ The Tower is the Big Church, floor for floor. Running it twenty-four hours chang
 
 The ground-floor spine of the compound: a hundred and forty feet of hall joining the Tower's main floor to the Cask House and the Bunks, with no seat in it more than a few steps from a drink.
 
-- **The Long Bar.** A hundred and twenty feet of counter down the hall's north wall, staffed all three Pours, pouring the standard Cabinet and the everyday Rambui stock. The drink-offering ritual still applies at every station (see [liquor.md](../rambui/liquor.md#the-ritual-lets-have-a-drink)). *The usual* is never refused and often isn't charged. **The first twelve feet are Alben's** (see [The Three Pours](#the-three-pours)).
+- **The Long Bar.** A hundred and twenty feet of counter down the hall's north wall, staffed all three Pours, pouring the standard Cabinet and the everyday Rambui stock. The drink-offering ritual still applies at every station (see [liquor.md](../../rambui/liquor.md#the-ritual-lets-have-a-drink)). *The usual* is never refused and often isn't charged. **The first twelve feet are Alben's** (see [The Three Pours](#the-three-pours)).
 - **The House Kitchen.** The first real kitchen any of Alben's venues has ever had. A building this big can't run on bakery bread alone, though it still tries (see [Breakfast & the Bakery](#breakfast--the-bakery)).
 - **The Little Church's front door.** Mounted on the hall wall opposite the first twelve feet of the bar, propped open on a cast iron hinge that no longer turns. It's the door that Solomon's Post sat beside (see [littlechurch.md](littlechurch.md#solomons-post)), and it's the only door from any of his buildings that Alben kept. See [The Doors That Don't Lock](#the-doors-that-dont-lock) for why it's here.
 
@@ -127,13 +127,13 @@ Every game in the house is themed on something Alben already loved before he own
 
 | Game | How it plays | Pays | House edge |
 |---|---|---|---|
-| **The Omakase Wheel** | A d100 roll against the **Liquor Cabinet** (see [liquor.md](../rambui/liquor.md)), using the same table as an Omakase pour (the [liquor-roll.js](../assets/scripts/liquor-roll.js) cabinet branch works fine). Players bet on the **spirit type** that comes up. **Every spin pours**: the bottle the wheel lands on is opened and poured for the table, win or lose, because Cayden's anathema says nothing goes to waste. | **Whiskey** (42 of 100) 5:4 · **Gin** (27) 5:2 · **Brandy** (24) 3:1 · **Rum** (4) 22:1 · **Vodka** (3) 30:1 | 4–8% |
+| **The Omakase Wheel** | A d100 roll against the **Liquor Cabinet** (see [liquor.md](../../rambui/liquor.md)), using the same table as an Omakase pour (the [liquor-roll.js](../../assets/scripts/liquor-roll.js) cabinet branch works fine). Players bet on the **spirit type** that comes up. **Every spin pours**: the bottle the wheel lands on is opened and poured for the table, win or lose, because Cayden's anathema says nothing goes to waste. | **Whiskey** (42 of 100) 5:4 · **Gin** (27) 5:2 · **Brandy** (24) 3:1 · **Rum** (4) 22:1 · **Vodka** (3) 30:1 | 4–8% |
 | **Three Casks** | Three sealed casks; one holds a bottle of Rambui, two are empty. The player picks one. The dealer, who knows, opens one of the other two to show it's empty, and offers a switch. | Win pays **1:2** (half the stake) | **0% if you switch, 50% if you stay** |
 | **Harsh or Harsher** | The player calls *Harsher* or *Smoother*, **before** the first cask is opened. The dealer rolls a d20 (the first cask), then another (the second). Harsher wins if the second is higher; Smoother if it's lower. Ties go to the house. | Even money | 5% |
 | **The Pit Book** | Wagers on pit bouts across all three cards. Arbiter castings are already publicly disclosed before every bout (see [bigchurch.md](bigchurch.md#spell-support--third-party-arbiters)), which makes the Pit Book one of the fairest books anywhere. | Posted odds | 10% vig on winnings |
 | **Knucklebones** | Player against player, at the High Table and in two side rooms. The house only rakes. | — | 5% rake |
 
-**Three Casks is the house's favourite story.** It's a straight copy of a game Alben played in the Qualifiers (see [qualifiers.md](../qualifiers.md)), and the payout is set so that the house **only makes money off people who won't change their minds.** Switchers break exactly even, forever. Alben thinks that's the most honest thing a casino has ever said to anybody, and he loves watching someone work it out at the table. He has never once been talked into raising the payout, and never once been talked into lowering it.
+**Three Casks is the house's favourite story.** It's a straight copy of a game Alben played in the Qualifiers (see [qualifiers.md](../../qualifiers.md)), and the payout is set so that the house **only makes money off people who won't change their minds.** Switchers break exactly even, forever. Alben thinks that's the most honest thing a casino has ever said to anybody, and he loves watching someone work it out at the table. He has never once been talked into raising the payout, and never once been talked into lowering it.
 
 **Harsher is the only bet he drinks to.** If a player calls *Harsher* and wins, Alben, if he's in the room, toasts them from wherever he's standing. He does not toast *Smoother*. Everyone knows. It's the closest the Cask House comes to a house superstition.
 
@@ -143,7 +143,7 @@ A casino is the easiest building in the world to turn into something that preys 
 
 1. **No markers.** The house never extends credit. You play with what you walked in with, and nothing else.
 2. **The Rent Rule.** Anyone who says, out loud, that they're betting their rent gets their stake handed back with a drink and a bunk for the night. The First Aspirant wrote this one. She has never explained where the wording came from, and nobody has asked.
-3. **Stage three, you're done.** Drinking is free at the tables. Wagering is not free of drinking: anyone who reaches **stage 3 of the alcohol affliction** (Clumsy 1, off-guard, Stupefied 2; see [liquor.md](../rambui/liquor.md#mechanics-shared-by-all-entries)) is cut off from wagering until they're back under it. They aren't cut off from drinking. This is a drinking establishment.
+3. **Stage three, you're done.** Drinking is free at the tables. Wagering is not free of drinking: anyone who reaches **stage 3 of the alcohol affliction** (Clumsy 1, off-guard, Stupefied 2; see [liquor.md](../../rambui/liquor.md#mechanics-shared-by-all-entries)) is cut off from wagering until they're back under it. They aren't cut off from drinking. This is a drinking establishment.
 4. **No magic on the floor.** Arbiters are licensed for the pit and nowhere else. A licensed Arbiter can't play or work the Cask House, and the Pit Bosses run *Detect Magic* sweeps at every shift change.
 5. **Cheats get the pit, not the alley.** A caught cheat is offered a bout against the on-shift Pit Boss on the next card, under the Promise like anyone else, instead of being thrown into the street. Most accept. The Pit Book takes bets on those bouts and the house books it as a fee.
 
@@ -256,11 +256,11 @@ The Big Church's wards had a known weakness: *Alarm*, renewed three times a day,
 
 ### When They're Away
 
-Solomon rides on Alben's shoulder and hasn't willingly left it since the night they met (see [background.md](../background.md#how-they-met)). When Alben travels, Solomon travels. That means that for weeks at a time, the most carefully protected structure in the compound guards a route nobody is using.
+Solomon rides on Alben's shoulder and hasn't willingly left it since the night they met (see [background.md](../../background.md#how-they-met)). When Alben travels, Solomon travels. That means that for weeks at a time, the most carefully protected structure in the compound guards a route nobody is using.
 
 The wards are renewed anyway, every six hours, on Alben's standing instruction. The water dish in the Last Landing is refilled every morning. The everburning shards stay lit. The House has never questioned the expense. When a new Arbiter asked her once why the house was paying to ward an empty road, she told them it was for when he comes home, and gave them the next walk.
 
-> **GM Note — Mechanics.** The Big Church's DCs still apply to the Tower's landings (see [bigchurch.md](bigchurch.md#the-last-landing)). The Cask House hatches are **Perception DC 25** to spot through the *Illusory Object* facing; the High Table hatch is under a perch everyone stares at, which makes it the hardest to see (**DC 28**). The Gutter Leg grate is **Thievery DC 30** from outside with the *Lock* active, and opens automatically from inside. **The eight-hour gap is gone.** The road's exploitable weakness is now *people*: the roster of Arbiters who have walked it, which exists only in the House's memory. A party, or an antagonist, who wants to get into Solomon's Road now has to get to an Arbiter, or to the House. That's a better session than a stolen ward book ever was. **The Collar of Empathy's range** is left to the GM: the folder establishes that it ignores walls and floors (see [background.md](../background.md#the-collar-of-empathy)), but not whether it reaches across a city. Since Solomon is almost always on Alben's shoulder, this only matters if they're ever separated, and if they are, it should matter a great deal.
+> **GM Note — Mechanics.** The Big Church's DCs still apply to the Tower's landings (see [bigchurch.md](bigchurch.md#the-last-landing)). The Cask House hatches are **Perception DC 25** to spot through the *Illusory Object* facing; the High Table hatch is under a perch everyone stares at, which makes it the hardest to see (**DC 28**). The Gutter Leg grate is **Thievery DC 30** from outside with the *Lock* active, and opens automatically from inside. **The eight-hour gap is gone.** The road's exploitable weakness is now *people*: the roster of Arbiters who have walked it, which exists only in the House's memory. A party, or an antagonist, who wants to get into Solomon's Road now has to get to an Arbiter, or to the House. That's a better session than a stolen ward book ever was. **The Collar of Empathy's range** is left to the GM: the folder establishes that it ignores walls and floors (see [background.md](../../background.md#the-collar-of-empathy)), but not whether it reaches across a city. Since Solomon is almost always on Alben's shoulder, this only matters if they're ever separated, and if they are, it should matter a great deal.
 
 ---
 
@@ -276,7 +276,7 @@ He did it himself, the morning after the eleventh night, with a pry bar, and had
 - Every interior door that has a lock (hotel rooms, the Cage, the Ruining Vault, the Operations Office) locks **from the outside only** and opens **from the inside, always, without a key.** Hotel guests can lock strangers out. Nobody can be locked in.
 - Every floor of every structure has at least two ways out. The Tower got a second stair cut through to make that true. It was the most disruptive work of the whole build.
 
-These are Solomon's rules. All three were laid down at a ten-inch hole in a cellar wall, for a duck, by a man who had once watched someone die in a room with nobody in it who knew what to do (see [background.md](../background.md#how-they-met)). The Megachurch is the first building where Alben applied them to people. He has never said so. The House noticed, and said nothing either.
+These are Solomon's rules. All three were laid down at a ten-inch hole in a cellar wall, for a duck, by a man who had once watched someone die in a room with nobody in it who knew what to do (see [background.md](../../background.md#how-they-met)). The Megachurch is the first building where Alben applied them to people. He has never said so. The House noticed, and said nothing either.
 
 The **Little Church's front door**, the only one he kept, hangs open on the wall of the Long Hall, opposite the first twelve feet of the bar, on a hinge that no longer turns.
 
@@ -316,7 +316,7 @@ Pathfinder 2e has no construction rules, so the figures below are a **GM ballpar
 |---|---|---|
 | Payroll | See [Staff](#headcount--payroll) | 278 |
 | Solomon's Road wards | 10 landings × 4 renewals × 2 spells (*Alarm*, *Illusory Object*) = 80 castings at 3 gp (rank 1 spellcasting service), plus 2 *Sanctified Ground* at 18 gp *(priced as a rank 3 casting)* | 276 |
-| Cabinet restock | Kegs on order from regional suppliers, delivered by magical courier (see [liquor.md](../rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs)) | 120 |
+| Cabinet restock | Kegs on order from regional suppliers, delivered by magical courier (see [liquor.md](../../rambui/liquor.md#stocking-the-cabinet-without-a-hundred-kegs)) | 120 |
 | Kitchen stores & the bakery | Including the bakery's paid share of the morning bread | 110 |
 | Bunks consumables | Linen, laundry, firewood for the Cask Rooms | 50 |
 | Maintenance | Pit machinery, the Clear Wall, the Skybridge, ordinary repairs | 90 |
@@ -378,11 +378,11 @@ Underneath all of it, the rules haven't moved since he chiselled them into a cel
 - [distillerysanctum.md](distillerysanctum.md) — The original Sanctum and the Duck Run, where Solomon's three rules were laid down
 - [staff.md](staff.md) — Summary of staff requirements by stage, including the Aspirant posts
 - [first-aspirant.md](first-aspirant.md) — The First Aspirant, now *the House*, who wrote the Rent Rule, closed the ward gap, and holds the road's only drawing and its only roster
-- [rambui.md](../rambui/rambui.md) — The Ruining, which Alben still does alone, and the brand sold in the Store
-- [liquor.md](../rambui/liquor.md) — The Liquor Cabinet behind the Omakase Wheel, the alcohol affliction behind the stage-three rule, and the courier restocking
-- [liquor-roll.js](../assets/scripts/liquor-roll.js) — The Cabinet roller, usable as the Omakase Wheel
-- [qualifiers.md](../qualifiers.md) — Where Alben played the game that became Three Casks
-- [background.md](../background.md) — How Alben met Solomon, the Collar of Empathy, and his faith
-- [character.md](../character.md) — Full mechanical sheet, including "Last Call," the Big Debut move behind the Sunup Toast
-- [spells.md](../spells.md) — Divine Font *Heal* slots, now the Promise's last line rather than its only one
-- [inventory.md](../inventory.md) — Current Rambui stock and inventory
+- [rambui.md](../../rambui/rambui.md) — The Ruining, which Alben still does alone, and the brand sold in the Store
+- [liquor.md](../../rambui/liquor.md) — The Liquor Cabinet behind the Omakase Wheel, the alcohol affliction behind the stage-three rule, and the courier restocking
+- [liquor-roll.js](../../assets/scripts/liquor-roll.js) — The Cabinet roller, usable as the Omakase Wheel
+- [qualifiers.md](../../qualifiers.md) — Where Alben played the game that became Three Casks
+- [background.md](../../background.md) — How Alben met Solomon, the Collar of Empathy, and his faith
+- [character.md](../../character.md) — Full mechanical sheet, including "Last Call," the Big Debut move behind the Sunup Toast
+- [spells.md](../../spells.md) — Divine Font *Heal* slots, now the Promise's last line rather than its only one
+- [inventory.md](../../inventory.md) — Current Rambui stock and inventory

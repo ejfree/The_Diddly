@@ -33,8 +33,8 @@ He never wrote any of it down. It lives in his hands, his nose, and his **Lore: 
 
 Nothing about a batch goes in the bin once the good part is drawn off. Alben, cheap in the specific way most barkeeps are cheap, found a use for both leftovers years ago, and neither has changed since.
 
-- **The Hulls** — the tough, spiky rambutan skins peeled off during the Harvest are dried and set aside rather than discarded. Once fully dried, they're charred down in small batches — the same charring process used on the cask staves for the Ruining step (see Step 4 above) — meaning a good portion of every batch's signature bitterness technically started as the fruit's own skin, burned and folded back into the next batch it never belonged to. Whatever hulls aren't charred get carved or pressed into small trinkets: drink coasters, bag charms, and the rough-edged rambutan-emblem tokens sold at the [Uncle Alben's Rambui Store](../church/bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store).
-- **The Spent Mash** — once the Distillation step has drawn everything drinkable out of a batch, what's left is a heavy, fibrous pulp with nothing left to offer a still. Alben doesn't waste it either: it goes next door, to the same **bakery** that trades him breakfast for [The Bunks](../church/littlechurch.md#the-bunks). The bakery folds spent mash into feed for their own starter yeast and, on occasion, straight into a dense, faintly fruity loaf regulars have started calling "Rambui Bread" whether the bakery intended the name or not. It's one more thread in the same standing, informal trade that keeps Alben and his neighbor on good terms.
+- **The Hulls** — the tough, spiky rambutan skins peeled off during the Harvest are dried and set aside rather than discarded. Once fully dried, they're charred down in small batches — the same charring process used on the cask staves for the Ruining step (see Step 4 above) — meaning a good portion of every batch's signature bitterness technically started as the fruit's own skin, burned and folded back into the next batch it never belonged to. Whatever hulls aren't charred get carved or pressed into small trinkets: drink coasters, bag charms, and the rough-edged rambutan-emblem tokens sold at the [Uncle Alben's Rambui Store](../church/plans/bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store).
+- **The Spent Mash** — once the Distillation step has drawn everything drinkable out of a batch, what's left is a heavy, fibrous pulp with nothing left to offer a still. Alben doesn't waste it either: it goes next door, to the same **bakery** that trades him breakfast for [The Bunks](../church/plans/littlechurch.md#the-bunks). The bakery folds spent mash into feed for their own starter yeast and, on occasion, straight into a dense, faintly fruity loaf regulars have started calling "Rambui Bread" whether the bakery intended the name or not. It's one more thread in the same standing, informal trade that keeps Alben and his neighbor on good terms.
 
 ---
 
@@ -66,7 +66,7 @@ The result of the check determines which of Alben's three named Rambui products 
 
 ## The Brand: Uncle Alben's Rambui
 
-Once the Little Church's reputation grew large enough to need one, Alben settled on a brand name without much deliberation — everyone already called him Uncle Alben, so the bottle might as well say the same thing. The full name, printed (or burned, or stamped in wax) on every bottle sold at the [Big Church's retail floor](../church/bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store), is:
+Once the Little Church's reputation grew large enough to need one, Alben settled on a brand name without much deliberation — everyone already called him Uncle Alben, so the bottle might as well say the same thing. The full name, printed (or burned, or stamped in wax) on every bottle sold at the [Big Church's retail floor](../church/plans/bigchurch.md#main-floor--rambui-museum-process-hall-and-the-uncle-albens-rambui-store), is:
 
 > **UNCLE ALBEN'S RAMBUI**
 > *Guaranteed Harsh.*
@@ -103,9 +103,9 @@ Brewing isn't just a hobby — it's what keeps "Let's have a drink" (see [liquor
 
 - [background.md](../background.md) — Full cultural background on Rambui and Alben's relationship to it
 - [liquor.md](liquor.md) — The Liquor Cabinet, drink-offering ritual, and mechanics shared by all alcohol items
-- [distillerysanctum.md](../church/distillerysanctum.md) — Alben's first private distillery, where this process was first formalized
-- [littlechurch.md](../church/littlechurch.md) — The Sippin' Club built above the Sanctum
-- [bigchurch.md](../church/bigchurch.md) — The multistory expansion, including its own larger distillery
+- [distillerysanctum.md](../church/plans/distillerysanctum.md) — Alben's first private distillery, where this process was first formalized
+- [littlechurch.md](../church/plans/littlechurch.md) — The Sippin' Club built above the Sanctum
+- [bigchurch.md](../church/plans/bigchurch.md) — The multistory expansion, including its own larger distillery
 - [inventory.md](../inventory.md) — Current Rambui stock and full inventory
 - [character.md](../character.md) — Full mechanical character sheet, including Lore: Alcohol
 - [concept.md](../concept.md) — Original character concept and voice
