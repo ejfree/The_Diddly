@@ -133,7 +133,7 @@ Every game in the house is themed on something Alben already loved before he own
 | **The Pit Book** | Wagers on pit bouts across all three cards. Arbiter castings are already publicly disclosed before every bout (see [bigchurch.md](bigchurch.md#spell-support--third-party-arbiters)), which makes the Pit Book one of the fairest books anywhere. | Posted odds | 10% vig on winnings |
 | **Knucklebones** | Player against player, at the High Table and in two side rooms. The house only rakes. | — | 5% rake |
 
-**Three Casks is the house's favourite story.** It's a straight copy of a game Alben played in the Qualifiers (see [qualifiers.md](../../qualifiers.md)), and the payout is set so that the house **only makes money off people who won't change their minds.** Switchers break exactly even, forever. Alben thinks that's the most honest thing a casino has ever said to anybody, and he loves watching someone work it out at the table. He has never once been talked into raising the payout, and never once been talked into lowering it.
+**Three Casks is the house's favourite story.** It's a straight copy of a game Alben played in the Qualifiers (see [qualifiers.md](../../session-notes.md)), and the payout is set so that the house **only makes money off people who won't change their minds.** Switchers break exactly even, forever. Alben thinks that's the most honest thing a casino has ever said to anybody, and he loves watching someone work it out at the table. He has never once been talked into raising the payout, and never once been talked into lowering it.
 
 **Harsher is the only bet he drinks to.** If a player calls *Harsher* and wins, Alben, if he's in the room, toasts them from wherever he's standing. He does not toast *Smoother*. Everyone knows. It's the closest the Cask House comes to a house superstition.
 
@@ -381,7 +381,7 @@ Underneath all of it, the rules haven't moved since he chiselled them into a cel
 - [rambui.md](../../rambui/rambui.md) — The Ruining, which Alben still does alone, and the brand sold in the Store
 - [liquor.md](../../rambui/liquor.md) — The Liquor Cabinet behind the Omakase Wheel, the alcohol affliction behind the stage-three rule, and the courier restocking
 - [liquor-roll.js](../../assets/scripts/liquor-roll.js) — The Cabinet roller, usable as the Omakase Wheel
-- [qualifiers.md](../../qualifiers.md) — Where Alben played the game that became Three Casks
+- [qualifiers.md](../../session-notes.md) — Where Alben played the game that became Three Casks
 - [background.md](../../background.md) — How Alben met Solomon, the Collar of Empathy, and his faith
 - [character.md](../../character.md) — Full mechanical sheet, including "Last Call," the Big Debut move behind the Sunup Toast
 - [spells.md](../../spells.md) — Divine Font *Heal* slots, now the Promise's last line rather than its only one

@@ -14,7 +14,7 @@ tags: ["solo", "uncle-alben", "pf2e", "character-sheet"]
 **Background:** Barkeep
 **Class:** Cleric (Warpriest Doctrine) with Gladiator archetype
 **Deity:** Cayden Cailean ("The Accidental God", "C Squared")
-**Level:** 13 — *level 12 was reached during the Qualifiers, Day 2 (see [qualifiers.md](qualifiers.md))*
+**Level:** 13 — *level 12 was reached during the Qualifiers, Day 2 (see [qualifiers.md](session-notes.md))*
 **Gender:** He/Him
 **Age:** 36
 **Height:** 6 ft 9 in (2.06 m)
@@ -340,4 +340,4 @@ Diff of `fvtt-Actor-uncle-alben-9MuIf1CmSuTUk4QX.json` against `unclealben11v1.j
 - [rambui.md](rambui/rambui.md) — The Rambui brand and brewing process behind the "Guaranteed Harsh" signature move
 - [distillerysanctum.md](church/plans/distillerysanctum.md) — The shrine-and-still habit of toasting his god with the brewing cup, behind "The Toast"
 - [actionplans.md](plans/actionplans.md) — Combat playbooks; Big Debut's opening beat feeds the first-round sequence there
-- [qualifiers.md](qualifiers.md) — Session notes recording the level-12 promotion
+- [qualifiers.md](session-notes.md) — Session notes recording the level-12 promotion

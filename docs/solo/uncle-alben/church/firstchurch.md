@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — The First Church (Goka)
-updated: 2026-11-11
+updated: 2026-11-15
 tags: ["solo", "uncle-alben", "pf2e", "location", "goka", "church"]
 ---
 
@@ -26,11 +26,50 @@ A narrow, deep **two-story** building on a street of other narrow, deep two-stor
 
 | Floor | Use |
 |---|---|
-| **Ground floor** | The Bar, the Pit, the Shrine, and the Still. Everything the public sees, plus the one room they don't. |
-| **Second floor** | Alben's rooms, Solomon's rooms, and the **Quiet Rooms**: beds for anyone who needs one. |
-| **Roof** | Flat. A rope ladder, a tankard-shaped weathervane, and the second way out. |
+| **Ground floor** | The public room with the Pit and the Bar, the Still and its vats, a cask store, the kitchen, and Alben's bedroom. |
+| **Second floor** | A pit-view gallery open to the Pit below, plus two small rooms in the north-west corner, kept for future use. |
+| **Roof** | Green-tiled over the north-west wing. The second way out is the roof ladder. |
 
-> **GM Note.** The **55 × 70 ft footprint and two floors are fixed.** The room layout inside is an assumption; re-cut it freely. What matters is that it's a **two-story street house**, the ground floor is one long room front to back, and the building has **exactly two ways out** (see [Solomon's Road](#solomons-road) below).
+---
+
+## Floor Plans
+
+The footprint is **L-shaped**: a main block with a **north-west wing** that sticks out past the rest of the building.
+
+**Ground floor**
+
+![Ground floor plan](pictures/church-1st-floor.png)
+
+**Second floor**
+
+![Second floor plan](pictures/church-2nd-floor.png)
+
+**Ground floor, north to south:**
+
+| Area | What the plan shows |
+|---|---|
+| **North-west wing** | A bedroom: a red-blanketed bed on tatami matting, a small rug and table, and floor cushions. This is **Alben's room**, which Solomon shares. |
+| **Left strip** (west side) | A long room of **tatami mats** in two rows, with a wash basin and a stove or hearth on the west wall and stacked bundles and crates beside it. This is the **kitchen** (see below). |
+| **Ruining Room** (middle) | A walled room with **three barrels**, sacks, and a glowing purple-and-green contraption on a bench. This is his secret Rambui process. |
+| **The Still** (north-east) | The large back room: a **copper still with a lit firebox**, a **big red fermenting vat on a ladder stand**, a large cauldron, baskets of **red and green fruit**, and two blue barrels. It is open to 2nd story above. |
+| **Back counter** | A row of four ornate trunks and an L-shaped counter along the wall dividing the Still room from the public room. This is where the stock and the Cabinet are kept. |
+| **Public room** (south half) | The **hexagonal Pit** in the middle, with the **L-shaped Bar** in the north-west corner, and tables all around the Pit. |
+| **Stairs** | A red-carpeted stair on the east wall of the public room, up to the second floor. |
+
+**Second floor:**
+
+| Area | What the plan shows |
+|---|---|
+| **Gallery** | Most of the floor. A hexagonal opening labeled **"Open to Fighting Pit Below,"** ringed by **six sofas and round tables**, with long plank tables and benches along the west wall and more tables with chairs along the south wall. |
+| **East side** | A stair landing, with a **railing hung with red and blue banners** and two rows of tables with stools behind it. |
+| **North-west wing** | **Two small, empty rooms** divided by a partition, under a green tile roof. |
+| **North-east block** | Open to first floor below. |
+
+> **GM Note — reading the plans.** I interpreted these from the images, so confirm them against what you meant:
+> - **The black block** is read as the **double-height ceiling over the Still**, which has no second floor above it. If it's something else (an unbuilt space, a light well), change this.
+> - **The street door** isn't marked on either plan. It's on the **south wall, at the bottom-left (south-west) corner**, a double red door (see [The Street Door](#the-street-door)).
+> - **Confirmed by you:** the black block is the Still's open ceiling, the tatami strip is the kitchen, the two upstairs rooms are for future use, and Solomon shares Alben's room.
+> - The maps don't show a scale, so I'm taking the pit as **about 15 feet corner to corner**.
 
 ---
 
@@ -38,13 +77,13 @@ A narrow, deep **two-story** building on a street of other narrow, deep two-stor
 
 ### The Bar
 
-The first thing through the door: a **twelve-foot bar** of reclaimed ship's timber along the left wall, long enough for one man to work alone and no longer. Alben can see every table from behind it and every inch of the Pit from the end of it. He built it that way on purpose, and it's the same twelve feet he will keep at every church after this one.
+The first thing through the door: an **L-shaped bar** of reclaimed ship's timber in the north-west corner of the public room, with **twelve feet of working counter** on the long side, long enough for one man to work alone and no longer. Alben can see every table from behind it and every inch of the Pit from the end of it. He built it that way on purpose, and it's the same twelve feet he will keep at every church after this one.
 
 Behind it: a bamboo-handled shelf of **bamboo cups, mugs, and glasses of every standard bar type**, each one burned with the **C²** mark. He pours **Rambui** in a shot glass, always. Everything else goes in the glass that fits the drink. The customer chooses the drink, and Alben chooses the glass. See [The Ritual](../rambui/liquor.md#the-ritual-lets-have-a-drink) for the full ceremony. In a district where most drinks are watered and most cups are cracked, a full pour in a clean bamboo cup is a statement.
 
 ### The Pit
 
-A **sunken ring** in the middle of the floor, about **fifteen feet across**, with a rope around it and a sand floor Alben rakes himself. Bouts are for anyone who wants one, with two rules everyone learns the first night:
+A **hexagonal ring** in the middle of the public room, about **fifteen feet across**, with a thick **rope strung between six knotted posts** and a bare earth floor Alben rakes himself. The second-floor gallery opens onto it from above, so it's watched from two levels. Bouts are for anyone who wants one, with two rules everyone learns the first night:
 
 1. **Nobody dies in my house.**
 2. **Nobody stays broken past sunup.** (This is the [Nightly Promise](plans/littlechurch.md#the-nightly-promise), and in this district it gets used.)
@@ -53,14 +92,23 @@ Fighters here are mostly the district's own: bouncers, dock hands, off-duty guar
 
 ### The Shrine
 
-A **tankard-shaped icon on a scorched brandy cask**, in the corner nearest the Pit, with a shelf under it for offerings. Anyone may leave a drink there for the god. Alben prays here the way he brews and fights: out loud, mid-task, more conversation than ceremony. He calls the god **C²** to his face, and the god has not objected.
+The shrine is the **altar under the stairs**. The stair on the east wall climbs over a space shaped like a **right triangle**, and Alben built the shrine to fill it, because the shape is the creed of C²:
+
+| Part of the triangle | What it is | What it stands for |
+|---|---|---|
+| **The base** (floor line) | A low shelf and rail at floor level, where drinks are left, poured, and shared. A tankard-shaped icon sits on it, and the nightly saucer of Rambui stands here. | **Alcohol.** |
+| **The vertical wall** (beside the stairs' foot) | The **Ladder**: a list of champions carved or painted on the wall, with room left to add names. | **Battle.** |
+| **The hypotenuse** (the underside of the stairs) | The **altar** itself, a sloped surface that follows the angle of the stair above it. | **C²**, the sum of the two, where they meet. |
+
+The Ladder is a ladder in the fighting-game sense: **champions of the Pit, ranked.** A name goes up when someone wins a bout the house counts, and the order changes as challengers beat the ones above them. Alben paints new names himself. Anyone can challenge a name on the Ladder, and the Pit is where it's settled.
+
+Anyone may leave a drink at the base for the god. Alben prays here the way he brews and fights: out loud, mid-task, more conversation than ceremony. He calls the god **C²** to his face, and the god has not objected.
+
+> **GM Note.** How you rank the Ladder is open: bouts won, a points tally, or Alben's own call. The right-triangle shape and the Ladder's name are the fixed parts. If a rival name should appear, or Alben's own should, that's a hook for the table. It's also another place the **cats** sleep.
 
 ### The Still
 
-A **back room** behind the bar, behind a door that doesn't lock, holding **Alben's still**: squat, copper, and patched in three places (see [rambui.md](../rambui/rambui.md)). This is the first place Alben brews Rambui from a fixed floor instead of a saddle, so it's cluttered, it smells of scorched sugar and rambutan pulp, and nobody goes in without being asked. **Solomon's perch** is beside the still, where he does the QA taste test on every batch.
-
-> **GM Note — no cellar.** The ground floor sits on bedrock, so the still is a back room, not a basement, and this building has no [Sanctum](plans/distillerysanctum.md) cellar. If a later church adds one, that's a new build.
-
+The large **north-east back room**, with a doorway that doesn't lock, holding **Alben's still**: squat, copper, and patched in three places, with a big red fermenting vat and a cauldron beside it (see [rambui.md](../rambui/rambui.md)). It's open to the roof above, with no second floor over it. This is the first place Alben brews Rambui from a fixed floor instead of a saddle, so it's cluttered, it smells of scorched sugar and rambutan pulp, and nobody goes in without being asked. **Solomon's perch** is beside the still, where he does the QA taste test on every batch.
 
 ### Floors, Tables, and Chairs
 
@@ -95,7 +143,7 @@ Cleaning is done with **magic, not mops**. Alben has **Prestidigitation** prepar
 
 The building is **haunted by spectral cats**. Nobody told Alben when he bought it, and he has stopped asking whether that explains the price.
 
-There are somewhere between **six and a dozen**, and nobody has counted them twice with the same result. They are pale and slightly translucent, they glow faintly when the lights are low, and they pass through walls, furniture, and Alben. They don't speak, haunt anything, or frighten anyone who isn't already frightened. They sit on the bar, sleep on the shrine cask, watch the Pit from the rafters, and follow whoever looks the most tired.
+There are somewhere between **six and a dozen**, and nobody has counted them twice with the same result. They are pale and slightly translucent, they glow faintly when the lights are low, and they pass through walls, furniture, and Alben. They don't speak, haunt anything, or frighten anyone who isn't already frightened. They sit on the bar, sleep under the stairs on the altar, watch the Pit from the rafters, and follow whoever looks the most tired.
 
 **They knock things over.** About once a night, at the worst moment, a cat reaches out a paw and **pushes a drink off the bar, off a table, or out of someone's hand**. They never touch the Pit, the still, or anything that's bleeding. They only go after full cups.
 
@@ -119,17 +167,23 @@ There are somewhere between **six and a dozen**, and nobody has counted them twi
 
 ## Second Floor
 
-### Alben's Rooms
+### The Gallery
 
-A bedroom and a washroom at the back, with a window onto the yard. Alben's armor stand and a **shrine shelf** (a second, smaller icon of C²) stand by the bed. He sleeps lightly and wakes at the first sound from the bar.
+Most of the upper floor is a **pit-view gallery** open to the Pit below through a hexagonal gap in the floor. Six cheap sofas and round tables ring the opening, which are the best seats in the house. Long plank tables and benches line the west wall, and tables with stools sit along the south wall and behind the banner railing on the east side. Customers who want to watch without being in the crowd come up here. It's cleaned with the same cantrip as the rest.
 
-### The Quiet Rooms
+### Alben's Room
 
-Four narrow rooms at the front, each with **a plain wood-frame bed with a straw mattress, a lamp, a bar for the door that only works from the inside, and a window**. They're as cheap as the rest of the building, and Alben cleans them with the same cantrip. Anyone who needs somewhere to sleep, hide, or recover may have one: a fighter being patched up after a bout, a worker who has walked out of a house down the street, a stranger who just doesn't want to be found tonight. **Nobody pays. Nobody is asked why.** Alben does not run a guest house. He runs a place nobody can be kept in.
+Alben sleeps on the **ground floor**, in the north-west wing bedroom: a red-blanketed bed on tatami, a small table, and floor cushions. His armor stand and a small shrine shelf (a second, smaller icon of C²) stand by the bed. **Solomon shares the room**, with a perch and a dish of water by the bed and a tiny hatch in the wall onto [Solomon's Road](#solomons-road). It's right beside the kitchen, so Alben hears anyone who needs him.
 
-### Solomon's Rooms
+### The Kitchen
 
-A small shuttered nook off Alben's bedroom, with a perch, a dish of water, and a tiny hatch in the wall that opens onto [Solomon's Road](#solomons-road).
+The long **tatami strip** on the ground floor's west side is the **kitchen**: mats, a wash basin, a stove, and stacked bundles and crates. It's **for Alben and the party's food only. No food is served at the church.** The bar pours drink and nothing else.
+
+### The Two Upper Rooms
+
+The two small rooms in the north-west wing upstairs are **empty and kept for future use**.
+
+---
 
 ---
 
@@ -137,11 +191,11 @@ A small shuttered nook off Alben's bedroom, with a perch, a dish of water, and a
 
 Alben builds a duck-scale private route into every venue he owns, so Solomon can leave the building without crossing open floor. This is the first one built from scratch, not cut out of an old chute, and it follows the three rules Alben has always followed:
 
-1. **Every door opens from the inside.** No lock, latch, or bar on any door in this building can hold from the outside against someone who wants to leave. (The Quiet Rooms' bars work the other way: they keep people *out*.)
+1. **Every door opens from the inside.** No lock, latch, or bar on any door in this building can hold from the outside against someone who wants to leave. 
 2. **Never fewer than two ways out.** The street door and the roof ladder. Solomon's hatch is a third, for Solomon.
 3. **No ward may ever stop Solomon leaving.** There are no wards in the First Church. If there were, they would face inward only.
 
-The road itself is a **ten-inch-wide, fourteen-inch-tall** channel inside the party wall, running from Solomon's nook down to the back room and out under the yard fence. It's ordinary joinery: unlit, unwarded, and **Tiny creatures only**.
+The road itself is a **ten-inch-wide, fourteen-inch-tall** channel inside the wall, running from Alben's room in the north-west wing to the Still room and out under the yard fence. It's ordinary joinery: unlit, unwarded, and **Tiny creatures only**.
 
 In this district the rules mean more than they did anywhere Alben has lived. Most doors on this street lock from the outside. His don't, and everyone who works the street knows it within a month.
 
@@ -152,11 +206,39 @@ In this district the rules mean more than they did anywhere Alben has lived. Mos
 The district is loud after dark and quiet before noon, which suits a house that does its real business at night. A few things are true on this street, and Alben learns them the hard way:
 
 - **Every door is someone's.** The houses on both sides are run by people who have been here far longer than he has, and who watch the orc with the loud bar the way a landlord watches a new tenant.
-- **Debt is the real lock.** Plenty of people on the street can walk out any time and aren't free to. The First Church's rule is that nobody here owes anyone for sleeping in a Quiet Room, and that **no hand is laid on anyone leaving**, which the neighbors take as a challenge or a courtesy depending on the neighbor.
+- **Debt is the real lock.** Plenty of people on the street can walk out any time and aren't free to. The First Church's rule is that nobody here owes anyone for sleeping on the floor, and that **no hand is laid on anyone leaving**, which the neighbors take as a challenge or a courtesy depending on the neighbor.
 - **The watch looks away.** The district pays to be left alone. Alben notices, and has not decided yet what to do about it.
 - **The money is real.** The bar and Pit make coin from the first week, because the district has money and nowhere to spend it that isn't a trap.
 
 > **GM Note — names and politics.** No neighbors, madams, or officials are named here on purpose. Name them at the table, or add them to [Hooks](#hooks) as the story needs. The street is deliberately a blank to fill in.
+
+---
+
+## The Street Door
+
+A **double red door** in the south wall at the bottom-left (south-west) corner, under the paper lantern.
+
+| Door | Outside | Inside |
+|---|---|---|
+| **Left leaf** | marked **A2** | marked **C** |
+| **Right leaf** | marked **B2** | marked **C** |
+
+Both leaves open from the inside with a push. Every door in the building does (Solomon's first rule).
+
+---
+
+## Nights: Futons and the Quiet Floor
+
+There's **no separate quiet room**. By late night the **whole building is the quiet area.** **Futons** are stored rolled along the walls, and after the last bout they're pulled out and laid wherever there's floor, on the ground floor and the gallery above.
+
+Many people don't make it that far. They **pass out or get knocked out** and lie where they fell until they're healed or the morning meal. Alben steps round them at close and heals the hurt under the Promise. Nobody is moved, woken, or asked to leave.
+
+- **Nobody pays. Nobody is asked why.** There are no doors to lock, and none that can hold from the outside.
+- **Cleaning.** In the morning *Prestidigitation* handles the floor, futons and all, once everyone has gone.
+- **Breakfast.** The church serves none. In the morning Alben sends anyone still on a futon to a **local bakery he has a partnership with**, which feeds them. The kitchen stays for Alben's and the party's own food (see [The Kitchen](#the-kitchen)).
+- **Cats.** They sleep on whoever looks worst.
+
+> **GM Note — the bakery.** The bakery is deliberately **unnamed** and its terms are open (who pays, whether Alben supplies Rambui or custom, whether it's next door). Name it at the table, or add it to [Hooks](#hooks). Add it to the contacts list if it becomes a regular NPC.
 
 ---
 
@@ -167,7 +249,8 @@ The district is loud after dark and quiet before noon, which suits a house that 
 | **Dusk** | The lantern is lit, the Pit is raked, and the first regulars arrive. Alben claps his hands and asks the first stranger **"Let's have a drink. You want the usual?"** |
 | **Evening** | The bar fills. Rambui, the Cabinet, and whatever the Flask of Fellowship produces. Bouts start when two people want one. |
 | **Late night** | The main bout, the loudest hour. Fights end with a drink, not a grudge. |
-| **Before dawn** | The Pit empties. The Quiet Rooms are checked. Anyone still hurt is healed under the Promise. |
+| **Later** | **Futons** come out from along the walls and people sleep wherever there's floor (see [Nights](#nights-futons-and-the-quiet-floor)). |
+| **Before dawn** | The Pit empties. Alben goes round the floor and heals anyone still hurt under the Promise. |
 | **Sunup** | Alben stands on the roof with a cup and toasts the god. The lantern goes out. |
 
 ---
@@ -191,7 +274,7 @@ The purchase price is fixed at 4,500 gp. The conversion and stock figures are pl
 | Item | Cost |
 |---|---|
 | Purchase of the property | **4,500 gp** |
-| Conversion (Pit, bar, still room, Quiet Rooms) | 600 gp |
+| Conversion (Pit, bar, still room, kitchen, futon storage) | 600 gp |
 | Bar stock and the first batch of casks | 150 gp |
 | **Total** | **≈ 5,250 gp** |
 
@@ -202,7 +285,7 @@ Weekly takings are modest to start and rise fast once the Pit's reputation sprea
 ## Hooks
 
 - **The first neighbor.** Someone from the house next door comes to the bar, orders the usual, and asks politely what Alben thinks he's doing with all those doors.
-- **The walk-out.** A worker from a house down the street arrives at the door at three in the morning, still in costume, and asks for a Quiet Room. The house comes looking the next night.
+- **The walk-out.** A worker from a house down the street arrives at the door at three in the morning, still in costume, and asks for a futon. The house comes looking the next night.
 - **The debt fighter.** A brawler who loses every bout and is bleeding for someone else's gold. Alben heals them every time, which is how he finds out who holds the debt.
 - **The sponsors.** Several of Goka's wealthy and powerful have taken an interest in Alben since the Qualifiers. Which of them knows where the First Church is, and which of them is **pleased**?
 - **The cats.** Why does a house this size have a dozen ghost cats? Someone lived here, someone died here, and the district knows who. The cats might be waiting for them, or for something else.
@@ -230,5 +313,5 @@ The First Church is small by design, and by Alben's measure it's already too big
 - [liquor.md](../rambui/liquor.md): The drink-offering ritual and the bamboo glassware, which the cats occasionally interrupt
 - [rambui.md](../rambui/rambui.md): The brewing process the Still room supports
 - [background.md](../background.md): Alben's faith, Solomon, and his voice
-- [qualifiers.md](../qualifiers.md): Where Alben first met Goka's sponsors
+- [qualifiers.md](../session-notes.md): Where Alben first met Goka's sponsors
 - [inventory.md](../inventory.md): His gear, including the Collar of Empathy and Flask of Fellowship
