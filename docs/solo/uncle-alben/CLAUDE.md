@@ -41,6 +41,7 @@ docs/solo/uncle-alben/
       bigchurch.md          — the multistory Big Church the Little Church grows into
       megachurch.md         — the Accidental Cathedral: the Big Church run 24/7 as a compound with a casino (Cask House) and hotel (the Bunks); staff, Keepers of the Promise, cost estimates
       first-aspirant.md     — The First Aspirant, the first to join the Little Church
+      planarpalace.md       — future idea: a d20 table of twenty fighting venues from a daily wand of Planar Palace, cast at the opening ceremony
       staff.md              — C³ (Cayden Cailean Clergy) staffing and clerical structure
 
   rambui/
@@ -62,7 +63,7 @@ docs/solo/uncle-alben/
     foundryvttjson/       — FoundryVTT character export JSON(s) — source data for sheet updates
     images/               — finished/rendered character art and tokens
     raw/                  — in-progress or reference images awaiting processing
-    scripts/              — FoundryVTT macro scripts (e.g. liquor-roll.js, the drink-offering ritual roller; dailies.js, the daily spell casts; precombat.js, the short-duration pre-fight buffs)
+    scripts/              — FoundryVTT macro scripts (e.g. liquor-roll.js, the drink-offering ritual roller; dailies.js, the daily spell casts; precombat.js, the short-duration pre-fight buffs; arena-roll.js, the daily d20 for the Planar Palace arena)
 ```
 
 ---
