@@ -18,17 +18,17 @@ Alben did not go looking for the red light district. He went looking for a build
 
 He stayed because of the district, not in spite of it. The people who work this street are, by the plain reading of his god's edicts, the people he is supposed to aid: **drink, aid the oppressed, seek glory and adventure.** There is a lot to drink here, a lot of oppression, and a fight in every alley.
 
-The building also came with **cats**. They are dead, they are friendly, and they were here first (see [The Cats](#the-cats)). The building is a **church** in every way that matters to him and in none that the district's licensing officials would recognize. The sign says **Uncle Albens**. The regulars say *Church*, and the neighbors say *the orc's place*. The staff, such as it is, are the beginning of **C³**: the clergy of C². At this point that is Alben, Solomon, and whoever has decided to stay.
+The building also came with **cats**. They are dead, they are friendly, and they were here first (see [The Cats](#the-cats)). The building is a **church** in every way that matters to him and in none that the district's licensing officials would recognize. The sign says **Uncle Albens**. The regulars say *Church*, and the neighbors say *the orc's place*. The staff, such as it is, are the beginning of **C³**: the clergy of C². At this point that is Alben, Solomon, and whoever has decided to stay. And maybe the cats.
 
 ---
 
 ## The Property
 
-A narrow, deep **two-story** building on a street of other narrow, deep two-story buildings, **55 feet wide and 70 feet deep** (3,850 square feet a floor, 7,700 across both), with a flat roof and a back yard the size of a cart. Timber frame over a stone ground floor, shared walls on both sides, and a front door under a paper lantern like every other door on the street. Alben has not yet replaced the lantern. Everything else he has.
+A narrow, deep **two-story** building on a street of other narrow, deep two-story buildings, **55 feet wide and 70 feet deep** (3,850 square feet a floor, 7,700 across both), with a flat roof and a back yard the size of a cart. Stone & timber frame over a wooden ground floor, shared walls on both sides, and a front door under a pair of paper lanterns like every other door on the street. Alben has not yet replaced the lantern. Everything else he has.
 
 | Floor | Use |
 |---|---|
-| **Ground floor** | The public room with the Pit and the Bar, the Still and its vats, a cask store, the ruining room, the kitchen, and Alben's bedroom. |
+| **Ground floor** | The public room with the Pit and the Bar, the Still and its vats, a cask store, the ruining room, the kitchen, and Alben's bedroom. Also holds the entrance to the planar palace arena in the future. |
 | **Second floor** | A pit-view gallery open to the Pit below, plus two small rooms in the north-west corner, kept for future use. |
 | **Roof** | Green-tiled over the north-west wing. The second way out is the roof ladder. |
 
