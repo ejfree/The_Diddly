@@ -51,7 +51,7 @@ The footprint is **generally rectangle**: a main block with a **north-west wing*
 | Area | What the plan shows |
 |---|---|
 | **North-west wing** | A bedroom: a red-blanketed bed on tatami matting, a small rug and table, and floor cushions. This is **Alben's room**, which Solomon shares. |
-| **Left strip** (west side) | A long room of **tatami mats** in two rows, with a wash basin and a stove or hearth on the west wall and stacked bundles and crates beside it. This is the **kitchen** (see below). |
+| **Left strip** (west side) | A long room of **tatami mats** in two rows, with a wash basin and a stove or hearth on the west wall and stacked bundles and crates beside it. This is the **kitchen**. |
 | **Ruining Room** (middle) | A walled room with **three barrels**, sacks, and a glowing purple-and-green contraption on a bench. This is his secret Rambui process. |
 | **The Still** (north-east) | The large back room: a **copper still with a lit firebox**, a **big red fermenting vat on a ladder stand**, a large cauldron, baskets of **red and green fruit**, and two water barrels. It is open to 2nd story above. |
 | **Back counter** | A row of four storage racks and an L-shaped counter along the wall dividing the Still room from the public room. This is where the stock and the liquor Cabinet are kept. |
@@ -82,7 +82,7 @@ Behind it: a bamboo-handled shelf of **bamboo cups, mugs, and glasses of every s
 A **hexagonal ring** in the middle of the public room, about **fifteen feet across**, on a **slightly raised platform, only 6 inches high**. The platform has **ramps** whose profile is a perfect **6-8-10 right triangle**: a **6-inch rise**, an **8-inch base**, and a **10-inch ramp**. It's steep on purpose. A thick **rope is strung between six knotted posts**, and the floor is bare earth that Alben rakes himself. The second-floor gallery opens onto it from above, so it's watched from two levels. Bouts are for anyone who wants one, with two rules everyone learns the first night:
 
 1. **Nobody dies in my house.**
-2. **Nobody stays broken past sunup.** (This is the [Nightly Promise]  directly below)
+2. **Nobody stays broken past sunup.**
 
 Fighters here are mostly the district's own: bouncers, dock hands, off-duty guards, and the occasional debt-bound brawler who fights for someone else's purse. Alben notes which ones those are.
 

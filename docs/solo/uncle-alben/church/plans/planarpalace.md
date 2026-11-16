@@ -1,6 +1,6 @@
 ---
 title: Uncle Alben — Planar Palace Expansions (Future Idea)
-updated: 2026-11-28
+updated: 2026-11-29
 tags: ["solo", "uncle-alben", "pf2e", "location", "goka", "church", "planning"]
 ---
 
@@ -10,7 +10,9 @@ tags: ["solo", "uncle-alben", "pf2e", "location", "goka", "church", "planning"]
 
 ## The Daily Roll
 
-Roll **1d20** at the opening ceremony each day to choose the day's arena. In actuality, Uncle Alben spins a wheel beside the portal and whatever it lands on is the choice for the day. The [Foundry macro](../../assets/scripts/arena-roll.js) does it and posts the result to chat.
+There are **two lists of twenty arenas**: **The Planes** and **The Realms**. Alben picks the list for the day, or rolls a d2 on the wheel (1 = Planes, 2 = Realms). Then roll **1d20** at the opening ceremony each day to choose the day's arena. In actuality, Uncle Alben spins a wheel beside the portal and whatever it lands on is the choice for the day. The [Foundry macro](../../assets/scripts/arena-roll.js) does it and posts the result to chat.
+
+**List 1: The Planes.** Twenty arenas inspired by Pathfinder planes and places.
 
 | d20 | Arena | Inspiration | In one line |
 |---|---|---|---|
@@ -35,6 +37,32 @@ Roll **1d20** at the opening ceremony each day to choose the day's arena. In act
 | 19 | [The Forge of the Metal Plane](#19-the-forge-of-the-metal-plane) | Plane of Metal | Magnetic floor punishes armor |
 | 20 | [The Accidental Hall](#20-the-accidental-hall) | Elysium | A joyful tavern brawl |
 
+
+**List 2: The Realms.** Twenty arenas inspired by places in the Forgotten Realms. The mechanics are Pathfinder 2e.
+
+| d20 | Arena | Place |
+|---|---|---|
+| 1 | [Undermountain](#r1-undermountain) | Waterdeep |
+| 2 | [The Yawning Portal](#r2-the-yawning-portal) | Waterdeep |
+| 3 | [The Elfsong Tavern](#r3-the-elfsong-tavern) | Baldur's Gate |
+| 4 | [Menzoberranzan](#r4-menzoberranzan) | The Underdark |
+| 5 | [Candlekeep](#r5-candlekeep) | The Sword Coast |
+| 6 | [The Field of Triumph](#r6-the-field-of-triumph) | Waterdeep |
+| 7 | [The Steaming River](#r7-the-steaming-river) | Neverwinter |
+| 8 | [Port Nyanzaru](#r8-port-nyanzaru) | Chult |
+| 9 | [Skullport](#r9-skullport) | The Underdark |
+| 10 | [The Sands of Anauroch](#r10-the-sands-of-anauroch) | The North |
+| 11 | [The Pirate Docks of Luskan](#r11-the-pirate-docks-of-luskan) | Luskan |
+| 12 | [Myth Drannor](#r12-myth-drannor) | Cormanthor |
+| 13 | [Mithral Hall](#r13-mithral-hall) | The North |
+| 14 | [The Red Wizard Enclave](#r14-the-red-wizard-enclave) | Thay |
+| 15 | [The Berserker Lodge](#r15-the-berserker-lodge) | Rashemen |
+| 16 | [The Standing Stones](#r16-the-standing-stones) | Moonshae Isles |
+| 17 | [Dragonspear Castle](#r17-dragonspear-castle) | The Sword Coast |
+| 18 | [The Royal Court of Suzail](#r18-the-royal-court-of-suzail) | Cormyr |
+| 19 | [Blackstaff Tower](#r19-blackstaff-tower) | Waterdeep |
+| 20 | [The Pasha's Pavilion](#r20-the-pashas-pavilion) | Calimshan |
+
 ## Tuning the Arenas
 
 Every arena has a **circumstance bonus** (**+B**) and a **hazard**, and both scale together with the **arena level**. **Alben sets the level**, in the morning before the roll, to match who is fighting that day. Pick one of five settings:
@@ -57,7 +85,7 @@ The casting is a **formal ceremony every day**, and it is what officially **open
 - **The fight cards** hang on **boards flanking it**, one on the **left** and one on the **right**. The cards list the day's bouts, with the arena named at the top, once it's rolled.
 - **The sequence.** Alben lights the front lanterns and rakes the Pit. He **spins the wheel** in front of whoever is there. He **imagines the rolled arena** and **casts the wand** (one minute), and the shimmering doorway rises in the center of the wall. The cards go up on the boards, and he pours a drink at the **altar** and puts the offering bucket out.
 - **After the casting,** the **church is open.** The doorway stays up until the next daily preparations.
-- **The designs.** Alben has **twenty arenas rehearsed**, so the roll only decides which one he imagines as he casts. See [What the Spell Gives Him](#what-the-spell-gives-him).
+- **The designs.** Alben has **forty arenas rehearsed**, twenty from each list,, so the roll only decides which one he imagines as he casts. See [The Idea](#the-idea).
 
 ## The Idea
 
@@ -293,6 +321,211 @@ A vast timber tavern hall with a fire that never burns down in a hearth at the r
 
 - **Bonus:** +B circumstance bonus to Diplomacy checks.
 - **Hazard:** At the end of each round the crowd surges. A fighter makes a Fortitude save or takes hazard bludgeoning damage (nonlethal) and is pushed 5 feet.
+
+
+## The Realms Arenas
+
+Twenty more arenas, inspired by places in the **Forgotten Realms**. They use the same layout, the same tuning, and the same Pathfinder 2e rules as the first twenty. The lore is from memory and I haven't checked it, so adjust the details to taste.
+
+### R1. Undermountain
+
+**Inspiration:** **Waterdeep**, Waterdeep's vast dungeon beneath the city, built by the mad wizard Halaster Blackcloak.
+
+A **maze of ancient stone halls** under a mad wizard's mountain, with flagstones that tilt and doors that open onto nothing. The combat floor is a **square hall of trapped flagstones**. The side terraces are carved stone alcoves, and the rear tables sit in a ruined guardroom. The servants are **animated suits of armor** carrying trays.
+
+- **The twist:** a few flagstones drop away as the bout goes on, leaving shallow pits, and the GM marks which ones.
+- **Bonus:** +B circumstance bonus to Perception checks to find traps and hidden pits.
+- **Hazard:** At the start of each round a flagstone drops. A fighter standing on it makes a Reflex save or falls into a pit and takes hazard bludgeoning damage.
+
+### R2. The Yawning Portal
+
+**Inspiration:** **Waterdeep**, Waterdeep's famous tavern, built around a great well that descends into Undermountain.
+
+A **crowded stone tavern** built around a **great round well** in the middle of the combat floor, with a rope-and-pulley platform at its rim. The side terraces are tavern balconies and benches, and the rear tables are the long common room. The servants are **tavern keepers** in leather aprons.
+
+- **The twist:** a shove can send a fighter over the lip of the well to a ledge ten feet down, and something lives below.
+- **Bonus:** +B circumstance bonus to Athletics checks to Shove.
+- **Hazard:** At the end of each round something lunges up out of the well. A fighter within 10 feet of the well makes a Reflex save or takes hazard slashing damage.
+
+### R3. The Elfsong Tavern
+
+**Inspiration:** **Baldur's Gate**, a dockside tavern in Baldur's Gate, haunted by a ghostly elven voice that sings through the room.
+
+A **smoky seaside tavern** with a low beamed ceiling, a **faint elven song** drifting through the room, and a ring of worn boards for a combat floor. The side terraces are balcony benches, and the rear tables are lamplit and close. The servants are **weathered dockside barkeeps**.
+
+- **The twist:** the ghostly song swells and fades, and its mood sways the fight.
+- **Bonus:** +B circumstance bonus to Performance checks.
+- **Hazard:** At the end of each round the song swells to a wail. A fighter makes a Will save or takes hazard mental damage and is frightened 1.
+
+### R4. Menzoberranzan
+
+**Inspiration:** **The Underdark**, the great drow city of the Underdark, carved into towering stalagmites.
+
+A **vast cavern** of **carved stalagmite spires** aglow with violet faerie fire, with silk webs strung between the stalactites above. The combat floor is a plaza of black stone. The side terraces are carved stalagmite ledges, and the rear tables sit on a noble's balcony. The servants are **silent drow attendants** in spidersilk.
+
+- **The twist:** faerie fire outlines every fighter, so nothing can hide.
+- **Bonus:** +B circumstance bonus to Perception checks.
+- **Hazard:** At the start of each round webs drop from the stalactites. A fighter makes a Reflex save or takes hazard poison damage from the venom and is immobilized until the end of its next turn.
+
+### R5. Candlekeep
+
+**Inspiration:** **The Sword Coast**, the great library-fortress on the Sword Coast, whose keepers prize knowledge above gold.
+
+A **vast library** of towering shelves and reading galleries, with a marble atrium for the combat floor. The side terraces are the reading galleries, and the rear tables are long reading tables with brass lamps. The servants are **ink-stained scribes** who pour wine from carafes.
+
+- **The twist:** the stacks line the floor, and a fight in a library is a quiet, furious thing.
+- **Bonus:** +B circumstance bonus to Recall Knowledge checks.
+- **Hazard:** At the end of each round a heavy shelf topples. A fighter next to the stacks makes a Reflex save or takes hazard bludgeoning damage and is knocked prone.
+
+### R6. The Field of Triumph
+
+**Inspiration:** **Waterdeep**, Waterdeep's great tournament field, where champions joust and compete under heralds.
+
+A **sand-floored tournament field** ringed by banners and heralds' stands. The side terraces are grandstand tiers, and the rear tables are the nobles' boxes, hung with silk. The servants are **pages and heralds** in tabards.
+
+- **The twist:** heralds announce each hit and the crowd's cheering carries the fight.
+- **Bonus:** +B circumstance bonus to Performance checks.
+- **Hazard:** At the end of each round a runaway warhorse thunders across the sand. A fighter in its path makes a Reflex save or takes hazard bludgeoning damage and is knocked prone.
+
+### R7. The Steaming River
+
+**Inspiration:** **Neverwinter**, Neverwinter, the Jewel of the North, whose river never freezes.
+
+A **stone quay** beside a **steaming river**, with arched bridges and warm mist curling over wet flagstones. The side terraces are stone steps down to the water, and the rear tables are riverside cafe tables. The servants are **river-folk** carrying warm drinks.
+
+- **The twist:** the mist hangs in patches, so a fighter can vanish in it for a moment.
+- **Bonus:** +B circumstance bonus to Stealth checks.
+- **Hazard:** At the end of each round a vent of scalding steam bursts. A fighter makes a Reflex save or takes hazard fire damage.
+
+### R8. Port Nyanzaru
+
+**Inspiration:** **Chult**, the jungle port of Chult, ruled by merchant princes and famed for its dinosaur races.
+
+A **sandy ring** beside a **dinosaur pen** of rough bamboo, under a canopy of palm and awnings. The side terraces are bamboo tiers, and the rear tables are the merchant princes' boxes. The servants are **Chultan traders** pouring palm wine.
+
+- **The twist:** dinosaur handlers keep a few beasts in the pen, and they watch the fight with interest.
+- **Bonus:** +B circumstance bonus to Nature checks.
+- **Hazard:** At the start of each round a dinosaur lunges against its pen chain. A fighter within 10 feet of the pen makes a Reflex save or takes hazard piercing damage and is knocked prone.
+
+### R9. Skullport
+
+**Inspiration:** **The Underdark**, the lawless smuggler port beneath Waterdeep, lit by skull-shaped lanterns.
+
+A **dark cavern harbor** of black water and rotting piers, lit by **skull-shaped lanterns**, with a plank dock for the combat floor. The side terraces are stacked crates and gantries, and the rear tables are a smugglers' tavern. The servants are **smugglers and brokers**, all of whom want something.
+
+- **The twist:** everyone in the room is selling something, and the lanterns burn with strange flames.
+- **Bonus:** +B circumstance bonus to Thievery checks.
+- **Hazard:** At the end of each round a skull lantern gutters out a gout of foul gas. A fighter makes a Fortitude save or takes hazard poison damage and is sickened 1.
+
+### R10. The Sands of Anauroch
+
+**Inspiration:** **The North**, the great desert of the North, with the ruins of fallen Netheril under its dunes.
+
+A **ruined stone arena** half-buried in **red dunes**, with a hot wind and a bleached sky overhead. The side terraces are crumbling steps, and the rear tables sit in a broken colonnade. The servants are **desert nomads** in veils with waterskins.
+
+- **The twist:** the dunes slide, burying the edges of the arena.
+- **Bonus:** +B circumstance bonus to Survival checks.
+- **Hazard:** At the end of each round a sand-slide surges across the floor. A fighter makes a Reflex save or takes hazard bludgeoning damage and has its Speed reduced by 10 feet until the end of its next turn.
+
+### R11. The Pirate Docks of Luskan
+
+**Inspiration:** **Luskan**, Luskan, the City of Sails, a pirate port ruled by rival captains.
+
+The **decks of two lashed pirate ships** rocking on harbor swells, under tarred rigging and lanterns. The combat floor is the plank deck between them. The side terraces are rigging platforms and rail seats, and the rear tables sit on the stern castle. The servants are **sailors** with grog and rope-burned hands.
+
+- **The twist:** swells tilt the deck, and the ships groan together.
+- **Bonus:** +B circumstance bonus to Acrobatics checks to Balance.
+- **Hazard:** At the end of each round a heavy swell rolls the deck. A fighter makes a Reflex save or falls prone and slides 10 feet, taking hazard bludgeoning damage if it hits the rail.
+
+### R12. Myth Drannor
+
+**Inspiration:** **Cormanthor**, the fallen elven city of Cormanthor, whose mythal still shimmers with ancient magic.
+
+The **moonlit ruins** of white elven stone under a **shimmering dome of magic**, with ivy over tumbled arches. The combat floor is a courtyard of pale flagstones. The side terraces are fallen galleries, and the rear tables sit in a ruined feast hall. The servants are **sprites** with tiny silver cups.
+
+- **The twist:** the old magic hums in the air and answers a fighter's temper.
+- **Bonus:** +B circumstance bonus to Reflex saves.
+- **Hazard:** At the end of each round the mythal flares. A fighter makes a Will save or takes hazard spirit damage and is dazzled until the end of its next turn.
+
+### R13. Mithral Hall
+
+**Inspiration:** **The North**, the dwarven stronghold of Clan Battlehammer, carved from a mountain of mithral.
+
+A **great dwarven hall** of gleaming, mithral-veined stone, with thick carved pillars and **mine rails** running across the combat floor. The side terraces are broad stone steps, and the rear tables are long feasting tables. The servants are **dwarven brewers** with copper tankards.
+
+- **The twist:** mine carts rattle along the rails and echo down the hall.
+- **Bonus:** +B circumstance bonus to Fortitude saves.
+- **Hazard:** At the end of each round a runaway mine cart thunders down the rails across the floor. A fighter in its path makes a Reflex save or takes hazard bludgeoning damage and is knocked prone.
+
+### R14. The Red Wizard Enclave
+
+**Inspiration:** **Thay**, Thay, the land of the Red Wizards, a necromantic enclave ruled by zulkirs.
+
+A **black-stone ritual hall** under red banners, with **bone lanterns** hanging from iron chains. The side terraces are tiers of obsidian, and the rear tables are the red-robed enclave seats. The servants are **skeletons** in red livery.
+
+- **The twist:** the dead serve and the dead watch, and the lanterns burn with a cold light.
+- **Bonus:** +B circumstance bonus to Will saves.
+- **Hazard:** At the end of each round skeletal hands claw up from the floor. A fighter makes a Fortitude save or takes hazard void damage and is enfeebled 1 until the end of its next turn.
+
+### R15. The Berserker Lodge
+
+**Inspiration:** **Rashemen**, Rashemen, the land of berserker lodges and the Witches who rule with wild spirits.
+
+A **great log lodge** with a central firepit, hung with bear skins and war trophies. The combat floor is a packed-earth ring around the fire. The side terraces are log tiers, and the rear tables are the long Witches' table. The servants are **bearded mead-bearers**.
+
+- **The twist:** bear-skin cloaks and wild songs make every bout feel older than it is.
+- **Bonus:** +B circumstance bonus to Athletics checks to Grapple.
+- **Hazard:** At the end of each round a spirit bear's claws rake the floor. A fighter makes a Reflex save or takes hazard slashing damage.
+
+### R16. The Standing Stones
+
+**Inspiration:** **Moonshae Isles**, the Moonshae Isles, where druids keep ancient standing stones and the Moonwell.
+
+A **circle of standing stones** on a windswept hill under storm clouds, with a **still pool** at its center. The side terraces are turf banks, and the rear tables are flat boulders. The servants are **druidic attendants** in woven cloaks.
+
+- **The twist:** the weather changes with the fight, and the stones hum before every strike of lightning.
+- **Bonus:** +B circumstance bonus to Nature checks.
+- **Hazard:** At the end of each round a bolt of lightning strikes a standing stone. A fighter within 10 feet of the stones makes a Reflex save or takes hazard electricity damage.
+
+### R17. Dragonspear Castle
+
+**Inspiration:** **The Sword Coast**, a ruined castle in the North, a broken fortress of tumbled walls.
+
+A **ruined fortress** of broken battlements and tumbled walls, with a gatehouse at the rear and a sky of grey cloud. The side terraces are wall stubs and rubble steps, and the rear tables sit in the gatehouse. The servants are **grizzled mercenaries** with flasks.
+
+- **The twist:** the old walls are ready to fall, and everyone knows it.
+- **Bonus:** +B circumstance bonus to Athletics checks to Climb.
+- **Hazard:** At the end of each round a stretch of battlement crumbles. A fighter near the walls makes a Reflex save or takes hazard bludgeoning damage and is knocked prone.
+
+### R18. The Royal Court of Suzail
+
+**Inspiration:** **Cormyr**, Suzail, the capital of Cormyr, home of the Purple Dragon knights and the War Wizards.
+
+A **marble royal court** hung with purple banners, with a polished floor for combat. The side terraces are court galleries, and the rear tables are the nobles' tables, set with silver. The servants are **pages** in royal livery.
+
+- **The twist:** the Purple Dragons stand watch and the War Wizards ward the room.
+- **Bonus:** +B circumstance bonus to Diplomacy checks.
+- **Hazard:** At the end of each round a War Wizard's ward discharges. A fighter makes a Will save or takes hazard force damage.
+
+### R19. Blackstaff Tower
+
+**Inspiration:** **Waterdeep**, the tower of the Blackstaff, Waterdeep's archmage, whose wards are legendary.
+
+A **spiral tower hall** of black stone, with floating books, glowing sigils, and a huge arcane lens overhead. The side terraces are curved galleries, and the rear tables are study desks. The servants are **floating, enchanted trays** with a polite voice.
+
+- **The twist:** the wards crackle at anyone who stands still.
+- **Bonus:** +B circumstance bonus to Recall Knowledge checks.
+- **Hazard:** At the end of each round the tower's wards crackle. A fighter makes a Reflex save or takes hazard force damage.
+
+### R20. The Pasha's Pavilion
+
+**Inspiration:** **Calimshan**, Calimshan, the land of genies, where noble families are served by them.
+
+A **pavilion of silk and bronze lamps** on a sandstone terrace, with cushions piled high. The side terraces are cushioned tiers, and the rear tables are the pasha's divan and low brass tables. The servants are **minor djinn** in silk.
+
+- **The twist:** wishes are hinted at and never quite granted.
+- **Bonus:** +B circumstance bonus to Deception checks.
+- **Hazard:** At the end of each round a genie's wish-fire flares from a lamp. A fighter makes a Reflex save or takes hazard fire damage.
 
 ---
 

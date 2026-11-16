@@ -41,7 +41,7 @@ docs/solo/uncle-alben/
       bigchurch.md          — the multistory Big Church the Little Church grows into
       megachurch.md         — the Accidental Cathedral: the Big Church run 24/7 as a compound with a casino (Cask House) and hotel (the Bunks); staff, Keepers of the Promise, cost estimates
       first-aspirant.md     — The First Aspirant, the first to join the Little Church
-      planarpalace.md       — future idea: a d20 table of twenty fighting venues from a daily wand of Planar Palace, cast at the opening ceremony
+      planarpalace.md       — future idea: two d20 tables (the Planes and the Forgotten Realms) of fighting venues from a daily wand of Planar Palace, cast at the opening ceremony
       staff.md              — C³ (Cayden Cailean Clergy) staffing and clerical structure
 
   rambui/
