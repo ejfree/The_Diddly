@@ -143,10 +143,6 @@ Cleaning is done with **magic, not mops**. Alben has **Prestidigitation** prepar
 - It cleans the **floor**, not the **damage**. The broken stools, curling mat, and warped boards are still there in the morning.
 - The cats like a clean table, and they appear to knock over drinks on the freshly cleaned ones first.
 
-> **GM Note — Mechanics.** *Prestidigitation* cleans a small amount of material per cast (about 1 cubic foot, so a table, a stool, or a few square feet of floor). It's a cantrip, so it has no daily limit, but the room is too big to clean in one round. Treat the closing clean as a **downtime beat of about 10 minutes**, not a roll. If the Aspirants or other staff are available, they can't do it. They don't have the spell, and mops are what the district does everywhere else.
->
-> The stain, the furniture, and the floor are **assumptions** that can be changed. What matters is the look: **cheap, mismatched, scarred, and clean by magic.**
-
 ---
 
 ## The Cats
@@ -163,15 +159,6 @@ There are somewhere between **six and a dozen**, and nobody has counted them twi
 - **He leaves a saucer at the shrine.** Every night, a full saucer of Rambui. By morning it's empty and the saucer is dry.
 - **He talks to them.** Out loud, mid-task, more conversation than ceremony, the same way he talks to the god. He's decided the two aren't unrelated.
 - **Solomon is not worried.** The Collar of Empathy gives Alben a clear read of the duck's mood around the cats, and it is **curious and a little smug**, never afraid. The cats have never touched the duck, and Solomon has never been seen to touch them either.
-
-### In Play
-
-> **GM Note — Mechanics.** The cats are **flavor with a nuisance edge**, not a haunt to solve or a hazard. Treat them as friendly, incorporeal, and harmless. They can't be attacked, turned, or banished in any way Alben would accept.
->
-> - **The Spill.** Once per night, or whenever a scene wants a beat, a cat knocks over one drink. Call for nothing. The drink is lost, and the owner gets a free replacement. If a PC is holding a drink they care about (a called drink from the Flask of Fellowship, or a Cabinet pour), the GM may give them a **DC 15 Reflex save** to catch it as a free action. Alben never makes the save.
-> - **The Ceremony.** A cat may reach for the cup mid-pour, which interrupts [the ritual](../rambui/liquor.md#the-ritual-lets-have-a-drink). A spilled ceremony cup doesn't cost the guest their bonus. Alben starts again, and the guest gets a **free retry** on the beat that broke.
-> - **Tired people.** The cats gather around anyone who is hurt, grieving, or exhausted. A GM who wants a quiet hint that someone in the room needs help can have three cats settle on them.
-> - **Why they're here** is deliberately left open (see [Hooks](#hooks)).
 
 ---
 
@@ -195,8 +182,6 @@ The two small rooms in the north-west wing upstairs are **empty and kept for fut
 
 ---
 
----
-
 ## Solomon's Road
 
 Alben builds a duck-scale private route into every venue he owns, so Solomon can leave the building without crossing open floor. This is the first one built from scratch, not cut out of an old chute, and it follows the three rules Alben has always followed:
@@ -216,22 +201,19 @@ In this district the rules mean more than they did anywhere Alben has lived. Mos
 The district is loud after dark and quiet before noon, which suits a house that does its real business at night. A few things are true on this street, and Alben learns them the hard way:
 
 - **Every door is someone's.** The houses on both sides are run by people who have been here far longer than he has, and who watch the orc with the loud bar the way a landlord watches a new tenant.
-- **Debt is the real lock.** Plenty of people on the street can walk out any time and aren't free to. The Church's rule is that nobody here owes anyone for sleeping on the floor, and that **no hand is laid on anyone leaving**, which the neighbors take as a challenge or a courtesy depending on the neighbor.
-- **The watch looks away.** The district pays to be left alone. Alben notices, and has not decided yet what to do about it.
-- **The money is real.** The bar and Pit make coin from the first week, because the district has money and nowhere to spend it that isn't a trap.
-
-> **GM Note — names and politics.** No neighbors, madams, or officials are named here on purpose. Name them at the table, or add them to [Hooks](#hooks) as the story needs. The street is deliberately a blank to fill in.
+- **Criminal element is unknown.** Who is in charge?
+- **What about the city watch?** And other interactions
 
 ---
 
 ## The Street Door
 
-A **double red door** in the south wall at the bottom-left (south-west) corner, under the paper lantern.
+A **double red door** in the south wall at the bottom-left (south-west) corner, under the paper lanterns.
 
 | Door | Outside | Inside |
 |---|---|---|
-| **Left leaf** | marked **A2** | marked **C** |
-| **Right leaf** | marked **B2** | marked **C** |
+| **Left leaf** | marked **A2** | marked **C2 in the middle** |
+| **Right leaf** | marked **B2** | marked **C2 in the middle** |
 
 Both leaves open from the inside with a push. Every door in the building does (Solomon's first rule).
 
@@ -243,9 +225,9 @@ There's **no separate quiet room**. By late night the **whole building is the qu
 
 Many people don't make it that far. They **pass out or get knocked out** and lie where they fell until they're healed or the morning meal. Alben steps round them at close and heals the hurt under the Promise. Nobody is moved, woken, or asked to leave.
 
-- **Nobody pays. Nobody is asked why.** There are no doors to lock, and none that can hold from the outside. Many offerings are left on the altar to C² on the way out. 
+- **Nobody pays. Nobody is asked why.** There are no doors to lock, and none that can hold from the outside. Many offerings are left on the altar to C² on the way out however. 
 - **Cleaning.** In the morning *Prestidigitation* handles the floor, futons and all, once everyone has gone.
-- **Breakfast.** The church serves none. In the morning Alben sends anyone still on a futon to a **local bakery he has a partnership with**, which feeds them. The kitchen stays for Alben's and the party's own food (see [The Kitchen](#the-kitchen)).
+- **Breakfast.** The church serves none. In the morning Alben sends anyone still on a futon to a **local bakery he is trying to work out a partnership with**, which will feeds them in exchange for free drinks and the making of a fine rambui bread using the cast off mash. The kitchen stays for Alben's and the party's own food (see [The Kitchen](#the-kitchen)).
 - **Cats.** They sleep on whoever looks worst.
 
 > **Note — the bakery.** The bakery is deliberately **unnamed** and its terms are open (who pays, whether Alben supplies Rambui or custom, whether it's next door). This is an ongoing negotiation and is intended.
@@ -256,12 +238,12 @@ Many people don't make it that far. They **pass out or get knocked out** and lie
 
 | Hour | What's happening |
 |---|---|
-| **Dusk** | The lantern is lit, the Pit is raked, and the first regulars arrive. Alben claps his hands and asks the first stranger **"Let's have a drink. You want the usual?"** |
+| **Dusk** | The lanterns are lit, the Pit is raked, and the first regulars arrive. Alben claps his hands and asks the first stranger **"Let's have a drink. You want the usual?"** |
 | **Evening** | The bar fills. Rambui, the Cabinet, and whatever the Flask of Fellowship produces. Bouts start when two people want one. |
 | **Late night** | The main bout, the loudest hour. Fights end with a drink, not a grudge. |
 | **Later** | **Futons** come out from along the walls and people sleep wherever there's floor (see [Nights](#nights-futons-and-the-quiet-floor)). |
 | **Before dawn** | The Pit empties. Alben goes round the floor and heals anyone still hurt under the Promise. |
-| **Sunup** | Alben stands on the roof with a cup and toasts the god. The lantern goes out. |
+| **Sunup** | Alben stands on the roof with a cup and toasts the god. The lanterns goe out. |
 
 ---
 
@@ -269,7 +251,7 @@ Many people don't make it that far. They **pass out or get knocked out** and lie
 
 Everything is officially sanciton through a betting parlor to be named later. As part of the agreement, Uncle Alben gets an X% rake of all bets . All fight details are listed in detail before the bouts begain. Pre-combat buffs are 100% allowed however, they are part of the listed "tale of the tape" for all competitors. Any 2 combatants can agree on the terms of their bout, buffs etc, then the odds are set by the betting parlor. It is all very official and proper. Alben is insistent on that. 
 
-Alben also encourages all local casters to visit and sell buffs to the combatants. 15% to the house for all buffs/spells cast. Everything has a pre-arranged fee and it is at the bottom of the price list. Church is a great place to dump unused spell slots for a day. 
+Alben also encourages all local casters to visit and sell buffs to the combatants. Proces are 20% off pf2e list with a 5% kickback into the offering cask. Everything has a pre-arranged fee and it is at the bottom of the price list. Church is a great place to dump unused spell slots for a day. 
 
 ---
 
@@ -284,12 +266,12 @@ How a bout works from the challenge to the payout. Prices, the betting cut, and 
 3. **Odds.** The **betting parlor** sets the odds from the tale of the tape. The tape is fixed once the bell rings.
 4. **Bell.** Alben calls it. He referees from the end of the bar, or from the rope.
 5. **End.** The bout ends when a fighter **yields**, drops to **0 HP**, or Alben calls it. A fighter at 0 HP is **stabilized on the spot** (see [The Nightly Promise](#the-nightly-promise)).
-6. **Payout.** The parlor pays out, and the **offering bucket** is filled first (see below).
+6. **Payout.** The parlor pays out, and the **offering cask** is filled first (see below).
 
 ### 2. Betting
 
 - **Everything goes through the betting parlor**, which is still **to be named**. Nothing is bet outside it.
-- **Alben's rake:** **X% of all bets**, still undecided. It's the church's cut, in addition to the offering bucket below.
+- **Alben's rake:** **X% of all bets**, still undecided. It's the church's cut, in addition to the offering cask below.
 - **The tale of the tape is public.** Buffs are 100% allowed and are listed for both fighters, so the odds aren't a surprise.
 - **Fighters don't bet on their own bouts** without it being posted.
 
@@ -297,9 +279,9 @@ How a bout works from the challenge to the payout. Prices, the betting cut, and 
 
 Alben **encourages local casters** to visit and sell buffs to combatants. It's also a good place for a caster to **dump unused spell slots** for the day.
 
-**The price list.** The base prices are the standard [Spellcasting service prices](https://2e.aonprd.com/Equipment.aspx?ID=2771) (Player Core p. 295). The church sells at **20% off list**. Alben also takes a **5% kickback from the caster**, which **always goes into the offering bucket**.
+**The price list.** The base prices are the standard [Spellcasting service prices](https://2e.aonprd.com/Equipment.aspx?ID=2771) (Player Core p. 295). The church sells at **20% off list**. Alben also takes a **5% kickback from the caster**, which **always goes into the offering cask**.
 
-| Spell rank | List price | Church price (20% off) | Kickback to bucket (5% of church price) | Caster keeps (95%) |
+| Spell rank | List price | Church price (20% off) | Kickback to cask (5% of church price) | Caster keeps (95%) |
 |---|---|---|---|---|
 | 1st | 3 gp | 2.40 gp | 0.12 gp | 2.28 gp |
 | 2nd | 7 gp | 5.60 gp | 0.28 gp | 5.32 gp |
@@ -316,16 +298,12 @@ Alben **encourages local casters** to visit and sell buffs to combatants. It's a
 - **Any spell cost** (a diamond, a scroll) is paid on top, by the buyer.
 - **The price list is posted** at the bottom of the bar's board, where everyone can read it.
 
-> **GM Note — the 15% line.** The [Fighting & Gambling](#fighting--gambling) section says **15% to the house** on buffs. This section says **20% off list and a 5% kickback into the bucket**. They conflict, and I've followed this one. Tell me which is right, and I'll delete the other.
->
-> **GM Note — the kickback.** I took "5% from the caster" as **5% of the church price**, taken out of the caster's pay. If you meant 5% of the **list** price, the bucket gets slightly more. The table shows both the kickback and what the caster keeps.
+### 4. The Offering cask
 
-### 4. The Offering Bucket
-
-- A **bucket at the base of the altar** under the stairs, on the shelf where drinks are left.
+- A **cask at the base of the altar** under the stairs, on the shelf where drinks are left.
 - **Every caster's 5% kickback goes in it.** It isn't skimmed, counted early, or borrowed from.
 - **C² always gets paid.** Even on a night with no bets and no buffs, Alben puts something in. He does not say how much.
-- Alben spends the bucket on **aid for the oppressed**: free beds, comped drinks, and whatever the street needs. See [Costs](#costs).
+- Alben spends the cask on **aid for the oppressed**: free beds, comped drinks, and whatever the street needs. See [Costs](#costs).
 
 ### 5. Alben's Policies
 
